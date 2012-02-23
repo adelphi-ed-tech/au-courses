@@ -12,6 +12,7 @@
     * a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
     * We ask, but do not require, that attribution includes a link to our websites (above).
     * version: 2.1
+    * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
 
 
