@@ -1,6 +1,4 @@
-% EDT 612 Mobile learning
-% matthew x. curinga
-% Thu Jan 26 10:18:58 EST 2012
+# EDT 612 Mobile learning
 
 <!-- **********************
     * This syllabus was created for
