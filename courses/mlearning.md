@@ -1,4 +1,5 @@
-# EDT 612 Mobile learning
+% Mobile learning
+% Matthew X. Curinga
 
 <!-- **********************
     * This syllabus was created for

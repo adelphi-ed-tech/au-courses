@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _ 
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |            
+                     |_|            
+ ______    _   _______        _     
+|  ____|  | | |__   __|      | |    
+| |__   __| |    | | ___  ___| |__  
+|  __| / _` |    | |/ _ \/ __| '_ \ 
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+http://education.adelphi.edu/ed-tech
+-->
+
+<meta charset="utf-8">
+<title>Foundations of Open Education</title>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Matthew X. Curinga" />
+  <meta name="date" content="Tuesday, 28. February 2012 03:06PM" />
+  <title>Foundations of Open Education</title>
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+
+
+  <style type="text/css">
+  body
+  {
+      background-color: white;
+      margin: 0;
+      padding-top: 75px;
+      padding: 0;
+      font-size: 14px;
+  }
+  
+  header svg
+  {
+      display: block;
+      margin: 0 auto;
+  }
+  body, p, ul, ol, li, span, div
+  {
+       font-family: "FreeSans", "Helvetica", sans-serif; 
+  }
+  
+  h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
+  h1{ font-size: 150%;  margin: 0px; margin-top: 2em; background-color: black; color: white; padding: .25em; }
+  h1.title {margin:0;padding:0; border-style: none; background-color: transparent; color: black; clear: both;}
+  h2{ font-size: 130%; margin:0; margin-top: 1em; text-transform: uppercase;}
+  h3{ font-size: 120%; font-weight: bold; }
+  h4{ font-size: 110%; font-weight: bold; }
+  h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
+  
+  a { text-decoration: none; }
+  a img { border-style: none; }
+  
+  table
+  {
+      border-collapse:collapse;
+  }
+  table,th, td
+  {
+      border: 1px solid black;
+      padding: 0 .5em;
+  }
+  
+  p
+  {
+      margin: .5em 0;
+      line-height: 1.5em;
+  }
+  
+  .img-right 
+  {
+      float: right;
+      background-color: #d3d3d3;
+      padding: .25em;
+      font-weight: bold;
+      font-size: 80%;
+      text-align: center;
+  }
+  .img-right img { display: block; margin-bottom: .25em; }
+  .clear-all {clear: both;}
+  .warn { color: red; font-weight: bold; text-align: center; }
+  .center { text-align: center; }
+  .single, .single p { line-height: 1.25; }
+  #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, #course-readings-bibliography p
+  {
+      margin-bottom: 1em;
+      margin-left: 2em;
+      margin-bottom: .25em;
+      text-indent: -2em;
+      line-height: 1.5em;
+  }
+  
+  .figure
+  {
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+      padding: .25em 0;
+  }
+  .figure svg, .figure img
+  {
+      max-width: 100%;
+  }
+  .caption
+  {
+      font-weight: bold; font-size: 80%;
+      text-align: center;
+  }
+  h1.title,.rsa-red-text { color: #ab1c19; }
+  .rsa-red-bg { background-color: #ab1c19; }
+  
+  @media screen
+  {
+      body
+      {
+          font-size: 14px;
+          width: 800px;
+          margin: 0 auto;
+      }
+  
+  @media print
+  {
+      body
+      {
+          font-size: 10pt;
+          width: 100%;
+      }
+      .page-break {clear: both; page-break-before: always; }
+  }
+  
+  #soe-logo
+  {
+      max-width: 100%;
+      float: right;
+      padding: 1em 0;
+  }
+  
+  #logo
+  {
+      background-color: #444141;
+      position: absolute;
+      left: 0;
+      right: 0;
+      height: 75px;
+      word-wrap: break-word;
+      overflow: hidden;
+      padding: 4px;
+  }
+  
+  
+  
+  #logo .inner
+  {
+      top: 10px;
+      right: 10px;
+      position: absolute;
+  }
+  
+  #logo h1 { text-transform: uppercase; }
+  #logo h2 { font-size: 100%; }
+  #logo h1, #logo h2, #logo a
+  {
+      color: white;
+      text-align: right;
+      background-color: transparent;
+      border-style: none;
+      padding: 0;
+      margin: 0;
+      display: block;
+      font-weight: bold;
+      text-shadow: 2px 2px black;
+  }
+  
+  #weekly-topics { counter-reset: week; }
+  #weekly-topics h3:before {
+      counter-increment: week;
+      content: "Week " counter(week) ": " 
+  }
+  
+  #TOC {
+      background: none repeat scroll 0 0 white;
+      border: 1px solid black;
+      counter-reset: toc;
+      float: right;
+      width: 40%;   
+  }
+  #TOC > ul > li 
+  { 
+      list-style: upper-roman; 
+      counter-increment: toc; 
+      counter-reset: sub1;
+  }
+  /*#TOC>ul>li>ul>li:before { 
+      content: counter(toc) "." counter(sub1) " ";
+      counter-increment: toc; }*/
+  #TOC li ul li { list-style: decimal;}
+  
+  </style>
+
+
+</head>
+<body>
+<header>
+<div id="logo">
+    <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
+    <div class="inner">
+    <h1>Program in Educational Technology</h1>
+    <h2>Adelphi University</h2> | 
+    <a href="http://education.adelphi.edu/ed-tech">education.adelphi.edu/ed-tech</a>
+    </div>
+</div>
+<h1 class="title">Foundations of Open Education</h1>
+</header>
+
+
+Instructor: <a href="http://matt.curinga.com">Matthew X. Curinga</a><br /><script type="text/javascript">
+<!--
+h='&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x6d;&#x63;&#x75;&#114;&#x69;&#110;&#x67;&#x61;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'<code>'+e+'</code>'+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#x6d;&#x63;&#x75;&#114;&#x69;&#110;&#x67;&#x61;&#32;&#x61;&#116;&#32;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript><br /> ----
+<div class="warn">
+This syllabus is a <i>draft</i> and may change.
+</div>
+
+<div id="description">
+<h2>Description</h2>
+<p>Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, and tailored locally to the specific needs of learners. Students in this course study the underlying principles of open education and participate in online projects developing open educational resources.</p>
+</div>
+<div id="goals">
+<h2>Goals</h2>
+<p>This course provides students an introduction to the open education movement, from a pedagogical, social, and technical perspective. Students will consider the implications of open education in the future of schools and learning, understand how to participate in open education projects, and incorporate open resources in their practice.</p>
+<p>By the end of the course, students will be able to:</p>
+<ol style="list-style-type: decimal">
+<li>Evaluate current educational practices in terms of the pedagogical goals and techniques of open education</li>
+<li>Articulate the positive and negative implications of the open education movement for earning—both within and outside of schools</li>
+<li>Locate and modify <a href="http://en.wikipedia.org/wiki/Open_educational_resources">open education resources</a> for their own needs</li>
+<li>Contribute to open education projects</li>
+</ol>
+</div>
+<div id="readings">
+<h2>Readings</h2>
+<div id="required-books">
+<h3>Required Books</h3>
+<div class="ref">
+
+<p>Kumar, M., Vijay, S. (2008). <em>Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge</em>. The MIT Press. Cambridge, Massachusetts. ISBN 0262033712. [<a href="http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11309&amp;mode=toc">free online</a>]</p>
+<p>Illich, I. (1971). <em>Deschooling Society</em>. Harper &amp; Row. New York. ISBN 060121394</p>
+<p>Lessig, L. (2004). <em>Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity</em>. Penguin Press HC. ISBN 1594200068. [<a href="http://www.free-culture.cc/freeculture.pdf">free online</a>]</p>
+<p>Rancière, J. 1991. <em>The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation</em>. Stanford University Press. USA. ISBN 0804719691.</p>
+</div>
+</div>
+<div id="articles-book-selections-other-readings">
+<h3>Articles, book selections, &amp; other readings</h3>
+<em>will be online or provided by instrcutor</em>
+<div class="ref">
+
+<p>Benkler, Y. (2002). <a href="http://www.jstor.org/stable/1562247">Coase's Penguin, or, Linux and &quot;The Nature of the Firm&quot;</a>. <em>The Yale Law Journal</em>, <em>112(3)</em>, 369-446.</p>
+<p>Brown, J. S. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. <em>Educase Review</em>, <em>43(1)</em>, 16-32.</p>
+<p>Dewey, J. (1916). <a href="http://www.ilt.columbia.edu/publications/dewey.html"><em>Democracy and Education</em></a>. The Macmillan Company. New York. ISBN 1406861022.</p>
+<p>Hardin, G.. (1968). <a href="http://www.sciencemag.org/content/162/3859/1243.full">The tragedy of the commons</a>. <em>Science</em>, <em>162(859)</em>, 1243.</p>
+<p>Hardt, M., &amp; Negri, A. (2009). <em>Commonwealth</em>. Harvard University Press. ISBN 9780674035119</p>
+<p>Kelty, C. (2008). <a href="http://twobits.net/read/"><em>Two Bits: The Cultural Significance of Free Software</em></a>. Duke University Press. Durham, N.C.. ISBN 0822342421.</p>
+<p>Moglen, E. (2003). <a href="http://emoglen.law.columbia.edu/my_pubs/dcm.html">&quot;The dotCommunist Manifesto&quot;</a>.</p>
+<p>Raymond, E. S. 1998. The cathedral and the bazaar. <em>First Monday</em>, <em>3(3)</em>.</p>
+<p>Reagle, J. (2010). <em>Good faith collaboration: the culture of Wikipedia</em>. Cambridge Mass. MIT Press.</p>
+<p>Stallman, R. M. (1992). &quot;<a href="http://www.gnu.org/philosophy/shouldbefree.html">Why Software Should Be Free</a>&quot;.</p>
+<p>(n.d.) &quot;<a href="http://www.capetowndeclaration.org/read-the-declaration">The Cape Town Open Education Declaration</a>&quot;.</p>
+<p>Vygotsky, L. S. (1978). <em>Mind in Society: Development of Higher Psychological Processes</em>. Harvard University Press. Cambridge MA. ISBN 0674576292.</p>
+</div>
+
+</div>
+</div>
+<div id="class-sessions">
+<h2>Class sessions</h2>
+<div id="part-1-open-pedagogy">
+<h3>Part 1: Open pedagogy</h3>
+<ol style="list-style-type: decimal">
+<li>Introduction to Foundations of Open Education</li>
+<li>Deschooling</li>
+<li>Community and social learning</li>
+<li>Universal intelligence</li>
+<li>Networked learning</li>
+</ol>
+</div>
+<div id="part-2-open-collaborative-technology">
+<h3>Part 2: Open &amp; collaborative technology</h3>
+<ol start="6" style="list-style-type: decimal">
+<li>Free Software/Open Source Software</li>
+<li>Peer production</li>
+<li>Free Culture &amp; Open Content</li>
+<li>Culture of collaboration</li>
+<li>The digital commons</li>
+</ol>
+</div>
+<div id="part-3-technology-and-open-education">
+<h3>Part 3: Technology and Open Education</h3>
+<ol start="11" style="list-style-type: decimal">
+<li>Open Education Resources</li>
+<li>Open Courses and Open Texts</li>
+<li>Case studies: One Laptop Per Child, Khan Academy, MIT OpenCoursware</li>
+<li>Limitations of Open Education</li>
+<li>Final project presentations and wrap-up</li>
+</ol>
+</div>
+</div>
+<div id="assignments-grading">
+<h2>Assignments &amp; grading</h2>
+<div id="class-discussions">
+<h3>Class discussions</h3>
+<p>This will be a reading-heavy course. Each student will be asked to lead the discussion one week during the semester (either online, or in person).</p>
+</div>
+<div id="wikipedia-improvements">
+<h3>Wikipedia improvements</h3>
+<p>During the course, students will learn how to use MediaWiki, the software that powers Wikipedia. They will also begin to learn the cultural norms for editing and contributing to Wikipedia. They will read Wikipedia articles related to the course topics, and edit these articles as necessary. Students wishing to challenge themselves may translate articles to or from non-English wikipedias, or contribute to the <a href="http://simple.wikipedia.org">Simple</a> or non-English wikipedias.</p>
+<p>These edits, taken as a whole, will be evaluated to see how well the students can adapt to the norms and culture of an open content community.</p>
+</div>
+<div id="open-education-contribution">
+<h3>Open education contribution</h3>
+<p><em>Students will choose one of the following for their final project. Projects will be evaluated using the same criteria.</em></p>
+<div id="conexions-collection">
+<h4>Conexions Collection</h4>
+<p>Student pairs or teams will contribute a Collection to the <a href="http://cnx.org">Connexions</a> online database of learning resources. Connexions facilitates the collaborative development of free educational materials: lessons, textbooks, articles, etc.</p>
+</div>
+<div id="wikipedia-article">
+<h4>Wikipedia article</h4>
+<p>Students will individually or in pairs create a new Wikipedia article. They will choose an article related to Open Education that does not exist or only exists as a stub. Their goal will be to follow the Wikipedia standards to create a Feature-class article: the highest standard on Wikipedia reserved for articles that appear on the Wikipedia homepage.</p>
+<p><em>The contribution to Conexions or Wikipedia will be evaluated on the quality of the work, the significance of the contribution, and the manner with which the students interacted with the larger community.</em></p>
+</div>
+</div>
+</div>
+
+
+<footer>
+
+<h3>University Statement on Academic Assistance for Students with Disabilities</h3>
+<p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
+
+<h3>University Statement on Academic Integrity</h3>
+<p>You are expected to behave with the highest level of academic integrity. Cheating and other forms of dishonesty will not be tolerated and will result in the proper disciplinary action from the university. Classroom behavior that interferes with the instructor’s ability to conduct the class or ability of students to benefit from the instruction will not be tolerated. All beepers and cellular phones should be turned off while class is in session. You are expected to come to class prepared - this means having read and studied the assigned chapters before class. By having prepared in this manner, you will be able to maximize your time spent in class.</p>
+<p>Adelphi University demands the highest standards of academic integrity. Proper conduct during examinations, the proper attribution of sources in preparation of written work, and complete honesty in all academic endeavors is required. Submission of false data, falsification of grades or records, misconduct during examinations, and plagiarism are among the violations of academic integrity. Students who do not meet these standards are subject to dismissal from the University.</p>
+
+
+<h3>Use of Candidate Work</h3>
+<p>All teacher education programs in New York State undergo periodic reviews by accreditation agencies and the state education department. For these purposes samples of students’ work are made available to those professionals conducting the review. Student anonymity is assured under these circumstances. If you do not wish to have your work made available for these purposes, please let the professor know before the start of the second class. Your cooperation is greatly appreciated.</p>
+<img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/adelphi-logo-soe_thumb.jpg" alt="rsa school of education adelphi university logo" />
+
+<hr class="clear-all" />
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />
+    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" 
+    property="dct:title" rel="dct:type"><strong>Foundations of Open Education</strong></span> was created by:
+    <ul>
+            <li><a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Matthew X. Curinga</a></li>
+            </ul>
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+    Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
+
+<pre>Last modified: Tuesday, 28. February 2012 03:06PM</pre>
+
+</footer>
+</body>
+</html>

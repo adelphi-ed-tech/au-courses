@@ -1,7 +1,9 @@
+<style type="text/css">
 body
 {
     background-color: white;
     margin: 0;
+    padding-top: 75px;
     padding: 0;
     font-size: 14px;
 }
@@ -113,9 +115,10 @@ h1.title,.rsa-red-text { color: #ab1c19; }
 #logo
 {
     background-color: #444141;
-    max-width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
     height: 75px;
-    position: relative;
     word-wrap: break-word;
     overflow: hidden;
     padding: 4px;
@@ -131,7 +134,7 @@ h1.title,.rsa-red-text { color: #ab1c19; }
 }
 
 #logo h1 { text-transform: uppercase; }
-#logo h2 { font-size: 100%; }
+#logo h2 { font-size: 100%; display: inline; }
 #logo h1, #logo h2, #logo a
 {
     color: white;
@@ -169,3 +172,4 @@ h1.title,.rsa-red-text { color: #ab1c19; }
     counter-increment: toc; }*/
 #TOC li ul li { list-style: decimal;}
 
+</style>

@@ -1,6 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _ 
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |            
+                     |_|            
+ ______    _   _______        _     
+|  ____|  | | |__   __|      | |    
+| |__   __| |    | | ___  ___| |__  
+|  __| / _` |    | |/ _ \/ __| '_ \ 
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+http://education.adelphi.edu/ed-tech
+-->
+
 <meta charset="utf-8">
 <title>$title$</title>
   <meta charset="utf-8" />
@@ -28,180 +46,6 @@ $for(css)$
   <link rel="stylesheet" href="$css$" />
 $endfor$
 
-<style type="text/css">
-body
-{
-    background-color: white;
-    margin: 0;
-    padding: 0;
-    font-size: 14px;
-}
-
-header svg
-{
-    display: block;
-    margin: 0 auto;
-}
-body, p, ul, ol, li, span, div
-{
-     font-family: "FreeSans", "Helvetica", sans-serif; 
-}
-
-h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
-h1{ font-size: 150%;  margin: 0px; margin-top: 2em; background-color: black; color: white; padding: .25em; }
-h1.title {margin:0;padding:0; border-style: none; background-color: transparent; color: black; clear: both;}
-h2{ font-size: 130%; margin:0; margin-top: 1em; text-transform: uppercase;}
-h3{ font-size: 120%; font-weight: bold; }
-h4{ font-size: 110%; font-weight: bold; }
-h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
-
-a { text-decoration: none; }
-a img { border-style: none; }
-
-table
-{
-    border-collapse:collapse;
-}
-table,th, td
-{
-    border: 1px solid black;
-    padding: 0 .5em;
-}
-
-p
-{
-    margin: .5em 0;
-    line-height: 1.5em;
-}
-
-.img-right 
-{
-    float: right;
-    background-color: #d3d3d3;
-    padding: .25em;
-    font-weight: bold;
-    font-size: 80%;
-    text-align: center;
-}
-.img-right img { display: block; margin-bottom: .25em; }
-.clear-all {clear: both;}
-.warn { color: red; font-weight: bold; text-align: center; }
-.center { text-align: center; }
-.single, .single p { line-height: 1.25; }
-#required-books p, #suggested-books p,*[id*='reading'] p, .ref p, #course-readings-bibliography p
-{
-    margin-bottom: 1em;
-    margin-left: 2em;
-    margin-bottom: .25em;
-    text-indent: -2em;
-    line-height: 1.5em;
-}
-
-.figure
-{
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
-    padding: .25em 0;
-}
-.figure svg, .figure img
-{
-    max-width: 100%;
-}
-.caption
-{
-    font-weight: bold; font-size: 80%;
-    text-align: center;
-}
-h1.title,.rsa-red-text { color: #ab1c19; }
-.rsa-red-bg { background-color: #ab1c19; }
-
-@media screen
-{
-    body
-    {
-        font-size: 14px;
-        width: 800px;
-        margin: 0 auto;
-    }
-
-@media print
-{
-    body
-    {
-        font-size: 10pt;
-        width: 100%;
-    }
-    .page-break {clear: both; page-break-before: always; }
-}
-
-#soe-logo
-{
-    max-width: 100%;
-    float: right;
-    padding: 1em 0;
-}
-
-#logo
-{
-    background-color: #444141;
-    max-width: 100%;
-    height: 75px;
-    position: relative;
-    word-wrap: break-word;
-    overflow: hidden;
-    padding: 4px;
-}
-
-
-
-#logo .inner
-{
-    top: 10px;
-    right: 10px;
-    position: absolute;
-}
-
-#logo h1 { text-transform: uppercase; }
-#logo h2 { font-size: 100%; }
-#logo h1, #logo h2, #logo a
-{
-    color: white;
-    text-align: right;
-    background-color: transparent;
-    border-style: none;
-    padding: 0;
-    margin: 0;
-    display: block;
-    font-weight: bold;
-    text-shadow: 2px 2px black;
-}
-
-#weekly-topics { counter-reset: week; }
-#weekly-topics h3:before {
-    counter-increment: week;
-    content: "Week " counter(week) ": " 
-}
-
-#TOC {
-    background: none repeat scroll 0 0 white;
-    border: 1px solid black;
-    counter-reset: toc;
-    float: right;
-    width: 40%;   
-}
-#TOC > ul > li 
-{ 
-    list-style: upper-roman; 
-    counter-increment: toc; 
-    counter-reset: sub1;
-}
-/*#TOC>ul>li>ul>li:before { 
-    content: counter(toc) "." counter(sub1) " ";
-    counter-increment: toc; }*/
-#TOC li ul li { list-style: decimal;}
-
-</style>
-
 $for(header-includes)$
   $header-includes$
 $endfor$
@@ -214,28 +58,29 @@ $endfor$
     <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
     <div class="inner">
     <h1>Program in Educational Technology</h1>
-    <h2>Adelphi University</h2>
-    <a href="http://education.adelphi.edu/ed-tech">education.adelphi.edu/ed-tech</a>
+    <h2>Adelphi University</h2> | <a href="http://education.adelphi.edu/ed-tech">education.adelphi.edu/ed-tech</a>
     </div>
 </div>
-
 $if(title)$
 <h1 class="title">$title$</h1>
 $endif$
 </header>
 
+$if(toc)$
+<nav id="$idprefix$TOC">
+$toc$
+</nav>
+$endif$
+
 $for(include-before)$
 $include-before$
 $endfor$
-$if(toc)$
-<div id="TOC"><strong>contents</strong>$toc$</div>
-$endif$
 $body$
 $for(include-after)$
 $include-after$
 $endfor$
 
-<hr />
+
 <footer>
 
 <h3>University Statement on Academic Assistance for Students with Disabilities</h3>
@@ -251,7 +96,20 @@ $endfor$
 <img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/adelphi-logo-soe_thumb.jpg" alt="rsa school of education adelphi university logo" />
 
 <hr class="clear-all" />
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Syllabus: Mobile Learning</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://matt.curinga.com" property="cc:attributionName" rel="cc:attributionURL">Matthew X. Curinga</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br /> Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://matt.curinga.com/static/courses/mlearning-spring12.html" rel="dct:source">http://matt.curinga.com/static/courses/mlearning-spring12.html</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />
+    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" 
+    property="dct:title" rel="dct:type"><strong>$title$</strong></span> was created by:
+    <ul>
+    $for(author)$
+        <li><a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">$author$</a></li>
+    $endfor$
+    </ul>
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+    Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
+
+$if(date)$
+<pre>Last modified: $date$</pre>
+$endif$
 
 </footer>
 </body>

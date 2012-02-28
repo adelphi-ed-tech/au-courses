@@ -1,38 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>$title$</title>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-$for(author)$
-  <meta name="author" content="$author$" />
-$endfor$
-$if(date)$
-  <meta name="date" content="$date$" />
-$endif$
-  <title>$if(title-prefix)$$title-prefix$ - $endif$$if(pagetitle)$$pagetitle$$endif$</title>
-
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-
-$if(highlighting-css)$
-  <style type="text/css">
-$highlighting-css$
-  </style>
-$endif$
-
-$for(css)$
-  <link rel="stylesheet" href="$css$" />
-$endfor$
-
 <style type="text/css">
 body
 {
     background-color: white;
     margin: 0;
+    padding-top: 75px;
     padding: 0;
     font-size: 14px;
 }
@@ -144,9 +115,10 @@ h1.title,.rsa-red-text { color: #ab1c19; }
 #logo
 {
     background-color: #444141;
-    max-width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
     height: 75px;
-    position: relative;
     word-wrap: break-word;
     overflow: hidden;
     padding: 4px;
@@ -201,58 +173,3 @@ h1.title,.rsa-red-text { color: #ab1c19; }
 #TOC li ul li { list-style: decimal;}
 
 </style>
-
-$for(header-includes)$
-  $header-includes$
-$endfor$
-
-
-</head>
-<body>
-<header>
-<div id="logo">
-    <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
-    <div class="inner">
-    <h1>Program in Educational Technology</h1>
-    <h2>Adelphi University</h2>
-    <a href="http://education.adelphi.edu/ed-tech">education.adelphi.edu/ed-tech</a>
-    </div>
-</div>
-
-$if(title)$
-<h1 class="title">$title$</h1>
-$endif$
-</header>
-
-$for(include-before)$
-$include-before$
-$endfor$
-$if(toc)$
-<div id="TOC"><strong>contents</strong>$toc$</div>
-$endif$
-$body$
-$for(include-after)$
-$include-after$
-$endfor$
-
-<hr />
-<footer>
-
-<h3>University Statement on Academic Assistance for Students with Disabilities</h3>
-<p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
-
-<h3>University Statement on Academic Integrity</h3>
-<p>You are expected to behave with the highest level of academic integrity. Cheating and other forms of dishonesty will not be tolerated and will result in the proper disciplinary action from the university. Classroom behavior that interferes with the instructor’s ability to conduct the class or ability of students to benefit from the instruction will not be tolerated. All beepers and cellular phones should be turned off while class is in session. You are expected to come to class prepared - this means having read and studied the assigned chapters before class. By having prepared in this manner, you will be able to maximize your time spent in class.</p>
-<p>Adelphi University demands the highest standards of academic integrity. Proper conduct during examinations, the proper attribution of sources in preparation of written work, and complete honesty in all academic endeavors is required. Submission of false data, falsification of grades or records, misconduct during examinations, and plagiarism are among the violations of academic integrity. Students who do not meet these standards are subject to dismissal from the University.</p>
-
-
-<h3>Use of Candidate Work</h3>
-<p>All teacher education programs in New York State undergo periodic reviews by accreditation agencies and the state education department. For these purposes samples of students’ work are made available to those professionals conducting the review. Student anonymity is assured under these circumstances. If you do not wish to have your work made available for these purposes, please let the professor know before the start of the second class. Your cooperation is greatly appreciated.</p>
-<img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/adelphi-logo-soe_thumb.jpg" alt="rsa school of education adelphi university logo" />
-
-<hr class="clear-all" />
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Syllabus: Mobile Learning</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://matt.curinga.com" property="cc:attributionName" rel="cc:attributionURL">Matthew X. Curinga</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br /> Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://matt.curinga.com/static/courses/mlearning-spring12.html" rel="dct:source">http://matt.curinga.com/static/courses/mlearning-spring12.html</a>.
-
-</footer>
-</body>
-</html>
