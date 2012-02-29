@@ -88,7 +88,6 @@ We are going to use the social blogging software/website [Tumblr](http://www.tum
     - for "official" support, post your question to the course site: [http://mlearnau.tumblr.com/ask](http://mlearnau.tumblr.com/ask)
 
 ## Weekly topics
-## Weekly topics
 _Readings, prompts for posts, and other assignments are available on the course website's post for the week._
 
 
