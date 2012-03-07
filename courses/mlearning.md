@@ -101,8 +101,8 @@ week     date           topic                                 format      readin
  6        2/29/12       Supporting the classroom              online      Pasnik, Wishart, Chaiprasurt, Martyn   video interview, RR
  7        3/07/12       mobile tech/political dissent         traditional Castells, Mirzoeff, Morozov, Doctorow  RR
  -        3/14/12       **spring break**                           -                 -                                 -
- 8        3/21/12       Mobile games for learning             traditional                                        mid-term essays
- 9        3/28/12       Learning on location                  online      Rosenbaum, Facer                       RR
+ 8        3/21/12       Mobile games for learning             traditional Facer,                                 mid-term essays
+ 9        3/28/12       Learning on location                  online      Rosenbaum,                             RR
 10        4/04/12       mLearning in domains 1                traditional [self-selected]                        podcast1
 11        4/11/12       Tablets & ereaders                    online                                             RR
 12        4/18/12       Apps4Ed                               traditional                                        App Review, RR
@@ -160,7 +160,6 @@ At the end of the semester, you will fill out a self-evaluation of your professi
 ### Where I'm from
 Using your own mobile device, create a _multimedia poem_, "Where I'm from". The poem will consist of the text and at least 5 images that you record with your phone (or tablet). 
 
-
 ### Tech Report
 Working in groups, students will present a "Tech Report", on an aspect
 of mobile technology. Groups will prepare a 10-12 minute presentation, followed by questions. They will also post an annotated list of resources (websites, press, and scholarly articles) related to their topic. Annotations should only be a few sentences.
@@ -194,6 +193,9 @@ The instructor will post 3 essay questions related to mLearning on the course we
 Example of an essay question:
 
 > Some people view mobile learning as a "light" form of elearning or online learning: learners use the same methods and forms as other online learning, albeit the more constrained computing and physical affordances of mobile computers. Others, though, argue that the greater potential of mLearning is to rethink how and when we learn. In your opinion, which paradigm has greater potential?
+
+
+
 
 ### Podcasts
 Podcasts show up in much of the recent literature on mobile learning as an easy way for teachers to communicate to their students and families and as a way for learners to express their ideas. During this semester, you will create 2 podcasts &mdash; an audio recording that you upload to your tumblr. The podcasts are due for sessions 10 & 12, the weeks where you will research mobile learning within a specific topic of interest to you. If you choose to work as part of a team (which is encouraged but not required) on these topics, you can submit a group podcast (where everyone in the group speaks). Group podcasts will receive the same grade, one grade for the group. Alternatively, you can work individually, or work as part of a team, but upload individual podcasts.
