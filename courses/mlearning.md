@@ -88,7 +88,6 @@ We are going to use the social blogging software/website [Tumblr](http://www.tum
     - for "official" support, post your question to the course site: [http://mlearnau.tumblr.com/ask](http://mlearnau.tumblr.com/ask)
 
 ## Weekly topics
-## Weekly topics
 _Readings, prompts for posts, and other assignments are available on the course website's post for the week._
 
 
@@ -291,7 +290,9 @@ If you would like to work with students using mobile devices, please discuss you
 
 ## Course Readings & Bibliography
 
-Ally, M. (Ed.). (2009). [_Mobile learning transforming the delivery of education and training_](http://www.aupress.ca/index.php/books/120155) "open access ebook". Edmonton: AU Press. ISBN 978-1-897425-44-2 Carr, D. (2010, January 1). Why Twitter Will Endure. *The New York Times*.
+Ally, M. (Ed.). (2009). [_Mobile learning transforming the delivery of education and training_](http://www.aupress.ca/index.php/books/120155  "open access ebook"). Edmonton: AU Press. ISBN 978-1-897425-44-2
+
+Carr, D. (2010, January 1). Why Twitter Will Endure. *The New York Times*.
 
 Castells, M. (2007). [Communication, power and counter-power in the network society.](http://ijoc.org/ojs/index.php/ijoc/article/download/46/35) _International journal of communication_, _1_(1), 238–266.
 
