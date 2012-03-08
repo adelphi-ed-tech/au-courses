@@ -1,6 +1,21 @@
 % Foundations of Open Education
 % Matthew X. Curinga
 
+<!-- **********************
+* This syllabus was created for
+* the Educational Technology Program
+* at Adelphi University:
+* http://education.adelphi.edu
+* copyright 2012 Matthew X. Curinga
+* http://matt.curinga.com
+* This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+* To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send 
+* a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+* We ask, but do not require, that attribution includes a link to our websites (above).
+* version: 2.1
+* Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
+*/-->
+
 Instructor: [Matthew X. Curinga](http://matt.curinga.com)\
 <mcuringa@adelphi.edu>\
 
