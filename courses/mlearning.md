@@ -16,8 +16,8 @@
     * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
 
-
-**Intructor:**    [Matthew X. Curinga](http://matt.curinga.com)<br />
+**EDT 512**\
+**Intructor:**    [Matthew X. Curinga](http://matt.curinga.com)
 **Email:**    <mcuringa@adelphi.edu><br />
 **Class:**    Harvey 104, Wed. 6:30-8:20 (every other week)<br />
 **Office hours:**    Post Annex 1, Mon 3-5pm, Tues, 2-4pm, Wed. by appointment (in person or online)<br />
@@ -91,25 +91,25 @@ We are going to use the social blogging software/website [Tumblr](http://www.tum
 _Readings, prompts for posts, and other assignments are available on the course website's post for the week._
 
 
-week     date           topic                                 format      reading                                Due
-------  ---------       ------------------------------------------------  -----------------------------          -------------
- 1        1/25/12       Creating an agenda to study mLearning traditional none                                   -
- 2        2/01/12       Going mobile                          online      Weiser, Traxler, Sixth Sense           poem, RR
- 3        2/08/12       Mobile technologies                   traditional self-assigned                          tech report
- 4        2/15/12       Situated cognition & embodiment       online      Brown, Wenger, Naismith, Billings      RR
- 5        2/22/12       Constructionism and 1:1 computing     traditional Papert, Penuel, OLPC, Negroponte       tech reports, RR
- 6        2/29/12       Supporting the classroom              online      Pasnik, Wishart, Chaiprasurt, Martyn   video interview, RR
- 7        3/07/12       mobile tech/political dissent         traditional Castells, Mirzoeff, Morozov, Doctorow  RR
- -        3/14/12       **spring break**                           -                 -                                 -
- 8        3/21/12       Mobile games for learning             traditional Facer,                                 mid-term essays
- 9        3/28/12       Learning on location                  online      Rosenbaum,                             RR
-10        4/04/12       mLearning in domains 1                traditional [self-selected]                        podcast1
-11        4/11/12       Tablets & ereaders                    online                                             RR
-12        4/18/12       Apps4Ed                               traditional                                        App Review, RR
-13        4/25/12       Mobile interfaces & design            online                                             RR
-14        5/02/12       mLearning in domains 2                traditional [self-selected]                        podcast2
-15        5/09/12       future of mobile computing            online                                             RR
-16        5/16/12       final project presentations           traditional                                        Final Project, Professionalism rubric
+week     date       topic                                 format          reading                                Due
+------  ---------   ------------------------------------- ----------      -----------------------------          -------------
+ 1        1/25/12   Creating an agenda to study mLearning traditional     none                                   -
+ 2        2/01/12   Going mobile                          online          Weiser, Traxler, Sixth Sense           poem, RR
+ 3        2/08/12   Mobile technologies                   traditional     self-assigned                          tech report
+ 4        2/15/12   Situated cognition & embodiment       online          Brown, Wenger, Naismith, Billings      RR
+ 5        2/22/12   Constructionism and 1:1 computing     traditional     Papert, Penuel, OLPC, Negroponte       tech reports, RR
+ 6        2/29/12   Supporting the classroom              online          Pasnik, Wishart, Chaiprasurt, Martyn   video interview, RR
+ 7        3/07/12   mobile tech/political dissent         traditional     Castells, Mirzoeff, Morozov, Doctorow  RR
+ -        3/14/12   **spring break**                           -                 -                                 -
+ 8        3/21/12   Panel: mlearning & schools            **Manhattan**   _no readings_                          mid-term essays
+ 9        3/28/12   Mobile games for learning             online          Facer, Rosenbaum                       RR
+10        4/04/12   mLearning in domains 1                traditional     [self-selected]                        podcast1
+11        4/11/12   Tablets & ereaders                    online                                                 RR
+12        4/18/12   Apps4Ed                               traditional                                            App Review, RR
+13        4/25/12   Mobile interfaces & design            online                                                 RR
+14        5/02/12   mLearning in domains 2                traditional     [self-selected]                        podcast2
+15        5/09/12   future of mobile computing            online                                                 RR
+16        5/16/12   final project presentations           traditional                                            Final Project, Professionalism rubric
 
 **RR = Reading Response due**
 
@@ -188,14 +188,17 @@ Videos will be evaluated on the following scale:
 
 ### Mid-term essays
 
-The instructor will post 3 essay questions related to mLearning on the course website. You will have one week to prepare your response (Wed. to Wed.). Choose two of the three essays to answer. Post two 500-800 word responses on your Tumblr. Your response should follow the standards of academic writing, referencing scholarly work and other sources to support your thesis. Please carefully proof your response before posting. Since you are writing for the web, you are encouraged to include relevant hyperlinks as well as image or other media that support your thesis. You can either use endnotes or APA formatted references for citations -- the goal is that any citation is clearly indicated and can be verified by a reader.
+The instructor will post 3 essay questions related to mlearning on the course website. You will have two weeks to prepare your response (Wed. to Wed.). Choose two of the three essays to answer. Post two 500-800 word responses on your Tumblr. Your response should follow the standards of academic writing, referencing scholarly work and other sources to support your thesis. Please carefully proof your response before posting. Since you are writing for the web, you are encouraged to include relevant hyperlinks as well as image or other media that support your thesis. You can either use endnotes or APA formatted references for citations -- the goal is that all references are clearly indicated and can be verified by a reader.
 
 Example of an essay question:
 
-> Some people view mobile learning as a "light" form of elearning or online learning: learners use the same methods and forms as other online learning, albeit the more constrained computing and physical affordances of mobile computers. Others, though, argue that the greater potential of mLearning is to rethink how and when we learn. In your opinion, which paradigm has greater potential?
-
-
-
+> Some people view mobile learning as a "light" form of elearning or online
+> learning: learners use the same methods and forms as other online learning,
+> albeit the more constrained computing and physical affordances of mobile
+> computers. Others, though, argue that the greater potential of mlearning is to
+> rethink how and when we learn. Compare traditional elearning/online learning 
+> to mobile learning. Consider what elements are unique to each model, and 
+> discuss the potential learning benefits of each.
 
 ### Podcasts
 Podcasts show up in much of the recent literature on mobile learning as an easy way for teachers to communicate to their students and families and as a way for learners to express their ideas. During this semester, you will create 2 podcasts &mdash; an audio recording that you upload to your tumblr. The podcasts are due for sessions 10 & 12, the weeks where you will research mobile learning within a specific topic of interest to you. If you choose to work as part of a team (which is encouraged but not required) on these topics, you can submit a group podcast (where everyone in the group speaks). Group podcasts will receive the same grade, one grade for the group. Alternatively, you can work individually, or work as part of a team, but upload individual podcasts.

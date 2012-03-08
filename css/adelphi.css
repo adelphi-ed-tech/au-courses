@@ -65,7 +65,7 @@ p
 .warn { color: red; font-weight: bold; text-align: center; }
 .center { text-align: center; }
 .single, .single p { line-height: 1.25; }
-#required-books p, #suggested-books p,*[id*='reading'] p, .ref p, #*[id*='bibliography'] p
+#required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p
 {
     margin-bottom: 1em;
     margin-left: 2em;
