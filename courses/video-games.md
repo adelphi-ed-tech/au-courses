@@ -19,12 +19,12 @@
 
 **Educational Technology 0858-511**
 
-Instructor: [Matthew X. Curinga](http://matt.curinga.com "prof curinga's site")\
-<mcuringa@adelphi.edu>\
-(516) 237-8623\
-**Spring 2012 &bull; Tues., Harvey 104, 4:30-6:20PM**\
-_Office hours:_\ 
-Post Annex 1: Mon 3-5PM, Tues 2-4, Wed _by appointment_\
+Instructor: [Matthew X. Curinga](http://matt.curinga.com "prof curinga's site")
+<mcuringa@adelphi.edu>
+(516) 237-8623
+**Spring 2012 &bull; Tues., Harvey 104, 4:30-6:20PM**
+_Office hours:_ 
+Post Annex 1: Mon 3-5PM, Tues 2-4, Wed _by appointment_
 
 **Harvey 104, Open Lab Hours:**
 
