@@ -18,7 +18,7 @@
 
 **Keywords:** mlearning, mobile learning, android, ipad, tablet computing, one-to-one computing, 1:1, olpc
 
-****Educational Technology 0858-512**
+**Educational Technology 0858-512**
 
 **Intructor:**    [Matthew X. Curinga](http://matt.curinga.com)
 **Email:**    <mcuringa@adelphi.edu><br />

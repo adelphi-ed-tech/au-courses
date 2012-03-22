@@ -71,21 +71,20 @@ Hung, A. (2011). _The work of play: meaning-making in videogames._ New York: Pet
 Salen, K., & Zimmerman, E. (2003). _Rules of Play: Game Design Fundamentals._ Cambridge  Mass.: The MIT Press.
 
 ## Class sessions
-### Part One: Play, Games and Learning
-#### Introduction to Video Games & Learning
+### Introduction to Video Games & Learning
 _no readings or assignments due_
 
-#### Games, Play, & Society
-##### Reading:
+### Games, Play, & Society
+#### Reading:
 
 Sutton-Smith, B. (2001). _The ambiguity of play_. Cambridge  Mass.; London: Harvard University Press. _ch. 1, pp 1-16_
 
 Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Processes (14th ed.)_. Harvard University Press. _ch. 7, pp 92-104_
 
-##### Due:
+#### Due:
 * [Game Biography](#game_biography)
 
-##### Play:
+#### Play:
 * online post: _What is fun?_\
 Please post a comment where you consider the question, "what makes a game fun?"
 
@@ -94,19 +93,19 @@ Please post a comment where you consider the question, "what makes a game fun?"
 > Before class, please make sure that you comment on at least two of your classmate's posts. (Post once, comment twice).
 > Submit your first post by 8:00am on Monday morning. Submit your comments before the start of next class.
 
-#### Fundamentals of Game Design
-##### Reading:
+### Fundamentals of Game Design
+#### Reading:
 
 Costikyan, G. (1994) [I have no words & I must design.](http://www.costik.com/nowords2002.pdf)
 
 Salen, K., & Zimmerman, E. (2003). _Rules of play: Game design fundamentals._ Cambridge, MA: The MIT Press. [Chapter 3](https://moodle.adelphi.edu/file.php/49381/salen-zimmerman-rules-of-play.pdf)
 
-##### Play:
+#### Play:
 * play a game (of your choice) in the Adelphi Game Study Center (Harvey 104)
 * post your first [game response](#game_responses)
 
-#### Serious Games
-##### Readings:
+### Serious Games
+#### Readings:
 
 Hung, A. (2011). [Chapter 2: Serious games in education](https://moodle.adelphi.edu/file.php/49381/hung-2011-work-of-play-ch-2_serious-games.pdf) in _The work of play : meaning-making in videogames._ New York: Peter Lang.
 
@@ -116,140 +115,134 @@ Squire, K. D., & Jan, M. (2007). [Mad City Mystery: Developing Scientific Argume
 
 United States Armed Services. (n.d.) [America's Army::About](http://www.americasarmy.com/about/)
 
-##### Play:
+#### Play:
 * [download and play America's Army 3](http://www.americasarmy.com/downloads/?view=steam) or play it on one of the laptops in Harvey 104
 * post a game response
 
-#### Games4Learning
-##### Readings:
+### Games4Learning
+#### Readings:
 Gee, J. P. (2007). _What video games have to teach us about learning and literacy_. New York: Palgrave Macmillan. [Chapter 1](https://moodle.adelphi.edu/file.php/49381/gee-2003-games-learning-literacy_ch-1_2.pdf)
 
 Salen, K. (2011). [Quest To Learn: Developing The School For Digital Kids.](http://games.curinga.com/wp-content/uploads/2011/11/salen-2011-QuestToLearn-DevelopingTheSchoolForDigitalKids.pdf) Only Sections: Background (pp 1-9), Curriculum Structure (pp 73-90)
 
-##### Play:
+#### Play:
 * LittleBigPlanet
 * Post a game response
 
-##### Due:
+#### Due:
 * come to class prepared with all materials for your **game pitch!**
 * post your pitch summary and title to Moodle
 
-#### Studying games
-##### Readings:
+### Studying games
+#### Readings:
 
 Aarseth, E. (2003). [Playing research: Methodological approaches to game analysis](http://hypertext.rmit.edu.au/dac/papers/Aarseth.pdf)
 
 Lemke, J. L. (2006). [Toward critical multimedia literacy: Technology, research, and politics.](http://www-personal.umich.edu/~jaylemke/papers/reinking2.htm) In M. C. McKenna, L. D. Labbo, R. D. Kieffer & D. Reinking (Eds.), _International Handbook of Literacy and Technology Vol. 2_ (pp. 3-14). Mahwah: Lawrence Erlbaum Associates. 
 
-##### Play:
+#### Play:
     
 * play a game of your choice, analyze the game in your response using Aarseth and Lemke's approach
 * you might want to start playing a game in-depth for your game analysis paper
 
-#### Game Design Session
-##### Readings:
+### Game Design Session
+#### Readings:
 Hunicke, R., LeBlanc, M., & Zubek, R. (2004). [MDA: A formal approach to game design and game research.](http://www.cs.northwestern.edu/~hunicke/MDA.pdf) Proceedings of the AAAI Workshop on Challenges in Game AI.
 
 Squire, K. (2006). From content to context: Videogames as designed experience. Educational Researcher, 35(8), 19-29. [moodle](https://moodle.adelphi.edu/file.php/49381/squire-2006-content-to-context-videogame-design.pdf)
 
-##### Play:
+#### Play:
 * Civilization V (session 1)
 * game response: a **M**echanics-**D**ynamics-**A**esthetics analysis of Civilization
 
-### Part Two: Genres
-#### Games as Strategic Interaction (Strategy games)
-##### Readings:
-
+### Games as Strategic Interaction (Strategy games)
+#### Readings:
 Bogost, I. (2005). [Procedural literacy: Problem solving with programming, systems and play.](http://www.journalofmedialiteracy.org/index.php/past-issues/14-video-game-culture/197-procedural-literacy-problem-solving-with-programming-systems-a-play) Telemedium, Winter/Spring, 32-36. 
 
 Gee, J. P. (2007). _What video games have to teach us about learning and literacy_. New York: Palgrave Macmillan. [Chapter 2](https://moodle.adelphi.edu/file.php/49381/gee-2003-games-learning-literacy_ch-1_2.pdf)
 
-##### Due:
+#### Due:
 * blog post number 2 due
 
-##### Play:
+#### Play:
 * Civilization V (session 2)
 
-#### Games as Systems (Simulation and Sports games)
-##### Reading:
+### Games as Systems (Simulation and Sports games)
+#### Reading:
 
 Frasca, G. (2003). Simulation versus narrative. In M. J. P. Wolf & B. Perron (Eds.), _The video game theory reader_ (pp. 221-236). New York: Routledge. [moodle](https://moodle.adelphi.edu/file.php/49381/frasca-2003-simulation-vs-narrative.pdf)
 
 Squire, K. (2003). Video games in education. _International Journal of Intelligent Simulations and Gaming_, _2_(1), 49-62. [moodle](https://moodle.adelphi.edu/file.php/49381/squire-2003-video-games-in-ed.pdf)
 
-##### Play:
+#### Play:
 * SimCity
 * CityVille (suggested, on Facebook) 
 
-#### Games as Problem-Solving (Platformers and Puzzle games)
-##### Readings:
+### Games as Problem-Solving (Platformers and Puzzle games)
+#### Readings:
 
 Bransford, J. (2000). [Chapter 3: Learning and Transfer.](https://moodle.adelphi.edu/file.php/49381/bransford-learning-transfer.pdf) _How people learn: Brain, mind, experience, and school_. Washington, DC: National Academies Press.
 
 Sanchez, J., Mendoza, C., & Salinas, A. (2009). [Mobile serious games for collaborative problem solving.](http://sites.google.com/a/unicatt.it/arctt/volume-7-summer-2009/Sanchez_ARCTT_2009.pdf) The Annual Review of Cybertherapy and Telemedicine, 193–197.
 
 
-##### Play:
+#### Play:
 * Portal 2
 * Angry Birds (any version, either on your own mobile device or on a tablet in harvey 104)
 
-#### Games as Collaboration (First-person shooter and online games)
-##### Readings:
+### Games as Collaboration (First-person shooter and online games)
+#### Readings:
 Steinkuehler, C. (2004). Learning in massively multiplayer online games. In Y. B. Kafai, W. A. Sandoval, N. Enyedy, A. S. Nixon & F. Herrera (Eds.), Proceedings of the Sixth International Conference of the Learning Sciences (pp. 521-528). Mahwah: Erlbaum. [moodle](https://moodle.adelphi.edu/file.php/49381/steinkuehler-2004-learning-mmog.pdf)
 
 Gee, J. P. (2007). _What video games have to teach us about learning and literacy_. New York: Palgrave Macmillan. [Chapter 7](#tbd)
 
-##### Play:
+### Play:
 * World of Warcraft, download free version at home or play on a lab PC
 * if you have extensive experience with WoW, test out a new/different MMOG 
 
-#### Games as Narrative (Role-playing and Adventure games)
-##### Readings:
-
+### Games as Narrative (Role-playing and Adventure games)
+#### Readings:
 Frasca, G. (1999). [Ludology meets narratology: Similitudes and differences between (video) games and narrative.](http://www.ludology.org/articles/ludology.htm )
 
 Crawford, C. (2003). _The Art of Interactive Design a Euphonious and Illuminating Guide to Building Successful Software._ San Francisco: No Starch Press. Chapter 28, Interactive storytelling. [moodle](https://moodle.adelphi.edu/file.php/49381/crawford-2003-interactive-design.pdf)
 
-##### Play:
+#### Play:
 * Deus Ex: Human Revolution
 
-### Part Three: Perspectives
-#### Games and Violence
-##### Readings:
+### Games and Violence
+#### Readings:
 <!--
 check out google, maybe can get a chapter from there...
 
 Jones, G. (2002). Killing monsters: Why children need fantasy, super heroes, and make-believe violence. New York: Basic Books. (Selections)
 
 Spina, S. U. (2004). Power plays: Video games' bad rap. In S. R. Steinberg & J. L. Kincheloe (Eds.), Kinderculture: The corporate construction of childhood (pp. 254-283). Oxford: Westview Press. 
-
 -->
 
 Ferguson, C. J. (2010). [Video games and youth violence: A prospective analysis in adolescents.](http://www.tamiu.edu/~cferguson/Video%20Games%201%20Year.pdf) _Journal of Youth and Adolescence._
 
 DeVane, B., & Squire, K. D. (2008). [The meaning of race and violence in Grand Theft Auto.](http://website.education.wisc.edu/kdsquire/tenure-files/10-DeVaneSquire_revised.pdf) Games and Culture, 3(3-4), 264.
 
-##### Play:
+#### Play:
 * Grand Theft Auto IV
 
-#### Games and Gender
-##### Readings:
+### Games and Gender
+#### Readings:
 Yee, Nick. (2008) [Maps of Digital Desires: Exploring the Topography of Gender and Play in Online Games.](http://www.nickyee.com/pubs/BBMK%20Yee.pdf) in Kafai, Y. B., Heeter, C., Denner, J., & Sun, J. Y. (Eds.). _Beyond Barbie® and Mortal Kombat: New perspectives on gender and gaming._ Cambridge: The MIT Press.
 
-
-##### Play:
+#### Play:
 * The Sims
 * Call of Duty or Metal Gears 
 * in your game response, consider the gender roles in the games, and ways that they may appeal or repel female players, refer to the readings
 
-#### Games & Society Debate
-##### Reading:
+### Games & Society Debate
+#### Reading:
 _self-selected to prepare your position_
 
-##### Assignment:
+#### Assignment:
 * Games & society debate
 
-#### Final game play session and observations
+### Final game play session and observations
 _we will invite outside players to test our games_
 
 ## Assignments & Grading
