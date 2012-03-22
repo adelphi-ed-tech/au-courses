@@ -16,11 +16,9 @@
 * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 */-->
 
-Instructor: [Matthew X. Curinga](http://matt.curinga.com)\
-<mcuringa@adelphi.edu>\
+**Keywords:** open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education
 
-----
-<div class="warn">This syllabus is a <i>draft</i> and may change.</div>
+<div class="warn">This is the draft for a course that has not been taught and is subject to change.</div>
 
 ##Description
 Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, and tailored locally to the specific needs of learners. Students in this course study the underlying principles of open education and participate in online projects developing open educational resources.

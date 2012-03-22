@@ -23,14 +23,17 @@ h1.title
 {
     margin:0;
     padding:0;
-    padding-top: 60px;
+    padding-top: 80px;
     border-style: none;
     background-color: transparent;
     color: black;
     clear: both;
-    
+    font-size: 200%;
+    font-weight: bold; 
 }
 
+h1.title,.rsa-red-text { color: #ab1c19; }
+.rsa-red-bg { background-color: #ab1c19; }
 
 a { text-decoration: none; }
 a img { border-style: none; }
@@ -65,6 +68,8 @@ p
 .warn { color: red; font-weight: bold; text-align: center; }
 .center { text-align: center; }
 .single, .single p { line-height: 1.25; }
+
+/* hanging indents for references/citations */
 #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p
 {
     margin-bottom: 1em;
@@ -89,8 +94,7 @@ p
     font-weight: bold; font-size: 80%;
     text-align: center;
 }
-h1.title,.rsa-red-text { color: #ab1c19; }
-.rsa-red-bg { background-color: #ab1c19; }
+
 
 @media screen
 {
@@ -145,8 +149,8 @@ h1.title,.rsa-red-text { color: #ab1c19; }
     text-shadow: 2px 2px black;
 }
 
-#weekly-topics { counter-reset: week; }
-#weekly-topics h3:before {
+#class-sessions { counter-reset: week; }
+#class-sessions h3:before {
     counter-increment: week;
     content: "Week " counter(week) ": " 
 }

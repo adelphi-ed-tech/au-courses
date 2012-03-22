@@ -20,7 +20,7 @@ http://education.adelphi.edu/ed-tech
 -->
 
 <meta charset="utf-8">
-<title>$title$</title>
+<title>$title$ :: course syllabus</title>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
 $for(author)$
@@ -77,10 +77,6 @@ $for(include-before)$
 $include-before$
 $endfor$
 $body$
-$for(include-after)$
-$include-after$
-$endfor$
-
 
 <footer>
 
@@ -111,6 +107,10 @@ $endfor$
 $if(date)$
 <pre>Last modified: $date$</pre>
 $endif$
+
+$for(include-after)$
+$include-after$
+$endfor$
 
 </footer>
 </body>
