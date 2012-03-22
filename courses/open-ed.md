@@ -20,7 +20,9 @@
 
 <div class="warn">This is the draft for a course that has not been taught and is subject to change.</div>
 
-##Description
+**Educational Technology 0858-503**
+
+## Description
 Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, and tailored locally to the specific needs of learners. Students in this course study the underlying principles of open education and participate in online projects developing open educational resources.
 
 ##Goals

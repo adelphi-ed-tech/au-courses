@@ -6,6 +6,8 @@
 
 <div class="warn">This is the draft for a course that has not been taught and is subject to change.</div>
 
+**Educational Technology 0858-501**
+
 ## Description
 How do multimedia, texting, chat, status updates, and hypertext change
 the way we read and interpret texts? Students study various theories of

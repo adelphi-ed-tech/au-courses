@@ -16,7 +16,10 @@
     * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
 
-**EDT 512**\
+**Keywords:** mlearning, mobile learning, android, ipad, tablet computing, one-to-one computing, 1:1, olpc
+
+****Educational Technology 0858-512**
+
 **Intructor:**    [Matthew X. Curinga](http://matt.curinga.com)
 **Email:**    <mcuringa@adelphi.edu><br />
 **Class:**    Harvey 104, Wed. 6:30-8:20 (every other week)<br />
