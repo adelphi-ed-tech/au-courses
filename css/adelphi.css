@@ -155,6 +155,15 @@ p
     content: "Week " counter(week) ": " 
 }
 
+
+#class-sessions h3
+{
+    border-top: 2px solid black;
+    margin-top: 1.5em;
+    padding-top: .5em;    
+}
+
+
 #TOC {
     background: none repeat scroll 0 0 white;
     border: 1px solid black;
