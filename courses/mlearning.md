@@ -107,7 +107,7 @@ week     date       topic                                 format          readin
  8        3/21/12   Panel: mlearning & schools            **Manhattan**   _no readings_                          mid-term essays
  9        3/28/12   Mobile games for learning             online          Facer, Rosenbaum                       RR
 10        4/04/12   mLearning in domains 1                traditional     [self-selected]                        podcast1
-11        4/11/12   Tablets & ereaders                    online                                                 RR
+11        4/11/12   Tablets & ereaders                    online          Hillesund, Hu                          RR
 12        4/18/12   Apps4Ed                               traditional                                            App Review, RR
 13        4/25/12   Mobile interfaces & design            online                                                 RR
 14        5/02/12   mLearning in domains 2                traditional     [self-selected]                        podcast2
@@ -321,6 +321,11 @@ Evans, C. (2008). The effectiveness of m-learning in the form of podcast revisio
 Facer, K., Joiner, R., Stanton, D., Reid, J., Hull, R., & Kirk, D. (2004). Savannah: mobile gaming and learning? *Journal of Computer Assisted Learning*, *20*(6), 399–409.
 
 Fernandez, V., Simo, P., & Sallan, J. M. (2009). Podcasting: A new technological tool to facilitate good practice in higher education. *Computers & Education*, *53*(2), 385-392.
+
+Hillesund, T. (2010). [Digital reading spaces: How expert readers handle books, the Web and electronic paper.](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2762/2504)
+_First Monday_, _15_(4).
+
+Hu, W. (2011, Jan. 4). [Math That Moves: Schools Embrace the iPad](http://www.nytimes.com/2011/01/05/education/05tablets.html?pagewanted=all). _The New York Times_.
 
 Kay, R. H., & LeSage, A. (2009). Examining the benefits and challenges of using audience response systems: A review of the literature. *Computers & Education*, *53*(3), 819-827.
 
