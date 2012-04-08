@@ -54,6 +54,14 @@ p
     line-height: 1.5em;
 }
 
+blockquote
+{
+    line-height: 120%;
+    font-size: 90%;
+    border-left: 3px solid gray;
+    padding-left: 1em;
+}
+
 .img-right 
 {
     float: right;

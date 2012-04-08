@@ -1,6 +1,8 @@
 % Foundations of Open Education
 % Matthew X. Curinga
 
+**Educational Technology 0858-503**
+
 <!-- **********************
 * This syllabus was created for
 * the Educational Technology Program
@@ -18,9 +20,27 @@
 
 **Keywords:** open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education
 
-<div class="warn">This is the draft for a course that has not been taught and is subject to change.</div>
+> we need to place our action in the specific context of
+> domination and liberation where we live: the network society,
+> built around the communication networks of the Internet.<br />
+> — Manuel Castells, _Internet Galaxy_
 
-**Educational Technology 0858-503**
+> Now instead the common is the
+> locus of freedom and innovation—free access, free use, free expression,
+> free interaction—that stands against private control, that is, the
+> control exerted by private property, its legal structures, and
+> its market forces. Freedom in this context can only be freedom of the common.<br />
+> — Michael Hardt & Antonio Negri, _Commonwealth_
+
+> Inevitably, this hidden curriculum of schooling adds prejudice and
+> guilt to the discrimination which a society practices against some 
+> of its members and compounds the privilege of others with a new 
+> title to condescend to the majority. Just as inevitably, this hidden 
+> curriculum serves as a ritual of initiation into a growth-oriented 
+> consumer society for rich and poor alike.<br />
+> — Ivan Illich, _Deschooling Society_
+
+<div class="warn">This is the draft for a course that has not been taught and is subject to change.</div>
 
 ## Description
 Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, and tailored locally to the specific needs of learners. Students in this course study the underlying principles of open education and participate in online projects developing open educational resources.
