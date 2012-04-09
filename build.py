@@ -31,7 +31,7 @@ def IncludeIfExists(path, arg):
 
 def SetTemplate(templateName):
     dt = datetime.datetime.now()
-    pan = Template("pandoc --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),templateName,templateName))
+    pan = Template("pandoc --toc --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),templateName,templateName))
     return pan
 
 def main():

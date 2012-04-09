@@ -20,7 +20,7 @@
 
 **Educational Technology 0858-512**
 
-**Intructor:**    [Matthew X. Curinga](http://matt.curinga.com)
+**Intructor:**    [Matthew X. Curinga](http://matt.curinga.com)<br />
 **Email:**    <mcuringa@adelphi.edu><br />
 **Class:**    Harvey 104, Wed. 6:30-8:20 (every other week)<br />
 **Office hours:**    Post Annex 1, Mon 3-5pm, Tues, 2-4pm, Wed. by appointment (in person or online)<br />
@@ -108,8 +108,8 @@ week     date       topic                                 format          readin
  9        3/28/12   Mobile games for learning             online          Facer, Rosenbaum                       RR
 10        4/04/12   mLearning in domains 1                traditional     [self-selected]                        podcast1
 11        4/11/12   Tablets & ereaders                    online          Hillesund, Hu                          RR
-12        4/18/12   Apps4Ed                               traditional                                            App Review, RR
-13        4/25/12   Mobile interfaces & design            online                                                 RR
+12        4/18/12   Apps4Ed                               traditional     Mayer, Ritter                          RR
+13        4/25/12   Mobile interfaces & design            online                                                 App Review, RR
 14        5/02/12   mLearning in domains 2                traditional     [self-selected]                        podcast2
 15        5/09/12   future of mobile computing            online                                                 RR
 16        5/16/12   final project presentations           traditional                                            Final Project, Professionalism rubric
@@ -331,8 +331,7 @@ Kay, R. H., & LeSage, A. (2009). Examining the benefits and challenges of using 
 
 Kloos, M. (n.d.). [Communities of practice 2.0](http://www.martinkloos.nl/thesis-M.Kloos.pdf)
 
-Mayer, R. E. (2007). Five features of effective multimedia messages: An evidence-based approach. In S. M. Fiore & E. Salas (Eds.), _Toward a science of distributed learning_. (pp. 171–184). Washington: American Psychological Association.
-
+Mayer, R. E. (2007). Five features of effective multimedia messages: An evidence-based approach. In S. M. Fiore & E. Salas (Eds.), _Toward a science of distributed learning_. (pp. 171–184). Washington: American Psychological Association. [moodle](https://moodle.adelphi.edu/file.php/49382/mayer-2003-multimedia-methods.pdf "enrolled students can download from moodle")
 
 Mirzoeff, N. (2011, January 31). [Networked Visuality: The Revolution in North Africa.](http://nicholasmirzoeff.com/RTL/?p=32) _For the Right to Look._
 
@@ -346,7 +345,7 @@ Naismith, L., Lonsdale, P., Vavoula, G., & Sharples, M. (2004). [Literature revi
 
 Negroponte, N. (2012, February) [Learning by themselves.](http://youtu.be/CNRaM2GgQuA) [Video of a lecture presented at the _Solve for X forum_]
 
-[One Laptop per Child.](http://en.wikipedia.org/wiki/One_Laptop_per_Child) (n.d.). In _Wikipedia_.
+[One Laptop per Child.](http://en.wikipedia.org/wiki/One_Laptop_per_Child) (n.d.). _Wikipedia_.
 
 Papert, S., & Harel, I. (1991). [Situating constructionism.](http://www.papert.org/articles/SituatingConstructionism.html) _Constructionism_ (pp. 1–11). Norwood, N.J.: Ablex Pub. Corp.
 
@@ -357,6 +356,8 @@ Pyke, S. M. (2010). An initiative in introducing iPads to higher education. *ERG
 Pasnik, S. (2007). [iPod in Education: The Potential for Teaching and Learning](http://cct.edc.org/admin/publications/report/iPod_in_Education_Whitepaper.pdf) [White paper]. *edcommunity.apple.com.*
 
 Rheingold, H. (2002). *Smart mobs: the next social revolution*. Cambridge MA: Basic Books. ISBN 0738208612, 9780738208619
+
+Ritter, S., Anderson, J., Koedinger, K., & Corbett, A. (2007). [Cognitive Tutor: Applied research in mathematics education.](http://pact.cs.cmu.edu/pubs/Ritter%20Anderson%20Koedinger%20Corbett%202007.pdf) _Psychonomic Bulletin & Review_, _14_(2), 249–255.
 
 Rosenbaum, E., Klopfer, E., & Perry, J. (2006). On Location Learning: Authentic Applied Science with Networked Augmented Realities. *Journal of Science Education and Technology*, *16*(1), 31-45.
 
