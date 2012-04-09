@@ -331,6 +331,9 @@ Kay, R. H., & LeSage, A. (2009). Examining the benefits and challenges of using 
 
 Kloos, M. (n.d.). [Communities of practice 2.0](http://www.martinkloos.nl/thesis-M.Kloos.pdf)
 
+Mayer, R. E. (2007). Five features of effective multimedia messages: An evidence-based approach. In S. M. Fiore & E. Salas (Eds.), _Toward a science of distributed learning_. (pp. 171–184). Washington: American Psychological Association.
+
+
 Mirzoeff, N. (2011, January 31). [Networked Visuality: The Revolution in North Africa.](http://nicholasmirzoeff.com/RTL/?p=32) _For the Right to Look._
 
 Morozov, E. (2011) [The Internet in Society: Empowering or Censoring Citizens?](http://youtu.be/Uk8x3V-sUgU) [video]. RSA Animate.
