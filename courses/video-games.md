@@ -420,7 +420,7 @@ The Game Study Center in Harvey 104 has 2 LCD TVs connected to a PS3, Wii, and 2
 * Wednesday, 2:30pm-6:15pm
 * Thursday, 2:30pm-4:15pm
 
-### XBox 360 Games
+#### XBox 360 Games
 * Big Bumpin'
 * Call of Duty
 * Dance Central (Kinect)
@@ -432,23 +432,23 @@ The Game Study Center in Harvey 104 has 2 LCD TVs connected to a PS3, Wii, and 2
 * Mass Effect 2
 * WWE Raw vs Smackdown 2008 (Demo)
 
-### PS3 Games
+#### PS3 Games
 * Grand Theft Auto IV
 * Little Big Planet
 * Portal 2
 * L.A. Noire
 
-### Windows PC Games
+#### Windows PC Games
 * Dawn of Discovery
 * Civilization V
 * SimCity 4
 
-### Wii Games
+#### Wii Games
 * Wii Sports
 * Wii Resort
 
 
-## Game donations
+#### Game donations
 
 _Donations and loans are welcome for any of the above systems. Special thanks to Tom J. for helping to expand our collection._
 

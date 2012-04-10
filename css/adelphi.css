@@ -166,12 +166,18 @@ blockquote
 
 #class-sessions h3
 {
-    border-top: 2px solid black;
-    margin-top: 1.5em;
-    padding-top: .5em;    
+    margin-left: -1em;    
 }
 
-nav#contents
+#class-sessions>div
+{
+    border: 1px solid black;
+    margin: 1em 0 0 0;
+    padding: 0 2em;
+}
+
+
+nav#TOC
 {
     background: none repeat scroll 0 0 white;
     border: 1px solid black;
@@ -189,5 +195,9 @@ nav#contents
     content: counter(toc) "." counter(sub1) " ";
     counter-increment: toc; }*/
 #TOC li ul li { list-style: decimal;}
+
+#TOC ul li ul li ul { display: none; }
+
+#TOC h3 { text-align: center; }
 
 </style>
