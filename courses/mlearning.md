@@ -300,6 +300,10 @@ If you would like to work with students using mobile devices, please discuss you
 
 Ally, M. (Ed.). (2009). [_Mobile learning transforming the delivery of education and training_](http://www.aupress.ca/index.php/books/120155  "open access ebook"). Edmonton: AU Press. ISBN 978-1-897425-44-2
 
+Billings, S. (2011, January 4). [What can the iPad do for museums?](http://www.museumnext.org/2010/blog/what-can-the-ipad-do-for-museums) Museum Next.
+
+Brown, J. S., Collins, A., & Duguid, P. (1989). [Situated Cognition and the Culture of Learning.](http://people.ucsc.edu/~gwells/Files/Courses_Folder/ED%20261%20Papers/Situated%20Cognition.pdf) Educational Researcher, _18_(_1_), 32-42.
+
 Carr, D. (2010, January 1). Why Twitter Will Endure. *The New York Times*.
 
 Castells, M. (2007). [Communication, power and counter-power in the network society.](http://ijoc.org/ojs/index.php/ijoc/article/download/46/35) _International journal of communication_, _1_(1), 238–266.
@@ -343,6 +347,8 @@ Motiwalla, L. F. (2007). Mobile learning: A framework and evaluation. *Computers
 
 Naismith, L., Lonsdale, P., Vavoula, G., & Sharples, M. (2004). [Literature review in mobile technologies and learning.](http://www.futurelab.org.uk/resources/documents/lit_reviews/Mobile_Review.pdf) *FutureLab Report*, *11*.
 
+Naismith, L., & Smith, M. P. (2009). [Using mobile technologies for multimedia tours in a traditional museum setting.](http://www.aupress.ca/books/120155/ebook/12_Mohamed_Ally_2009-Article12.pdf) In M. Ally (Ed.), _Mobile learning transforming the delivery of education and training_ (pp. 247-264). Edmonton: AU Press.
+
 Negroponte, N. (2012, February) [Learning by themselves.](http://youtu.be/CNRaM2GgQuA) [Video of a lecture presented at the _Solve for X forum_]
 
 [One Laptop per Child.](http://en.wikipedia.org/wiki/One_Laptop_per_Child) (n.d.). _Wikipedia_.
@@ -372,4 +378,7 @@ Squire, K. D., & Jan, M. (2007). Mad City Mystery: Developing Scientific Argumen
 Weiser, M. (1991). [The computer for the *21st* century.](http://www.ubiq.com/hypertext/weiser/SciAmDraft3.html "html formatted version, easy reading on your phone") *Scientific American*, *265*(3), 94–104.
 
 Wishart, J. (2009). [Use of Mobile Technology for Teacher Training.](http://www.aupress.ca/books/120155/ebook/13_Mohamed_Ally_2009-Article13.pdf) In M. Ally (Ed.), _Mobile learning transforming the delivery of education and training_ (pp. 265–278). Edmonton: AU Press.
+
+Wenger, E. (2006, June). [Communities of practice: a brief introduction.](http://www.ewenger.com/theory/)
+
 
