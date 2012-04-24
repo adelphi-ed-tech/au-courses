@@ -109,9 +109,9 @@ week     date       topic                                 format          readin
 10        4/04/12   mLearning in domains 1                traditional     [self-selected]                        podcast1
 11        4/11/12   Tablets & ereaders                    online          Hillesund, Hu                          RR
 12        4/18/12   Apps4Ed                               traditional     Mayer, Ritter                          RR
-13        4/25/12   Mobile interfaces & design            online                                                 App Review, RR
+13        4/25/12   Mobile interfaces & design            online          Nielse, van der Merwe, Apple Inc       App Review, RR
 14        5/02/12   mLearning in domains 2                traditional     [self-selected]                        podcast2
-15        5/09/12   future of mobile computing            online                                                 RR
+15        5/09/12   curriculum and mobile strategy        online                                                 RR
 16        5/16/12   final project presentations           traditional                                            Final Project, Professionalism rubric
 
 **RR = Reading Response due**
@@ -300,6 +300,8 @@ If you would like to work with students using mobile devices, please discuss you
 
 Ally, M. (Ed.). (2009). [_Mobile learning transforming the delivery of education and training_](http://www.aupress.ca/index.php/books/120155  "open access ebook"). Edmonton: AU Press. ISBN 978-1-897425-44-2
 
+Apple, Inc. (2012). [iOS Human Interface Guidelines: Introduction](http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html).
+
 Billings, S. (2011, January 4). [What can the iPad do for museums?](http://www.museumnext.org/2010/blog/what-can-the-ipad-do-for-museums) Museum Next.
 
 Brown, J. S., Collins, A., & Duguid, P. (1989). [Situated Cognition and the Culture of Learning.](http://people.ucsc.edu/~gwells/Files/Courses_Folder/ED%20261%20Papers/Situated%20Cognition.pdf) Educational Researcher, _18_(_1_), 32-42.
@@ -351,6 +353,8 @@ Naismith, L., & Smith, M. P. (2009). [Using mobile technologies for multimedia t
 
 Negroponte, N. (2012, February) [Learning by themselves.](http://youtu.be/CNRaM2GgQuA) [Video of a lecture presented at the _Solve for X forum_]
 
+Nielsen, J. (2011, May 23). [iPad Usability: Year One](http://www.useit.com/alertbox/ipad.html). _Jakob Nielsen’s Alertbox_.
+
 [One Laptop per Child.](http://en.wikipedia.org/wiki/One_Laptop_per_Child) (n.d.). _Wikipedia_.
 
 Papert, S., & Harel, I. (1991). [Situating constructionism.](http://www.papert.org/articles/SituatingConstructionism.html) _Constructionism_ (pp. 1–11). Norwood, N.J.: Ablex Pub. Corp.
@@ -374,6 +378,8 @@ Sen, A. (2010). [The Mobile and the World.](http://itidjournal.org/itid/article/
 Sharples, M., Taylor, J., & Vavoula, G. (2005). [Towards a theory of mobile learning.](http://www.lsri.nottingham.ac.uk/msh/Papers/Towards%20a%20theory%20of%20mobile%20learning.pdf) *Proceedings of mLearn 2005*.
 
 Squire, K. D., & Jan, M. (2007). Mad City Mystery: Developing Scientific Argumentation Skills with a Place-based Augmented Reality Game on Handheld Computers. *Journal of Science Education and Technology*, *16*(1), 5-29.
+
+van der Merwe, Rian. (March 12th, 2012). [A Dad’s Plea To Developers Of iPad Apps For Children](http://uxdesign.smashingmagazine.com/2012/03/12/dads-plea-developers-ipad-apps-children/). _Smashing Magazine_.
 
 Weiser, M. (1991). [The computer for the *21st* century.](http://www.ubiq.com/hypertext/weiser/SciAmDraft3.html "html formatted version, easy reading on your phone") *Scientific American*, *265*(3), 94–104.
 
