@@ -1,7 +1,7 @@
 % Foundations of Open Education
 % Matthew X. Curinga
 
-**Educational Technology 0858-503**
+**Educational Technology 0858-502**
 
 <!-- **********************
 * This syllabus was created for
@@ -101,28 +101,24 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 </div>
 
 ##Class sessions
-###Part 1: Open pedagogy
 
-1. Introduction to Foundations of Open Education
-2. Deschooling
-3. Community and social learning
-4. Universal intelligence
-5. Networked learning
+### Introduction to Foundations of Open Education
+### Deschooling
+### Community and social learning
+### Universal intelligence
+### Networked learning
 
-###Part 2: Open & collaborative technology
+### Free Software/Open Source Software
+### Peer production
+### Free Culture & Open Content
+### Culture of collaboration
+### The digital commons
 
-6. Free Software/Open Source Software
-7. Peer production
-8. Free Culture & Open Content
-9. Culture of collaboration
-10. The digital commons
-
-###Part 3: Technology and Open Education
-11. Open Education Resources
-12. Open Courses and Open Texts
-13. Case studies: One Laptop Per Child, Khan Academy, MIT OpenCoursware
-14. Limitations of Open Education
-15. Final project presentations and wrap-up
+### Open Education Resources
+### Open Courses and Open Texts
+### Case studies: One Laptop Per Child, Khan Academy, MIT OpenCoursware
+### Limitations of Open Education
+### Final project presentations and wrap-up
 
 ##Assignments & grading
 ###Class discussions
