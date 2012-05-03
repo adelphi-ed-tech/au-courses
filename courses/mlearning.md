@@ -109,7 +109,7 @@ week     date       topic                                 format          readin
 10        4/04/12   mLearning in domains 1                traditional     [self-selected]                        podcast1
 11        4/11/12   Tablets & ereaders                    online          Hillesund, Hu                          RR
 12        4/18/12   Apps4Ed                               traditional     Mayer, Ritter                          RR
-13        4/25/12   Mobile interfaces & design            online          Nielse, van der Merwe, Apple Inc       App Review, RR
+13        4/25/12   Mobile interfaces & design            online          Nielsen, van der Merwe, Apple Inc      App Review, RR
 14        5/02/12   mLearning in domains 2                traditional     [self-selected]                        podcast2
 15        5/09/12   curriculum and mobile strategy        online                                                 RR
 16        5/16/12   final project presentations           traditional                                            Final Project, Professionalism rubric
@@ -128,8 +128,8 @@ Where I'm from              session 2           10%
 Tech report                 session 3           10%
 Mobile video interview      session 6           10%
 Midterm essay               session 8           15%
-App Review                  session 12          10%
-Podcasts                    sessions 10 & 12    10%
+App Review                  session 13          10%
+Podcasts                    sessions 10 & 14    10%
 Final Project/Paper         last session        15%
 
 
@@ -211,6 +211,7 @@ Your podcast must be between 8-10 minutes in length. You can, but are not requir
 Save your recording as an mp3 and upload it to your tumblr as an audio post.
 
 This assignment is worth 10 points total, allotted according to this scale:
+
 * content (4 points): is the content _important_? is the listener likely to learn _new information_ from this recording?
 * appeal (2 points): is the podcast enjoyable and engaging? would you like to listen to another recording by this author/group? consider how things like pace, humor, voice inflection, etc contribute to the appeal of your podcast
 * organization (2 points): is the podcast easy to follow? does it build in tension and details? are there important questions unanswered? is irrelevant information included? does the author properly and introduce and summarize the topic?
