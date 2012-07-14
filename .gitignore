@@ -3,6 +3,8 @@
 *.txt~
 *.swp
 *.py~
+*.css~
+*.html~
 
 push
 tmpl/footer.html
