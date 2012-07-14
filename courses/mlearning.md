@@ -380,6 +380,8 @@ Sharples, M., Taylor, J., & Vavoula, G. (2005). [Towards a theory of mobile lear
 
 Squire, K. D., & Jan, M. (2007). Mad City Mystery: Developing Scientific Argumentation Skills with a Place-based Augmented Reality Game on Handheld Computers. *Journal of Science Education and Technology*, *16*(1), 5-29.
 
+Traxler, J. (2009). [Current State of Mobile Learning.](http://www.aupress.ca/books/120155/ebook/01_Mohamed_Ally_2009-Article1.pdf) In M. Ally (Ed.), _Mobile learning transforming the delivery of education and training_ (pp. 9–24). Edmonton: AU Press.
+
 van der Merwe, Rian. (March 12th, 2012). [A Dad’s Plea To Developers Of iPad Apps For Children](http://uxdesign.smashingmagazine.com/2012/03/12/dads-plea-developers-ipad-apps-children/). _Smashing Magazine_.
 
 Weiser, M. (1991). [The computer for the *21st* century.](http://www.ubiq.com/hypertext/weiser/SciAmDraft3.html "html formatted version, easy reading on your phone") *Scientific American*, *265*(3), 94–104.
