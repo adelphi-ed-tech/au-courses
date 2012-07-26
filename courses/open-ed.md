@@ -1,8 +1,6 @@
 % Foundations of Open Education
 % Matthew X. Curinga
 
-**Educational Technology 0858-502**
-
 <!-- **********************
 * This syllabus was created for
 * the Educational Technology Program
@@ -18,9 +16,18 @@
 * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 */-->
 
-**Keywords:** open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education
+Keywords
 
-> we need to place our action in the specific context of
+:   open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education
+
+Description
+
+:   Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, and tailored locally to the specific needs of learners. Students in this course study the underlying principles of open education and participate in online projects developing open education resources.
+
+------------------------------------------------------------------------
+**Educational Technology 0858-502, Fall 2012**
+
+> We need to place our action in the specific context of
 > domination and liberation where we live: the network society,
 > built around the communication networks of the Internet.<br />
 > — Manuel Castells, _Internet Galaxy_
@@ -40,10 +47,21 @@
 > consumer society for rich and poor alike.<br />
 > — Ivan Illich, _Deschooling Society_
 
-<div class="warn">This is the draft for a course that has not been taught and is subject to change.</div>
+Instructor
 
-## Description
-Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, and tailored locally to the specific needs of learners. Students in this course study the underlying principles of open education and participate in online projects developing open educational resources.
+:   Matthew X. Curinga, <mcuringa@adelphi.edu>
+:   Post Annex, Room 1
+
+Class meetings
+
+:   Wed. 4:30-6:20, Harvey 104 and online
+
+Office hours
+
+:   Monday, 3-5PM
+:   Thursday, 2:30-4:30PM
+:   Online or in person, by appointment
+
 
 ##Goals
 This course provides students an introduction to the open education movement, from a pedagogical, social, and technical perspective. Students will consider the implications of open education in the future of schools and learning, understand how to participate in open education projects, and incorporate open resources in their practice.
@@ -57,22 +75,10 @@ By the end of the course, students will be able to:
 
 ##Readings
 ###Required Books
-<div class="ref">
-
-Kumar, M., Vijay, S. (2008). _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_. The MIT Press. Cambridge, Massachusetts. ISBN 0262033712. [[free online](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc)]
-
-Illich, I. (1971). _Deschooling Society_. Harper & Row. New York. ISBN 060121394
-
-Lessig, L. (2004). _Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_. Penguin Press HC. ISBN 1594200068. [[free online](http://www.free-culture.cc/freeculture.pdf)]
-
 
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. ISBN 0804719691.
 
-</div>
 ###Articles, book selections, & other readings
-
-_will be online or provided by instrcutor_
-<div class="ref">
 
 Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446.
 
@@ -84,7 +90,13 @@ Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/conte
 
 Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. ISBN 9780674035119
 
+Illich, I. (1971). _Deschooling Society_. Harper & Row. New York. ISBN 060121394
+
 Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http://twobits.net/read/). Duke University Press. Durham, N.C.. ISBN 0822342421.
+
+Kumar, M., Vijay, S. (2008). _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_. The MIT Press. Cambridge, Massachusetts. ISBN 0262033712. [[free online](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc)]
+
+Lessig, L. (2004). _Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_. Penguin Press HC. ISBN 1594200068. [[free online](http://www.free-culture.cc/freeculture.pdf)]
 
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
 
@@ -98,11 +110,18 @@ Stallman, R. M. (1992). "[Why Software Should Be Free](http://www.gnu.org/philos
 
 Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Processes_. Harvard University Press. Cambridge MA. ISBN 0674576292.
 
-</div>
+## Class sessions
 
-##Class sessions
+### Foundations of Open Education
+#### Readings due:
+none, just come to class
 
-### Introduction to Foundations of Open Education
+#### Assignments due:
+* buy _The Ignorant Schoolmaster_
+* log into the Moodle site for this course
+* post an introduction, "what I want to learn in _open education"
+* join the Google Group, [some group](http://example.com "you can use your adelphi email for this")
+
 ### Deschooling
 ### Community and social learning
 ### Universal intelligence
