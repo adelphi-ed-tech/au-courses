@@ -9,7 +9,16 @@ import datetime
 def GenerateAllCourses(tmpl):
     courses = [f[:-3] for f in os.listdir("courses") if f.endswith(".md")]
     for c in courses:
-        GenerateCourse(tmpl,c)
+        if(IsModified(c)):
+            print("rebuilding course: %s" % (c,))
+            GenerateCourse(tmpl,c)
+
+def IsModified(course):
+    if(not os.path.exists("out/%s.html" % (course,))):
+        return True
+    srcMod = os.path.getmtime("courses/%s.md" % (course,))
+    outMod = os.path.getmtime("out/%s.html" % (course,))
+    return srcMod > outMod
 
 def GenerateCourse(tmpl,course):
         pwd = os.getcwd()
