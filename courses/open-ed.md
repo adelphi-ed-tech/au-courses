@@ -1,20 +1,20 @@
 % Foundations of Open Education
 % Matthew X. Curinga
 
-<!-- **********************
-* This syllabus was created for
-* the Educational Technology Program
-* at Adelphi University:
-* http://education.adelphi.edu
-* copyright 2012 Matthew X. Curinga
-* http://matt.curinga.com
-* This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
-* To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send 
-* a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
-* We ask, but do not require, that attribution includes a link to our websites (above).
-* version: 2.1
-* Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
-*/-->
+<!-- 
+This syllabus was created for
+the Educational Technology Program
+at Adelphi University:
+http://education.adelphi.edu
+copyright 2012 Matthew X. Curinga
+http://matt.curinga.com
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send 
+a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+We ask, but do not require, that attribution includes a link to our websites (above).
+version: 2.1
+Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
+-->
 
 Keywords
 
@@ -49,8 +49,8 @@ Description
 
 Instructor
 
-:   Matthew X. Curinga, <mcuringa@adelphi.edu>
-:   Post Annex, Room 1
+:   [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
+:   [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
 
 Class meetings
 
@@ -63,7 +63,7 @@ Office hours
 :   Online or in person, by appointment
 
 
-##Goals
+## Goals
 This course provides students an introduction to the open education movement, from a pedagogical, social, and technical perspective. Students will consider the implications of open education in the future of schools and learning, understand how to participate in open education projects, and incorporate open resources in their practice.
 
 By the end of the course, students will be able to:
@@ -73,12 +73,12 @@ By the end of the course, students will be able to:
 3. Locate and modify [open education resources](http://en.wikipedia.org/wiki/Open_educational_resources) for their own needs
 4. Contribute to open education projects
 
-##Readings
-###Required Books
+## Readings
+### Required Books
 
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. ISBN 0804719691.
 
-###Articles, book selections, & other readings
+### Articles, book selections, & other readings
 
 Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446.
 
@@ -89,6 +89,8 @@ Dewey, J. (1916). [_Democracy and Education_](http://www.ilt.columbia.edu/public
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
 
 Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. ISBN 9780674035119
+
+Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
 Illich, I. (1971). _Deschooling Society_. Harper & Row. New York. ISBN 060121394
 
@@ -119,10 +121,14 @@ none, just come to class
 #### Assignments due:
 * buy _The Ignorant Schoolmaster_
 * log into the Moodle site for this course
-* post an introduction, "what I want to learn in _open education"
+* post an introduction, "what I want to learn in _open education_"
 * join the Google Group, [some group](http://example.com "you can use your adelphi email for this")
 
 ### Deschooling
+#### Readings due:
+Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
+
+
 ### Community and social learning
 ### Universal intelligence
 ### Networked learning
