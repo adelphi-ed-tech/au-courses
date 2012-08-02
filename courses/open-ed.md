@@ -112,6 +112,27 @@ Stallman, R. M. (1992). "[Why Software Should Be Free](http://www.gnu.org/philos
 
 Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Processes_. Harvard University Press. Cambridge MA. ISBN 0674576292.
 
+## Schedule
+
+Session	Date/Week of	Format	Topic	Assignments Due
+1	Aug 29	in person/synchronous	Foundations of Open Education	
+2	Sep 5	in person/synchronous	How to study online	Personal 
+3	Sep 12	online/asynchronous	Deschooling	
+4	Sep 19	online/asynchronous	Ignorant Schoolmaster 1	
+5	Sep 26	in person/synchronous	Ignorant Schoolmaster 2	
+6	Oct 3	online/asynchronous	Connectivism, Minds on Fire, Turkle	
+7	Oct 10	online/asynchronous	Free Software/Open Source Software	
+8	Oct 17	in person/synchronous	Peer production	
+9	Oct 24	online/asynchronous	Free Culture & Open Content	
+10	Oct 31	online/asynchronous	The liberal commons	
+11	Nov 7	in person/synchronous	Commons to communism	
+12	Nov 14	online/asynchronous	Open Education Resources	
+No Class	Nov 21	-	-	
+13	Nov 28	online/asynchronous	Open Courses & MOOCs	
+14	Dec 5	in person/synchronous	Limitations of Open Education	
+No Class	Dec 12	-	-	
+15	Dec 19	online/asynchronous	Wrap-up	
+
 ## Class sessions
 
 ### Foundations of Open Education
