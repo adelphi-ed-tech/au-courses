@@ -25,6 +25,7 @@ Description
 :   Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, and tailored locally to the specific needs of learners. Students in this course study the underlying principles of open education and participate in online projects developing open education resources.
 
 ------------------------------------------------------------------------
+
 **Educational Technology 0858-502, Fall 2012**
 
 > We need to place our action in the specific context of
@@ -114,24 +115,28 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 
 ## Schedule
 
-Session	Date/Week of	Format	Topic	Assignments Due
-1	Aug 29	in person/synchronous	Foundations of Open Education	
-2	Sep 5	in person/synchronous	How to study online	Personal 
-3	Sep 12	online/asynchronous	Deschooling	
-4	Sep 19	online/asynchronous	Ignorant Schoolmaster 1	
-5	Sep 26	in person/synchronous	Ignorant Schoolmaster 2	
-6	Oct 3	online/asynchronous	Connectivism, Minds on Fire, Turkle	
-7	Oct 10	online/asynchronous	Free Software/Open Source Software	
-8	Oct 17	in person/synchronous	Peer production	
-9	Oct 24	online/asynchronous	Free Culture & Open Content	
-10	Oct 31	online/asynchronous	The liberal commons	
-11	Nov 7	in person/synchronous	Commons to communism	
-12	Nov 14	online/asynchronous	Open Education Resources	
-No Class	Nov 21	-	-	
-13	Nov 28	online/asynchronous	Open Courses & MOOCs	
-14	Dec 5	in person/synchronous	Limitations of Open Education	
-No Class	Dec 12	-	-	
-15	Dec 19	online/asynchronous	Wrap-up	
+Session	    Week	Format	        Topic
+-------     ------  -------------   ----------------------------------------
+1	        Aug 29	synchronous	    Foundations of Open Education	
+2	        Sep 5	synchronous	    How to study online 
+3	        Sep 12	asynchronous    Deschooling	
+4	        Sep 19	asynchronous    Ignorant Schoolmaster 1	
+5	        Sep 26	synchronous	    Ignorant Schoolmaster 2	
+6	        Oct 3	asynchronous	Connectivism, Minds on Fire, Turkle	
+7	        Oct 10	asynchronous    Free Software/Open Source Software	
+8	        Oct 17	synchronous	    Peer production	
+9	        Oct 24	asynchronous	Free Culture & Open Content	
+10	        Oct 31	asynchronous	The liberal commons	
+11	        Nov 7	synchronous	    Commons to communism	
+12	        Nov 14	asynchronous	Open Education Resources	
+-	        Nov 21  No Class                -
+13	        Nov 28	asynchronous	Open Courses & MOOCs	
+14	        Dec 5	synchronous	    Limits of Open Education	
+-	        Dec 12	No Class                -
+15	        Dec 19	asynchronous	Wrap-up	
+
+* **synchronous** classes meet on Wed. at 4:30. Students are _encouraged_ to attend in person, at Adelphi's Garden City Campus, in room Harvey 104. If you cannot attend in person, you _must_ join us for a video call.
+* **asynchronous** weeks
 
 ## Class sessions
 
@@ -144,6 +149,13 @@ none, just come to class
 * log into the Moodle site for this course
 * post an introduction, "what I want to learn in _open education_"
 * join the Google Group, [some group](http://example.com "you can use your adelphi email for this")
+
+### Tools for open study
+In this session we will discuss the tools and techniques for participating in this class.
+
+#### Assignments due:
+* personal learning plan
+
 
 ### Deschooling
 #### Readings due:
