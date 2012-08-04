@@ -8,7 +8,7 @@ can be easily shared, edited, and remixed.
 ### courses
 This is where the action is -- the actual syllabi are located in the /courses dir.
 They are written in markdown using the [pandoc](http://johnmacfarlane.net/pandoc/) extensions.
-These if you are interseted in the course content, this is the place to look, you can pretty
+If you are interseted in the course content, this is the place to look, you can pretty
 much ignore the rest of the project.
 
 ### build.py
