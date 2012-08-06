@@ -167,6 +167,8 @@ classrooms.
 1.  Gee, situated language and learning ch 1-4, pp 1-56
 2.  Lankshear and Knobel, ch 2
 
+*  Assignment 1 (tech biography) due
+
 
 ### New literacies 
 New literacies expands the definition of "literacy" to include different
@@ -244,7 +246,8 @@ shaping texts, often for the worse. Advertising still shapes the content we see 
 broached by media literacy scholars, and looks into how they may be extended to digital literacy.
 
 *  Readings due: 
-1.  Hobbs, seven great debates; some other good establishing document from that field
+1.  Hobbs, seven great debates
+2.  some other good establishing document from that field
 
 
 ### Information literacy
@@ -265,13 +268,12 @@ Every text, digital or otherwise, is constructed by some sort of "author." Media
 information literacy, and library studies agree that it is important to understand a text's source
 in order to evaluate the quality of its contents. How far can this go? Most of us know we should
 evaluate the quality of information on Wikipedia, but how often can we investigate the sources of
-what we read? Do we always have to evaluate the quality of news
-reporting? Of textbooks? What are the specific challenges to our sourcing abilities presented by
+what we read? Do we always have to evaluate the quality of news reporting? Of textbooks? What are the specific challenges to our sourcing abilities presented by
 digital materials? This session explores how different literacy traditions have approached
 sourcing.
 
 *  Readings due: 
-1.  Laurie Henry 2006 12 pp (SEARCH, not all tree octopus)
+1.  Laurie Henry 2006 12 pp <!-- (SEARCH, not all tree octopus) -->
 2.  Hargittai 2008 Links of Influence 16 pp 
 3.  Feynman, pp 288-302
 4.  If Matt has not covered this elsewhere in the curriculum: 
@@ -304,6 +306,7 @@ In this session, students look at online identity: issues of race, gender, and c
 3.  boyd, blog, "real names policies are an abuse of power" http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html
 4.  Falsehoods programmers believe about names http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
 
+*  Assignment 3 (screencast) due
 
 
 ### Participatory culture and copyright (latter might be its own week actually?)
@@ -347,10 +350,10 @@ explaining the digital literacy landscape. (15%)
 
 **Semantic and visual software review screen cast.** Each student will
 create a “screen cast”— a narrated video —of an educational software
-title or website. They will reflect on and evaluate the software from a
-visual culture and new media semantics position. This assignment will
-allow evaluation of their understanding of the field of visual culture
-and new media semantics, as well as their ability to use the set of
+title or website produced using a tool such as Camtasia or Jing. They will reflect on the software in light of the units on visual culture, design/HCI,
+privacy/security, computational literacy, source literacy, and identity. The screencast should include evaluations of what
+their own students or other users would need to know to navigate the site/software being reviewed.
+This assignment will allow evaluation of their understanding of these lessons, as well as their ability to use the set of
 digital tools to create a screen cast. (20%)
 
 **Digital literacies “Ted Talk”.** Working in teams of 3 or 4, students will
