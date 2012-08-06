@@ -34,6 +34,9 @@ the tools and techniques of digital media. More specifically:
 * Students will be able to create a variety of digital texts to communicate in different genres and for multiple purposes. 
 * Students will be able to articulate the cultural and political implications of digital communications, with attention to concerns of power and equity online and in classrooms.
 
+
+
+
 ## Required books
 Lankshear, C. (2003). _New literacies: changing knowledge and classroom learning._ Buckingham [England]; Philadelphia PA: Open University Press.
 
@@ -48,7 +51,7 @@ Agre, P. (2004). “The Practical Republic: Social Skills and the Progress of Ci
 
 Barthes, R. (2002). The death of the author. _Academic Discourse: Readings for Argument and Analysis_, 101.
 
-Benjamin, W. (1986). [The Work of Art in the Age of Mechanical Reproduction.]((http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)) In _Illuminations: Essays and Reflections_. New York: Schocken Books.
+Benjamin, W. (1986). [The Work of Art in the Age of Mechanical Reproduction.](http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm) In _Illuminations: Essays and Reflections_. New York: Schocken Books.
 
 Berners-Lee, T., Hendler, J., & Lassila, O. (2001). The semantic web. _Scientific American_, _284_(5), 28–37.
 
