@@ -50,7 +50,7 @@ Buckingham [England]; Philadelphia PA: Open
 University
 Press. ISBN 9780335242160
 
-Lessig, L. (1999). _Code and Other Laws of Cyberspace._ New York: Basic Books. 
+Lessig, L. (1999). _Code and Other Laws of Cyberspace._ New York: Basic Books. <!-- Note: I know there's an updated version, but I don't think it's as readable or coherent as the original. -->
 
 Mirzoeff, N. (2009). _An introduction to visual culture (2nd ed.)_. London;New York: Routledge. ISBN
 9780415327589
@@ -101,9 +101,9 @@ _Library Quarterly_, 77(2) pp. 109–132
 
 Shirky, C. (2008). _Here Comes Everybody_. New York: The Penguin Press. 
 
-Steinkuehler, C., & Johnson, B. Z. (2009). Computational literacy in online games: The social life
+<!-- Steinkuehler, C., & Johnson, B. Z. (2009). Computational literacy in online games: The social life
 of a mod. _The International Journal of
-Gaming and Computer Mediated Simulations_, 1(1), 53–65.
+Gaming and Computer Mediated Simulations_, 1(1), 53–65. -->
 
 Street, B., (1995). _Social Literacies_. New York: Longman.
 
@@ -146,7 +146,7 @@ ISBN 1853598615
 
 ## Class sessions
 
-### Changes in language, changes in literacy
+### Week 1, August 30: Changes in language, changes in literacy
 What is literacy? What does it mean to be "literate"? Through exploring the concrete examples of
 medieval documents and missionary education, this session establishes how the changing nature
 of documents, and their relationship to powerful social institutions, can change what skills may be
@@ -156,8 +156,10 @@ required for a person to be considered "literate."
 1.  Clanchy, 1993, ch 9, pp 294-327
 2.  Street, social literacies ch 2, pp 28-45
 
+*  Assignment 1 (tech biography) due
 
-### Literacy and society
+
+### Week 2, September 6: Literacy and society
 Is there only one kind of literacy? What kinds of literacy are "better" than others, and why? This
 class explores how some "literate" skills may be valued differently by various social institutions,
 and how different kinds of literacy may be present alongside each other in and outside of
@@ -165,12 +167,10 @@ classrooms.
 
 *  Readings due: 
 1.  Gee, situated language and learning ch 1-4, pp 1-56
-2.  Lankshear and Knobel, ch 2
-
-*  Assignment 1 (tech biography) due
+2.  Lankshear and Knobel, ch 2, pp 32-51
 
 
-### New literacies 
+### Week 3, September 13: New literacies 
 New literacies expands the definition of "literacy" to include different
 media and different contexts. These two sessions look at the work of
 major scholars in this field, such as Jim Gee, Knobel and Lankshear,
@@ -178,29 +178,29 @@ and Kevin Leander.
 
 *  Readings due: 
 1.  Leu et al
-2.  Lankshear and Knobel 2011 ch 1, 3
-3.  Street 2003
+2.  Lankshear and Knobel 2011 ch 1, 3, pp 3-32, 51-93
+3.  Street 2003 p 77-91
 
 
-### Visual culture & digital semantics
+### Week 4, September 20: Visual culture & digital semantics
 In this sessions, students investigate the ways that we understand new
 media and digital media. The session combines work in "visual culture" (Mirzoeff) with analysis of
 the form of comics (McCloud).
 
 *  Readings due: 
-1.  Mirzoeff ch 1, 3
-2.  Wardrip-Fruin, ch 50 (Scott McCloud)
+1.  Mirzoeff ch 1, p 35-62
+2.  Wardrip-Fruin, ch 50 p 711-737 <!-- Scott McCloud -->
 
 
-### Reading like a machine
+### Week 5, October 4: Reading like a machine
 While computers seem to get "smarter" every year, able to predict what we want before we even know
 we want it, beneath the surface layer of interaction they may still require us to think they way
 they do
 to communicate. This class explores some of the ways in which computers "read" differently from
 people, with limitations and demands which are helpful to understand in navigating digital texts.
 
-*  Reading due: 
-1.  Berners-Lee
+*  Readings due: 
+1.  Berners-Lee (about 7 pp)
 2.  Brunton, ch 2 section 4 on Robot Readability (about 20 pp)
 3.  Suchman in Wardrip-Fruin, ch 41, pp 599-609
 <!-- Was going to use Suchman, ch 9, pp 125-175, which is the chapter in which xerox
@@ -208,15 +208,7 @@ machines actually appear, but it's rough sledding and the other one actually app
 Wardrip-Fruin. Winograd and Flores is similar tho. Maybe have an intelligent systems week? --!>
 
 
-### Computational literacy
-Computational algorithms exist behind the scenes of digital media. Understanding the implications of
-computation is requisite for understanding digital works.
-
-*  Readings due: 
-1.  Steinkuehler
-
-
-### Design and human-computer interfaces
+### Week 6, October 11: Design and human-computer interfaces
 This session draws on work from the fields of human-computer interface
 (HCI) design, affordance theory, computer security, and interaction design to help students
 develop a critical understanding of software and other computer
@@ -225,10 +217,10 @@ interfaces.
 *  Readings due: 
 1.  Norman ch 1, pp 1-33 
 2.  Conti, 9 pp
-3.  Winograd and Flores 1986 ch 37 in Wardrip-Fruin, pp 551-562 (design and intelligent systems)
+3.  Winograd and Flores 1986 ch 37 in Wardrip-Fruin, pp 551-562 <!-- design and intelligent systems -->
 
 
-### Privacy, security, and the law
+### Week 7, October 18: Privacy, security, and the law
 What do students need to be able to read about digital texts in order to maintain their security and
 privacy online? As educators, what is our role in working with them on privacy -- are we guides,
 should we remain hands-off, or do they already know more than we do? In class, we will view "Privacy
@@ -240,7 +232,7 @@ Conference.
 2.  boyd et al, 22 pp
 
 
-### Media literacy
+### Week 8, October 25: Media literacy
 Media literacy has been a field in which the commercial influence of advertising is often taken as
 shaping texts, often for the worse. Advertising still shapes the content we see online. What do we need to know about the influences of advertising to be "literate"? This session presents the basic questions
 broached by media literacy scholars, and looks into how they may be extended to digital literacy.
@@ -250,7 +242,7 @@ broached by media literacy scholars, and looks into how they may be extended to 
 2.  some other good establishing document from that field
 
 
-### Information literacy
+### Week 9, November 1: Information literacy
 Library science and information literacy have attempted to determine how people successfully search
 for information, beginning with library materials before digitization and continuing to understand
 how people look for information online today. "Information literacy" has also been referred to in
@@ -263,7 +255,7 @@ understandings of literacy.
 2.  Savolainen 2007, 23 pp.
 
 
-### Source literacy
+### Week 10, November 8: Source literacy
 Every text, digital or otherwise, is constructed by some sort of "author." Media literacy,
 information literacy, and library studies agree that it is important to understand a text's source
 in order to evaluate the quality of its contents. How far can this go? Most of us know we should
@@ -283,7 +275,7 @@ sourcing.
     * http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view
 
 
-### Audience awareness (shades into identity and also media literacy)
+### Week 11, November 15: Audience awareness (shades into identity and also media literacy)
 Texts are constructed by authors, but also constructed for audiences. Digital technologies have
 dramatically changed how audiences can be reached. As readers, how do we think of ourselves as an
 audience; as writers, how do we communicate to audiences in a dramatically changed world? This
@@ -296,12 +288,14 @@ session explores these questions.
 4.  15 Million Merits (video)
 
 
+### THANKSGIVING BREAK NOVEMBER 22 ###
 
-### Identity online
+
+### Week 12, November 29: Identity online
 In this session, students look at online identity: issues of race, gender, and class as well as ideas of anonymity.
 
 *  Readings due: 
-1.  Mirzoeff ch 6, 8
+1.  Mirzoeff ch 6, 8 (about 50 pp)
 2.  boyd, "White Flight in Networked Publics? How Race and Class Shaped American Teen Engagement with MySpace and Facebook." 
 3.  boyd, blog, "real names policies are an abuse of power" http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html
 4.  Falsehoods programmers believe about names http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
@@ -309,7 +303,7 @@ In this session, students look at online identity: issues of race, gender, and c
 *  Assignment 3 (screencast) due
 
 
-### Participatory culture and copyright (latter might be its own week actually?)
+### Week 13, December 6: Participatory culture and copyright (latter might be its own week actually?)
 Digital literacy includes creating digital texts, not just reading
 them. This session looks at work on the idea of participatory culture;
 as well as some critics of the need to participate.
@@ -318,12 +312,13 @@ as well as some critics of the need to participate.
 1.  Jenkins; 
 2.  Lankshear and Knobel 2011 ch 4 (remixing)
 3.  copyright clarity?
+4.  Lessig ch 10 (p 122-141, intellectual property)
 
 
-### Popular arguments
+### Week 14, December 13: Popular arguments
 the shallows, etc
 
-### Presentations
+### Week 15, December 20: Presentations
 Students will present their final projects 
 
 
@@ -350,7 +345,7 @@ explaining the digital literacy landscape. (15%)
 
 **Semantic and visual software review screen cast.** Each student will
 create a “screen cast”— a narrated video —of an educational software
-title or website produced using a tool such as Camtasia or Jing. They will reflect on the software in light of the units on visual culture, design/HCI,
+title or website produced using a tool such as Camtasia, IShowU, or Jing. They will reflect on the software in light of the units on visual culture, design/HCI,
 privacy/security, computational literacy, source literacy, and identity. The screencast should include evaluations of what
 their own students or other users would need to know to navigate the site/software being reviewed.
 This assignment will allow evaluation of their understanding of these lessons, as well as their ability to use the set of
