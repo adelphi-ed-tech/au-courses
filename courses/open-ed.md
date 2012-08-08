@@ -18,7 +18,7 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 Keywords
 
-:   open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education
+:   open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education, peer production
 
 Description
 
@@ -65,6 +65,8 @@ Office hours
 
 
 ## Goals
+
+
 This course provides students an introduction to the open education movement, from a pedagogical, social, and technical perspective. Students will consider the implications of open education in the future of schools and learning, understand how to participate in open education projects, and incorporate open resources in their practice.
 
 By the end of the course, students will be able to:
@@ -79,11 +81,16 @@ By the end of the course, students will be able to:
 
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA.
 
-### Articles, book selections, & other readings
+### Bibliography & readings
+Barabási, A.-L. (2003). _Linked: How everything is connected to everything else and what it means for business, science, and everyday life_. New York: Plume.
 
 Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446.
 
+Benkler, Y. (2006). [_The Wealth of Networks: How Social Production Transforms Markets and Freedom_](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf). New Haven and London: Yale University Press.
+
 Brown, J. S. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educase Review_, _43(1)_, 16-32.
+
+Castells, M. (2003). _The Internet Galaxy: Reflections on the Internet, Business, and Society_. Oxford University Press, USA.
 
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
 
@@ -101,6 +108,9 @@ Illich, I. (1971). _Deschooling Society_. Harper & Row. New York.
 
 Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http://twobits.net/read/). Duke University Press. Durham, N.C..
 
+Kamenetz, A. (2011). the [Edupunks’ Guide to a DIY Education!](http://www.edupunksguide.org/) Bill and Melinda Gates Foundation.
+website].
+
 Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). The MIT Press. Cambridge, Massachusetts.
 
 Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_](http://www.free-culture.cc/freeculture.pdf). Penguin Press HC.
@@ -111,6 +121,8 @@ Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/pete
 
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science,_ _2_(1), 493–535.
 
+Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang.
+
 Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/578/499/). _First Monday_, _3(3)_.
 
 Reagle, J. (2010). _Good faith collaboration: the culture of Wikipedia_. Cambridge  Mass. MIT Press.
@@ -120,6 +132,8 @@ Siemens, G. (2004). [Connectivism: A learning theory for the digital age](http:/
 Stallman, R. M. (1992). "[Why Software Should Be Free](http://www.gnu.org/philosophy/shouldbefree.html)".
 
 Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:24]. TEDxUIUC.
+
+Turkle, S. (2011). _Alone Together: Why We Expect More from Technology and Less from Each Other_. Basic Books.
 
 (n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
 
@@ -166,31 +180,38 @@ none, just come to class
 ### Tools for open study
 In this session we will discuss the tools and techniques for participating in this class.
 
+#### Readings due:
+* 
+* read the [Edupunk's Guide tutorials](http://edupunksguide.org/tutorials), especially regarding personal learning plan and personal learning networks
+
 #### Assignments due:
-* personal learning plan (including study group)
+* [personal learning plan](#personal-learning-plan)
 * sign up to lead a weekly discussion
 
 ### Deschooling
 #### Readings due:
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
-Rancière, chapter 1 & 2 (pp 1-43)
+Rancière, chapter 2 & 3
 
 #### Assignments due:
 * weekly online discussion
 
 ### Ignorant Schoolmaster
 #### Readings due:
-Rancière, chapter 3-5 (pp 45-139)
+Rancière, chapter 4 & 5
 
 ### Networked learning
-Crouch, C. H., & Mazur, E. (2001). [Peer instruction: Ten years of experience and results](http://newfaculty.mst.edu/documents/MazurActiveLearning.pdf). American Journal of Physics, 69, 970.
-
+#### Readings due:
 Brown, J. S., & Adler, R. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educase Review_, _43_(1), 16–32.
+
+Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
 
 Siemens, G. (2004). [Connectivism: A learning theory for the digital age](http://www.elearnspace.org/Articles/connectivism.htm). _eLearn Space_.
 
 Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:24]. TEDxUIUC.
+
+(optional) Crouch, C. H., & Mazur, E. (2001). [Peer instruction: Ten years of experience and results](http://newfaculty.mst.edu/documents/MazurActiveLearning.pdf). _American Journal of Physics_, _69_, 970.
 
 ### Free Software/Open Source Software
 #### Readings due:
@@ -210,7 +231,7 @@ Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to 
 #### Readings due:
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
 
-Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science,_ _2_(1), 493–535.
+Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
 
 ### The common
 #### Readings due:
@@ -227,11 +248,11 @@ Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
 
-Peters, M. A. (2011). Algorithmic capitalism and educational futures. In M. A. Peters & E. Bulut (Eds.), Cognitive capitalism, education, and digital labor (pp. 245–258). New York: Peter Lang.
+Peters, M. A. (2011). Algorithmic capitalism and educational futures. In M. A. Peters & E. Bulut (Eds.), _Cognitive capitalism, education, and digital labor_ (pp. 245–258). New York: Peter Lang.
 
 ### Limitations of Open Education
 #### Readings due:
-Peters, M., & Bulut, E. (2011). Cognitive capitalism, education, and digital labor. New York: Peter Lang. [selections]
+Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. [selections]
 
 ### Final project presentations and wrap-up
 
@@ -240,11 +261,29 @@ Peters, M., & Bulut, E. (2011). Cognitive capitalism, education, and digital lab
 ### Participation (30%)
 This will be a reading-heavy course. Each student will be asked to lead the discussion one week during the semester (either online, or in person).
 
+
+### Personal Learning Plan (15%)
+You will create a plan for what you want to learn in this course, how it connects to your broader learning goals, and how you hope to accomplish these goals and your plan. Your plan should be a narrative, of approximately 500 words. It may include diagrams, lists, timelines, web links, and other necessary elements.
+
+It must include some reflection on:
+
+1. Your overall goals
+2. Specific goals for this course
+3. Practices where you learn best (studying same time every day, setting goals, working in groups, working in library, reading on train, etc.)
+4. Distractors and disruptors that make it more difficult to learn/study (work, sports, friends, siblings, Facebook, etc.)
+5. Measures: how will you know you met your goals, when will/should you be satisfied? (you might measure this by what you produce, like a paper, what you know, or connections you make)
+6. Mentors: who do you turn to for help when you are learning things? What types of things do they help you with? Do you need to reach out to more mentors?
+7. Your **study group**: a group of 2-3 other students in class who you can contact when you have questions and will meet with (online or in person) when we do not meet as a full class
+
+Your initial personal learning plan is due on the second class meeting. You will revise it and turn it in a revised draft at the end of the semester.
+
 ### Session leader (15%)
+Everyone in the class will be responsible for leading a class session, either alone or working with a partner (depending on class size). 
+
 
 ### Open Pedagogy Essay (20%)
 
-### Personal Learning Analysys (15%)
+
 
 ### Collaborative Community Case Study (20%)
 
