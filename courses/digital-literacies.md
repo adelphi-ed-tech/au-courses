@@ -157,9 +157,6 @@ Pahl, K., & Rowsell, J. (Eds.). (2006). _Travel Notes from the New Literacy Stud
 Practice_. Multilingual Matters Limited.
 ISBN 1853598615
 
-
-
-
 ## Class sessions
 
 ### Week 1, August 30: Changes in language, changes in literacy
@@ -342,7 +339,7 @@ Students will present their final projects
 ## Assignments
 
 ### Digital portfolio
-You will create a digitl portfolio that highlights your understanding and proficiency with various digital literacies. You will be adding items to this portfolio througout the term. You _must_ show a breadth of expertise, with basic proficiency in each area of digital literacy. Additionally, you _must_ demonstrate a depth of expertise in at least one of the areas below. You will turn in your portfolio for final evaluation at the end of the course, along with a narrative introduction that guides evaluators through it.
+You will create a digital portfolio that highlights your understanding and proficiency with various digital literacies. You will be adding items to this portfolio throughout the term. You _must_ show a breadth of expertise, with basic proficiency in each area of digital literacy. Additionally, you _must_ demonstrate a depth of expertise in at least one of the areas below. You will turn in your portfolio for final evaluation at the end of the course, along with a narrative introduction that guides evaluators through it.
 
 HTML/Hypertext
 
@@ -350,7 +347,7 @@ HTML/Hypertext
 
 Digital Images
 
-:   We live in a visual culture, and the ability to communicate using images is essential. The verb, "to photoshop" something has become common place in our society. Everyone's portfolio must contain a **collage** where they exhibit their skills in digital image editing: cropping, scaling, selecting, composting, using layers, combining text and images. In addition to these _technical_ requirements, your collage must also strive for expressive content, common in our study of new media: playfulness, non-linearity and multiplicty, irony/paradox, etc.
+:   We live in a visual culture, and the ability to communicate using images is essential. The verb, "to photoshop" something has become common place in our society. Everyone's portfolio must contain a **collage** where they exhibit their skills in digital image editing: cropping, scaling, selecting, composting, using layers, combining text and images. In addition to these _technical_ requirements, your collage must also strive for expressive content, common in our study of new media: playfulness, non-linearity and multiplicity, irony/paradox, etc.
 
 Digital Video and Audio
 
@@ -374,5 +371,47 @@ Privacy & Security
     4. **social security.** If I Google your name, what do I see? Would you want your mom to see it? Your (potential) boss? Do the top hits give the image you want to project? What if I look on Bing, Yahoo, or Duck Duck Go?\
     What about Facebook or that old MySpace account? How much information is public, or shared with your "networks" (i.e. everyone on Facebook)? What is the worst case if your FB account were hacked? What if you have a falling out with a close friend or lover? If you were hoping for a job with the Obama or Romney presedition campaigns and they asked to see your personal FB account, would you still get the job? Do you care?
 
+Data literacy
+
+:   The networked society is characterized by the problem of overabundance rather than scarcity of information. This means you must be able to to gather, analyze, and communicate large amounts of data. While not all of this information is quantitative, this portfolio item focuses on quantitative analysis. You will demonstrate your **basic data literacy** by:
+
+    1. Finding and downloading an interesting (and sufficiently large) data set.
+    2. Analyzing it using spreadsheet software.
+    3. Discovering something interesting in the data.
+    4. Creating a multimedia (text and image) representation of your interesting finding (like a series of graphs or an infographic).
     
+    Some places to look for data sets:
+    
+    * [Bureau of labor statistics](http://www.bls.gov/)
+    * [U.S. Census Data Tools](http://www.census.gov/main/www/access.html)
+    * [NYC Schools Accountability Data](http://schools.nyc.gov/Accountability/data/default.htm)
+    * [National Center for Education Statistics](http://nces.ed.gov/)
+    * [Wikipedia Data](http://dumps.wikimedia.org/index.html) for the more ambitious
+    * [Datamob "meta" collector of datasets](http://datamob.org/datasets)
+
+### Workshop
+Students in this course come in with a wide range of skills and competencies. As part of your participation in this course, you need to schedule and lead a workshop for your peers on a practical area of "digital literacy." You don't need to be an expert in the area -- rather, you should take a little bit of extra time to become proficient before leading the workshop. You can run your workshop alone, or with a partner. If you work with a partner, depending on the number of students, you may need to present twice. In addition to facilitating a workshop, everyone must **participate in at least two** workshops. Workshops will be scheduled at the convenience of the facilitators, either on the Adelphi campus or online.
+
+Here is the tenative schedule of workshops. You will have the opportunity to sign up for one, and to discuss the content covered with the instructor. If you have an idea for another workshop, please suggest it.
+
+2. HTML5 basics
+3. Basic image editing with GIMP
+4. Shooting digital video (and audio)
+5. Basic digital video editing with iMovie and YouTube
+6. Podcasting (with Audacity and iTunes)
+7. Screencasting (with Jira and/or RecordMyDesktop)
+8. Who's afraid of a spreadsheet? excel and spreadsheet basics
+9. Functions, graphs, and (more) advanced spreadsheets
+10. Visual programming with (Scratch or LEGO Mindstorms or Kodu)
+11. Advanced slideshows: animations, transitions, voice narration, and more
+12. Cascading Style Sheets: using css to control the look of your website
+13. Advanced image editing with GIMP
+14. [Blender](http://www.blender.org/ "don't know it yet? learn it on your own and share what you learn in your workshop"): an introduction to 3d modeling and animations
+
+### Participation
+Your participation in the course is what makes it worthwhile to you and the other participants. Your participation grade will be based on your self-evaluation in the _professionalism rubric_.
+
+------------------------------------------------------------------------
+
+
     
