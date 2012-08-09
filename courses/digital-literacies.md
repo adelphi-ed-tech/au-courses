@@ -2,6 +2,22 @@
 % Matthew X. Curinga
   Gillian "Gus" Andrews
 
+<!--
+This syllabus was created for
+the Educational Technology Program
+at Adelphi University:
+http://education.adelphi.edu
+copyright 2012 Matthew X. Curinga, Gillian "Gus" Andrews
+http://matt.curinga.com
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
+a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+We ask, but do not require, that attribution includes a link to our websites (above).
+version: 2.1
+Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
+-->
+
+
 **Key words:** digital literacies, multileracies, new literacy, semantics, new media, communication
 theory, youth media
 
@@ -53,7 +69,7 @@ Press. ISBN 9780335242160
 
 Lessig, L. (1999). _Code and Other Laws of Cyberspace._ New York: Basic Books. <!-- Note: I know there's an updated version, but I don't think it's as readable or coherent as the original. -->
 
-Mirzoeff, N. (2009). _An introduction to visual culture (2nd ed.)_. London;New York: Routledge. ISBN
+Mirzoeff, N. (2009). _An introduction to visual culture (3nd ed.)_. London;New York: Routledge. ISBN
 9780415327589
 
 Wardrip-Fruin, N., & Montfort, N. (Eds.). (2003). _The New Media Reader_. Cambridge Mass.: MIT
@@ -324,41 +340,39 @@ Students will present their final projects
 
 
 ## Assignments
-Students will complete a variety of in-class and homework assignments
-that ask them to reflect on the theories of digital literacy and to
-effectively use digital tools to create new media texts. The following
-assignments will allow the instructor to evaluate their progress.
 
-**Slideshow presentation: my tech biography.** In this assignments students
-will reflect on their history of interacting with and learning digital
-technologies. They will be responsible for creating a multimedia
-slideshow on the topic. Both the contents of the slideshow and the
-skills exhibited by the students will allow the instructor to gauge
-their facility with producing digital media. (15%)
+### Digital portfolio
+You will create a digitl portfolio that highlights your understanding and proficiency with various digital literacies. You will be adding items to this portfolio througout the term. You _must_ show a breadth of expertise, with basic proficiency in each area of digital literacy. Additionally, you _must_ demonstrate a depth of expertise in at least one of the areas below. You will turn in your portfolio for final evaluation at the end of the course, along with a narrative introduction that guides evaluators through it.
 
-**Semantic map: digital literacies landscape.** Students will create a
-semantic map which shows the varied skills and contexts required to be
-considered _fully literate_ in the networked society. They will have to
-identify major and minor areas of literacy and indicate how they are
-related to each other. This assignment will allow the instructor to
-evaluate how well the students can synthesize the course readings
-explaining the digital literacy landscape. (15%)
+HTML/Hypertext
 
-**Semantic and visual software review screen cast.** Each student will
-create a “screen cast”— a narrated video —of an educational software
-title or website produced using a tool such as Camtasia, IShowU, or Jing. They will reflect on the software in light of the units on visual culture, design/HCI,
-privacy/security, computational literacy, source literacy, and identity. The screencast should include evaluations of what
-their own students or other users would need to know to navigate the site/software being reviewed.
-This assignment will allow evaluation of their understanding of these lessons, as well as their ability to use the set of
-digital tools to create a screen cast. (20%)
+:   HTML is the basic building block of the Web and the most pervasive form of hypertext in use today. While most HTML is generated dynamically by web-based programming languages and/or GUI editors, understanding how to _hand code_ html is an important piece of digital literacy as a both a consumer and producer of digital texts. To satisfy the **basic** HTML requirement in your portfolio, you will write your own resume and biography/introduction in HTML. **Advanced** HTML will include CSS stylesheets and multimedia. It should use principles of Universal Design for the Web, best practices for web usability and design, display well for large, media, small screens, and print, be error free, and, generally look and feel great. _What_ you produce in HTML is up to you, as long as it is your own work, or work where you are a principal contributor.
 
-**Digital literacies “Ted Talk”.** Working in teams of 3 or 4, students will
-create a multimedia presentation in the style of a “Ted Talk.” This
-presentation will require each group to research a topic of the course
-in greater detail (in consultation with the instructor), and to create
-presentations that incorporates a variety of digital production tools.
-The assignment is designed to assess the students' ability to use
-digital tools to communicate effectively, and to use their own resources
-to further their knowledge of digital literacies. (30%)
+Digital Images
 
+:   We live in a visual culture, and the ability to communicate using images is essential. The verb, "to photoshop" something has become common place in our society. Everyone's portfolio must contain a **collage** where they exhibit their skills in digital image editing: cropping, scaling, selecting, composting, using layers, combining text and images. In addition to these _technical_ requirements, your collage must also strive for expressive content, common in our study of new media: playfulness, non-linearity and multiplicty, irony/paradox, etc.
 
+Digital Video and Audio
+
+:   [72 hours of video are uploaded to YouTube every minute](http://www.youtube.com/t/press_statistics/). Online video for teaching and learning have exploded, popularized by sites like [TED](http://ted.com) and [Khan Academy](http://www.khanacademy.org/). Your portfolio must include a 60-90s video, where you teach _something_. The video can be made with footage that you shoot (with your phone, tablet, flipcam), find online and remix, create from still images, or "screencast" on your computer. At the very least, the video must be edited. Upload your video to YouTube and embed it in your portfolio.
+
+Collaborative Production
+
+:   Digital literacy is networked literacy. Software, encyclopedias, novels, video games, films, politics, and any number of creative works are now produced collaboratively. To demonstrate your **basic** understanding of collaborative production, you will create an account on Wikipedia (if you don't have one) and contribute **10 edits** which meet the standards and practices established by the Wikipedia community. These should be minor edits: fixing spelling and grammatical errors, adding reliable sources for unsourced articles, participating in the discussion on talk pages, etc. Your portfolio should include a page which offers a brief reflection on your editing experience, examples of your contributions (before/after), and links to the pages you changed.
+
+Video Game Literacy
+
+:   Video games are more popular than movies, and players cut across ethnic, gender, class, and other boundaries. Using the Mechanics-Dynamics-Aesthetics framwork, post a 1-page (300-400 word) analysis of a video game of your choice.
+
+Privacy & Security
+
+:    Your portfolio must include a **personal security audit**. Your audit will examine your digital and social practices to look for weaknesses. You must consider:
+    
+    1. what **digital data** is most precious to you? do you have back-ups? how are they managed? can you restore them? if you keep your data "in the cloud", can you retrieve it all at once? can you keep your own backup? _do you_? are you locked into a certain service (e.g. flickr, facebook, gmail)? are you locked into a proprietary format that would prevent you from switching? are their social/network pressures that influence you?
+    2. **financial security.** How do you choose passwords? How strong are they? Do you share them? Do you use them across multiple sites? What would happen if one of your passwords an email were stolen from a site you belong to? Can you list all of the sites/services that have financial information (e.g. CC, bank account, SSN)? In order, which of these do you think are the most secure?
+    3. **personal digital security.** Do you run a firewall on your desktop or laptop computer? Is there a password on your phone or tablet? If I stole your phone, what would I find? Do you encrypt any files on your computer? If I logged into your computer (or networked account) as you, what damage could I do? What steps do you take to minimize this damage?
+    4. **social security.** If I Google your name, what do I see? Would you want your mom to see it? Your (potential) boss? Do the top hits give the image you want to project? What if I look on Bing, Yahoo, or Duck Duck Go?\
+    What about Facebook or that old MySpace account? How much information is public, or shared with your "networks" (i.e. everyone on Facebook)? What is the worst case if your FB account were hacked? What if you have a falling out with a close friend or lover? If you were hoping for a job with the Obama or Romney presedition campaigns and they asked to see your personal FB account, would you still get the job? Do you care?
+
+    
+    
