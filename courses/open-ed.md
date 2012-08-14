@@ -141,7 +141,7 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 
 ## Schedule, format, & session leaders
 
-Session      Week       Format          Topic                                       Leader
+Session      Week       Format          Topic                                       Session Leader
 -------      ------     -------------   ----------------------------------------    ----------------------
 1            Aug 29     synchronous     Foundations of Open Education               Curinga
 2            Sep 5      synchronous     Tools for open study                        
@@ -149,21 +149,23 @@ Session      Week       Format          Topic                                   
 4            Sep 19     synchronous     Ignorant Schoolmaster                       
 5            Sep 26     asynchronous    Connectivism, Minds on Fire, Turkle         
 6            Oct 3      asynchronous    Free Software/Open Source Software          
-7            Oct 10     asynchronous    Peer production                             
+7            Oct 10     synchronous     Peer production                             
 8            Oct 17     synchronous     Free Culture & Open Content                 
 9            Oct 24     asynchronous    The liberal commons                         
-10           Oct 31     asynchronous    The common                                  
-11           Nov 7      synchronous     Open Education Resources                    
-12           Nov 14     asynchronous    MOOCs: Massively Open Online Courses        
+10           Oct 31     synchronous     The common                                  
+11           Nov 7      asynchronous    Open Education Resources                    
+12           Nov 14     synchronous     MOOCs: Massively Open Online Courses        
 -            Nov 21     No Class                -                                           -
 13           Nov 28     asynchronous    Resisting Open Education                    
 14           Dec 5      synchronous     The Future School & University                                            
 -            Dec 12     No Class                -                                           -
 15           Dec 19     asynchronous    Wrap-up                                     Curinga
 
-* **bold text** above indicate weeks when graded assignments are due
-* **synchronous** classes meet on Wed. at 4:30. Students are _encouraged_ to attend in person, at Adelphi's Garden City Campus, in room Harvey 104. If you cannot attend in person, you _must_ join us for a video conference.
-* **asynchronous** weeks have no set meeting time. They will be carried out by posting writing, video, or other media to the course website.
+* **Synchronous** classes meet on Wed. at 4:30. Students are _encouraged_ to attend in person, at Adelphi's Garden City Campus, in Harvey 104. If you cannot attend in person, you _must_ join us for a video conference.
+* **Asynchronous/online** weeks have no set meeting time. They will be carried out by posting writing, video, or other media to the course website. You should consult with your _study group_ every week. During asynchronous weeks, you **must check the course website at least once a day.** Online weeks run from Wednesday to the next Wednesday. A typical online week looks like this:
+    - Wed-Sat: do the readings
+    - Sun or Mon: post your response online (300-500 words), due by end of day on Monday
+    - Mon-Wed: post at least two comments; respond to comments on your post.
 
 ## Class sessions
 
@@ -277,14 +279,14 @@ Critical Essay (draft)      11/21                   ungraded
 Critical Essay (comments)   11/28                   ungraded
 Critical Essay (final)      12/12                   30%
 
-### Participation (30%)
+### Participation
 This will be a reading-heavy course. Whether meeting in-person, over video conference, or asynchronously online, you are expected to be prepared each week. In a typical week, there will be 40-80 pages of reading. Sometimes there will be videos to watch as well. Let's call all of these _texts_.
 
 When you read a text for this course, you should have two things in mind: (1) what is the text arguing? (2) to what extent do you agree with these arguments? You should be in touch with your study group to discuss texts before full group discussions.
 
 Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
 
-### Personal Learning Plan (20%)
+### Personal Learning Plan
 You will create a plan for what you want to learn in this course, how it connects to your broader learning goals, and how you hope to accomplish these goals and your plan. Your plan should be a narrative, of approximately 500 words. It may include diagrams, lists, timelines, web links, and other necessary elements.
 
 It must include some reflection on:
@@ -327,7 +329,7 @@ While most of the above comments hold for **online discussions**, there are some
 
 Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
 
-### Critical Essay (40%)
+### Critical Essay
 Choose an area of interest that has arisen out of the course readings and discussions and write a reflective essay on this topic. Follow [Chris Higgins' Notes on the critical-interpretive essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpretive_essay) for the structure of this essay, which should be: _focused_, _interesting_, _motivated_, and _controversial_. The chapters in _Cognitive Capitalism, Education, and Digital Labor_ are typical of writing in this style. You should refer closely to the texts that we engage with during the semester in your writing. Your work must properly cite your sources. You may use endnotes, APA, Chicago, MLA, or any other writing style for this paper, as long as it is consistent and clear.
 
 Essays must be approximately 5,000 words long (about 10 pages). They will be posted online for discussion in our last week of the semester. This is strictly an individual assignment (one essay per person). You should work with your study group to draft and improve your essay. I strongly suggest that everyone schedule an appointment with the [Writing Center](http://students.adelphi.edu/writingcenter/) before you turn in your draft, and then again before you turn in your final essay.
