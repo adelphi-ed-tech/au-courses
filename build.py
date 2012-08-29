@@ -17,8 +17,20 @@ def IsModified(course):
     if(not os.path.exists("out/%s.html" % (course,))):
         return True
     srcMod = os.path.getmtime("courses/%s.md" % (course,))
+    cssMod = os.path.getmtime("css/adelphi.css")
+    customCssMod = 0
+    
+    if(os.path.exists("css/%s.css" % (course,))):
+        customCssMod = os.path.getmtime("css/%s.css" % (course,))
+    tmplMod = os.path.getmtime("tmpl/%s.html" % ("adelphi",))
+    footerMod = os.path.getmtime("tmpl/%s.html" % ("footer",))
+
     outMod = os.path.getmtime("out/%s.html" % (course,))
-    return srcMod > outMod
+    return (srcMod > outMod) \
+           or (cssMod > outMod) \
+           or (tmplMod > outMod) \
+           or (customCssMod > outMod) \
+           or (footerMod > outMod)
 
 def GenerateCourse(tmpl,course):
         pwd = os.getcwd()
