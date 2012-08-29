@@ -18,11 +18,11 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 Keywords
 
-:   open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education, peer production
+:   open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education, peer production, MOOC
 
 Description
 
-:   Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, and tailored locally to the specific needs of learners. Students in this course study the underlying principles of open education and participate in online projects developing open education resources.
+:   Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, tailored locally to the specific needs of learners, and studied collaboratively. Students in this course consider the underlying principles of open education: why it works, when it fails, how it relates to "traditional" education, and what we want it to look like.
 
 ------------------------------------------------------------------------
 
@@ -63,24 +63,19 @@ Office hours
 :   Thursday, 2:30-4:30PM
 :   Online or in person, by appointment
 
-
-## Goals
-
-
-This course provides students an introduction to the open education movement, from a pedagogical, social, and technical perspective. Students will consider the implications of open education in the future of schools and learning, understand how to participate in open education projects, and incorporate open resources in their practice.
-
-By the end of the course, students will be able to:
-
-1. Evaluate current educational practices in terms of the pedagogical goals and techniques of open education
-2. Articulate the positive and negative implications of the open education movement for earning&mdash;both within and outside of schools
-3. Locate and modify [open education resources](http://en.wikipedia.org/wiki/Open_educational_resources) for their own needs
-4. Contribute to open education projects
-
 ## Readings
 ### Required Books
 
-Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA.
+Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. ISBN 0804719691
 ![book cover igorant schoolmaster](http://photo.goodreads.com/books/1223664347l/445408.jpg)
+
+Buy online: [Powells](http://www.powells.com/biblio/9780804719698) | [Amazon](http://amzn.com/0804719691) | [B&N](http://search.barnesandnoble.com/The-Ignorant-Schoolmaster/Jacques-Ranciere/e/9780804719698 "buy or rent") | [ConnectNY](http://www.connectny.info/search/a?searchtype=i&searcharg=0804719691&SORT=A) | _or go to the AU bookstore._
+
+
+### Recommended books
+Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. ISBN: 1433109816
+![book cover cognitive capitalism](http://www.peterlang.com/files/smthumbnaildata//325x/1/8/8/0/1/2/310981_cover.jpg
+)
 
 ### Bibliography & readings
 Barabási, A.-L. (2003). _Linked: How everything is connected to everything else and what it means for business, science, and everyday life_. New York: Plume.
@@ -89,11 +84,11 @@ Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](ht
 
 Benkler, Y. (2006). [_The Wealth of Networks: How Social Production Transforms Markets and Freedom_](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf). New Haven and London: Yale University Press.
 
-Brown, J. S. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educase Review_, _43(1)_, 16-32.
+Brown, J. S. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educause Review_, _43(1)_, 16-32.
 
-Castells, M. (2003). _The Internet Galaxy: Reflections on the Internet, Business, and Society_. Oxford University Press, USA.
+Castells, M. (2003). _The Internet Galaxy: Reflections on the Internet, Business, and Society_. Oxford University Press. USA.
 
-Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
+Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc) [video, 04:27]
 
 Crouch, C. H., & Mazur, E. (2001). [Peer instruction: Ten years of experience and results](http://newfaculty.mst.edu/documents/MazurActiveLearning.pdf). _American Journal of Physics_, 69.
 
@@ -105,14 +100,14 @@ Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press.
 
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
-Illich, I. (1971). _Deschooling Society_. Harper & Row. New York.
+Illich, I. (1971). [_Deschooling Society_]("http://www.preservenet.com/theory/Illich/Deschooling/intro.html"). Harper & Row. New York.
 
-Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http://twobits.net/read/). Duke University Press. Durham, N.C..
+Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http://twobits.net/read/). Duke University Press. Durham, N.C.
 
 Kamenetz, A. (2011). the [Edupunks’ Guide to a DIY Education!](http://www.edupunksguide.org/) Bill and Melinda Gates Foundation.
-website].
+[website and ebook].
 
-Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). The MIT Press. Cambridge, Massachusetts.
+Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). MIT Press. Cambridge Mass.
 
 Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_](http://www.free-culture.cc/freeculture.pdf). Penguin Press HC.
 
@@ -122,11 +117,9 @@ Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/pete
 
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science,_ _2_(1), 493–535.
 
-Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang.
-
 Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/578/499/). _First Monday_, _3(3)_.
 
-Reagle, J. (2010). _Good faith collaboration: the culture of Wikipedia_. Cambridge  Mass. MIT Press.
+Reagle, J. (2010). _Good faith collaboration: the culture of Wikipedia_. MIT Press. Cambridge Mass.
 
 Siemens, G. (2004). [Connectivism: A learning theory for the digital age](http://www.elearnspace.org/Articles/connectivism.htm). _eLearn Space_.
 
@@ -138,14 +131,14 @@ Turkle, S. (2011). _Alone Together: Why We Expect More from Technology and Less 
 
 (n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
 
-Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Processes_. Harvard University Press. Cambridge MA.
+Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Processes_. Harvard University Press. Cambridge Mass.
 
 ## Schedule, format, & session leaders
 
 Session      Week       Format          Topic                                       Session Leader
 -------      ------     -------------   ----------------------------------------    ----------------------
 1            Aug 29     synchronous     Foundations of Open Education               Curinga
-2            Sep 5      synchronous     Tools for open study                        
+2            Sep 5      synchronous     Doing "open learning"
 3            Sep 12     asynchronous    Deschooling                                 
 4            Sep 19     synchronous     Ignorant Schoolmaster                       
 5            Sep 26     asynchronous    Connectivism, Minds on Fire, Turkle         
@@ -170,23 +163,25 @@ Session      Week       Format          Topic                                   
 
 ## Class sessions
 
-### Foundations of Open Education
+###  Foundations of Open Education
 #### Readings due:
 none, just come to class
 
 #### Assignments due:
 * buy _The Ignorant Schoolmaster_ and _Cognitive Capitalism_
 * log into the Moodle site for this course
-* post an introduction, "what I want to learn in _open education_"
-* join the Google Group, [some group](http://example.com "you can use your adelphi email for this")
 
-### Tools for open study
-In this session we will discuss the tools and techniques for participating in this class.
+### Doing "open learning"
 
 #### Readings due:
 [Edupunk's Guide tutorials](http://edupunksguide.org/tutorials), especially regarding personal learning plan and personal learning networks
 
+[Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
+
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. _Chapter 1_
+
+#### Optional readings:
+[Stephen Downes' Review of _The Edupunks' Guide_](http://halfanhour.blogspot.com/2011/08/review-edupunks-guide-by-anya-kamenetz.html)
 
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan)
@@ -196,7 +191,7 @@ Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Ema
 #### Readings due:
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
-Rancière, chapter 2 & 3
+Rancière, chapters 2 & 3
 
 #### Assignments due:
 * weekly online discussion
@@ -207,7 +202,7 @@ Rancière, chapter 4 & 5
 
 ### Networked learning
 #### Readings due:
-Brown, J. S., & Adler, R. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educase Review_, _43_(1), 16–32.
+Brown, J. S., & Adler, R. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educause Review_, _43_(1), 16–32.
 
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
 
@@ -288,18 +283,18 @@ When you read a text for this course, you should have two things in mind: (1) wh
 Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
 
 ### Personal Learning Plan
-You will create a plan for what you want to learn in this course, how it connects to your broader learning goals, and how you hope to accomplish these goals and your plan. Your plan should be a narrative, of approximately 500 words. It may include diagrams, lists, timelines, web links, and other necessary elements.
+You will create a plan for what you want to learn in this course, how it connects to your broader learning goals, and how you hope to accomplish these goals and your plan. Your plan should be a narrative, of approximately 500 words. It may include diagrams, lists, timelines, web links, and other necessary elements. Create it as an Adelphi Google Doc, and post the link to your document on Moodle.
 
 It must include some reflection on:
 
 1. Your **overall goals** (in school, as a person, in life, etc.)
-2. **Specific goals** for this course
-3. **Practices** where you learn best (studying same time every day, setting goals, working in groups, working in library, reading on train, etc.)
+2. **Specific goals** for this course. A good way to formulate goals are to think about **research questions** and **capacities** that you want to explore. For example: "I would like to understand the role of a traditional university in the world of free, online courses" or "I want to learn how to contribute a patch to a Free Software project."
+3. **Practices** where and howyou learn best (studying same time every day, setting goals, working in groups, working in library, reading on train, etc.) What's your plan for this semester?
 4. **Distractors** and disruptors that make it more difficult to learn/study (work, sports, friends, siblings, Facebook, etc.)
 5. **Measures:** how will you know you met your goals, when will/should you be satisfied? (you might measure this by what you produce, like a paper, what you know, or connections you make)
 6. **Peers:** who is interested in learning similar things? how did/do you meet them? how do you keep in touch? what do you offer to your peers? how is knowledge shared? what technology do you use?
 7. **Mentors:** who do you turn to for help when you are learning things? What types of things do they help you with? Do you need to reach out to more mentors?
-8. Your **study group**: a group of 2-3 other students in class who you can contact when you have questions and will meet with (online or in person) when we do not meet as a full class
+8. Your **study group**: a group of 3-5 other students in class who you can contact when you have questions and will meet with (online or in person) to discuss readings, edit your work, etc.
 
 Your initial personal learning plan is due on the second class meeting. You will revise it and turn in a revised draft at the end of the semester.
 
@@ -310,14 +305,14 @@ In-class seminar leaders may want to open class with a few comments about the te
 
 * begin with (~15 minutes) of initial free writing/journaling related to the texts, some participants read their entries
 * formulate open questions that address a large issue in the text, frame the questions with specific quotations from the works we're studying
-* distribute questions to small groups or pairs, and have them work independently on discussion the works. share with full group after certain time
-* ask each participant to read a line or two that they think is interesting or worth discussing
+* distribute questions to small groups or pairs, and have them work independently on discussion the works. visit the groups while they are discussing the text and join their discussion. share with full group after certain time.
+* ask each participant to read a line or two that they think is interesting or worth discussing; follow the discussion from there
 * ask participants to write down one or two questions or insights that they have about the works. build a discussion around these.
 
-Here are some things to avoid, which I've noticed as common errors in student led (and instructor led) seminars:
+Here are some things to avoid:
 
-* boring your audience with a poor lecture or presentation
-* asking yes or no questions: "Do you agree that Ivan Illich didn't like schools?"
+* boring your audience with a poorly organized lecture (especially easy to do with a PPT in the "book report" style)
+* asking yes or no questions: "Does Ivan Illich like schools?"
 * allowing the discussion to drift too far from the texts/subject being discussed
 * misjudging the time it will take to discuss something
 * allowing a few voices to dominate the conversation
@@ -331,13 +326,27 @@ While most of the above comments hold for **online discussions**, there are some
 Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
 
 ### Critical Essay
-Choose an area of interest that has arisen out of the course readings and discussions and write a reflective essay on this topic. Follow [Chris Higgins' Notes on the critical-interpretive essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpretive_essay) for the structure of this essay, which should be: _focused_, _interesting_, _motivated_, and _controversial_. The chapters in _Cognitive Capitalism, Education, and Digital Labor_ are typical of writing in this style. You should refer closely to the texts that we engage with during the semester in your writing. Your work must properly cite your sources. You may use endnotes, APA, Chicago, MLA, or any other writing style for this paper, as long as it is consistent and clear.
+Choose an area of interest that has arisen out of the course readings and discussions and write a reflective essay on this topic. Follow [Chris Higgins' Notes on the critical-interpretive essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpretive_essay) for the structure of this essay, which should be: _focused_, _interesting_, _motivated_, and _controversial_. The chapters in _Cognitive Capitalism, Education, and Digital Labor_ are typical of writing in this style. You should refer closely to the texts that we engage with during the semester in your writing. Your work must properly cite your sources. Since we will be compiling our essays together, you should use APA style. You may include endnotes in your essay as well
 
 Essays must be approximately 5,000 words long (about 10 pages). They will be posted online for discussion in our last week of the semester. This is strictly an individual assignment (one essay per person). You should work with your study group to draft and improve your essay. I strongly suggest that everyone schedule an appointment with the [Writing Center](http://students.adelphi.edu/writingcenter/) before you turn in your draft, and then again before you turn in your final essay.
 
-You must turn in a **draft of your essay** on 11/21. You will be assigned another classmate as the editor for your work. This person will be outside of your study group, to give you a different perspective. You are encouraged to also send drafts to your study group for comments. **Comments on the draft you are editing are due on 11/28.**
+You post a **draft of your essay** on 11/21. Post your essay on Google Docs and share the link with the class (and your editor) on Moodle. You will be assigned another classmate as the editor for your work. This person will be outside of your study group, to give you a different perspective. You are encouraged to also solicit comments from your study group. **Comments on the draft you are editing are due on 11/28.**
 
 **Your final essay is due on 12/12.** Late work will not be accepted for this assignment and there will not be an opportunity to re-write your final draft. Avail yourself to the resources in your personal learning network to ensure that you turn in high quality work.
 
-The final essays will be **collected into an e-book** and published using a Creative Commons license on the Educational Technology program website as our contribution to the study of Open Education.
+The final essays will be **collected into an e-book and website** and published using a Creative Commons license on the Educational Technology program website as our contribution to the study of Open Education.
+
+Your grade for the final paper will be based on the jouranl article evaluation process from the _[Journal of Peer Production](http://peerproduction.net/)_
+
+Their reviewers consider:
+
+1. Is the subject matter relevant?
+2. Is the treatment of the subject matter intellectually interesting? _Does the author cite relevant literature to support the claims_?
+3. Are there any noticeable problems with the author’s means of validating assumptions or making judgments?
+4. Is the article well written?
+5. Are there portions of the article that you recommend be shortened, excised or expanded?
+
+From [Process: Appendix A](http://peerproduction.net/peer-review/process/). _modifications appear in italics_
+
+Three people will read your essay and offer a grade and comments: the instructor, an outside reviewer, and a fellow student from the class. Your grade for the essay will be the average of these three grades.
 
