@@ -135,31 +135,33 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 
 ## Schedule, format, & session leaders
 
-Session      Week       Format          Topic                                       Session Leader
--------      ------     -------------   ----------------------------------------    ----------------------
-1            Aug 29     synchronous     Foundations of Open Education               Curinga
+Session      Week       Format          Topic
+-------      ------     -------------   ----------------------------------------
+1            Aug 29     synchronous     Foundations of Open Education
 2            Sep 5      synchronous     Doing "open learning"
-3            Sep 12     asynchronous    Deschooling                                 
-4            Sep 19     synchronous     Ignorant Schoolmaster                       
-5            Sep 26     asynchronous    Connectivism, Minds on Fire, Turkle         
-6            Oct 3      asynchronous    Free Software/Open Source Software          
-7            Oct 10     synchronous     Peer production                             
-8            Oct 17     synchronous     Free Culture & Open Content                 
-9            Oct 24     asynchronous    The liberal commons                         
-10           Oct 31     synchronous     The common                                  
-11           Nov 7      asynchronous    Open Education Resources                    
-12           Nov 14     synchronous     MOOCs: Massively Open Online Courses        
--            Nov 21     No Class                -                                           -
-13           Nov 28     asynchronous    Resisting Open Education                    
-14           Dec 5      synchronous     The Future School & University                                            
--            Dec 12     No Class                -                                           -
-15           Dec 19     asynchronous    Wrap-up                                     Curinga
+3            Sep 12     asynchronous    Deschooling
+4            Sep 19     synchronous     Ignorant Schoolmaster
+5            Sep 26     asynchronous    Connected Learning
+6            Oct 3      asynchronous    Free Software/Open Source Software
+7            Oct 10     synchronous     Peer production
+8            Oct 17     synchronous     Free Culture & Open Content
+9            Oct 24     asynchronous    The liberal commons
+10           Oct 31     synchronous     The common
+11           Nov 7      asynchronous    Open Education Resources
+12           Nov 14     synchronous     MOOCs: Massively Open Online Courses
+-            Nov 21     No Class                -
+13           Nov 28     asynchronous    Resisting Open Education
+14           Dec 5      synchronous     The Future School & University
+-            Dec 12     No Class                -
+15           Dec 19     asynchronous    Wrap-up
 
 * **Synchronous** classes meet on Wed. at 4:30. Students are _encouraged_ to attend in person, at Adelphi's Garden City Campus, in Harvey 104. If you cannot attend in person, you _must_ join us for a video conference.
 * **Asynchronous/online** weeks have no set meeting time. They will be carried out by posting writing, video, or other media to the course website. You should consult with your _study group_ every week. During asynchronous weeks, you **must check the course website at least once a day.** Online weeks run from Wednesday to the next Wednesday. A typical online week looks like this:
     - Wed-Sat: do the readings
     - Sun or Mon: post your response online (300-500 words), due by end of day on Monday
     - Mon-Wed: post at least two comments; respond to comments on your post.
+* [See the list of session leaders](https://docs.google.com/a/adelphi.edu/spreadsheet/ccc?key=0Ah4VJpL9BavSdFRSQll0MzJReGFRVmZ0UTR5YmNTN1E "required Adelphi Login")
+
 
 ## Class sessions
 
@@ -185,7 +187,7 @@ Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Ema
 
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan)
-* sign up to lead a weekly discussion
+* [sign up to lead a weekly discussion here](* [See the list of session leaders](https://docs.google.com/a/adelphi.edu/spreadsheet/ccc?key=0Ah4VJpL9BavSdFRSQll0MzJReGFRVmZ0UTR5YmNTN1E "required Adelphi Login"))
 
 ### Deschooling
 #### Readings due:
@@ -200,7 +202,7 @@ Rancière, chapters 2 & 3
 #### Readings due:
 Rancière, chapter 4 & 5
 
-### Networked learning
+### Connected Learning
 #### Readings due:
 Brown, J. S., & Adler, R. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educause Review_, _43_(1), 16–32.
 
