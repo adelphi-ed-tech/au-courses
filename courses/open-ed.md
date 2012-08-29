@@ -178,7 +178,7 @@ none, just come to class
 
 [Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
 
-Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. _Chapter 1_
+Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. [_Chapter 1_](https://moodle.adelphi.edu/file.php/53983/ranciere-1991-ignorant-schoolmaster_ch1.pdf "if you don't have the book yet, you can download chapter 1 from Moodle. LOG IN FIRST")
 
 #### Optional readings:
 [Stephen Downes' Review of _The Edupunks' Guide_](http://halfanhour.blogspot.com/2011/08/review-edupunks-guide-by-anya-kamenetz.html)
