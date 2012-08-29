@@ -80,6 +80,7 @@ By the end of the course, students will be able to:
 ### Required Books
 
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA.
+![book cover igorant schoolmaster](http://photo.goodreads.com/books/1223664347l/445408.jpg)
 
 ### Bibliography & readings
 Barabási, A.-L. (2003). _Linked: How everything is connected to everything else and what it means for business, science, and everyday life_. New York: Plume.
