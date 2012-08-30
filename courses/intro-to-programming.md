@@ -66,17 +66,31 @@ Session      Week       Topic
 -------      ------     ----------------------------------------
 1            Aug 30     What is a computer program
 2            Sep 6      Loops and Switches
-3            Sep 13     
+3            Sep 13     Python and Programming Tools
 4            Sep 20     
 5            Sep 27     
 6            Oct 4      
 7            Oct 11     
-8            Oct 18     
+8            Oct 18     Midterm Exam
 9            Oct 25     
-10           Nov 1     
+10           Nov 1      
 11           Nov 8      
 12           Nov 15     
 -            Nov 22     
 13           Nov 29     
 14           Dec 6      
 15           Dec 13     Final Exam
+
+
+## Assignments and Grading
+
+Assignmnet              Pct
+-------------------     -------
+Quizzes                 20%
+Homework Problems       20%
+Midterm Exam            25%
+Final Exam              35%
+
+
+
+
