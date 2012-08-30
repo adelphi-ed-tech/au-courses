@@ -160,7 +160,7 @@ Session      Week       Format          Topic
     - Wed-Sat: do the readings
     - Sun or Mon: post your response online (300-500 words), due by end of day on Monday
     - Mon-Wed: post at least two comments; respond to comments on your post.
-* [See the list of session leaders](https://docs.google.com/a/adelphi.edu/spreadsheet/ccc?key=0Ah4VJpL9BavSdFRSQll0MzJReGFRVmZ0UTR5YmNTN1E "required Adelphi Login")
+* [See the list of session leaders](https://docs.google.com/a/adelphi.edu/spreadsheet/ccc?key=0Ah4VJpL9BavSdFRSQll0MzJReGFRVmZ0UTR5YmNTN1E "requires Adelphi Login")
 
 
 ## Class sessions
@@ -187,7 +187,7 @@ Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Ema
 
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan)
-* [sign up to lead a weekly discussion here](* [See the list of session leaders](https://docs.google.com/a/adelphi.edu/spreadsheet/ccc?key=0Ah4VJpL9BavSdFRSQll0MzJReGFRVmZ0UTR5YmNTN1E "required Adelphi Login"))
+* [sign up to lead a weekly discussion here](https://docs.google.com/a/adelphi.edu/spreadsheet/ccc?key=0Ah4VJpL9BavSdFRSQll0MzJReGFRVmZ0UTR5YmNTN1E "requires Adelphi Login")
 
 ### Deschooling
 #### Readings due:
