@@ -77,6 +77,8 @@ Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital la
 ![book cover cognitive capitalism](http://www.peterlang.com/files/smthumbnaildata//325x/1/8/8/0/1/2/310981_cover.jpg
 )
 
+Buy online: [Powells](http://www.powells.com/biblio/1433109816) | [Amazon](http://amzn.com/1433109816)
+
 ### Bibliography & readings
 Barabási, A.-L. (2003). _Linked: How everything is connected to everything else and what it means for business, science, and everyday life_. New York: Plume.
 
@@ -84,7 +86,7 @@ Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](ht
 
 Benkler, Y. (2006). [_The Wealth of Networks: How Social Production Transforms Markets and Freedom_](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf). New Haven and London: Yale University Press.
 
-Brown, J. S. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educause Review_, _43(1)_, 16-32.
+Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
 
 Castells, M. (2003). _The Internet Galaxy: Reflections on the Internet, Business, and Society_. Oxford University Press. USA.
 
@@ -133,6 +135,15 @@ Turkle, S. (2011). _Alone Together: Why We Expect More from Technology and Less 
 
 Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Processes_. Harvard University Press. Cambridge Mass.
 
+## Tools
+_Here are some of the digital tools that we will be using to facilitate this course, especially the online portions._
+
+* Adobe Connect: we will use this for synchronous online meetings (i.e. video conferencing, chat, screen sharing). You will need to install the Adobe Connect plug-in. There are also iOS and Android "Connect" apps.\
+The URL for our Connect room is:\
+<http://adelphi.adobeconnect.com/open-ed>
+* [Skype](http://skype.com) is a well tested video chat service. There are clients for Win, MacOS, Linux, Android, iOS, etc. The free version limits the number of people to group chats.
+* [Google+](http://plus.google.com) has a Hangout feature that has a robust multi-person video chat, which also supports screen sharing, document editing, and other advanced features. You cannot log in with your Adelphi account, you need a plane-jane gmail/google account to access the servie _and_ you need to set up your profile on G+, google's social networking site, even if you just want the hangouts.
+
 ## Schedule, format, & session leaders
 
 Session      Week       Format          Topic
@@ -140,13 +151,13 @@ Session      Week       Format          Topic
 1            Aug 29     synchronous     Foundations of Open Education
 2            Sep 5      synchronous     Doing "open learning"
 3            Sep 12     asynchronous    Deschooling
-4            Sep 19     synchronous     Ignorant Schoolmaster
-5            Sep 26     asynchronous    Connected Learning
+4            Sep 19     field trip      Ignorant Schoolmaster
+5            Sep 26     synchronous     Connected Learning
 6            Oct 3      asynchronous    Free Software/Open Source Software
 7            Oct 10     synchronous     Peer production
 8            Oct 17     synchronous     Free Culture & Open Content
 9            Oct 24     asynchronous    The liberal commons
-10           Oct 31     synchronous     The common
+10           Oct 31     synchronous     The Common
 11           Nov 7      asynchronous    Open Education Resources
 12           Nov 14     synchronous     MOOCs: Massively Open Online Courses
 -            Nov 21     No Class                -
@@ -204,7 +215,7 @@ Rancière, chapter 4 & 5
 
 ### Connected Learning
 #### Readings due:
-Brown, J. S., & Adler, R. (2008). Minds on Fire: Open Education, the Long Tail, and Learning 2.0. _Educause Review_, _43_(1), 16–32.
+Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
 
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
 
