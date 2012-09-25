@@ -82,7 +82,7 @@ Buy online: [Powells](http://www.powells.com/biblio/1433109816) | [Amazon](http:
 ### Bibliography & readings
 Barabási, A.-L. (2003). _Linked: How everything is connected to everything else and what it means for business, science, and everyday life_. New York: Plume.
 
-Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446.
+Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446. [download from moodle](https://moodle.adelphi.edu/file.php/53983/benkler-2002-coases-penguin.pdf)
 
 Benkler, Y. (2006). [_The Wealth of Networks: How Social Production Transforms Markets and Freedom_](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf). New Haven and London: Yale University Press.
 
@@ -151,8 +151,8 @@ Session      Week       Format          Topic
 1            Aug 29     synchronous     Foundations of Open Education
 2            Sep 5      synchronous     Doing "open learning"
 3            Sep 12     asynchronous    Deschooling
-4            Sep 19     field trip      Ignorant Schoolmaster
-5            Sep 26     synchronous     Connected Learning
+4            Sep 19     synchronous     Ignorant Schoolmaster
+5            Sep 26     asynchronous    Connected Learning
 6            Oct 3      asynchronous    Free Software/Open Source Software
 7            Oct 10     synchronous     Peer production
 8            Oct 17     synchronous     Free Culture & Open Content
@@ -233,7 +233,7 @@ Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin
 
 ### Peer production
 #### Readings due:
-Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446.
+Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446. [download from moodle](https://moodle.adelphi.edu/file.php/53983/benkler-2002-coases-penguin.pdf)
 
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan) (mid-point update)
