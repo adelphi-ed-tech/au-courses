@@ -235,6 +235,9 @@ Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin
 #### Readings due:
 Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446. [download from moodle](https://moodle.adelphi.edu/file.php/53983/benkler-2002-coases-penguin.pdf)
 
+#### Optional video:
+If you would like some extra background on the reading and want to put the ideas in context, you might want to [check out this TED video of Yochai Benkler explaining the ideas expressed in Coase's Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the text website"] (recorded in 2005)
+
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan) (mid-point update)
 
