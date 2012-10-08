@@ -249,21 +249,14 @@ Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to 
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan) (mid-point update)
 
-### The liberal commons
-#### Readings due:
-Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
-
-Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
-
-### The common
-#### Readings due:
-Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [selections]
-
 ### Open Education Resources
 #### Readings due:
 (n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
 
 Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). The MIT Press. Cambridge, Massachusetts. [selections]
+
+#### Assignment due:
+* choose an [open education project](#open-ed-projects), from the list below, which you will report on.
 
 ### MOOCs: Massively Open Online Courses
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
@@ -271,6 +264,17 @@ Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
 
 Peters, M. A. (2011). Algorithmic capitalism and educational futures. In M. A. Peters & E. Bulut (Eds.), _Cognitive capitalism, education, and digital labor_ (pp. 245–258). New York: Peter Lang.
+
+### Open Education Project Report
+There are no assigned readings this week. 
+
+### The commons
+#### Readings due:
+Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [selections]
+
+Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
+
+Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
 
 ### Resisting Open Education
 #### Readings due:
@@ -369,4 +373,42 @@ Their reviewers consider:
 From [Process: Appendix A](http://peerproduction.net/peer-review/process/). _modifications appear in italics_
 
 Three people will read your essay and offer a grade and comments: the instructor, an outside reviewer, and a fellow student from the class. Your grade for the essay will be the average of these three grades.
+
+## Open Education Projects
+This is a selected list of open education projects. You will take a couple of weeks to try to get to know one of these projects, and then report back what you learned to the group. Here are some questions that might inform you study:
+
+* should this project be considered open? why?
+* what does the project _produce_?
+* does this project make use of good eduational practice, as you understand it?
+* who contributes to the project? is it hard to participate?
+* who is the audience for this project?
+* who does or is likely to benefit the most if this project succeeds?
+
+**Project List:**
+
+* Big Projects/Well Known
+    * [One Laptop Per Child](http://laptop.org)
+    * [Wikipedia (Ed. Program)](http://outreach.wikimedia.org/wiki/Wikipedia_Education_Program)
+    * [Khan Academy](http://www.khanacademy.org)
+    * [MIT OCW](http://ocw.mit.edu)
+* Open Courses
+    * [Udacity](http://www.udacity.org)
+    * [Coursera](http://www.coursera.com)
+    * [P2P University](http://p2pu.org)
+* Collaboration/Sharing
+    * [Connexions](http://cnx.org)
+    * [Claco](http://www.claco.com/)
+    * [Lesson Cast](http://lessoncast.org/)
+    * [TeacherTube](http://www.teachertube.org)
+* Free Open Source Software for Education
+    * [Moodle](http://www.moodle.org)
+    * [BuddyPress](#buddypress) & [CoursePress](#is_this_even_live?)
+    * [EduBuntu](#edubuntu)
+    * [Majara](#majara)
+    * [Rasberry Pi (hardware)](http://raspberrypi.org/)
+    * [MediaThread](#ccnmtl)
+
+
+
+
 
