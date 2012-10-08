@@ -58,10 +58,12 @@ def GenerateCourse(html, raw, course):
 
     footer = os.path.join(pwd,"tmpl/footer.html")
     args["footer"] = IncludeIfExists(footer, "-A")
+    args["out"] = "out"
 
     cmd = html.substitute(args)
     subprocess.check_call(cmd,shell=True)
 
+    args["out"] = "raw"
     cmd = raw.substitute(args)
     subprocess.check_call(cmd,shell=True)
 
@@ -71,21 +73,14 @@ def IncludeIfExists(path, arg):
         return "%s %s" %(arg, path)
     return ""
 
-def GetTemplate(tmpl=None):
+def GetTemplate(tmpl):
     dt = datetime.datetime.now()
 
-    print(tmpl)
-
-    if tmpl == None:
-        return Template("pandoc --toc --section-divs -V date='%s' $$(pwd)/courses/$course.md >raw/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),))
-
-    return Template("pandoc --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
+    return Template("pandoc --toc --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
     
 def main():
     html = GetTemplate("adelphi")
-    
-    assert(html != None)
-    raw = GetTemplate()
+    raw = GetTemplate("raw")
     GenerateAllCourses(html, raw)
 
 if __name__ == "__main__":
