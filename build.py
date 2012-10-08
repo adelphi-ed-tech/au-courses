@@ -13,25 +13,42 @@ def GenerateAllCourses(html, raw):
             print("rebuilding course: %s" % (c,))
             GenerateCourse(html, raw, c)
 
+
+def ModTimeIfExists(path):
+    if os.path.exists(path):
+        return os.path.getmtime(path)
+    return 0
+
 def IsModified(course):
-    if(not os.path.exists("out/%s.html" % (course,))):
+    """check to see if any relevant course materials have been modified
+       since this course was last built."""
+    rawMod = ModTimeIfExists("raw/%s.html" % (course,))
+    outMod = ModTimeIfExists("out/%s.html" % (course,))
+
+    lastBuilt = min(rawMod,outMod)
+
+    if(lastBuilt == 0):
         return True
-    srcMod = os.path.getmtime("courses/%s.md" % (course,))
-    cssMod = os.path.getmtime("css/adelphi.css")
-    customCssMod = 0
+
+    # if any of these have changed since the last build, rebuild
+    srcMod = ModTimeIfExists("courses/%s.md" % (course,))
+    cssMod = ModTimeIfExists("css/adelphi.css")
+    customCssMod = ModTimeIfExists("css/%s.css" % (course,))
+    tmplMod = ModTimeIfExists("tmpl/%s.html" % ("adelphi",))
+    rawTmplMod = ModTimeIfExists("tmpl/%s.html" % ("raw",))
+    footerMod = ModTimeIfExists("tmpl/%s.html" % ("footer",))
     
-    if(os.path.exists("css/%s.css" % (course,))):
-        customCssMod = os.path.getmtime("css/%s.css" % (course,))
-    tmplMod = os.path.getmtime("tmpl/%s.html" % ("adelphi",))
-    footerMod = os.path.getmtime("tmpl/%s.html" % ("footer",))
+    assert srcMod > 0
+    assert tmplMod > 0
+    assert rawTmplMod > 0
+    
+    #if the source files are 0, then we don't have them
+    changes = [d for d in [srcMod,cssMod,customCssMod,tmplMod,rawTmplMod,footerMod] if d > 0]
+    
+    mostRecentChange = max(changes)
 
-    outMod = os.path.getmtime("out/%s.html" % (course,))
-    return (srcMod > outMod) \
-           or (cssMod > outMod) \
-           or (tmplMod > outMod) \
-           or (customCssMod > outMod) \
-           or (footerMod > outMod)
-
+    return mostRecentChange > lastBuilt
+    
 def GenerateCourse(html, raw, course):
     pwd = os.getcwd()
     args = dict()
