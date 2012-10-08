@@ -1,293 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!--
-    /\      | |    | |     | |   (_)
-   /  \   __| | ___| |_ __ | |__  _ 
-  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
- / ____ \ (_| |  __/ | |_) | | | | |
-/_/    \_\__,_|\___|_| .__/|_| |_|_|
-                     | |            
-                     |_|            
- ______    _   _______        _     
-|  ____|  | | |__   __|      | |    
-| |__   __| |    | | ___  ___| |__  
-|  __| / _` |    | |/ _ \/ __| '_ \ 
-| |___| (_| |    | |  __/ (__| | | |
-|______\__,_|    |_|\___|\___|_| |_|
-
-http://education.adelphi.edu/ed-tech
--->
-
-<title>Philosophy of technology :: course syllabus</title>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="author" content="Matthew X. Curinga" />
-  <meta name="author" content="Aaron Hung" />
-  <meta name="author" content="Elizabeth de Freitas" />
-  <meta name="date" content="Wednesday, 03. October 2012 01:28AM" />
-  <title>Philosophy of technology</title>
-
-<link rel="shortcut icon" type="image/png" href="favicon.png">
-
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-
-
-
-  <!-- this css file gets inlined by the build script to make standalone html5 output
-  that's why it has a style tag... -->
-  
-  <style type="text/css">
-  body
-  {
-      background-color: white;
-      margin: 0;
-      padding: 0;
-      font-size: 14px;
-  }
-  
-  body, p, ul, ol, li, span, div
-  {
-       font-family: "FreeSans", "Helvetica", sans-serif; 
-  }
-  
-  h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
-  h1{ font-size: 150%;  margin: 0px; margin-top: 2em; background-color: black; color: white; padding: .25em; }
-  h2{ font-size: 130%; margin:0; margin-top: 1em; text-transform: uppercase;}
-  h3{ font-size: 120%; font-weight: bold; }
-  h4{ font-size: 110%; font-weight: bold; }
-  h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
-  
-  h1.title 
-  {
-      margin:0;
-      padding:0;
-      padding-top: 80px;
-      border-style: none;
-      background-color: transparent;
-      color: black;
-      clear: both;
-      font-size: 200%;
-      font-weight: bold; 
-  }
-  
-  h1.title,.rsa-red-text { color: #ab1c19; }
-  .rsa-red-bg { background-color: #ab1c19; }
-  
-  dt { font-weight: bold; }
-  dt:after { content: ":"; }
-  dd p {padding: 0; margin: 0; }
-  
-  
-  a { text-decoration: none; }
-  a img { border-style: none; }
-  
-  table
-  {
-      border-collapse:collapse;
-  }
-  table,th, td
-  {
-      border: 1px solid black;
-      padding: 0 .5em;
-  }
-  
-  tr.odd { background-color: #d3d3d3; }
-  
-  p
-  {
-      margin: .5em 0;
-      line-height: 1.5em;
-  }
-  
-  blockquote
-  {
-      line-height: 120%;
-      font-size: 90%;
-      border-left: 3px solid gray;
-      padding-left: 1em;
-  }
-  
-  .img-right 
-  {
-      float: right;
-      background-color: #d3d3d3;
-      padding: .25em;
-      font-weight: bold;
-      font-size: 80%;
-      text-align: center;
-  }
-  .img-right img { display: block; margin-bottom: .25em; }
-  .clear-all {clear: both;}
-  .warn { color: red; font-weight: bold; text-align: center; }
-  .center { text-align: center; }
-  .single, .single p { line-height: 1.25; }
-  
-  /* hanging indents for references/citations */
-  #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p
-  {
-      margin-bottom: 1em;
-      margin-left: 2em;
-      margin-bottom: .25em;
-      text-indent: -2em;
-      line-height: 1.5em;
-  }
-  
-  *[id*='books'] img
-  {
-      max-width: 150px;
-      max-height: 150px;
-      display: block;
-  }
-  
-  
-  .figure
-  {
-      border-top: 2px solid black;
-      border-bottom: 2px solid black;
-      padding: .25em 0;
-  }
-  .figure svg, .figure img
-  {
-      max-width: 100%;
-  }
-  .caption
-  {
-      font-weight: bold; font-size: 80%;
-      text-align: center;
-  }
-  
-  
-  @media screen
-  {
-      body
-      {
-          font-size: 14px;
-          width: 800px;
-          margin: 0 auto;
-      }
-  }
-  
-  @media print
-  {
-      a {color: black;}
-  
-      #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
-       { content:" <" attr(href) "> "; }
-  
-      #TOC {display: none;}
-      body
-      {
-          font-size: 10pt;
-          width: 100%;
-      }
-      .page-break {clear: both; page-break-before: always; }
-  }
-  
-  #logo
-  {
-      background-color: #696A6C;
-      position: absolute;
-      left: 0;
-      right: 0;
-      height: 50px;
-      word-wrap: break-word;
-      overflow: hidden;
-      padding: 4px;
-  }
-  
-  #logo .inner
-  {
-      top: 10px;
-      right: 10px;
-      position: absolute;
-  }
-  
-  #logo h1 { text-transform: uppercase; }
-  #logo h2 { font-size: 100%; }
-  #logo a {text-transform: lowercase; font-size: 90%; }
-  #logo h1, #logo h2, #logo a
-  {
-      color: white;
-      text-align: right;
-      background-color: transparent;
-      border-style: none;
-      padding: 0;
-      margin: 0;
-      font-weight: bold;
-      text-shadow: 2px 2px black;
-  }
-  
-  #class-sessions { counter-reset: week; }
-  #class-sessions h3:before {
-      counter-increment: week;
-      content: "Week " counter(week) ": " 
-  }
-  
-  
-  #class-sessions h3
-  {
-      margin-left: -1em;    
-  }
-  
-  #class-sessions>div
-  {
-      border: 1px solid black;
-      margin: 1em 0 0 0;
-      padding: 0 2em;
-  }
-  
-  
-  nav#TOC
-  {
-      background: none repeat scroll 0 0 white;
-      border: 1px solid black;
-      counter-reset: toc;
-      float: right;
-      width: 40%;   
-  }
-  #TOC > ul > li 
-  { 
-      list-style: upper-roman; 
-      counter-increment: toc; 
-      counter-reset: sub1;
-  }
-  /*#TOC>ul>li>ul>li:before { 
-      content: counter(toc) "." counter(sub1) " ";
-      counter-increment: toc; }*/
-  #TOC li ul li { list-style: decimal;}
-  
-  #TOC ul li ul li ul { display: none; }
-  
-  #TOC h3 { text-align: center; }
-  
-  footer
-  {
-      border-top: 2px dotted gray;
-      margin-top: 1.5em;
-  }
-  
-  </style>
-
-
-</head>
-<body>
-<header>
-<div id="logo">
-    <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
-    <div class="inner">
-    <h1>Program in Educational Technology</h1>
-    <h2>Adelphi University | <a href="http://education.adelphi.edu/ed-tech">education.adelphi.edu/ed-tech</a></h2>
-    </div>
-</div>
-</header>
-
-<h1 class="title">Philosophy of technology</h1>
-
-
 <!-- **********************
     * This syllabus was created for
     * the Educational Technology Program
@@ -309,12 +19,12 @@ http://education.adelphi.edu/ed-tech
 <p>Technology serves to institute new, more effective, and more pleasant forms of social control and social cohesion. —<em>Herbert Marcuse, One-Dimensional Man</em></p>
 </blockquote>
 <div class="section level2" id="description">
-<h2>Description</h2>
+<h2><a href="#TOC">Description</a></h2>
 <p>The philosophy of technology exposes students to the major philosophical movements through seminal works by Plato, Aristotle, Bacon, Kant, Rousseau, Heidegger, McCluhan, Marx, Haraway, Latour, and others. These critical positions will help students analyze educational technology along pedagogical, social, political, and ethical lines.</p>
 <p>Having a foundation in the philosophical roots of technology helps orient students to the broader implications of the role that technology plays in society. These philosophical traditions have continued to prove their relevance today, where technology has the capability of improving and constraining what we can do in our lives. The range of philosophical positions that the course will expose students to will give them the intellectual tools to approach and evaluate what technologies they want to emphasize in their careers and how that might impact the lives of others who will use the technology.</p>
 </div>
 <div class="section level2" id="goals-and-objectives">
-<h2>Goals and Objectives</h2>
+<h2><a href="#TOC">Goals and Objectives</a></h2>
 <p>The course provides students with a broad historical perspective of the philosophical positions on the role of technology in society. In addition to understanding how technology is used, students should also be aware of how it changes our relation to mind, perception, reality and society.</p>
 <p>By the end of the course, students should be able to:</p>
 <ol style="list-style-type: decimal">
@@ -325,25 +35,25 @@ http://education.adelphi.edu/ed-tech
 </ol>
 </div>
 <div class="section level2" id="required-texts">
-<h2>Required texts</h2>
+<h2><a href="#TOC">Required texts</a></h2>
 <p>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. ISBN 1405111631</p>
 <p>Scharff, R. C., &amp; Dusek, V. (2003). <em>Philosophy of technology: The technological condition: An anthology.</em> Wiley-Blackwell. ISBN 0631222197</p>
 </div>
 <div class="section level2" id="class-sessions">
-<h2>Class sessions</h2>
+<h2><a href="#TOC">Class sessions</a></h2>
 <div class="section level3" id="introduction-to-philosophy-of-technology">
-<h3>Introduction to philosophy of technology</h3>
+<h3><a href="#TOC">Introduction to philosophy of technology</a></h3>
 <div class="section level4" id="readings">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 1)</li>
 </ul>
 </div>
 </div>
 <div class="section level3" id="defining-technology">
-<h3>Defining technology</h3>
+<h3><a href="#TOC">Defining technology</a></h3>
 <div class="section level4" id="readings-1">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 2)</li>
 <li>Plato, Aristotle, Bacon (2003) In R. C. Scharff &amp; V. Dusek (Eds.) Philosophy of technology: The technological condition (pp. 3-37)</li>
@@ -352,9 +62,9 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="technology-and-society">
-<h3>Technology and society</h3>
+<h3><a href="#TOC">Technology and society</a></h3>
 <div class="section level4" id="readings-2">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 3)</li>
 <li>Veblen, T. (1921) The engineers and the price system. <a href="http://socserv2.mcmaster.ca/~econ/ugcm/3ll3/veblen/Engineers.pdf">http://socserv2.mcmaster.ca/~econ/ugcm/3ll3/veblen/Engineers.pdf</a></li>
@@ -362,9 +72,9 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="technology-and-thought">
-<h3>Technology and thought</h3>
+<h3><a href="#TOC">Technology and thought</a></h3>
 <div class="section level4" id="readings-3">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 4)</li>
 <li>Kant, Comte, Rousseau, Marx, Engels (2003) In R. C. Scharff &amp; V. Dusek (Eds.) <em>Philosophy of technology: The technological condition</em> (pp. 38-79)</li>
@@ -372,9 +82,9 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="phenomenology-and-hermeneutics">
-<h3>Phenomenology and hermeneutics</h3>
+<h3><a href="#TOC">Phenomenology and hermeneutics</a></h3>
 <div class="section level4" id="readings-4">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 5)</li>
 <li>Scharff, R. C. and Dusek, V. (2003) <em>Philosophy of technology: The technological condition.</em> (pp. 487-529)</li>
@@ -382,9 +92,9 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="technological-determinism">
-<h3>Technological determinism</h3>
+<h3><a href="#TOC">Technological determinism</a></h3>
 <div class="section level4" id="readings-5">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 6)</li>
 <li>McLuhan, M. (1994) <em>Understanding Media: The Extensions of Man.</em> Cambridge, MA: MIT Press. (pp. 3-76)</li>
@@ -392,41 +102,41 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="autonomous-technology">
-<h3>Autonomous technology</h3>
+<h3><a href="#TOC">Autonomous technology</a></h3>
 <div class="section level4" id="readings-6">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li><p>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 7)</p></li>
 <li><p>Winner, L. (2004) Technologies as forms of life. In D. M. Kaplan (Ed.) <em>Readings in the Philosophy of Technology</em> (pp. 103-114). Lanham: Rowman &amp; Littlefield Publishers, Inc.</p></li>
 </ul>
 </div>
 <div class="section level4" id="optional-reading">
-<h4>Optional reading:</h4>
+<h4><a href="#TOC">Optional reading:</a></h4>
 <ul>
 <li>Winner, L. (2004) Do artifacts have politics?. In D. M. Kaplan (Ed.) <em>Readings in the Philosophy of Technology</em> (pp. 289-302). Lanham: Rowman &amp; Littlefield Publishers, Inc.</li>
 </ul>
 </div>
 </div>
 <div class="section level3" id="social-constructivism">
-<h3>Social constructivism</h3>
+<h3><a href="#TOC">Social constructivism</a></h3>
 <div class="section level4" id="readings-7">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li><p>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 12)</p></li>
 <li><p>Latour, B. (2004) A collective of humans and nonhumans. In D. M. Kaplan (Ed.) <em>Readings in the Philosophy of Technology</em> (pp. 179-190). Lanham: Rowman &amp; Littlefield Publishers, Inc.</p></li>
 </ul>
 </div>
 <div class="section level4" id="optional-reading-1">
-<h4>Optional reading:</h4>
+<h4><a href="#TOC">Optional reading:</a></h4>
 <ul>
 <li>Latour, B. (2004) Laboratories. In D. M. Kaplan (Ed.) <em>Readings in the Philosophy of Technology</em> (pp. 449-468). Lanham: Rowman &amp; Littlefield Publishers, Inc.</li>
 </ul>
 </div>
 </div>
 <div class="section level3" id="resisting-technology">
-<h3>Resisting technology</h3>
+<h3><a href="#TOC">Resisting technology</a></h3>
 <div class="section level4" id="readings-8">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li><p>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 11)</p></li>
 <li><p>Postman, N. (1993) <em>Technopoly.</em> New York: Vintage Books.</p></li>
@@ -435,9 +145,9 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="technology-and-feminism">
-<h3>Technology and feminism</h3>
+<h3><a href="#TOC">Technology and feminism</a></h3>
 <div class="section level4" id="readings-9">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 9)</li>
 <li>Haraway, D. J. (2004) A cyborg manifesto. In D. M. Kaplan (Ed.) <em>Readings in the Philosophy of Technology</em> (pp. 161-178). Lanham: Rowman &amp; Littlefield Publishers, Inc.</li>
@@ -446,9 +156,9 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="eastern-perspectives">
-<h3>Eastern perspectives</h3>
+<h3><a href="#TOC">Eastern perspectives</a></h3>
 <div class="section level4" id="readings-10">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 10)</li>
 <li>Scharff, R. C. and Dusek, V. (2003) <em>Philosophy of technology: The technological condition.</em> (pp. 378-382)</li>
@@ -458,9 +168,9 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="technology-and-bodies">
-<h3>Technology and bodies</h3>
+<h3><a href="#TOC">Technology and bodies</a></h3>
 <div class="section level4" id="readings-11">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Dusek, V. (2006) <em>Philosophy of technology.</em> Malden, MA: Blackwell Publishing. (Chapter 8)</li>
 <li>Elliott, C. (2004) Enhancement technology?. In D. M. Kaplan (Ed.) <em>Readings in the Philosophy of Technology</em> (pp. 373-380). Lanham: Rowman &amp; Littlefield Publishers, Inc.</li>
@@ -469,9 +179,9 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="technology-and-control">
-<h3>Technology and control</h3>
+<h3><a href="#TOC">Technology and control</a></h3>
 <div class="section level4" id="readings-12">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Foucault, M. (2004) Panopticon. In D. M. Kaplan (Ed.) <em>Readings in the Philosophy of Technology</em> (pp. 359-372). Lanham: Rowman &amp; Littlefield Publishers, Inc.</li>
 <li>de Certeau, M. (1984) <em>The practice of everyday life.</em> Berkeley: University of California Press (pp. 1-60)</li>
@@ -480,48 +190,48 @@ http://education.adelphi.edu/ed-tech
 </div>
 </div>
 <div class="section level3" id="technology-and-behavior">
-<h3>Technology and behavior</h3>
+<h3><a href="#TOC">Technology and behavior</a></h3>
 <div class="section level4" id="readings-13">
-<h4>Readings:</h4>
+<h4><a href="#TOC">Readings:</a></h4>
 <ul>
 <li>Lessig, L. (2006) Code: And other laws of cyberspace, version 2.0. <a href="http://pdf.codev2.cc/Lessig-Codev2.pdf">http://pdf.codev2.cc/Lessig-Codev2.pdf</a></li>
 <li>TED talks, Dan Ariely: <a href="http://www.ted.com/talks/lang/eng/dan_ariely_asks_are_we_in_control_of_our_own_decisions.html">http://www.ted.com/talks/lang/eng/dan_ariely_asks_are_we_in_control_of_our_own_decisions.html</a></li>
 </ul>
 </div>
 <div class="section level4" id="optional-reading-2">
-<h4>Optional reading:</h4>
+<h4><a href="#TOC">Optional reading:</a></h4>
 <ul>
 <li>Ariely, D. (2010) <em>Predictably irrational.</em> New York: Harper Perennial. (Chapter 1)</li>
 </ul>
 </div>
 </div>
 <div class="section level3" id="final-presentations-and-wrap-up">
-<h3>Final presentations and wrap-up</h3>
+<h3><a href="#TOC">Final presentations and wrap-up</a></h3>
 <p>Students summarize key points in their final papers and class wraps-up the topics covered in the course.</p>
 </div>
 </div>
 <div class="section level2" id="assignments-grading">
-<h2>Assignments &amp; Grading</h2>
+<h2><a href="#TOC">Assignments &amp; Grading</a></h2>
 <div class="section level3" id="class-discussions-20">
-<h3>Class discussions (20%)</h3>
+<h3><a href="#TOC">Class discussions (20%)</a></h3>
 <p>Since this is a reading-heavy course, students are expected to participate in class discussions, both as a large group and in smaller groups. The instructor will use discussions to gauge students' understanding of the material, and their ability to synthesize and express ideas related to the philosophy of technology.</p>
 <p><em>The three papers are inter-related so students should have a general idea of what their interests are with regards to the topic they want to write about.</em></p>
 </div>
 <div class="section level3" id="ted-talk-emerging-technology-20">
-<h3><a href="http://www.ted.com">TED talk</a> Emerging Technology (20%)</h3>
+<h3><a href="#TOC"><a href="http://www.ted.com">TED talk</a> Emerging Technology (20%)</a></h3>
 <p>TED talk is a great resource to find out emerging technologies and fringe ideas. Browse through their videos and pick one to focus on. Write a short commentary on why the video appealed to you, what possibilities it has for society and education, and where you think it would go. (3-4 pages)</p>
 </div>
 <div class="section level3" id="analysis-of-the-impact-of-a-technology-on-society-mid-term-20">
-<h3>Analysis of the impact of a technology on society (mid-term) (20%)</h3>
+<h3><a href="#TOC">Analysis of the impact of a technology on society (mid-term) (20%)</a></h3>
 <p>Use the topics covered in class to analyze a technology that has made an impact on society (this can be any technology, it does not need to be a <em>digital</em> technology). Analyze this technology, using the perspectives of at least three readings from the class. (5-7 pages)</p>
 </div>
 <div class="section level3" id="comparison-of-an-emerging-and-existing-technology-final-paper-40">
-<h3>Comparison of an emerging and existing technology (final paper) (40%)</h3>
+<h3><a href="#TOC">Comparison of an emerging and existing technology (final paper) (40%)</a></h3>
 <p>Expand on the mid-term paper and contrast the technology chosen for that paper with an emerging technology. The emerging technology should not be older than ten years old, and the student would have to define why he/she has defined the technology as emerging and how it's related to the technology picked for the mid-term. For example, if a student chose to analyze the telephone for the mid-term paper, she will have to pick a technology that is related to the telephone, either directly or tangentially. The student then has to draw from any of the class readings from class and write a critical analysis on how the technologies will shape society in the near future. (15-17 pages)</p>
 </div>
 </div>
 <div class="section level2" id="course-readings-bibliography">
-<h2>Course Readings &amp; Bibliography</h2>
+<h2><a href="#TOC">Course Readings &amp; Bibliography</a></h2>
 <p>de Certeau, M. (1984). <em>The practice of everyday life.</em> Berkeley: University of California Press. ISBN 9780520047501</p>
 <p>Hutchins, E. (1995). <em>Cognition in the wild</em>. Cambridge Mass.: MIT Press. ISBN 9780262082310</p>
 <p>Kaplan, D. (2009). <em>Readings in the philosophy of technology (2nd ed.)</em>. Lanham: Rowman &amp; Littlefield Publishers. ISBN 9780742564008</p>
@@ -532,48 +242,3 @@ http://education.adelphi.edu/ed-tech
 <p>Postman, N. (1992). <em>Technopoly: the surrender of culture to technology (1st ed.)</em>. New York: Knopf. ISBN 9780394582726</p>
 <p>Turkle, S. (1995). <em>Life on the screen: identity in the age of the Internet.</em> New York: Simon &amp; Schuster. ISBN 9780684803531</p>
 </div>
-
-<footer>
-
-<h3>University Statement on Academic Assistance for Students with Disabilities</h3>
-<p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
-
-<h3>University Statement on Academic Integrity</h3>
-<p>You are expected to behave with the highest level of academic integrity. Cheating and other forms of dishonesty will not be tolerated and will result in the proper disciplinary action from the university. Classroom behavior that interferes with the instructor’s ability to conduct the class or ability of students to benefit from the instruction will not be tolerated. All beepers and cellular phones should be turned off while class is in session. You are expected to come to class prepared - this means having read and studied the assigned chapters before class. By having prepared in this manner, you will be able to maximize your time spent in class.</p>
-<p>Adelphi University demands the highest standards of academic integrity. Proper conduct during examinations, the proper attribution of sources in preparation of written work, and complete honesty in all academic endeavors is required. Submission of false data, falsification of grades or records, misconduct during examinations, and plagiarism are among the violations of academic integrity. Students who do not meet these standards are subject to dismissal from the University.</p>
-
-
-<h3>Use of Candidate Work</h3>
-<p>All teacher education programs in New York State undergo periodic reviews by accreditation agencies and the state education department. For these purposes samples of students’ work are made available to those professionals conducting the review. Student anonymity is assured under these circumstances. If you do not wish to have your work made available for these purposes, please let the professor know before the start of the second class. Your cooperation is greatly appreciated.</p>
-<img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/adelphi-logo-soe_thumb.jpg" alt="rsa school of education adelphi university logo" />
-
-<hr class="clear-all" />
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />
-    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" 
-    property="dct:title" rel="dct:type"><strong>Philosophy of technology</strong></span> was created by:
-    <ul>
-            <li><a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Matthew X. Curinga</a></li>
-                <li><a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Aaron Hung</a></li>
-                <li><a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Elizabeth de Freitas</a></li>
-            </ul>
-    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
-    Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
-
-<pre>Last modified: Wednesday, 03. October 2012 01:28AM</pre>
-
-<!-- Piwik -->
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.curinga.com/" : "http://stats.curinga.com/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script type="text/javascript">
-try {
-    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-    piwikTracker.trackPageView();
-    piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://stats.curinga.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
-
-</footer>
-</body>
-</html>

@@ -236,14 +236,18 @@ Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin
 Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446. [download from moodle](https://moodle.adelphi.edu/file.php/53983/benkler-2002-coases-penguin.pdf)
 
 #### Optional video:
-If you would like some extra background on the reading and want to put the ideas in context, you might want to [check out this TED video of Yochai Benkler explaining the ideas expressed in Coase's Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the text website"] (recorded in 2005)
+If you would like some extra background on the reading and want to put the ideas in context, you might want to [check out this TED video of Yochai Benkler explaining the ideas expressed in Coase's Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the text website") (recorded in 2005)
+
+
+### Free Culture & Open Content
+
+#### Optional Reading:
+Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_](http://www.free-culture.cc/freeculture.pdf). Penguin Press HC.
+
+[Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html)[video]
 
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan) (mid-point update)
-
-### Free Culture & Open Content
-#### Readings due:
-Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_](http://www.free-culture.cc/freeculture.pdf). Penguin Press HC.
 
 ### The liberal commons
 #### Readings due:
