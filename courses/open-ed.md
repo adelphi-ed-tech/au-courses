@@ -240,11 +240,26 @@ If you would like some extra background on the reading and want to put the ideas
 
 
 ### Free Culture & Open Content
+Since there are many good videos on the topic, we are going to primarily focus on videos this week.
+
+#### Required Reading (watching):
+
+Open Source Cinema. (2006). [Lessig Remix.](http://www.youtube.com/watch?v=TFdcPc-4Ris) YouTube. [Video 00:04:34]
+
+Lessig, L. (2011). [Two Things, Not One.](http://blip.tv/lessig/two-things-not-one-5500365) [Video 00:20:28]
+
+Kirby Ferguson. (2012). [Embrace the remix.](http://www.ted.com/talks/kirby_ferguson_embrace_the_remix.html)[Video 00:09:43]
+
+Leadbeater, C. (2005). [The era of open innovation.](http://www.ted.com/talks/charles_leadbeater_on_innovation.html) TED Talks. [Video 0018:58]
+
+Question Copyright. (2011). [Copying Is Not Theft](http://youtu.be/IeTybKL1pM4?hd=1) [Video 00:01:00]
 
 #### Optional Reading:
 Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_](http://www.free-culture.cc/freeculture.pdf). Penguin Press HC.
 
-[Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html)[video]
+Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
+
+[Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html) [video]
 
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan) (mid-point update)
