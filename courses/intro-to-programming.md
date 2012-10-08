@@ -67,13 +67,13 @@ Session      Week       Topic
 1            Aug 30     What is a computer program
 2            Sep 6      Loops and Switches
 3            Sep 13     Python and Programming Tools
-4            Sep 20     
-5            Sep 27     
-6            Oct 4      
-7            Oct 11     
+4            Sep 20     Strings
+5            Sep 27     Functions
+6            Oct 4      Lists and arrays
+7            Oct 11     Review
 8            Oct 18     Midterm Exam
-9            Oct 25     
-10           Nov 1      
+9            Oct 25     Hashes and Dict
+10           Nov 1      Encapsulation & Modular Programming
 11           Nov 8      
 12           Nov 15     
 -            Nov 22     
