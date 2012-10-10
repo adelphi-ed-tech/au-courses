@@ -156,10 +156,10 @@ Session      Week       Format          Topic
 6            Oct 3      asynchronous    Free Software/Open Source Software
 7            Oct 10     synchronous     Peer production
 8            Oct 17     synchronous     Free Culture & Open Content
-9            Oct 24     asynchronous    The liberal commons
-10           Oct 31     synchronous     The Common
-11           Nov 7      asynchronous    Open Education Resources
-12           Nov 14     synchronous     MOOCs: Massively Open Online Courses
+9            Oct 24     asynchronous    The Commons
+10           Oct 31     synchronous     Open Education Resources
+11           Nov 7      asynchronous    MOOCs: Massively Open Online Courses
+12           Nov 14     synchronous     Open Education Reports
 -            Nov 21     No Class                -
 13           Nov 28     asynchronous    Resisting Open Education
 14           Dec 5      synchronous     The Future School & University
@@ -238,7 +238,6 @@ Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](ht
 #### Optional video:
 If you would like some extra background on the reading and want to put the ideas in context, you might want to [check out this TED video of Yochai Benkler explaining the ideas expressed in Coase's Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the text website") (recorded in 2005)
 
-
 ### Free Culture & Open Content
 Since there are many good videos on the topic, we are going to primarily focus on videos this week.
 
@@ -264,6 +263,14 @@ Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan) (mid-point update)
 
+### The commons
+#### Readings due:
+Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [selections]
+
+Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
+
+Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
+
 ### Open Education Resources
 #### Readings due:
 (n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
@@ -271,7 +278,7 @@ Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
 Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). The MIT Press. Cambridge, Massachusetts. [selections]
 
 #### Assignment due:
-* choose an [open education project](#open-ed-projects), from the list below, which you will report on.
+* report your Open Ed case study
 
 ### MOOCs: Massively Open Online Courses
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
@@ -281,15 +288,7 @@ Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/pete
 Peters, M. A. (2011). Algorithmic capitalism and educational futures. In M. A. Peters & E. Bulut (Eds.), _Cognitive capitalism, education, and digital labor_ (pp. 245–258). New York: Peter Lang.
 
 ### Open Education Project Report
-There are no assigned readings this week. 
-
-### The commons
-#### Readings due:
-Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [selections]
-
-Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
-
-Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
+There are no assigned readings this week.
 
 ### Resisting Open Education
 #### Readings due:
