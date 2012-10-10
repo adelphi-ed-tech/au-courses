@@ -16,17 +16,13 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-Keywords
+**Educational Technology 0858-502, Fall 2012**
 
-:   open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education, peer production, MOOC
+**Keywords:** open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education, peer production, MOOC
 
-Description
-
-:   Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, tailored locally to the specific needs of learners, and studied collaboratively. Students in this course consider the underlying principles of open education: why it works, when it fails, how it relates to "traditional" education, and what we want it to look like.
+**Description:** Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, tailored locally to the specific needs of learners, and studied collaboratively. Students in this course consider the underlying principles of open education: why it works, when it fails, how it relates to "traditional" education, and what we want it to look like.
 
 ------------------------------------------------------------------------
-
-**Educational Technology 0858-502, Fall 2012**
 
 > We need to place our action in the specific context of
 > domination and liberation where we live: the network society,
@@ -48,20 +44,20 @@ Description
 > consumer society for rich and poor alike.<br />
 > — Ivan Illich, _Deschooling Society_
 
-Instructor
+**Instructor:**
 
-:   [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
-:   [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
+- [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
+- [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
 
-Class meetings
+**Class meetings:**
 
-:   Wed. 4:30-6:20, Harvey 104 and online
+- Wed. 4:30-6:20, Harvey 104 and online
 
-Office hours
+**Office hours:**
 
-:   Monday, 3-5PM
-:   Thursday, 2:30-4:30PM
-:   Online or in person, by appointment
+- Monday, 3-5PM
+- Thursday, 2:30-4:30PM
+- Online or in person, by appointment
 
 ## Readings
 ### Required Books
@@ -74,8 +70,7 @@ Buy online: [Powells](http://www.powells.com/biblio/9780804719698) | [Amazon](ht
 
 ### Recommended books
 Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. ISBN: 1433109816
-![book cover cognitive capitalism](http://www.peterlang.com/files/smthumbnaildata//325x/1/8/8/0/1/2/310981_cover.jpg
-)
+![book cover cognitive capitalism](http://www.peterlang.com/files/smthumbnaildata//325x/1/8/8/0/1/2/310981_cover.jpg)
 
 Buy online: [Powells](http://www.powells.com/biblio/1433109816) | [Amazon](http://amzn.com/1433109816)
 
@@ -100,6 +95,8 @@ Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/conte
 
 Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press.
 
+Iiyoshi, T., & Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). MIT Press. Cambridge Mass.
+
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
 Illich, I. (1971). [_Deschooling Society_]("http://www.preservenet.com/theory/Illich/Deschooling/intro.html"). Harper & Row. New York.
@@ -108,8 +105,6 @@ Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http:
 
 Kamenetz, A. (2011). the [Edupunks’ Guide to a DIY Education!](http://www.edupunksguide.org/) Bill and Melinda Gates Foundation.
 [website and ebook].
-
-Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). MIT Press. Cambridge Mass.
 
 Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_](http://www.free-culture.cc/freeculture.pdf). Penguin Press HC.
 
@@ -138,11 +133,23 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 ## Tools
 _Here are some of the digital tools that we will be using to facilitate this course, especially the online portions._
 
-* Adobe Connect: we will use this for synchronous online meetings (i.e. video conferencing, chat, screen sharing). You will need to install the Adobe Connect plug-in. There are also iOS and Android "Connect" apps.\
-The URL for our Connect room is:\
-<http://adelphi.adobeconnect.com/open-ed>
-* [Skype](http://skype.com) is a well tested video chat service. There are clients for Win, MacOS, Linux, Android, iOS, etc. The free version limits the number of people to group chats.
-* [Google+](http://plus.google.com) has a Hangout feature that has a robust multi-person video chat, which also supports screen sharing, document editing, and other advanced features. You cannot log in with your Adelphi account, you need a plane-jane gmail/google account to access the servie _and_ you need to set up your profile on G+, google's social networking site, even if you just want the hangouts.
+* Adobe Connect: we will use this for synchronous online meetings 
+(i.e. video conferencing, chat, screen sharing). You will need to 
+install the Adobe Connect plug-in. There are also iOS and Android 
+"Connect" apps.\ The URL for our Connect room is:\ 
+<http://adelphi.adobeconnect.com/open-ed> 
+* [Skype](http://skype.com)
+is a well tested video chat service. There are clients for Win, 
+MacOS, Linux, Android, iOS, etc. The free version limits the number 
+of people to group chats. 
+* [Google+](http://plus.google.com) has a 
+Hangout feature that has a robust multi-person video chat, which 
+also supports screen sharing, document editing, and other advanced 
+features.You need to set up your profile on G+, google's social 
+networking site, even if you just want the hangouts.
+* [@celly](http://cel.ly) provides text messaging groups. You can opt-in
+to receive class-related text messages by texting @open-ed to 23559.
+You will need the password (ask Prof. Curinga) 
 
 ## Schedule, format, & session leaders
 
@@ -263,6 +270,12 @@ Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
 #### Assignments due:
 * [personal learning plan](#personal-learning-plan) (mid-point update)
 
+### Open Education Resources
+#### Readings due:
+(n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
+
+Iiyoshi, T., & Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). MIT Press. Cambridge Mass.
+
 ### The commons
 #### Readings due:
 Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [selections]
@@ -270,15 +283,6 @@ Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [select
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
 
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
-
-### Open Education Resources
-#### Readings due:
-(n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
-
-Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). The MIT Press. Cambridge, Massachusetts. [selections]
-
-#### Assignment due:
-* report your Open Ed case study
 
 ### MOOCs: Massively Open Online Courses
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
