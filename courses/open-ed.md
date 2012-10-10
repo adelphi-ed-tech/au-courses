@@ -133,23 +133,23 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 ## Tools
 _Here are some of the digital tools that we will be using to facilitate this course, especially the online portions._
 
-* Adobe Connect: we will use this for synchronous online meetings 
-(i.e. video conferencing, chat, screen sharing). You will need to 
-install the Adobe Connect plug-in. There are also iOS and Android 
-"Connect" apps.\ The URL for our Connect room is:\ 
-<http://adelphi.adobeconnect.com/open-ed> 
+* Adobe Connect: we will use this for synchronous online meetings
+(i.e. video conferencing, chat, screen sharing). You will need to
+install the Adobe Connect plug-in. There are also iOS and Android
+"Connect" apps.\ The URL for our Connect room is:\
+<http://adelphi.adobeconnect.com/open-ed>
 * [Skype](http://skype.com)
-is a well tested video chat service. There are clients for Win, 
-MacOS, Linux, Android, iOS, etc. The free version limits the number 
-of people to group chats. 
-* [Google+](http://plus.google.com) has a 
-Hangout feature that has a robust multi-person video chat, which 
-also supports screen sharing, document editing, and other advanced 
-features.You need to set up your profile on G+, google's social 
+is a well tested video chat service. There are clients for Win,
+MacOS, Linux, Android, iOS, etc. The free version limits the number
+of people to group chats.
+* [Google+](http://plus.google.com) has a
+Hangout feature that has a robust multi-person video chat, which
+also supports screen sharing, document editing, and other advanced
+features.You need to set up your profile on G+, google's social
 networking site, even if you just want the hangouts.
 * [@celly](http://cel.ly) provides text messaging groups. You can opt-in
 to receive class-related text messages by texting @open-ed to 23559.
-You will need the password (ask Prof. Curinga) 
+You will need the password (ask Prof. Curinga)
 
 ## Schedule, format, & session leaders
 
@@ -163,8 +163,8 @@ Session      Week       Format          Topic
 6            Oct 3      asynchronous    Free Software/Open Source Software
 7            Oct 10     synchronous     Peer production
 8            Oct 17     synchronous     Free Culture & Open Content
-9            Oct 24     asynchronous    The Commons
-10           Oct 31     synchronous     Open Education Resources
+9            Oct 24     asynchronous    Open Education Resources
+10           Oct 31     synchronous     The Commons
 11           Nov 7      asynchronous    MOOCs: Massively Open Online Courses
 12           Nov 14     synchronous     Open Education Reports
 -            Nov 21     No Class                -
@@ -402,31 +402,41 @@ This is a selected list of open education projects. You will take a couple of we
 * who is the audience for this project?
 * who does or is likely to benefit the most if this project succeeds?
 
-**Project List:**
+**Selected Project List:**
 
 * Big Projects/Well Known
     * [One Laptop Per Child](http://laptop.org)
     * [Wikipedia (Ed. Program)](http://outreach.wikimedia.org/wiki/Wikipedia_Education_Program)
     * [Khan Academy](http://www.khanacademy.org)
     * [MIT OCW](http://ocw.mit.edu)
-* Open Courses
+* Open Courses (and self-study)
     * [Udacity](http://www.udacity.org)
     * [Coursera](http://www.coursera.com)
     * [P2P University](http://p2pu.org)
-* Collaboration/Sharing
+    * [OpenStudy](http://openstudy.com/)
+* Teaching/Learning Content & Lessons
+    * [Smarthistory](http://smarthistory.org/)
     * [Connexions](http://cnx.org)
     * [Claco](http://www.claco.com/)
     * [Lesson Cast](http://lessoncast.org/)
     * [TeacherTube](http://www.teachertube.org)
+    * [Flat World Knowledge](http://www.flatworldknowledge.com/)
+    * [CK-12](http://www.ck12.org/)
 * Free Open Source Software for Education
     * [Moodle](http://www.moodle.org)
-    * [BuddyPress](#buddypress) & [CoursePress](#is_this_even_live?)
-    * [EduBuntu](#edubuntu)
-    * [Majara](#majara)
+    * [BuddyPress](http://buddypress.org/)
+    * [EduBuntu](http://www.edubuntu.org/)
+    * [Mahara](https://mahara.org/)
     * [Rasberry Pi (hardware)](http://raspberrypi.org/)
-    * [MediaThread](#ccnmtl)
 
+**Find your own:**
 
+_Here are some lists of Open Ed projects_.
+
+* [OER Commons](http://www.oercommons.org/)
+* [Open Courseware Consortium](http://www.ocwconsortium.org/)
+* [OER Consortium](http://oerconsortium.org/)
+* [Creative Commons Wiki/OER](http://wiki.creativecommons.org/OER)
 
 
 
