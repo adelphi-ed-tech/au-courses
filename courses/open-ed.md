@@ -169,7 +169,7 @@ Session      Week       Format          Topic
 12           Nov 14     synchronous     Open Education Reports
 -            Nov 21     No Class                -
 13           Nov 28     asynchronous    Resisting Open Education
-14           Dec 5      synchronous     The Future School & University
+14           Dec 5      synchronous     Writing workshop
 -            Dec 12     No Class                -
 15           Dec 19     asynchronous    Wrap-up
 
@@ -178,8 +178,7 @@ Session      Week       Format          Topic
     - Wed-Sat: do the readings
     - Sun or Mon: post your response online (300-500 words), due by end of day on Monday
     - Mon-Wed: post at least two comments; respond to comments on your post.
-* [See the list of session leaders](https://docs.google.com/a/adelphi.edu/spreadsheet/ccc?key=0Ah4VJpL9BavSdFRSQll0MzJReGFRVmZ0UTR5YmNTN1E "requires Adelphi Login")
-
+* [See the list of session leaders](https://moodle.adelphi.edu/mod/resource/view.php?id=518555 "you need to be logged into Moodle")
 
 ## Class sessions
 
@@ -274,7 +273,9 @@ Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
 #### Readings due:
 (n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
 
-Iiyoshi, T., & Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). MIT Press. Cambridge Mass.
+McGrath, O. (2008). [Open educational technology: Tempered aspirations.](http://mitpress.mit.edu/books/chapters/0262033712chap1.pdf) In T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_ (pp. 13–26). Cambridge  Mass.: MIT Press.
+
+Lee, S. D. (2008). [The Gates Are Shut: Technical and Cultural Barriers to Open Education.](http://mitpress.mit.edu/books/chapters/0262033712chap3.pdf) In T. Iiyoshi & M. S. V. Kumar (Eds.), Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge (pp. 47–59). Cambridge  Mass.: MIT Press.
 
 ### The commons
 #### Readings due:
@@ -298,9 +299,8 @@ There are no assigned readings this week.
 #### Readings due:
 Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. [selections]
 
-### The Future School & University
-#### Readings due:
-_TBA_
+### Final paper writing workshop
+_Come prepared with a draft of your paper._
 
 ### Final project presentations and wrap-up
 
