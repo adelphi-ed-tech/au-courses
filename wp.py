@@ -18,13 +18,19 @@ courses = [c for c in pages if c.title.lower().startswith("edt") or c.title.lowe
 
 
 for course in courses:
-    f = open("raw/%s.html" % (course.slug,),"r")
-    course.content = f.read()
-    f.close()
-
     print("attempting update of post: ({}) {}".format(course.id,course.slug))
+
+    try:
+        f = open("raw/%s.html" % (course.slug,),"r")
+        course.content = f.read()
+        f.close()
+    except IOError as ioe:
+        print("** no raw file found for",course)
+        print(ioe)
+        continue
+
     result = client.call(posts.EditPost(course.id, course))
-    result = True
+    print(result)
     if result:
         print("Successfully updated ", course.slug)
     else:
