@@ -247,7 +247,7 @@ If you would like some extra background on the reading and want to put the ideas
 ### Free Culture & Open Content
 Since there are many good videos on the topic, we are going to primarily focus on videos this week.
 
-#### Required Reading (watching):
+#### Readings due:
 
 Open Source Cinema. (2006). [Lessig Remix.](http://www.youtube.com/watch?v=TFdcPc-4Ris) YouTube. [Video 00:04:34]
 
@@ -270,12 +270,23 @@ Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
 * [personal learning plan](#personal-learning-plan) (mid-point update)
 
 ### Open Education Resources
+
+For this weeks readings, download the creative commons book, [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](https://moodle.adelphi.edu/file.php/53983/iiyoshi-2008-opening-up-ed.pdf).
+
 #### Readings due:
-(n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
+(2007) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
 
-McGrath, O. (2008). [Open educational technology: Tempered aspirations.](http://mitpress.mit.edu/books/chapters/0262033712chap1.pdf) In T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_ (pp. 13–26). Cambridge  Mass.: MIT Press.
+Unesco. (2012) ["The UNESCO Paris Declaration."](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/Events/English_Paris_OER_Declaration.pdf)
 
-Lee, S. D. (2008). [The Gates Are Shut: Technical and Cultural Barriers to Open Education.](http://mitpress.mit.edu/books/chapters/0262033712chap3.pdf) In T. Iiyoshi & M. S. V. Kumar (Eds.), Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge (pp. 47–59). Cambridge  Mass.: MIT Press.
+McGrath, O. (2008). Open educational technology: Tempered aspirations. In T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_ (pp. 13–26). Cambridge  Mass.: MIT Press.
+
+Casserly, C. M., & Smith, M. S. (2008). Revolutionizing Education
+through Innovation: Can Openness Transform Teaching and Learning? In
+T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The
+Collective Advancement of Education through Open Technology, Open
+Content, and Open Knowledge_ (pp. 261–275). Cambridge  Mass.: MIT Press.
+
+Lee, S. D. (2008). The Gates Are Shut: Technical and Cultural Barriers to Open Education. In T. Iiyoshi & M. S. V. Kumar (Eds.), Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge (pp. 47–59). Cambridge  Mass.: MIT Press.
 
 ### The commons
 #### Readings due:
@@ -286,6 +297,7 @@ Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/conte
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
 
 ### MOOCs: Massively Open Online Courses
+#### Readings due:
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.

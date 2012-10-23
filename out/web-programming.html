@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _ 
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |            
+                     |_|            
+ ______    _   _______        _     
+|  ____|  | | |__   __|      | |    
+| |__   __| |    | | ___  ___| |__  
+|  __| / _` |    | |/ _ \/ __| '_ \ 
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+http://education.adelphi.edu/ed-tech
+-->
+
+<title>Programming web-based educational media :: course syllabus</title>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Matthew X. Curinga" />
+  <meta name="date" content="Tuesday, 23. October 2012 11:13AM" />
+  <title>Programming web-based educational media</title>
+
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+
+
+  <!-- this css file gets inlined by the build script to make standalone html5 output
+  that's why it has a style tag... -->
+  
+  <style type="text/css">
+  body
+  {
+      background-color: white;
+      margin: 0;
+      padding: 0;
+      font-size: 14px;
+  }
+  
+  body, p, ul, ol, li, span, div
+  {
+       font-family: "FreeSans", "Helvetica", sans-serif; 
+  }
+  
+  h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
+  h1{ font-size: 150%;  margin: 0px; margin-top: 2em; background-color: black; color: white; padding: .25em; }
+  h2{ font-size: 130%; margin:0; margin-top: 1em; text-transform: uppercase;}
+  h3{ font-size: 120%; font-weight: bold; }
+  h4{ font-size: 110%; font-weight: bold; }
+  h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
+  
+  h1.title 
+  {
+      margin:0;
+      padding:0;
+      padding-top: 80px;
+      border-style: none;
+      background-color: transparent;
+      color: black;
+      clear: both;
+      font-size: 200%;
+      font-weight: bold; 
+  }
+  
+  h1.title,.rsa-red-text { color: #ab1c19; }
+  .rsa-red-bg { background-color: #ab1c19; }
+  
+  dt { font-weight: bold; }
+  dt:after { content: ":"; }
+  dd p {padding: 0; margin: 0; }
+  
+  
+  a { text-decoration: none; }
+  a img { border-style: none; }
+  
+  table
+  {
+      border-collapse:collapse;
+  }
+  table,th, td
+  {
+      border: 1px solid black;
+      padding: 0 .5em;
+  }
+  
+  tr.odd { background-color: #d3d3d3; }
+  
+  p
+  {
+      margin: .5em 0;
+      line-height: 1.5em;
+  }
+  
+  blockquote
+  {
+      line-height: 120%;
+      font-size: 90%;
+      border-left: 3px solid gray;
+      padding-left: 1em;
+  }
+  
+  .img-right 
+  {
+      float: right;
+      background-color: #d3d3d3;
+      padding: .25em;
+      font-weight: bold;
+      font-size: 80%;
+      text-align: center;
+  }
+  .img-right img { display: block; margin-bottom: .25em; }
+  .clear-all {clear: both;}
+  .warn { color: red; font-weight: bold; text-align: center; }
+  .center { text-align: center; }
+  .single, .single p { line-height: 1.25; }
+  
+  /* hanging indents for references/citations */
+  #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p
+  {
+      margin-bottom: 1em;
+      margin-left: 2em;
+      margin-bottom: .25em;
+      text-indent: -2em;
+      line-height: 1.5em;
+  }
+  
+  *[id*='books'] img
+  {
+      max-width: 150px;
+      max-height: 150px;
+      display: block;
+  }
+  
+  
+  .figure
+  {
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+      padding: .25em 0;
+  }
+  .figure svg, .figure img
+  {
+      max-width: 100%;
+  }
+  .caption
+  {
+      font-weight: bold; font-size: 80%;
+      text-align: center;
+  }
+  
+  
+  @media screen
+  {
+      body
+      {
+          font-size: 14px;
+          width: 800px;
+          margin: 0 auto;
+      }
+  }
+  
+  @media print
+  {
+      a {color: black;}
+  
+      #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
+       { content:" <" attr(href) "> "; }
+  
+      #TOC {display: none;}
+      body
+      {
+          font-size: 10pt;
+          width: 100%;
+      }
+      .page-break {clear: both; page-break-before: always; }
+  }
+  
+  #logo
+  {
+      background-color: #696A6C;
+      position: absolute;
+      left: 0;
+      right: 0;
+      height: 50px;
+      word-wrap: break-word;
+      overflow: hidden;
+      padding: 4px;
+  }
+  
+  #logo .inner
+  {
+      top: 10px;
+      right: 10px;
+      position: absolute;
+  }
+  
+  #logo h1 { text-transform: uppercase; }
+  #logo h2 { font-size: 100%; }
+  #logo a {text-transform: lowercase; font-size: 90%; }
+  #logo h1, #logo h2, #logo a
+  {
+      color: white;
+      text-align: right;
+      background-color: transparent;
+      border-style: none;
+      padding: 0;
+      margin: 0;
+      font-weight: bold;
+      text-shadow: 2px 2px black;
+  }
+  
+  #class-sessions { counter-reset: week; }
+  #class-sessions h3:before {
+      counter-increment: week;
+      content: "Week " counter(week) ": " 
+  }
+  
+  
+  #class-sessions h3
+  {
+      margin-left: -1em;    
+  }
+  
+  #class-sessions>div
+  {
+      border: 1px solid black;
+      margin: 1em 0 0 0;
+      padding: 0 2em;
+  }
+  
+  
+  nav#TOC
+  {
+      background: none repeat scroll 0 0 white;
+      border: 1px solid black;
+      counter-reset: toc;
+      float: right;
+      width: 40%;   
+  }
+  #TOC > ul > li 
+  { 
+      list-style: upper-roman; 
+      counter-increment: toc; 
+      counter-reset: sub1;
+  }
+  /*#TOC>ul>li>ul>li:before { 
+      content: counter(toc) "." counter(sub1) " ";
+      counter-increment: toc; }*/
+  #TOC li ul li { list-style: decimal;}
+  
+  #TOC ul li ul li ul { display: none; }
+  
+  #TOC h3 { text-align: center; }
+  
+  footer
+  {
+      border-top: 2px dotted gray;
+      margin-top: 1.5em;
+  }
+  
+  </style>
+
+
+</head>
+<body>
+<header>
+<div id="logo">
+    <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
+    <div class="inner">
+    <h1>Program in Educational Technology</h1>
+    <h2>Adelphi University | <a href="http://education.adelphi.edu/ed-tech">education.adelphi.edu/ed-tech</a></h2>
+    </div>
+</div>
+</header>
+
+<h1 class="title">Programming web-based educational media</h1>
+
+<nav id="TOC">
+<h3>Course Outline</h3>
+<ul>
+<li><a href="#required-books">Required Books</a></li>
+<li><a href="#readings-bibliography">Readings &amp; Bibliography</a></li>
+<li><a href="#class-sessions">Class sessions</a><ul>
+<li><a href="#topography-of-interactive-websites">Topography of interactive websites</a></li>
+<li><a href="#web-development-toolkit">Web development toolkit</a></li>
+<li><a href="#creating-and-reading-web-forms">Creating and reading web forms</a></li>
+<li><a href="#creating-and-saving-objects">Creating and saving objects</a></li>
+<li><a href="#mvc-pattern-and-templates">MVC pattern and templates</a></li>
+<li><a href="#interaction-design-for-learning">Interaction design for learning</a></li>
+<li><a href="#objects-in-django">Objects in django</a></li>
+<li><a href="#object-composition-mixins-inheritance">Object composition, &quot;mixins&quot;, &amp; inheritance</a></li>
+<li><a href="#effective-multimedia-learning">Effective multimedia learning</a></li>
+<li><a href="#rest-apis-connecting-to-flickr">REST APIs: connecting to flickr</a></li>
+<li><a href="#searching-database-objects">Searching database objects</a></li>
+<li><a href="#using-polymorphism">Using polymorphism</a></li>
+<li><a href="#errors-and-exceptions">Errors and exceptions</a></li>
+<li><a href="#project-work-session">Project work session</a></li>
+<li><a href="#final-project-presentations">Final project presentations</a></li>
+</ul></li>
+<li><a href="#grading-and-assignments">Grading and Assignments</a></li>
+</ul>
+</nav>
+
+<p><strong>EDT 603 Programming web-based educational media</strong><br />Spring 2013 | Online</p>
+<p><strong>Description:</strong> In this course students learn techniques of web programming to develop interactive, educational media. Using the Python programming language and web development technologies (HTML5, Javascript, CSS), students gain practice in the object oriented programming and design of interactive software. For their final project, students will create their own educational website.</p>
+<p>Specific teaching and learning goals include:</p>
+<ul>
+<li>designing web-based interactions and multimedia to support learning</li>
+<li>coding effective user interfaces for learning</li>
+<li>implementing Universal Design goals for accessible web sites</li>
+<li>identifying effective methods for teaching more advanced programming concepts and web design skills</li>
+</ul>
+<p>Specific software development goals include:</p>
+<ul>
+<li>modeling real world problems with software</li>
+<li>planning iterations of a project</li>
+<li>testing and debugging</li>
+<li>Object oriented programming concepts:</li>
+<li>Abstraction</li>
+<li>Encapsulation</li>
+<li>Objects &amp; Classes</li>
+<li>Composition</li>
+<li>Inheritance</li>
+<li>Polymorphism</li>
+</ul>
+<div class="section level2" id="required-books">
+<h2><a href="#TOC">Required Books</a></h2>
+<p>Hayward, J. (2011). <em>Django JavaScript Integration: AJAX and jQuery</em>. Packet Publishing. ISBN 1849510342</p>
+</div>
+<div class="section level2" id="readings-bibliography">
+<h2><a href="#TOC">Readings &amp; Bibliography</a></h2>
+<p>Anderson, T. (Ed.). (2008). <a href="http://www.aupress.ca/index.php/books/120146"><em>Theory and practice of online learning</em></a> (2nd ed.). Edmonton: AU Press.</p>
+<p>Castro, Elizabeth. 2010. <em>Html 5 Visual Quickstart Guide.</em>Peachpit Press. ISBN 9780321719614.</p>
+<p>Gamma, E., Helm, R., Johnson, R., &amp; Vlissides, J. M. (1994). <em>Design Patterns: Elements of Reusable Object-Oriented Software</em> (1st ed.). Reading Mass.: Addison-Wesley Professional. ISBN 0201633612.</p>
+<p>Knuth, Donald. 1997. <em>The art of computer programming.</em> Addison-Wesley Pub. Co. Reading Mass. ISBN 9780201896831.</p>
+<p>Moreno, R., &amp; Mayer, R. (2007). Interactive multimodal learning environments. <em>Educational Psychology Review</em>, <em>19</em>(3), 309–326.</p>
+<p>Moreno, R. (2006). Learning in High-Tech and Multimedia Environments. <em>Current Directions in Psychological Science</em>, <em>15</em>(2), 63 -67.</p>
+<p>Shneiderman, B. (2000). Universal usability. <em>Communications of the ACM</em>, <em>43</em>(5), 84–91.  </p>
+<p>Shneiderman, B. (2002). Promoting universal usability with multi-layer interface design. <em>ACM SIGCAPH Computers and the Physically Handicapped</em>, (73-74), 8.</p>
+<p>Teague, Jason. 2011. <em>CSS3: Visual QuickStart Guide.</em>Peachpit Press. Berkeley CA. ISBN 9780321719638.</p>
+<p>Zelle, John. 2004. <em>Python programming: an introduction to computer science.</em>Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.</p>
+</div>
+<div class="section level2" id="class-sessions">
+<h2><a href="#TOC">Class sessions</a></h2>
+<div class="section level3" id="topography-of-interactive-websites">
+<h3><a href="#TOC">Topography of interactive websites</a></h3>
+</div>
+<div class="section level3" id="web-development-toolkit">
+<h3><a href="#TOC">Web development toolkit</a></h3>
+<p><em>Readings due: Hayword, ch 1; Anderson ch 2</em></p>
+</div>
+<div class="section level3" id="creating-and-reading-web-forms">
+<h3><a href="#TOC">Creating and reading web forms</a></h3>
+<p><em>Readings due: Hayword, ch 3; Shneiderman (2000 &amp; 2002)</em></p>
+</div>
+<div class="section level3" id="creating-and-saving-objects">
+<h3><a href="#TOC">Creating and saving objects</a></h3>
+<p><em>Readings due: Hayword, ch 4</em></p>
+</div>
+<div class="section level3" id="mvc-pattern-and-templates">
+<h3><a href="#TOC">MVC pattern and templates</a></h3>
+<p><em>Readings due: Hayword, ch 5</em></p>
+</div>
+<div class="section level3" id="interaction-design-for-learning">
+<h3><a href="#TOC">Interaction design for learning</a></h3>
+<p><em>Readings due: Anderson, ch 4</em></p>
+</div>
+<div class="section level3" id="objects-in-django">
+<h3><a href="#TOC">Objects in django</a></h3>
+</div>
+<div class="section level3" id="object-composition-mixins-inheritance">
+<h3><a href="#TOC">Object composition, &quot;mixins&quot;, &amp; inheritance</a></h3>
+<p><em>Readings due: Anderson, ch 7</em></p>
+</div>
+<div class="section level3" id="effective-multimedia-learning">
+<h3><a href="#TOC">Effective multimedia learning</a></h3>
+<p><em>Readings due: Moreno (2006 &amp; 2007)</em></p>
+</div>
+<div class="section level3" id="rest-apis-connecting-to-flickr">
+<h3><a href="#TOC">REST APIs: connecting to flickr</a></h3>
+<p><em>Readings due: Anderson, ch 9</em></p>
+</div>
+<div class="section level3" id="searching-database-objects">
+<h3><a href="#TOC">Searching database objects</a></h3>
+<p><em>Readings due: Hayword, ch 8</em></p>
+</div>
+<div class="section level3" id="using-polymorphism">
+<h3><a href="#TOC">Using polymorphism</a></h3>
+<p><em>Readings due: Anderson, ch 8</em></p>
+</div>
+<div class="section level3" id="errors-and-exceptions">
+<h3><a href="#TOC">Errors and exceptions</a></h3>
+</div>
+<div class="section level3" id="project-work-session">
+<h3><a href="#TOC">Project work session</a></h3>
+</div>
+<div class="section level3" id="final-project-presentations">
+<h3><a href="#TOC">Final project presentations</a></h3>
+</div>
+</div>
+<div class="section level2" id="grading-and-assignments">
+<h2><a href="#TOC">Grading and Assignments</a></h2>
+<p>Students in this class are given 3 open-ended challenges. The challenges become increasingly complex and are designed to scaffold students into tackling more complex analysis and programming projects. The challenges are designed to be solved in pairs. The first two challenges have an optional &quot;bonus&quot;, which is meant to give more advanced teams a challenge.</p>
+<ol style="list-style-type: decimal">
+<li><strong>Word Frequency Statistics (30%)</strong><strong>:</strong> Students will parse texts to create a variety of word frequency statistics. The input text can be uploaded or submitted via a form. The results are graphically visualized using HTML.</li>
+<li><strong>Photo gallery (30%)</strong><strong>:</strong> students will enter the world of Web-based APIs and interactive web programming by rethinking a familiar online idiom, the photo gallery. Using the Flickr API, they will create their own gallery software. <em>Bonus</em>: use the jQuery javascript library to add visual effects to your gallery.</li>
+<li><strong>Final project (40%):</strong> student teams will propose, design, and execute their own project. The requirements for the project are that it demonstrates effective use of the web for supporting learning, as well as the student's understanding of software analysis and design. The instructor will work with teams to develop suitable projects. In addition to submitting the working code, students will turn in a one page paper reflecting on the pedagogy informing their design.</li>
+</ol>
+</div>
+
+<footer>
+
+<h3>University Statement on Academic Assistance for Students with Disabilities</h3>
+<p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
+
+<h3>University Statement on Academic Integrity</h3>
+<p>You are expected to behave with the highest level of academic integrity. Cheating and other forms of dishonesty will not be tolerated and will result in the proper disciplinary action from the university. Classroom behavior that interferes with the instructor’s ability to conduct the class or ability of students to benefit from the instruction will not be tolerated. All beepers and cellular phones should be turned off while class is in session. You are expected to come to class prepared - this means having read and studied the assigned chapters before class. By having prepared in this manner, you will be able to maximize your time spent in class.</p>
+<p>Adelphi University demands the highest standards of academic integrity. Proper conduct during examinations, the proper attribution of sources in preparation of written work, and complete honesty in all academic endeavors is required. Submission of false data, falsification of grades or records, misconduct during examinations, and plagiarism are among the violations of academic integrity. Students who do not meet these standards are subject to dismissal from the University.</p>
+
+
+<h3>Use of Candidate Work</h3>
+<p>All teacher education programs in New York State undergo periodic reviews by accreditation agencies and the state education department. For these purposes samples of students’ work are made available to those professionals conducting the review. Student anonymity is assured under these circumstances. If you do not wish to have your work made available for these purposes, please let the professor know before the start of the second class. Your cooperation is greatly appreciated.</p>
+<img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/adelphi-logo-soe_thumb.jpg" alt="rsa school of education adelphi university logo" />
+
+<hr class="clear-all" />
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />
+    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" 
+    property="dct:title" rel="dct:type"><strong>Programming web-based educational media</strong></span> was created by:
+    <ul>
+            <li><a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Matthew X. Curinga</a></li>
+            </ul>
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+    Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
+
+<pre>Last modified: Tuesday, 23. October 2012 11:13AM</pre>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.curinga.com/" : "http://stats.curinga.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+    piwikTracker.trackPageView();
+    piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stats.curinga.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+</footer>
+</body>
+</html>
