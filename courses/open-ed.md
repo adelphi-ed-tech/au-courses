@@ -81,6 +81,8 @@ Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](ht
 
 Benkler, Y. (2006). [_The Wealth of Networks: How Social Production Transforms Markets and Freedom_](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf). New Haven and London: Yale University Press.
 
+Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+
 Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
 
 Castells, M. (2003). _The Internet Galaxy: Reflections on the Internet, Business, and Society_. Oxford University Press. USA.
@@ -90,6 +92,8 @@ Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc) [video, 04:27
 Crouch, C. H., & Mazur, E. (2001). [Peer instruction: Ten years of experience and results](http://newfaculty.mst.edu/documents/MazurActiveLearning.pdf). _American Journal of Physics_, 69.
 
 Dewey, J. (1916). [_Democracy and Education_](http://www.ilt.columbia.edu/publications/dewey.html). The Macmillan Company. New York.
+
+Federici, S. (2011). [Feminism and the Politics of the Commons](http://www.commoner.org.uk/wp-content/uploads/2011/01/federici-feminism-and-the-politics-of-commons.pdf). _The Commoner_, _24_.
 
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
 
@@ -290,6 +294,15 @@ Lee, S. D. (2008). The Gates Are Shut: Technical and Cultural Barriers to Open E
 
 ### The commons
 #### Readings due:
+Elinor Ostrom. (2010). [Defining “the commons.”](http://youtu.be/aXzbcgj9F54) [Video 00:
+
+[Tragedy of the Commons.](http://youtu.be/lwaNZgY9PCQ?hd=1) (2011). [Video 00:05:35]
+
+Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+
+Federici, S. (2011). [Feminism and the Politics of the Commons](http://www.commoner.org.uk/wp-content/uploads/2011/01/federici-feminism-and-the-politics-of-commons.pdf). _The Commoner_, _24_.
+
+#### Optional readings:
 Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [selections]
 
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
