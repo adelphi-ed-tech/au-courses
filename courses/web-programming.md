@@ -1,8 +1,13 @@
 % Programming web-based educational media
 % Matthew X. Curinga
+% Antonios A. Saravanos
 
 **EDT 603 Programming web-based educational media**\
 Spring 2013 | Online
+
+**Keywords:** OOP, object oriented programming, python, software
+design, programming, computer science, educational technology,
+instructional design, html5, javascript, jquery, django, git, css
 
 **Description:**
 In this course students learn techniques of web programming to develop
@@ -12,6 +17,12 @@ practice in the object oriented programming and design of interactive
 software. For their final project, students will create their own
 educational website.
 
+**Instructors:**\
+* [Matthew X. Curinga](http://matt.curinga.com)
+* [Antonios A. Saravanos](http://www.linkedin.com/pub/antonios-saravanos/34/315/436)
+
+
+## Goals
 Specific teaching and learning goals include:
 
 -   designing web-based interactions and multimedia to support learning
@@ -80,6 +91,12 @@ science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
 *Readings due: Hayword, ch 1; Anderson ch 2*
 
+### Displaying dynamic information
+
+### Styling the web with CSS
+
+### Interaction with Javscript
+
 ### Creating and reading web forms
 
 *Readings due: Hayword, ch 3; Shneiderman (2000 & 2002)*
@@ -96,8 +113,6 @@ science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
 *Readings due: Anderson, ch 4*
 
-### Objects in django
-
 ### Object composition, "mixins", & inheritance
 
 *Readings due: Anderson, ch 7*
@@ -106,9 +121,6 @@ science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
 *Readings due: Moreno (2006 & 2007)*
 
-### REST APIs: connecting to flickr
-
-*Readings due: Anderson, ch 9*
 
 ### Searching database objects
 
@@ -116,11 +128,9 @@ science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
 ### Using polymorphism
 
-*Readings due: Anderson, ch 8*
+*Readings due: Anderson, ch 8, 9*
 
 ### Errors and exceptions
-
-### Project work session
 
 ### Final project presentations
 
