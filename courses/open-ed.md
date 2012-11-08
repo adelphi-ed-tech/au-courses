@@ -168,10 +168,10 @@ Session      Week       Format          Topic
 7            Oct 10     synchronous     Peer production
 8            Oct 17     synchronous     Free Culture & Open Content
 9            Oct 24     asynchronous    Open Education Resources
-10           Oct 31     synchronous     The Commons
-11           Nov 7      asynchronous    MOOCs: Massively Open Online Courses
-12           Nov 14     synchronous     Open Education Reports
--            Nov 21     No Class                -
+-            Oct 31     canceled        ~~The Commons~~
+10           Nov 7      **asynchronous** The Commons
+11           Nov 14     synchronous     Open Education Reports
+12           Nov 21     asynchronous    MOOCs: Massively Open Online Courses
 13           Nov 28     asynchronous    Resisting Open Education
 14           Dec 5      synchronous     Writing workshop
 -            Dec 12     No Class                -
@@ -309,6 +309,9 @@ Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/conte
 
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
 
+### Open Education Project Report
+There are no assigned readings this week.
+
 ### MOOCs: Massively Open Online Courses
 #### Readings due:
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
@@ -316,9 +319,6 @@ Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
 
 Peters, M. A. (2011). Algorithmic capitalism and educational futures. In M. A. Peters & E. Bulut (Eds.), _Cognitive capitalism, education, and digital labor_ (pp. 245–258). New York: Peter Lang.
-
-### Open Education Project Report
-There are no assigned readings this week.
 
 ### Resisting Open Education
 #### Readings due:
