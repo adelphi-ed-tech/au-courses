@@ -81,6 +81,8 @@ Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](ht
 
 Benkler, Y. (2006). [_The Wealth of Networks: How Social Production Transforms Markets and Freedom_](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf). New Haven and London: Yale University Press.
 
+Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+
 Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
 
 Castells, M. (2003). _The Internet Galaxy: Reflections on the Internet, Business, and Society_. Oxford University Press. USA.
@@ -90,6 +92,8 @@ Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc) [video, 04:27
 Crouch, C. H., & Mazur, E. (2001). [Peer instruction: Ten years of experience and results](http://newfaculty.mst.edu/documents/MazurActiveLearning.pdf). _American Journal of Physics_, 69.
 
 Dewey, J. (1916). [_Democracy and Education_](http://www.ilt.columbia.edu/publications/dewey.html). The Macmillan Company. New York.
+
+Federici, S. (2011). [Feminism and the Politics of the Commons](http://www.commoner.org.uk/wp-content/uploads/2011/01/federici-feminism-and-the-politics-of-commons.pdf). _The Commoner_, _24_.
 
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
 
@@ -247,7 +251,7 @@ If you would like some extra background on the reading and want to put the ideas
 ### Free Culture & Open Content
 Since there are many good videos on the topic, we are going to primarily focus on videos this week.
 
-#### Required Reading (watching):
+#### Readings due:
 
 Open Source Cinema. (2006). [Lessig Remix.](http://www.youtube.com/watch?v=TFdcPc-4Ris) YouTube. [Video 00:04:34]
 
@@ -270,15 +274,35 @@ Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
 * [personal learning plan](#personal-learning-plan) (mid-point update)
 
 ### Open Education Resources
+
+For this weeks readings, download the creative commons book, [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](https://moodle.adelphi.edu/file.php/53983/iiyoshi-2008-opening-up-ed.pdf).
+
 #### Readings due:
-(n.d.) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
+(2007) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
 
-McGrath, O. (2008). [Open educational technology: Tempered aspirations.](http://mitpress.mit.edu/books/chapters/0262033712chap1.pdf) In T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_ (pp. 13–26). Cambridge  Mass.: MIT Press.
+Unesco. (2012) ["The UNESCO Paris Declaration."](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/Events/English_Paris_OER_Declaration.pdf)
 
-Lee, S. D. (2008). [The Gates Are Shut: Technical and Cultural Barriers to Open Education.](http://mitpress.mit.edu/books/chapters/0262033712chap3.pdf) In T. Iiyoshi & M. S. V. Kumar (Eds.), Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge (pp. 47–59). Cambridge  Mass.: MIT Press.
+McGrath, O. (2008). Open educational technology: Tempered aspirations. In T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_ (pp. 13–26). Cambridge  Mass.: MIT Press.
+
+Casserly, C. M., & Smith, M. S. (2008). Revolutionizing Education
+through Innovation: Can Openness Transform Teaching and Learning? In
+T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The
+Collective Advancement of Education through Open Technology, Open
+Content, and Open Knowledge_ (pp. 261–275). Cambridge  Mass.: MIT Press.
+
+Lee, S. D. (2008). The Gates Are Shut: Technical and Cultural Barriers to Open Education. In T. Iiyoshi & M. S. V. Kumar (Eds.), Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge (pp. 47–59). Cambridge  Mass.: MIT Press.
 
 ### The commons
 #### Readings due:
+Elinor Ostrom. (2010). [Defining “the commons.”](http://youtu.be/aXzbcgj9F54) [Video 00:
+
+[Tragedy of the Commons.](http://youtu.be/lwaNZgY9PCQ?hd=1) (2011). [Video 00:05:35]
+
+Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+
+Federici, S. (2011). [Feminism and the Politics of the Commons](http://www.commoner.org.uk/wp-content/uploads/2011/01/federici-feminism-and-the-politics-of-commons.pdf). _The Commoner_, _24_.
+
+#### Optional readings:
 Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [selections]
 
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
@@ -286,6 +310,7 @@ Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/conte
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
 
 ### MOOCs: Massively Open Online Courses
+#### Readings due:
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.

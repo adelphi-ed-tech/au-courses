@@ -22,17 +22,6 @@
 
 Instructor: [Matthew X. Curinga](http://matt.curinga.com "prof curinga's site")
 <mcuringa@adelphi.edu>\
-(516) 237-8623\
-**Spring 2012 &bull; Tues., Harvey 104, 4:30-6:20PM**\
-_Office hours:_ \
-Post Annex 1: Mon 3-5PM, Tues 2-4, Wed _by appointment_\
-
-**Harvey 104, Open Lab Hours:**
-
-* Monday, 2:30pm-4:15pm
-* Tuesday, 2:30pm-4:15pm
-* Wednesday, 2:30pm-6:15pm
-* Thursday, 2:30pm-4:15pm
 
 ## Description
 Video games have become an increasingly important source of culture and entertainment in our society. They are more popular than Hollywood movies, yet receive a fraction of the attention, especially in academia. In recent years, this has been changing, as scholars have begun to interrogate games from many levels: design, critique, and as a means of learning. In this course, we really have 3 separate, but overlapping goals: 1) to understand video games as a social and cultural phenomenon, especially important to youth culture; 2) to think of ways to teach _about_ video games, as part of a (digital) literacy perspective; and 3) to investigate ways to teach _with_ games, both off the shelf and ones that we design ourselves.
