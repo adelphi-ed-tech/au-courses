@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _ 
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |            
+                     |_|            
+ ______    _   _______        _     
+|  ____|  | | |__   __|      | |    
+| |__   __| |    | | ___  ___| |__  
+|  __| / _` |    | |/ _ \/ __| '_ \ 
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+http://education.adelphi.edu/ed-tech
+-->
+
+<title> :: course syllabus</title>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="date" content="Thursday, 08. November 2012 09:24AM" />
+  <title></title>
+
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+
+
+  <!-- this css file gets inlined by the build script to make standalone html5 output
+  that's why it has a style tag... -->
+  
+  <style type="text/css">
+  body
+  {
+      background-color: white;
+      margin: 0;
+      padding: 0;
+      font-size: 14px;
+  }
+  
+  body, p, ul, ol, li, span, div
+  {
+       font-family: "FreeSans", "Helvetica", sans-serif; 
+  }
+  
+  h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
+  h1{ font-size: 150%;  margin: 0px; margin-top: 2em; background-color: black; color: white; padding: .25em; }
+  h2{ font-size: 130%; margin:0; margin-top: 1em; text-transform: uppercase;}
+  h3{ font-size: 120%; font-weight: bold; }
+  h4{ font-size: 110%; font-weight: bold; }
+  h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
+  
+  h1.title 
+  {
+      margin:0;
+      padding:0;
+      padding-top: 80px;
+      border-style: none;
+      background-color: transparent;
+      color: black;
+      clear: both;
+      font-size: 200%;
+      font-weight: bold; 
+  }
+  
+  h1.title,.rsa-red-text { color: #ab1c19; }
+  .rsa-red-bg { background-color: #ab1c19; }
+  
+  dt { font-weight: bold; }
+  dt:after { content: ":"; }
+  dd p {padding: 0; margin: 0; }
+  
+  
+  a { text-decoration: none; }
+  a img { border-style: none; }
+  
+  table
+  {
+      border-collapse:collapse;
+  }
+  table,th, td
+  {
+      border: 1px solid black;
+      padding: 0 .5em;
+  }
+  
+  tr.odd { background-color: #d3d3d3; }
+  
+  p
+  {
+      margin: .5em 0;
+      line-height: 1.5em;
+  }
+  
+  blockquote
+  {
+      line-height: 120%;
+      font-size: 90%;
+      border-left: 3px solid gray;
+      padding-left: 1em;
+  }
+  
+  .img-right 
+  {
+      float: right;
+      background-color: #d3d3d3;
+      padding: .25em;
+      font-weight: bold;
+      font-size: 80%;
+      text-align: center;
+  }
+  .img-right img { display: block; margin-bottom: .25em; }
+  .clear-all {clear: both;}
+  .warn { color: red; font-weight: bold; text-align: center; }
+  .center { text-align: center; }
+  .single, .single p { line-height: 1.25; }
+  
+  /* hanging indents for references/citations */
+  #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p
+  {
+      margin-bottom: 1em;
+      margin-left: 2em;
+      margin-bottom: .25em;
+      text-indent: -2em;
+      line-height: 1.5em;
+  }
+  
+  *[id*='books'] img
+  {
+      max-width: 150px;
+      max-height: 150px;
+      display: block;
+  }
+  
+  
+  .figure
+  {
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+      padding: .25em 0;
+  }
+  .figure svg, .figure img
+  {
+      max-width: 100%;
+  }
+  .caption
+  {
+      font-weight: bold; font-size: 80%;
+      text-align: center;
+  }
+  
+  
+  @media screen
+  {
+      body
+      {
+          font-size: 14px;
+          width: 800px;
+          margin: 0 auto;
+      }
+  }
+  
+  @media print
+  {
+      a {color: black;}
+  
+      #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
+       { content:" <" attr(href) "> "; }
+  
+      #TOC {display: none;}
+      body
+      {
+          font-size: 10pt;
+          width: 100%;
+      }
+      .page-break {clear: both; page-break-before: always; }
+  }
+  
+  #logo
+  {
+      background-color: #696A6C;
+      position: absolute;
+      left: 0;
+      right: 0;
+      height: 50px;
+      word-wrap: break-word;
+      overflow: hidden;
+      padding: 4px;
+  }
+  
+  #logo .inner
+  {
+      top: 10px;
+      right: 10px;
+      position: absolute;
+  }
+  
+  #logo h1 { text-transform: uppercase; }
+  #logo h2 { font-size: 100%; }
+  #logo a {text-transform: lowercase; font-size: 90%; }
+  #logo h1, #logo h2, #logo a
+  {
+      color: white;
+      text-align: right;
+      background-color: transparent;
+      border-style: none;
+      padding: 0;
+      margin: 0;
+      font-weight: bold;
+      text-shadow: 2px 2px black;
+  }
+  
+  #class-sessions { counter-reset: week; }
+  #class-sessions h3:before {
+      counter-increment: week;
+      content: "Week " counter(week) ": " 
+  }
+  
+  
+  #class-sessions h3
+  {
+      margin-left: -1em;    
+  }
+  
+  #class-sessions>div
+  {
+      border: 1px solid black;
+      margin: 1em 0 0 0;
+      padding: 0 2em;
+  }
+  
+  
+  nav#TOC
+  {
+      background: none repeat scroll 0 0 white;
+      border: 1px solid black;
+      counter-reset: toc;
+      float: right;
+      width: 40%;   
+  }
+  #TOC > ul > li 
+  { 
+      list-style: upper-roman; 
+      counter-increment: toc; 
+      counter-reset: sub1;
+  }
+  /*#TOC>ul>li>ul>li:before { 
+      content: counter(toc) "." counter(sub1) " ";
+      counter-increment: toc; }*/
+  #TOC li ul li { list-style: decimal;}
+  
+  #TOC ul li ul li ul { display: none; }
+  
+  #TOC h3 { text-align: center; }
+  
+  footer
+  {
+      border-top: 2px dotted gray;
+      margin-top: 1.5em;
+  }
+  
+  </style>
+
+
+</head>
+<body>
+<header>
+<div id="logo">
+    <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
+    <div class="inner">
+    <h1>Program in Educational Technology</h1>
+    <h2>Adelphi University | <a href="http://education.adelphi.edu/ed-tech">education.adelphi.edu/ed-tech</a></h2>
+    </div>
+</div>
+</header>
+
+
+<nav id="TOC">
+<h3>Course Outline</h3>
+<ul>
+<li><a href="#session-1-introduction-to-educational-research">Session 1: Introduction to educational research</a></li>
+<li><a href="#session-2-locating-and-reviewing-relevant-research">Session 2: Locating and reviewing relevant research</a></li>
+<li><a href="#session-3-hypothesis-and-variables">Session 3: Hypothesis and variables</a></li>
+<li><a href="#session-4-participants-and-subjects">Session 4: Participants and subjects</a></li>
+<li><a href="#session-5-research-ethics">Session 5: Research ethics</a></li>
+<li><a href="#session-6-experimental-design">Session 6: Experimental design</a></li>
+<li><a href="#session-7action-research-design-research">Session 7:Action research &amp; design research</a></li>
+<li><a href="#session-8-survey-based-research">Session 8: Survey-based research</a></li>
+<li><a href="#session-9-ethnographic-research">Session 9: Ethnographic research</a></li>
+<li><a href="#session-10-case-studies">Session 10: Case studies</a></li>
+<li><a href="#session-11-mixed-methods">Session 11: Mixed methods</a></li>
+<li><a href="#session-12-data-mining-and-business-intelligence">Session 12: Data mining and &quot;business intelligence&quot;</a></li>
+<li><a href="#session-13-continuous-data-integration-in-schools">Session 13: Continuous data integration in schools</a></li>
+<li><a href="#session-14-data-visualization">Session 14: Data visualization</a></li>
+<li><a href="#session-15final-presentations">Session 15:Final presentations</a></li>
+</ul>
+</nav>
+
+<p><em>Course Proposal – EDT 618 Research and evaluation of educational technology 6</em></p>
+<p><strong>ADELPHI UNIVERSITY FACULTY SENATE ACADEMIC AFFAIRS COMMITTEE</strong></p>
+<p><br /> New Course Proposal</p>
+<p><strong>EDT 618 Research and evaluation of educational technology</strong></p>
+<p><br /> <br />  <strong>NEW COURSE NUMBER REQUESTED</strong>: EDT 618 </p>
+<p><br /><br />  <strong>NEW COURSE TITLE REQUESTED:</strong>******</p>
+<p>Research and evaluation of educational technology******</p>
+<p><br />  <strong>POSSIBLE INSTRUCTOR(S)</strong>: <strong><em>PLEASE LIST LAST NAME(S)</em></strong>******</p>
+<p>Curinga, Andrews, Martin</p>
+<p> <strong>CATALOG DESCRIPTION: (Limit = 50 words)</strong></p>
+<p>In this course, students investigate methods for determining if a given technology contributes to a stronger educational experience. Reviewing the body of research on educational technology, students will probe the merits of different methodologies. Students learn how to develop good research questions and choose methodologies to conduct their own investigations. (50 words)</p>
+<p> <strong>PROPOSED BY</strong>: <strong><em>PLEASE LIST SPONSORS &amp; PHONE EXTENSIONS</em></strong>******</p>
+<p>Matthew Curinga, x8623</p>
+<p><br />  <strong>EFFECTIVE START TERM DATE REQUESTED:</strong>12<em>/02</em>******</p>
+<p> <strong>RATIONALE:</strong> </p>
+<p>This research seminar exposes students to the general methods of social science research used in education settings as well as to the specific research paradigms common to technology research. They need these skills to be effective consumers of research; to make informed technology choices and to stay abreast of current trends. Further, they will be able to develop methodologically sound frameworks to test and evaluate the effectiveness of their own technology initiatives in the field.</p>
+<p> <strong>COURSE GOALS &amp; OBJECTIVES:</strong>******</p>
+<p>This course has two main goals: 1) to develop students' abilities to read and write about scholarly research in the area of educational technology, and 2) to foster their ability to conduct academic research and less formal evaluations of educational technology.</p>
+<p>Students will be able to:</p>
+<ul>
+<li><p>read common statistical terms and measures (e.g. ANOVA)</p></li>
+<li><p>comprehend the major trends and questions in educational research, with a focus on technology</p></li>
+<li><p>use data mining and business intelligent techniques to spot trends in data and implement continuous improvement</p></li>
+<li><p>read and evaluate qualitative educational research</p>
+<ul>
+<li><p>ethnographic approaches</p></li>
+<li><p>interviews</p></li>
+<li><p>action research and design research</p></li>
+<li><p>conversation and discourse analysis</p></li>
+<li><p>mixed methods</p></li>
+</ul></li>
+<li><p>implement online surveys</p></li>
+<li><p>use digital tools for analyzing data (spreadsheets, SPSS, SQL databases)</p></li>
+<li><p>use digital tools for visualizing and reporting numerical information</p></li>
+<li><p>design measures to evaluate the success of technology initiatives</p></li>
+</ul>
+<p> <strong>Pre-REQUISITES/Co-REQUISITES:</strong>******</p>
+<p>Permission of instructor.</p>
+<p> <strong>REQUIRED TEXTS (IN UNIVERSITY LIBRARY COLLECTION):</strong></p>
+<p>NONE..</p>
+<p> <strong>REQUIRED TEXTS (NOT HELD IN UNIVERSITY LIBRARY COLLECTION):</strong></p>
+<p>McMillan, James H. 2007. <em>Educational Research: Fundamentals for the Consumer (5</em><sup><em>th</em></sup><em>Edition).</em>Boston MA: Allyn &amp; Bacon. ISBN 0205508308 <strong>(the library has an earlier edition)</strong></p>
+<p>Ladson-Billings, G (ed.). 2006. <em>Education research in the public interest: Social justice, action, and policy.</em> New York NY: Teachers College Press. ISBN 0807747041.</p>
+<p> <strong>BIBLIOGRAPHY AND/OR OTHER ADDITIONAL RESOURCES:</strong></p>
+<p>Bernhardt, Victoria. 2004. <em>Data Analysis for Continuous School Improvement.</em>Eye on Education. ISBN 1930556748. <strong>(not in library)</strong></p>
+<p>Bernhardt, Victoria. 2008. <em>Data, Data, Everywhere.</em>Eye on Education. ISBN 1596671025. <strong>(not in library)</strong></p>
+<p>Collins, Allan. 2009. <em>Rethinking Education in the Age of Technology: The Digital Revolution and Schooling in America.</em>New York NY: Teachers College Press. ISBN 0807750026.</p>
+<p>Elliott, J. 1991. <em>Action research for educational change.</em>Philadelphia: Open University Press. ISBN 0335096905.</p>
+<p>Few, Stephen. 2009. <em>Now You See It: Simple Visualization Techniques for Quantitative Analysis.</em>Analytics Press. ISBN 0970601980. <strong>(not in library)</strong></p>
+<p>Haertel, Geneva D.. 2003. <em>Evaluating Educational Technology: Effective Research Designs for Improving Learning.</em>Teachers College Press. ISBN 0807743305. <strong>(not in library)</strong></p>
+<p>Kelly, A.. 2004. Design research in education: Yes, but is it methodological? <em>Journal of the Learning Sciences</em>, <em>13</em> (<em>1</em>)115–128.</p>
+<p>Reeves, T. C. 2005. Design research: A socially responsible approach to instructional technology research in higher education. <em>Journal of Computing in Higher Education</em>, <em>16</em> (<em>2</em>)96–115.</p>
+<p>Tufte, E. 2006. <em>Beautiful Evidence.</em>Graphics Press. ISBN 0961392177.</p>
+<p>Tufte, E. 1997. <em>Visual &amp; Statistical Thinking: Displays of Evidence for Decision Making.</em>Graphics Press. ISBN 0961392134. <strong>(not in library)</strong></p>
+<p>Willis, Jerry. 2008. <em>Qualitative research methods in education and educational technology.</em>Information Age Publishing. ISBN 9781930608542. <strong>(not in library)</strong></p>
+<p><br />  <strong>OUTLINE of COURSE ACTIVITIES:</strong></p>
+<p><strong>Part I: Introduction &amp; quantitative research</strong></p>
+<div class="section level3" id="session-1-introduction-to-educational-research">
+<h3><a href="#TOC">Session 1: Introduction to educational research</a></h3>
+<p><em>Readings due: Boote</em></p>
+</div>
+<div class="section level3" id="session-2-locating-and-reviewing-relevant-research">
+<h3><a href="#TOC">Session 2: Locating and reviewing relevant research</a></h3>
+<p><em>Readings due: McMillan, ch 1</em></p>
+</div>
+<div class="section level3" id="session-3-hypothesis-and-variables">
+<h3><a href="#TOC">Session 3: Hypothesis and variables</a></h3>
+<p><em>Readings due: McMillan, ch 2;”What Should Count as Educational Research: Notes Toward a New Paradigm,” Jean Anyon in Ladson-Billings</em></p>
+</div>
+<div class="section level3" id="session-4-participants-and-subjects">
+<h3><a href="#TOC">Session 4: Participants and subjects</a></h3>
+<p><em>Readings due: McMillan, ch 5; “Public Interest and the Interests of White People Are Not the Same: Assessment, Education Policy and Racism”, David Gillborn in Ladson-Billings</em></p>
+</div>
+<div class="section level3" id="session-5-research-ethics">
+<h3><a href="#TOC">Session 5: Research ethics</a></h3>
+<p><em>Readings due: “Interrupting the Right: On Doing Critical Educational Work in Conservative Times”, Michael Apple in Ladson-Billings</em></p>
+</div>
+<div class="section level3" id="session-6-experimental-design">
+<h3><a href="#TOC">Session 6: Experimental design</a></h3>
+<p><em>Readings due: McMillan, ch 9</em></p>
+<p><strong>Part II: Qualitative research</strong></p>
+</div>
+<div class="section level3" id="session-7action-research-design-research">
+<h3><a href="#TOC">Session 7:Action research &amp; design research</a></h3>
+<p><em>Readings due: Collins</em></p>
+</div>
+<div class="section level3" id="session-8-survey-based-research">
+<h3><a href="#TOC">Session 8: Survey-based research</a></h3>
+<p><em>Readings due: McMillan, ch 8</em></p>
+</div>
+<div class="section level3" id="session-9-ethnographic-research">
+<h3><a href="#TOC">Session 9: Ethnographic research</a></h3>
+</div>
+<div class="section level3" id="session-10-case-studies">
+<h3><a href="#TOC">Session 10: Case studies</a></h3>
+<p><em>Readings due: McMillan, ch 11</em></p>
+</div>
+<div class="section level3" id="session-11-mixed-methods">
+<h3><a href="#TOC">Session 11: Mixed methods</a></h3>
+<p><em>Readings due: McMillan, ch 12</em></p>
+<p><strong>Part III: Data integration and visualization</strong></p>
+</div>
+<div class="section level3" id="session-12-data-mining-and-business-intelligence">
+<h3><a href="#TOC">Session 12: Data mining and &quot;business intelligence&quot;</a></h3>
+<p><em>Readings due: Baker</em></p>
+</div>
+<div class="section level3" id="session-13-continuous-data-integration-in-schools">
+<h3><a href="#TOC">Session 13: Continuous data integration in schools</a></h3>
+<p><em>Readings due: Bernhardt (2004) [selections]</em></p>
+</div>
+<div class="section level3" id="session-14-data-visualization">
+<h3><a href="#TOC">Session 14: Data visualization</a></h3>
+<p><em>Readings due: Tufte (1997) [selections]</em></p>
+</div>
+<div class="section level3" id="session-15final-presentations">
+<h3><a href="#TOC">Session 15:Final presentations</a></h3>
+<p>Students will present their research designs and receive feedback from the instructor and their peers.</p>
+<p><br />  <strong>MODE OF DELIVERY</strong></p>
+<p><strong>Check all envisioned currently:</strong></p>
+<p>**** <strong>Traditional (0-29% content on-line)</strong></p>
+<p> <strong>Blended (30-79% content on-line)</strong></p>
+<p><strong>On-line (80+% content on-line)</strong> ****</p>
+<hr />
+<p> <strong>STUDENT EVALUATION METHODS:</strong></p>
+<p><strong>Assignment 1 — Review of literature (40%)</strong></p>
+<p>Each semester, the seminar will collaboratively author a review of literature related to a major research area in educational technology. Examples of topics for the literature review:</p>
+<ul>
+<li><p>technology and school reform</p></li>
+<li><p>technology and special education</p></li>
+<li><p>technology and global development</p></li>
+<li><p>educational equity and technology</p></li>
+</ul>
+<p>Through this assignment, students will be evaluated on their ability to understand, analyze, and synthesize research from a range of sources using a variety of research methodologies.</p>
+<p><strong>Assignment 2 — Research design</strong> <strong>(60%)</strong></p>
+<p>For the final assignment, each student will develop a novel research study to explore an area of educational technology. Students will be encouraged to develop research that they can implement in their current work positions or in their upcoming fieldwork. The research design will be evaluated on:</p>
+<ul>
+<li><p>the importance of the research question</p></li>
+<li><p>the clarity of the proposed study</p></li>
+<li><p>the appropriateness of the methodology chosen</p></li>
+<li><p>the feasibility of the study</p></li>
+</ul>
+<p> <strong>OTHER REQUIRED READINGS:</strong></p>
+<p>Baker, R. S.J.D. 2009. The state of educational data mining in 2009: A review and future visions. <em>Journal of Educational Data Mining</em>, <em>1</em> (<em>1</em>)3–17.</p>
+<p>Boote, D. N. 2005. Scholars before researchers: On the centrality of the dissertation literature review in research preparation. <em>Educational Researcher</em>, <em>34</em> (<em>6</em>)3.</p>
+<p>Collins, A., Joseph, D. and Bielaczyc, K. 2004. Design research: Theoretical and methodological issues. <em>Journal of the learning Sciences</em>, <em>13</em> (<em>1</em>)15–42.</p>
+<p> <strong>SPECIAL INSTRUCTIONAL EQUIPMENT NEEDED FOR THIS COURSE:</strong></p>
+<p>NONE.</p>
+<p><strong>FOR DEGREE AUDIT PURPOSES, SPECIFY:</strong></p>
+<p><br />  <strong>MAJOR(S) (Use 3 letter major code): EDT</strong>******</p>
+<p><br />  <strong>DEGREE (BA, BS…):</strong><strong><em>MA</em></strong>******</p>
+<p><br />  <strong>CATEGORY:</strong><strong><em>REQUIRED</em></strong>******</p>
+<p><strong><em>(Specify whether REQUIRED, VARIABLE REQUIRED, ELECTIVE, or REQUIRED FOR OTHER MAJOR)</em></strong></p>
+<p><br /> <br /> <strong>PRIMARY ACTIVITY INFORMATION:</strong></p>
+<p><br />  <strong>PRIMARY ACTIVITY:</strong><strong><em>SEM</em></strong>******</p>
+<p><strong><em>(See list below and replace XXX as appropriate)</em></strong></p>
+<p><br />  <strong>CONTACT HOURS: 3</strong>************</p>
+<p><br />  <strong>CREDIT CODE:</strong><strong><em>F</em></strong>******</p>
+<p><strong><em>(Credit codes: F=Fixed, V=Variable, A=Alternating [e.g. 3, 6 reads 3 or 6 credits])</em></strong></p>
+<p><br />  <strong>STUDENT CREDIT:</strong><strong><em>3</em></strong>******</p>
+<p><br />  <strong>MAX CAP REQUESTED:</strong><strong><em>15</em></strong>******</p>
+<p><br />  <strong>GRADE TYPE: R</strong>******</p>
+<p><strong><em>[Grade types: N=Non-Graded (usually labs), P=Pass/Fail (not for Required Course or IND Study), R=Grade Only (A, B, C …), BLANK=Any Grade]</em></strong></p>
+<p><br />  <strong>SCHEDULE NOTES:</strong>*********XXXX*********</p>
+<p><strong><em>(Replace with letter code for specific Registrar Schedule Notes wanted, if any)</em></strong></p>
+<p><br />  <strong>TEACHING CREDITS:</strong><strong><em>3</em></strong>******</p>
+<p><strong><em>(Instructor credit – usually same as Student Credit)</em></strong></p>
+<p><br />  <strong>FREE FORM NOTES:</strong><strong><em>INSTRUCTORS APPROVAL REQUIRED FOR NON-EDUCATION MAJORS</em></strong>******</p>
+<p><strong><em>(Replace as appropriate)</em></strong></p>
+<p><br /> <br /> <strong>Consideration/Approval Chain:</strong></p>
+<p><br /> . Proposal Originator =&gt; ________________________________________________________</p>
+<p>Name, Phone Extension Date Approved</p>
+<p><br /> . Unit Acad. Affairs Com =&gt; ______________________________________________________ Name, Phone Extension Date Approved</p>
+<p><br /> . Unit Faculty Approval =&gt; _____________________________________________________</p>
+<p>Name, Phone Extension Date Approved</p>
+<p><br /> . Library Dean =&gt; ____________________________________________________________</p>
+<p>Name, Phone Extension Date Approved</p>
+<p><br /> . Other unit O.K.</p>
+<p>(if appropriate)=&gt; ______________________________________________________________</p>
+<p>Name, Phone Extension Date Approved</p>
+<p><br /> . Unit Dean =&gt; _______________________________________________________________</p>
+<p>Name, Phone Extension Date Approved</p>
+<p><br /> . Faculty Senate Academic Affairs Committee (Send signed original and 11 copies to Secretary, c/o Faculty Senate Office, HHE 122, for routing).</p>
+<p><br /> =&gt; _________________________________________________________________________</p>
+<p>Name, Phone Extension Date Approved</p>
+<br />
+</div>
+
+<footer>
+
+<h3>University Statement on Academic Assistance for Students with Disabilities</h3>
+<p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
+
+<h3>University Statement on Academic Integrity</h3>
+<p>You are expected to behave with the highest level of academic integrity. Cheating and other forms of dishonesty will not be tolerated and will result in the proper disciplinary action from the university. Classroom behavior that interferes with the instructor’s ability to conduct the class or ability of students to benefit from the instruction will not be tolerated. All beepers and cellular phones should be turned off while class is in session. You are expected to come to class prepared - this means having read and studied the assigned chapters before class. By having prepared in this manner, you will be able to maximize your time spent in class.</p>
+<p>Adelphi University demands the highest standards of academic integrity. Proper conduct during examinations, the proper attribution of sources in preparation of written work, and complete honesty in all academic endeavors is required. Submission of false data, falsification of grades or records, misconduct during examinations, and plagiarism are among the violations of academic integrity. Students who do not meet these standards are subject to dismissal from the University.</p>
+
+
+<h3>Use of Candidate Work</h3>
+<p>All teacher education programs in New York State undergo periodic reviews by accreditation agencies and the state education department. For these purposes samples of students’ work are made available to those professionals conducting the review. Student anonymity is assured under these circumstances. If you do not wish to have your work made available for these purposes, please let the professor know before the start of the second class. Your cooperation is greatly appreciated.</p>
+<img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/adelphi-logo-soe_thumb.jpg" alt="rsa school of education adelphi university logo" />
+
+<hr class="clear-all" />
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />
+    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" 
+    property="dct:title" rel="dct:type"><strong></strong></span> was created by:
+    <ul>
+        </ul>
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+    Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
+
+<tt>Last modified: Thursday, 08. November 2012 09:24AM</tt>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.curinga.com/" : "http://stats.curinga.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+    piwikTracker.trackPageView();
+    piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stats.curinga.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+</footer>
+</body>
+</html>
