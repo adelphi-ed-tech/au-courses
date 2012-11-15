@@ -6,6 +6,7 @@
 *.css~
 *.html~
 
+settings.py
 push
 tmpl/footer.html
 
