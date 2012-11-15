@@ -314,11 +314,17 @@ There are no assigned readings this week.
 
 ### MOOCs: Massively Open Online Courses
 #### Readings due:
+Pappano, L. (2012, November 2). [Massive Open Online Courses Are Multiplying at a Rapid Pace](http://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html). _The New York Times_. 
+
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
 
-Peters, M. A. (2011). Algorithmic capitalism and educational futures. In M. A. Peters & E. Bulut (Eds.), _Cognitive capitalism, education, and digital labor_ (pp. 245–258). New York: Peter Lang.
+Siemens, G. (2012, June 12). [What is the theory that underpins our MOOCs](http://www.elearnspace.org/blog/2012/06/03/what-is-the-theory-that-underpins-our-moocs/).
+
+Vollmer, Timothy. (2012, November 1). [Keep MOOCs Open](http://creativecommons.org/weblog/entry/34852)
+
+Peters, M. A. (2011). [Algorithmic capitalism and educational futures](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)[moodle pdf]. In M. A. Peters & E. Bulut (Eds.), _Cognitive capitalism, education, and digital labor_ (pp. 245–258). New York: Peter Lang.
 
 ### Resisting Open Education
 #### Readings due:
