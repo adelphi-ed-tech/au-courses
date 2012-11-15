@@ -6,13 +6,22 @@ import os.path
 from string import Template
 import datetime
 
+from wordpress_xmlrpc import Client
+from wordpress_xmlrpc.methods import posts
+from wordpress_xmlrpc import WordPressPage
+
+# you need to create your own settings.py, or just enter these vars here
+from settings import url, user, pw
+
 def GenerateAllCourses(html, raw):
     courses = [f[:-3] for f in os.listdir("courses") if f.endswith(".md")]
+    pagesToBuild = []
     for c in courses:
         if(IsModified(c)):
             print("rebuilding course: %s" % (c,))
             GenerateCourse(html, raw, c)
-
+            pagesToBuild.append(c)
+    PushToWeb(pagesToBuild)
 
 def ModTimeIfExists(path):
     if os.path.exists(path):
@@ -67,6 +76,37 @@ def GenerateCourse(html, raw, course):
     cmd = raw.substitute(args)
     subprocess.check_call(cmd,shell=True)
 
+def GetWebPages():
+    ids = [817,819,822,841,834,836,839,807,812,1156,1131,847]
+    pages = dict()
+    client = Client(url,user,pw)
+    for postId in ids:
+        page = client.call(posts.GetPost(postId))
+        pages[page.slug] = page
+
+    return pages
+
+def PushToWeb(courses):
+    client = Client(url,user,pw)
+    pages = GetWebPages()
+
+    for course in courses:
+        print("pushing to web", course)
+        page = pages[course]
+        try:
+            f = open("raw/%s.html" % (course,),"r")
+            page.content = f.read()
+            f.close()
+        except IOError as ioe:
+            print("** no raw file found for",course)
+            print(ioe)
+            continue
+
+        result = client.call(posts.EditPost(page.id, page))
+        if result:
+            print("Successfully updated ", page.slug)
+        else:
+            print("******Warning********: could not update ", page.slug)
 
 def IncludeIfExists(path, arg):
     if(os.path.exists(path)):
