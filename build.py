@@ -6,9 +6,14 @@ import os.path
 from string import Template
 import datetime
 
-from wordpress_xmlrpc import Client
-from wordpress_xmlrpc.methods import posts
-from wordpress_xmlrpc import WordPressPage
+try:
+    from wordpress_xmlrpc import Client
+    from wordpress_xmlrpc.methods import posts
+    from wordpress_xmlrpc import WordPressPage
+    pushToWordPress = True
+except:
+    print("no wordpress support")
+    pushToWordPress = False
 
 # you need to create your own settings.py, or just enter these vars here
 from settings import url, user, pw
@@ -87,6 +92,8 @@ def GetWebPages():
     return pages
 
 def PushToWeb(courses):
+    if not pushToWordPress:
+        return
     client = Client(url,user,pw)
     pages = GetWebPages()
 
