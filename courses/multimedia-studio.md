@@ -1,34 +1,71 @@
 % Educator's multimedia studio
 % Matthew X. Curinga
 
+<!--
+This syllabus was created for
+the Educational Technology Program
+at Adelphi University:
+http://education.adelphi.edu
+copyright 2012 Matthew X. Curinga
+http://matt.curinga.com
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
+a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+We ask, but do not require, that attribution includes a link to our websites (above).
+version: 2.1
+Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
+-->
+**Educational Technology 0850-620, Spring 2013**
+
 **Keywords:** studio pedagogy, interaction design, multimedia learning, digital studio, ed tech capstone, instructional design
 
-<div class="warn">This is the draft for a course that has not been taught and is subject to change.</div>
-
-**Educational Technology 0850-620**
-
-## Description
-How can the digital media best support learning? Working on
+**Description:**
+How can digital media best support learning? Working on
 semester-long projects, students learn about interaction and
 instructional design. In this hands-on studio, develop and extend skills
 in multimedia authoring: digital images/audio/video, web design,
 HTML/CSS/Javascript, web programming. Apply these skills to create a
 original educational resources.
 
+------------------------------------------------------------------------
+
+> A studio is a place where people gather to exercise and develop 
+> skill and interest, an art, a techne. A studio provides the tools of 
+> a techne and opportunities for their use, invitations for their 
+> development, a challenge to accomplished performance within a 
+> community of peers.\
+> — Robbie McClintock, [StudyPlace](http://www.studyplace.org/wiki/The_Studio_for)
+
+> "Cancel all student loan debt? But that would be unfair to all those 
+> people who struggled for years to pay back their student loans!" 
+> Let me assure the reader that, as someone who struggled for years to 
+> pay back his student loans and finally did so, this argument makes 
+> about as much sense as saying it would be "unfair" to a mugging 
+> victim not to mug their neighbors too.\
+> David Graeber, _Debt: the first 5,000 years_
+
+## Spring 2013 Studio: Debt
 Each semester will feature a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
 long multimedia project that teaches some aspect of this challenge. The
 semester will culminate with a student show, which will be refereed by a
 panel of experts in the field of educational technology.
 
-Since I started thinking about this course in Fall 2010, I have thought about what topics would make good subjects. Here is what I've been thinking about:
+![The Spring 2013 Studio Topic is "Debt".](http://matt.curinga.com/wp-content/uploads/2012/11/debt-222x300.png)
 
-* Fall 2010: Teaching the BP Oil Spill
-* Spring 2011: Wikileaks: diplomacy, journalism, and the internet
-* Fall 2011: The Arab Spring
-* Spring 2012: #Occupy
+Debt is one of the defining characteristics of our times. Student 
+debt in the U.S. has passed the one trillion dollar mark.
+[According to BusinessWeek](http://www.businessweek.com/ap/2012-09-12/underwater-mortgages-declined-in-2nd-quarter) 
+“underwater” mortgages (where the value of a home is lower than 
+mortgage) account for about “10.8 million properties — about 22 of 
+all U.S. homes with a mortgage.” Cities are cutting community and 
+social services while increasing spending on debt services. 
+Americans are almost [$20 billion behind in paying back their 
+credit card debt](http://dealbook.nytimes.com/2012/08/12/problems-riddle-moves-to-collect-credit-card-debt).
 
-All final projects will be published on the Program in Educational Technology website, and will be released under an appropriate open license that allows reuse and remix (GPL for code, CC for creative works, for example).
+This studio challenges students to create multimedia learning 
+artifacts that explore the history and contemporary issues 
+surrounding debt.
 
 ## Goals
 This course is designed to challenge students to develop their abilities
@@ -47,7 +84,7 @@ for learning. Specifically, they should learn to:
     learning
 
 ## Required text
-Moggridge, B. 2007. *Designing interactions.* MIT Press. Cambridge Mass. ISBN 9780262134743
+Graeber, D. (2011). _Debt: the first 5,000 years_. Brooklyn, NY: Melville House.
 
 ## Readings
 Collins, A. 2004. Design research: Theoretical and methodological issues. *Journal of the learning Sciences*, *13* (*1*)15–42.
@@ -56,80 +93,39 @@ Jewitt, C. 2008. Multimodality and Literacy in School Classrooms. *Review of Res
 
 Kuhn, S. 2001. Learning from the architecture studio: Implications for project-based pedagogy. *International Journal of Engineering Education*, *17* (*4/5*)349–352.
 
-Kvan, T. (2001) [The pedagogy of virtual design studios]((http://www.sciencedirect.com/science/article/B6V20-41KP556-K/2/1ad23074f36031dadda5bd8e49e80986) ). *Automation in Construction*, *10* (*3*)345-353.
+Kvan, T. (2001) [The pedagogy of virtual design studios](http://www.sciencedirect.com/science/article/B6V20-41KP556-K/2/1ad23074f36031dadda5bd8e49e80986). *Automation in Construction*, *10* (*3*)345-353.
 
-Löwgren, J. 2007. *Thoughtful interaction design: a design perspective on information technology. *MIT Press. Cambridge Mass.; London. ISBN 9780262622097.
+Löwgren, J. 2007. _Thoughtful interaction design: a design perspective on information technology._ MIT Press. Cambridge Mass.; London. ISBN 9780262622097.
 
-Moreno, R.. 2007. Interactive multimodal learning environments. *Educational Psychology Review*, *19* (*3*)309–326.
+Moggridge, B. 2007. *Designing interactions.* MIT Press. Cambridge Mass. ISBN 9780262134743
+
+Moreno, R. 2007. Interactive multimodal learning environments. *Educational Psychology Review*, *19* (*3*)309–326.
 
 Wilson, B. G. 1997. Constructivist learning environments: Case studies in instructional design. *IEEE Transactions on Professional Communication*. 
 
-## Class sessions
-*The sessions below are examples of how the course might unfold, but
-because of the nature of the studio, the instructor may choose to cover
-other areas or change the order of studios in response to student needs.
-The seminars are expected to remain as planned.*
+## Schedule
+Session	Date	Topic	                                Workshop Leader
+------- ------  --------------------------------------  ----------------
+1	    Jan 25	Studio Pedagogy & Multimedia Learning	Curinga
+2	    Feb 1	Multimedia Learning/SMARTBoards	        Vaughn-Shavo
+3	    Feb 8	Interaction design	                    Curinga
+4	    Feb 15	Games, Play, & Learning	                Vikaros
+5	    Feb 22	Building Websites with WordPress	    Curinga
+6	    Feb 29	Digital Image Editing	                Fleurimond
+7	    Mar 7	Social media	                        Curinga
+-	    Mar 14	_Spring Break_	                               -
+8	    Mar 21	Going Mobile with PhoneGap	            Saravanos
+9	    Mar 28	Midpoint Critique	                    Curinga
+10	    Apr 4	Teaching with Video	                    Kase & Jennings
+11	    Apr 11	User Experience	                        Curinga
+12	    Apr 18	Sound & Audio	                        Gregory
+13	    Apr 25	Data-driven multimedia	                Curinga
+14	    May 2	GIS: Maps & Location	                TPD
+15	    May 9	Working session	                        Curinga
+16	    May 16	Final Show                              _Jury_
 
-### Welcome: introduction to studio pedagogy
-The introductory session introduces the idea and background of a studio
-pedagogy, and explains how the course will unfold.
-
-*Readings due: Collins; Kuhn*
-
-### Studio: digital images
-This studio focuses on manipulating and using digital images; students
-will learn techniques of the Gimp image editing software.
-
-### Seminar: interaction design
-Seminar about the key principles of interface and interaction design.
-
-*Readings due: Moggridge, ch 1,5,7,10*
-
-### Studio: introduction to web development
-Covers the basic building blocks of Web design and development: HTML and
-CSS.
-
-### Studio: web layouts and media
-Students learn more advanced web techniques, with a focus on HTML5 and
-multimedia.
-
-### Seminar: learning with multimedia
-Seminar covers the key concepts of learning with multimedia; exploring
-powerful examples of multimedia learning resources.
-
-*Readings due: Jewitt; Moggridge, ch 8*
-
-### Studio: web interactivity with Javascript
-Students learn to make interactive web pages using the Javascript
-programming language.
-
-### Studio: GIS - geograhic information systems
-This studio looks at the tools for integrating geographic systems into
-educational media.
-
-### mid-point critique
-All students present their work to the class, formal critique from
-instructor and peers.
-
-### Studio: blogs & wikis
-This session focses on using wikis (MediaWiki) and blogs (WordPress) as
-multimedia frameworks.
-
-### Studio: video basics
-In this studio, students experiment with the basics of shooting video
-(lighting, camera angles, scripting, framing shots).
-
-### Studio: video editing
-Students will work with non-linear video editing packages (e.g. Final
-Cut).
-
-### Studio: audio
-Students are introduced to the concepts of audio editing/sampling; they
-will use the Audacity software package.
-
-### Final show
-Students prepare an open studio, where they will present their project
-to the jury and guests from campus and community (and online).
+_This is a tentative list and schedule of workshops. The actual 
+studio will be organized to be responsive to the needs of the students._
 
 ## Assignments
 The studio format allows for frequent and ongoing evaluation of the
@@ -140,11 +136,15 @@ mid-point critique will be conducted by the instructor and a guest; the
 final assessment will consist of a panel of distinguished judges from
 Adelphi University and outside organizations.
 
--   initial proposal (15%)
--   mid-term critique (20%)
--   final project (65%)
+### Grading & due dates
 
-The critiques will consider the following criteria:
+Session   Assignment due       % of final grade
+--------  -----------------    ----------------
+ 3        initial proposal        15%
+ 9        mid-term critique       20%
+16        final project           65%
+
+Projects will be evaluated using the following criteria.
 
 ### Design
 The design of the project encompasses the information, interaction, and
