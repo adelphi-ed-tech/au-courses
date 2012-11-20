@@ -112,6 +112,8 @@ Kamenetz, A. (2011). the [Edupunks’ Guide to a DIY Education!](http://www.edup
 
 Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_](http://www.free-culture.cc/freeculture.pdf). Penguin Press HC.
 
+Mandiberg, M. (Ed.). (2012). [_The social media reader_](http://archive.org/details/TheSocialMediaReader). New York: New York University Press.
+
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
@@ -328,7 +330,12 @@ Peters, M. A. (2011). [Algorithmic capitalism and educational futures](https://m
 
 ### Resisting Open Education
 #### Readings due:
-Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. [selections]
+Vaidhyanathan, S. (2012, November 16). [A New Era of Unfounded Hyperbole](http://www.cato-unbound.org/2012/11/16/siva-vaidhyanathan/a-new-era-of-unfounded-hyperbole/). _Cato Unbound_. 
+
+Dawson, A. (2012). [DIY Academy? Cognitive Capitalism, Humanist Scholarship, and the Digital Transformation](http://archive.org/download/TheSocialMediaReader/Mandiberg-theSocialMediaReader-cc-by-sa-nc.pdf). In M. Mandiberg (Ed.), [_The social media reader_](http://archive.org/details/TheSocialMediaReader "epub, pdf, and other formats here") (pp. 257–274). New York: New York University Press.
+
+#### Optional Readings:
+Federici and Fuchs Chapters in Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. [selections](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)[moodle pdf]
 
 ### Final paper writing workshop
 _Come prepared with a draft of your paper._
