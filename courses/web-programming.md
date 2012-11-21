@@ -1,65 +1,14 @@
-*Course Proposal – EDT 603 Programming web-based educational media 6*
+% Programming web-based educational media
+% Matthew X. Curinga
 
-**ADELPHI UNIVERSITY FACULTY SENATE ACADEMIC AFFAIRS COMMITTEE**
-
-\
-
-New Course Proposal
-
-**EDT 603 Programming web-based educational media**
-
-\
-
- **NEW COURSE NUMBER REQUESTED**: EDT 603 
-
-\
-\
-
- **NEW COURSE TITLE REQUESTED:********
-
-Interactive web programming
-
- **POSSIBLE INSTRUCTOR(S)**: ***PLEASE LIST LAST NAME(S)*********
-
-Curinga
-
- **CATALOG DESCRIPTION: (Limit = 50 words)**
-
-In this course students learn techniques of web programming to develop
+**Description:** In this course students learn techniques of web programming to develop
 interactive, educational media. Using the Python programming language
 and web development technologies (HTML5, Javascript, CSS), students gain
 practice in the object oriented programming and design of interactive
 software. For their final project, students will create their own
-educational website. (50 words)
+educational website.
 
-\
-
- **PROPOSED BY**: ***PLEASE LIST SPONSORS & PHONE EXTENSIONS*********
-
-Matthew Curinga, x8623
-
-\
-
- **EFFECTIVE START TERM DATE REQUESTED: 12/02********
-
- **RATIONALE:** 
-
-This second semester programming class extends students programming
-ability while they learn the unique challenges and opportunities of
-web-based educational software. This course is needed to provide
-students enough practical programming experience that they can write
-computer programs for a variety of purposes in further courses and in
-entry-level professional situations.
-
-Students focused on a teaching career will be able to draw on this
-course if they are teaching K-12 computer science courses, or if they
-are teaching web development and design classes. Whether focused on
-teaching or not, all graduates of this program must understand the
-potential of the web to support teaching and learning. This course
-introduces them to the technically underpinnings of web applications.
-
- **COURSE GOALS & OBJECTIVES:********
-
+## Goals and Objectives
 This course builds on CSC 602 to move beyond basic programming concepts;
 students will gain expertise in building more complex computer programs,
 over many iterations. At the end of the course, students will be able to
@@ -69,144 +18,101 @@ identify methods for teaching programming and web development.
 
 Specific teaching and learning goals include:
 
--   designing web-based interactions and multimedia to support learning
-
+-   designing web-based interactions and multimedia to support learning\
 -   coding effective user interfaces for learning
-
 -   implementing Universal Design goals for accessible web sites
-
 -   identifying effective methods for teaching more advanced programming
     concepts and web design skills
 
 Specific software development goals include:
 
 -   modeling real world problems with software
-
 -   planning iterations of a project
-
 -   testing and debugging
-
 -   Object oriented programming concepts:
-
 -   Abstraction
-
 -   Encapsulation
-
 -   Objects & Classes
-
 -   Composition
-
 -   Inheritance
-
 -   Polymorphism
 
-\
-\
 
- **Pre-REQUISITES/Co-REQUISITES:********
-
-CSC 602 (or equivalent)
-
-\
-
- **REQUIRED TEXTS (IN UNIVERSITY LIBRARY COLLECTION):**
-
-Anderson, T. (Ed.). (2008). *Theory and practice of online learning*
-(2nd ed.). Edmonton: AU Press. [Creative Commons eBook]
-[http://www.aupress.ca/index.php/books/120146](http://www.aupress.ca/index.php/books/120146)
-**(free online)**
-
- **REQUIRED TEXTS (NOT HELD IN UNIVERSITY LIBRARY COLLECTION):**
+## Course Texts
+Anderson, T. (Ed.). (2008). [*Theory and practice of online learning*](http://www.aupress.ca/index.php/books/120146). Edmonton: AU Press.
 
 Hayward, J. (2011). *Django JavaScript Integration: AJAX and jQuery*.
 Packet Publishing. ISBN 1849510342
 
- **BIBLIOGRAPHY AND/OR OTHER ADDITIONAL RESOURCES:**
-
-Castro, Elizabeth. 2010. *Html 5 Visual Quickstart Guide.*Peachpit
-Press. ISBN 9780321719614. **(not in library – earlier edition is in
-collection, but out of date because of nature of the book)**
+## Readings
+Castro, Elizabeth. 2010. *Html 5 Visual Quickstart Guide.* Peachpit
+Press. ISBN 9780321719614.
 
 Gamma, E., Helm, R., Johnson, R., & Vlissides, J. M. (1994). *Design
 Patterns: Elements of Reusable Object-Oriented Software* (1st ed.).
-Reading Mass.: Addison-Wesley Professional. ISBN 0201633612. **(not in
-library)**
+Reading Mass.: Addison-Wesley Professional. ISBN 0201633612.
 
-Knuth, Donald. 1997. *The art of computer programming..*Addison-Wesley
+Knuth, Donald. 1997. *The art of computer programming.* Addison-Wesley
 Pub. Co. Reading Mass. ISBN 9780201896831.
 
-Teague, Jason. 2011. *CSS3: Visual QuickStart Guide.*Peachpit Press.
-Berkeley CA. ISBN 9780321719638. **(not in library)**
+Teague, Jason. 2011. *CSS3: Visual QuickStart Guide.* Peachpit Press.
+Berkeley CA. ISBN 9780321719638.
 
 Zelle, John. 2004. *Python programming: an introduction to computer
-science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991. **(not in
-library)**
+science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
- **OUTLINE of COURSE ACTIVITIES:**
+## Class Sessions
+### Topography of interactive websites
 
-### Session 1:Topography of interactive websites
-
-### Session 2:Web development toolkit
+### Web development toolkit
 
 *Readings due: Hayword, ch 1; Anderson ch 2*
 
-### Session 3:Creating and reading web forms
+### Creating and reading web forms
 
 *Readings due: Hayword, ch 3; Shneiderman (2000 & 2002)*
 
-### Session 4:Creating and saving objects
+### Creating and saving objects
 
 *Readings due: Hayword, ch 4*
 
-### Session 5:MVC pattern and templates
+### MVC pattern and templates
 
 *Readings due: Hayword, ch 5*
 
-### Session 6:Interaction design for learning
+### Interaction design for learning
 
 *Readings due: Anderson, ch 4*
 
-### Session 7:Objects in django
+### Objects in django
 
-### Session 8:Object composition, "mixins", & inheritance
+### Object composition, "mixins", & inheritance
 
 *Readings due: Anderson, ch 7*
 
-### Session 9:Effective multimedia learning
+### Effective multimedia learning
 
 *Readings due: Moreno (2006 & 2007)*
 
-### Session 10:REST APIs: connecting to flickr
+### REST APIs: connecting to flickr
 
 *Readings due: Anderson, ch 9*
 
-### Session 11:Searching database objects
+### Searching database objects
 
 *Readings due: Hayword, ch 8*
 
-### Session 12:Using polymorphism
+### Using polymorphism
 
 *Readings due: Anderson, ch 8*
 
-### Session 13:Errors and exceptions
+### Errors and exceptions
 
-### Session 14:Project work session
+### Project work session
 
-### Session 15:Final project presentations
+### Final project presentations
 
- **MODE OF DELIVERY**
-
-**Check all envisioned currently:**
-
- **Traditional (0-29% content on-line)**
-
- **Blended (30-79% content on-line)**
-
-√ **On-line (80+% content on-line)** ****
-
-****
-
- **STUDENT EVALUATION METHODS:**
+## Assignments
 
 Students in this class are given 3 open-ended challenges. The challenges
 become increasingly complex and are designed to scaffold students into
