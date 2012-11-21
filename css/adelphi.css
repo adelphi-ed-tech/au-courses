@@ -149,14 +149,16 @@ blockquote
 
 #logo
 {
-    background-color: #696A6C;
-    position: absolute;
+    color: #D3D3DE;
+    font-family: monospace;
+    height: 10em;
     left: 0;
-    right: 0;
-    height: 50px;
-    word-wrap: break-word;
+    line-height: 1em;
     overflow: hidden;
-    padding: 4px;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    word-wrap: break-word;
 }
 
 #logo .inner
