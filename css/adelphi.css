@@ -149,9 +149,11 @@ blockquote
 
 #logo
 {
+    background-color: white;
+    border-bottom: 1px solid #D3D3DE;
     color: #D3D3DE;
     font-family: monospace;
-    height: 10em;
+    height: 4em;
     left: 0;
     line-height: 1em;
     overflow: hidden;
@@ -163,9 +165,11 @@ blockquote
 
 #logo .inner
 {
-    top: 10px;
-    right: 10px;
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
+    padding: 0 0.25em;
     position: absolute;
+    right: 10px;
+    top: 10px;
 }
 
 #logo h1 { text-transform: uppercase; }
@@ -173,15 +177,20 @@ blockquote
 #logo a {text-transform: lowercase; font-size: 90%; }
 #logo h1, #logo h2, #logo a
 {
-    color: white;
+    color: #ab1c19;
     text-align: right;
     background-color: transparent;
     border-style: none;
     padding: 0;
     margin: 0;
     font-weight: bold;
+    line-height: 1.25em;
+/*
     text-shadow: 2px 2px black;
+*/
 }
+
+#logo h2 { color: black; }
 
 #class-sessions { counter-reset: week; }
 #class-sessions h3:before {
@@ -209,7 +218,8 @@ nav#TOC
     border: 1px solid black;
     counter-reset: toc;
     float: right;
-    width: 40%;   
+    width: 40%;
+    margin: 1.5em;   
 }
 #TOC > ul > li 
 { 
