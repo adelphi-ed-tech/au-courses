@@ -17,14 +17,14 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 -->
 **Educational Technology 0850-620, Spring 2013**
 
-**Keywords:** studio pedagogy, interaction design, multimedia learning, digital studio, ed tech capstone, instructional design
+**Keywords:** studio pedagogy, interaction design, multimedia 
+learning, digital studio, ed tech capstone, instructional design
 
-**Description:**
-How can digital media best support learning? Working on
-semester-long projects, students learn about interaction and
-instructional design. In this hands-on studio, develop and extend skills
-in multimedia authoring: digital images/audio/video, web design,
-HTML/CSS/Javascript, web programming. Apply these skills to create a
+**Description:** How can digital media best support learning? 
+Working on semester-long projects, students learn about interaction 
+and instructional design. In this hands-on studio, develop and 
+extend skills in multimedia authoring: digital images/audio/video, 
+and interactive web development. Apply these skills to create a 
 original educational resources.
 
 ------------------------------------------------------------------------
@@ -45,13 +45,13 @@ original educational resources.
 > David Graeber, _Debt: the first 5,000 years_
 
 ## Spring 2013 Studio: Debt
+![The Spring 2013 Studio Topic is "Debt".](http://matt.curinga.com/wp-content/uploads/2012/11/debt-222x300.png)
+
 Each semester will feature a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
 long multimedia project that teaches some aspect of this challenge. The
 semester will culminate with a student show, which will be refereed by a
 panel of experts in the field of educational technology.
-
-![The Spring 2013 Studio Topic is "Debt".](http://matt.curinga.com/wp-content/uploads/2012/11/debt-222x300.png)
 
 Debt is one of the defining characteristics of our times. Student 
 debt in the U.S. has passed the one trillion dollar mark.
