@@ -55,6 +55,20 @@ Reading Mass.: Addison-Wesley Professional. ISBN 0201633612.
 Knuth, Donald. 1997. *The art of computer programming.* Addison-Wesley
 Pub. Co. Reading Mass. ISBN 9780201896831.
 
+
+Moreno, R., & Mayer, R. (2007). Interactive multimodal learning
+environments. *Educational Psychology Review*, *19*(3), 309–326.
+
+Moreno, R. (2006). Learning in High-Tech and Multimedia Environments.
+*Current Directions in Psychological Science*, *15*(2), 63 -67.
+
+Shneiderman, B. (2000). Universal usability. *Communications of the
+ACM*, *43*(5), 84–91.
+
+Shneiderman, B. (2002). Promoting universal usability with multi-layer
+interface design. *ACM SIGCAPH Computers and the Physically
+Handicapped*, (73-74), 8.
+
 Teague, Jason. 2011. *CSS3: Visual QuickStart Guide.* Peachpit Press.
 Berkeley CA. ISBN 9780321719638.
 
@@ -121,17 +135,17 @@ are designed to be solved in pairs. The first two challenges have an
 optional "bonus", which is meant to give more advanced teams a
 challenge.
 
-1.  **Word Frequency Statistics (30%)****:** Students will parse texts
-    to create a variety of word frequency statistics. The input text can
-    be uploaded or submitted via a form. The results are displayed as
-    HTML. *Bonus*: create “Wordle” or tag-cloud style visualizations of
-    the results and/or pull in source text from other website URLs.
-
-2.  **Photo gallery (30%)****:** students will enter the world of
+1.  **Photo gallery (30%):** students will enter the world of
     Web-based APIs and interactive web programming by rethinking a
     familiar online idiom, the photo gallery. Using the Flickr API, they
     will create their own gallery software. *Bonus*: use the jQuery
     javascript library to add visual effects to your gallery.
+
+2.  **Word Frequency Statistics (30%):** Students will parse texts
+    to create a variety of word frequency statistics. The input text can
+    be uploaded or submitted via a form. The results are displayed as
+    HTML. *Bonus*: create “Wordle” or tag-cloud style visualizations of
+    the results and/or pull in source text from other website URLs.
 
 3.  **Final project (40%):** student teams will propose, design, and
     execute their own project. The requirements for the project are that
@@ -140,169 +154,3 @@ challenge.
     The instructor will work with teams to develop suitable projects. In
     addition to submitting the working code, students will turn in a one
     page paper reflecting on the pedagogy informing their design.
-
- **OTHER REQUIRED READINGS:**
-
-Moreno, R., & Mayer, R. (2007). Interactive multimodal learning
-environments. *Educational Psychology Review*, *19*(3), 309–326.
-
-Moreno, R. (2006). Learning in High-Tech and Multimedia Environments.
-*Current Directions in Psychological Science*, *15*(2), 63 -67.
-
-Shneiderman, B. (2000). Universal usability. *Communications of the
-ACM*, *43*(5), 84–91.
-
-Shneiderman, B. (2002). Promoting universal usability with multi-layer
-interface design. *ACM SIGCAPH Computers and the Physically
-Handicapped*, (73-74), 8.
-
- **SPECIAL INSTRUCTIONAL EQUIPMENT NEEDED FOR THIS COURSE:**
-
-This course will be taught online. Each student will need server space
-running the appropriate web-server software (Apache, Python, Django,
-sqlite, etc). This is all Free Software, so no additional licensing fees
-are needed.
-
-\
-
-**FOR DEGREE AUDIT PURPOSES, SPECIFY:**
-
-\
-
- **MAJOR(S) (Use 3 letter major code): EDT********
-
-\
-
- **DEGREE (BA, BS…):*****MA*********
-
-\
-
- **CATEGORY:*****Required*********
-
-\
-
-\
-
-**PRIMARY ACTIVITY INFORMATION:**
-
-\
-
- **PRIMARY ACTIVITY: CLC**************
-
-***(See list below and replace XXX as appropriate)***
-
-\
-
- **CONTACT HOURS: 3**************
-
-\
-
- **CREDIT CODE:*****F*********
-
-***(Credit codes: F=Fixed, V=Variable, A=Alternating [e.g. 3, 6 reads 3
-or 6 credits])***
-
-\
-
- **STUDENT CREDIT:*****3*********
-
-\
-
- **MAX CAP REQUESTED:*****15*********
-
-\
-
- **GRADE TYPE: R********
-
-***[Grade types: N=Non-Graded (usually labs), P=Pass/Fail (not for
-Required Course or IND Study), R=Grade Only (A, B, C …), BLANK=Any
-Grade]***
-
-\
-
- **SCHEDULE NOTES:***********XXXX*********
-
-***(Replace with letter code for specific Registrar Schedule Notes
-wanted, if any)***
-
-\
-
- **TEACHING CREDITS:*****3*********
-
-***(Instructor credit – usually same as Student Credit)***
-
-\
-
- **FREE FORM NOTES:*****INSTRUCTORS APPROVAL REQUIRED FOR NON-EDUCATION
-MAJORS*********
-
-***(Replace as appropriate)***
-
-\
-
-\
-
-**Consideration/Approval Chain:**
-
-\
-
-\1. Proposal Originator =\>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name, Phone Extension Date Approved
-
-\
-
-\2. Unit Acad. Affairs Com =\>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Name, Phone Extension Date Approved
-
-\
-
-\3. Unit Faculty Approval =\>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name, Phone Extension Date Approved
-
-\
-
-\4. Library Dean =\>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name, Phone Extension Date Approved
-
-\
-
-\5. Other unit O.K.
-
-(if appropriate)=\>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name, Phone Extension Date Approved
-
-\
-
-\6. Unit Dean =\>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name, Phone Extension Date Approved
-
-\
-
-\7. Faculty Senate Academic Affairs Committee (Send signed original and
-11 copies to Secretary, c/o Faculty Senate Office, HHE 122, for
-routing).
-
-\
-
-=\>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name, Phone Extension Date Approved
-
-\
-
-\
-
-\
-
