@@ -159,25 +159,25 @@ You will need the password (ask Prof. Curinga)
 
 ## Schedule, format, & session leaders
 
-Session      Week       Format          Topic
--------      ------     -------------   ----------------------------------------
-1            Aug 29     synchronous     Foundations of Open Education
-2            Sep 5      synchronous     Doing "open learning"
-3            Sep 12     asynchronous    Deschooling
-4            Sep 19     synchronous     Ignorant Schoolmaster
-5            Sep 26     asynchronous    Connected Learning
-6            Oct 3      asynchronous    Free Software/Open Source Software
-7            Oct 10     synchronous     Peer production
-8            Oct 17     synchronous     Free Culture & Open Content
-9            Oct 24     asynchronous    Open Education Resources
--            Oct 31     canceled        ~~The Commons~~
-10           Nov 7      **asynchronous** The Commons
-11           Nov 14     synchronous     Open Education Reports
-12           Nov 21     asynchronous    MOOCs: Massively Open Online Courses
-13           Nov 28     asynchronous    Resisting Open Education
-14           Dec 5      synchronous     Writing workshop
--            Dec 12     No Class                -
-15           Dec 19     asynchronous    Wrap-up
+Session      Week       Format            Topic
+-------      ------     -------------     ----------------------------------------
+1            Aug 29     synchronous       Foundations of Open Education
+2            Sep 5      synchronous       Doing "open learning"
+3            Sep 12     asynchronous      Deschooling
+4            Sep 19     synchronous       Ignorant Schoolmaster
+5            Sep 26     asynchronous      Connected Learning
+6            Oct 3      asynchronous      Free Software/Open Source Software
+7            Oct 10     synchronous       Peer production
+8            Oct 17     synchronous       Free Culture & Open Content
+9            Oct 24     asynchronous      Open Education Resources
+-            Oct 31     canceled          ~~The Commons~~
+10           Nov 7      **asynchronous**  The Commons
+11           Nov 14     synchronous       Open Education Reports
+12           Nov 21     asynchronous      MOOCs: Massively Open Online Courses
+13           Nov 28     synchronous       Resisting Open Education
+14           Dec 5      synchronous       Writing workshop
+-            Dec 12     No Class                  -
+15           Dec 19     asynchronous      Wrap-up
 
 * **Synchronous** classes meet on Wed. at 4:30. Students are _encouraged_ to attend in person, at Adelphi's Garden City Campus, in Harvey 104. If you cannot attend in person, you _must_ join us for a video conference.
 * **Asynchronous/online** weeks have no set meeting time. They will be carried out by posting writing, video, or other media to the course website. You should consult with your _study group_ every week. During asynchronous weeks, you **must check the course website at least once a day.** Online weeks run from Wednesday to the next Wednesday. A typical online week looks like this:
@@ -351,19 +351,33 @@ Assignment                  Due                     % of final grade
 Participation               ongoing                 30%
 Personal Learning Plan      sessions 2, 8, 15       20%
 Session leader              varied                  20%
-Critical Essay (draft)      11/21                   ungraded
-Critical Essay (comments)   11/28                   ungraded
-Critical Essay (final)      12/12                   30%
+Critical Essay (draft)      12/5                    ungraded
+Critical Essay (comments)   12/12                   ungraded
+Critical Essay (final)      12/19                   30%
 
 ### Participation
-This will be a reading-heavy course. Whether meeting in-person, over video conference, or asynchronously online, you are expected to be prepared each week. In a typical week, there will be 40-80 pages of reading. Sometimes there will be videos to watch as well. Let's call all of these _texts_.
+This will be a reading-heavy course. Whether
+meeting in-person, over video conference, or asynchronously online,
+you are expected to be prepared each week. In a typical week, there
+will be 40-80 pages of reading. Sometimes there will be videos to
+watch as well. Let's call all of these _texts_.
 
-When you read a text for this course, you should have two things in mind: (1) what is the text arguing? (2) to what extent do you agree with these arguments? You should be in touch with your study group to discuss texts before full group discussions.
+When you read a text for this course, you should have two things in
+mind: (1) what is the text arguing? (2) to what extent do you agree
+with these arguments? You should be in touch with your study group
+to discuss texts before full group discussions.
 
-Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
+Your grade in this area will be a combination of self-, instructor-,
+and peer-evaluations.
 
 ### Personal Learning Plan
-You will create a plan for what you want to learn in this course, how it connects to your broader learning goals, and how you hope to accomplish these goals and your plan. Your plan should be a narrative, of approximately 500 words. It may include diagrams, lists, timelines, web links, and other necessary elements. Create it as an Adelphi Google Doc, and post the link to your document on Moodle.
+You will create a plan for what you want
+to learn in this course, how it connects to your broader learning
+goals, and how you hope to accomplish these goals and your plan.
+Your plan should be a narrative, of approximately 500 words. It may
+include diagrams, lists, timelines, web links, and other necessary
+elements. Create it as an Adelphi Google Doc, and post the link to
+your document on Moodle.
 
 It must include some reflection on:
 
@@ -376,12 +390,22 @@ It must include some reflection on:
 7. **Mentors:** who do you turn to for help when you are learning things? What types of things do they help you with? Do you need to reach out to more mentors?
 8. Your **study group**: a group of 3-5 other students in class who you can contact when you have questions and will meet with (online or in person) to discuss readings, edit your work, etc.
 
-Your initial personal learning plan is due on the second class meeting. You will revise it and turn in a revised draft at the end of the semester.
+Your initial personal learning plan is due on the second class
+meeting. You will revise it and turn in a revised draft at the end
+of the semester.
 
 ### Session leader
-Everyone in the class will be responsible for leading a class session, either alone or working with a partner (depending on class size). When you sign up to lead a session, you will either be leading an in-person seminar or an online discussion. In either case, you should take extra time to understand the readings for the session you are leading, take notes on the readings, and formulate questions.
+Everyone in the class will be responsible for
+leading a class session, either alone or working with a partner
+(depending on class size). When you sign up to lead a session, you
+will either be leading an in-person seminar or an online discussion.
+In either case, you should take extra time to understand the
+readings for the session you are leading, take notes on the
+readings, and formulate questions.
 
-In-class seminar leaders may want to open class with a few comments about the texts. How you choose to lead your session is up to you. Here are some techniques that I use (you can mix and match):
+In-class seminar leaders may want to open class with a few comments
+about the texts. How you choose to lead your session is up to you.
+Here are some techniques that I use (you can mix and match):
 
 * begin with (~15 minutes) of initial free writing/journaling related to the texts, some participants read their entries
 * formulate open questions that address a large issue in the text, frame the questions with specific quotations from the works we're studying
@@ -397,7 +421,8 @@ Here are some things to avoid:
 * misjudging the time it will take to discuss something
 * allowing a few voices to dominate the conversation
 
-While most of the above comments hold for **online discussions**, there are some practical refinements.
+While most of the above comments hold for **online discussions**,
+there are some practical refinements.
 
 1. You should post a video, audio, slideshow/PPT, or written introduction to the texts on the first day of the session you are leading (we are on a Wed-to-Wed schedule, so your intro should be ready by the first Wed. evening).
 2. Give explicit instructions for how, what, where your classmates will post their responses
@@ -405,18 +430,48 @@ While most of the above comments hold for **online discussions**, there are some
 
 Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
 
-### Critical Essay
-Choose an area of interest that has arisen out of the course readings and discussions and write a reflective essay on this topic. Follow [Chris Higgins' Notes on the critical-interpretive essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpretive_essay) for the structure of this essay, which should be: _focused_, _interesting_, _motivated_, and _controversial_. The chapters in _Cognitive Capitalism, Education, and Digital Labor_ are typical of writing in this style. You should refer closely to the texts that we engage with during the semester in your writing. Your work must properly cite your sources. Since we will be compiling our essays together, you should use APA style. You may include endnotes in your essay as well
+### Critical Essay Choose an area of interest that has arisen out of
+the course readings and discussions and write a reflective essay on
+this topic. Follow [Chris Higgins' Notes on the
+critical-interpretive
+essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpreti
+ve_essay) for the structure of this essay, which should be: _focused_
+, _interesting_, _motivated_, and _controversial_. The chapters in
+_Cognitive Capitalism, Education, and Digital Labor_ are typical of
+writing in this style. You should refer closely to the texts that we
+engage with during the semester in your writing. Your work must
+properly cite your sources. Since we will be compiling our essays
+together, you should use APA style. You may include endnotes in your
+essay as well
 
-Essays must be approximately 5,000 words long (about 10 pages). They will be posted online for discussion in our last week of the semester. This is strictly an individual assignment (one essay per person). You should work with your study group to draft and improve your essay. I strongly suggest that everyone schedule an appointment with the [Writing Center](http://students.adelphi.edu/writingcenter/) before you turn in your draft, and then again before you turn in your final essay.
+Essays must be approximately 5,000 words long (about 10 pages). They
+will be posted online for discussion in our last week of the
+semester. This is strictly an individual assignment (one essay per
+person). You should work with your study group to draft and improve
+your essay. I strongly suggest that everyone schedule an appointment
+with the [Writing Center](http://students.adelphi.edu/writingcenter/)
+before you turn in your draft, and then again before you turn in
+your final essay.
 
-You post a **draft of your essay** on 11/21. Post your essay on Google Docs and share the link with the class (and your editor) on Moodle. You will be assigned another classmate as the editor for your work. This person will be outside of your study group, to give you a different perspective. You are encouraged to also solicit comments from your study group. **Comments on the draft you are editing are due on 11/28.**
+You must bring a **draft of your essay** on 12/5. You will be
+assigned another classmate as the editor for your work. This person
+will be outside of your study group, to give you a different
+perspective. You are encouraged to also solicit comments from your
+study group. **Comments from your peer editor are due on 12/12.**
 
-**Your final essay is due on 12/12.** Late work will not be accepted for this assignment and there will not be an opportunity to re-write your final draft. Avail yourself to the resources in your personal learning network to ensure that you turn in high quality work.
+**Your final essay is due on 12/19.** Late work will not be accepted
+for this assignment and there will not be an opportunity to re-write
+your final draft. Avail yourself to the resources in your personal
+learning network to ensure that you turn in high quality work.
 
-The final essays will be **collected into an e-book and website** and published using a Creative Commons license on the Educational Technology program website as our contribution to the study of Open Education.
+The final essays will be **collected into an e-book**
+and published using a Creative Commons license on the Educational
+Technology program website as our contribution to the study of Open
+Education.
 
-Your grade for the final paper will be based on the jouranl article evaluation process from the _[Journal of Peer Production](http://peerproduction.net/)_
+Your grade for the final paper will be based on the jouranl article
+evaluation process from the _[Journal of Peer
+Production](http://peerproduction.net/)_
 
 Their reviewers consider:
 
@@ -469,7 +524,7 @@ This is a selected list of open education projects. You will take a couple of we
 
 **Find your own:**
 
-_Here are some lists of Open Ed projects_.
+_Here are some other lists of Open Ed projects_.
 
 * [OER Commons](http://www.oercommons.org/)
 * [Open Courseware Consortium](http://www.ocwconsortium.org/)
