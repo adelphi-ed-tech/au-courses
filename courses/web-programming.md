@@ -55,7 +55,6 @@ Reading Mass.: Addison-Wesley Professional. ISBN 0201633612.
 Knuth, Donald. 1997. *The art of computer programming.* Addison-Wesley
 Pub. Co. Reading Mass. ISBN 9780201896831.
 
-
 Moreno, R., & Mayer, R. (2007). Interactive multimodal learning
 environments. *Educational Psychology Review*, *19*(3), 309–326.
 
@@ -76,55 +75,68 @@ Zelle, John. 2004. *Python programming: an introduction to computer
 science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
 ## Class Sessions
+### Schedule
+_This online course runs according to Adelphi's Cycle 3._
+_Classes will be on a Sunday-to-Sunday schedule. Students work at their
+own pace through the course materials, but must attend at least 4
+synchronous labs (either online or in person) during the class._
+
+Session	    Week of	    Due
+1	        Jan 27      A running virtual server with a basic web page
+2	        Feb 03      A single-page website
+3	        Feb 10      A dynamic website with Django templates
+4	        Feb 17      Text Analysis
+5	        Feb 24      Final Project Ideas
+6	        Mar 03      Object Model
+7	        Mar 10      Project Forms
+8	        Mar 17      Final Project
+
 ### Topography of interactive websites
 
-### Web development toolkit
+### Web development
+* Trac/wiki
+* command line basics
+* source code versioning with Git
+* how the web works
+* installing a virtual server
+* installing and configuring apache
+* setting up a basic, static website
 
-*Readings due: Hayword, ch 1; Anderson ch 2*
+### HTML, CSS, & Javascript
+* common idioms for structuring content with HTML
+    - headers
+    - divs & spans
+    - lists
+* styles
+    - cascading
+    - box model
+    - fonts/text
+    - background/images
+* javascript
+    * syntax basics
+    * Javascript & DOM
+    * Jquery
 
-### Creating and reading web forms
+### Dynamic websites
+* installing Django
+* creating views
+* controller basics
+* dynamic pages with templates
 
-*Readings due: Hayword, ch 3; Shneiderman (2000 & 2002)*
 
-### Creating and saving objects
 
-*Readings due: Hayword, ch 4*
-
-### MVC pattern and templates
-
-*Readings due: Hayword, ch 5*
-
-### Interaction design for learning
-
-*Readings due: Anderson, ch 4*
-
-### Objects in django
+### Object Oriented Design
+* classes in Python
+* object modeling
+* Django Models
+* Object-Relational Mapper
 
 ### Object composition, "mixins", & inheritance
+* more complex objects
+* creating HTML forms
+* processing form data
 
-*Readings due: Anderson, ch 7*
-
-### Effective multimedia learning
-
-*Readings due: Moreno (2006 & 2007)*
-
-### REST APIs: connecting to flickr
-
-*Readings due: Anderson, ch 9*
-
-### Searching database objects
-
-*Readings due: Hayword, ch 8*
-
-### Using polymorphism
-
-*Readings due: Anderson, ch 8*
-
-### Errors and exceptions
-
-### Project work session
-
-### Final project presentations
+### Final projects
 
 ## Assignments
 
@@ -135,11 +147,14 @@ are designed to be solved in pairs. The first two challenges have an
 optional "bonus", which is meant to give more advanced teams a
 challenge.
 
-1.  **Photo gallery (30%):** students will enter the world of
-    Web-based APIs and interactive web programming by rethinking a
-    familiar online idiom, the photo gallery. Using the Flickr API, they
-    will create their own gallery software. *Bonus*: use the jQuery
-    javascript library to add visual effects to your gallery.
+1.  **Single Page Website (30%):** students will build a single-page,
+    informational website on a topic of their choice. Their website will
+    be composed of HTML5, CSS, and Javascript. It will display their
+    fluency with the components of HTML, styling with CSS, and enhancing
+    user experience with Javascript. The content of the website is
+    entirely up to the student. They are encouraged to create a website
+    on something they are already familiar with and interested in. This
+    is an individual project.
 
 2.  **Word Frequency Statistics (30%):** Students will parse texts
     to create a variety of word frequency statistics. The input text can
