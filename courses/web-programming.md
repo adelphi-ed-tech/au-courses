@@ -74,14 +74,14 @@ Berkeley CA. ISBN 9780321719638.
 Zelle, John. 2004. *Python programming: an introduction to computer
 science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
-## Class Sessions
-### Schedule
+## Schedule
 _This online course runs according to Adelphi's Cycle 3._
 _Classes will be on a Sunday-to-Sunday schedule. Students work at their
 own pace through the course materials, but must attend at least 4
 synchronous labs (either online or in person) during the class._
 
 Session	    Week of	    Due
+----------  --------    --------------------------------------------------
 1	        Jan 27      A running virtual server with a basic web page
 2	        Feb 03      A single-page website
 3	        Feb 10      A dynamic website with Django templates
@@ -91,6 +91,7 @@ Session	    Week of	    Due
 7	        Mar 10      Project Forms
 8	        Mar 17      Final Project
 
+## Class Sessions
 ### Topography of interactive websites
 
 ### Web development
