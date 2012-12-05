@@ -17,30 +17,30 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 -->
 **Educational Technology 0850-620, Spring 2013**
 
-**Keywords:** studio pedagogy, interaction design, multimedia 
+**Keywords:** studio pedagogy, interaction design, multimedia
 learning, digital studio, ed tech capstone, instructional design
 
-**Description:** How can digital media best support learning? 
-Working on semester-long projects, students learn about interaction 
-and instructional design. In this hands-on studio, develop and 
-extend skills in multimedia authoring: digital images/audio/video, 
-and interactive web development. Apply these skills to create a 
+**Description:** How can digital media best support learning?
+Working on semester-long projects, students learn about interaction
+and instructional design. In this hands-on studio, develop and
+extend skills in multimedia authoring: digital images/audio/video,
+and interactive web development. Apply these skills to create a
 original educational resources.
 
 ------------------------------------------------------------------------
 
-> A studio is a place where people gather to exercise and develop 
-> skill and interest, an art, a techne. A studio provides the tools of 
-> a techne and opportunities for their use, invitations for their 
-> development, a challenge to accomplished performance within a 
+> A studio is a place where people gather to exercise and develop
+> skill and interest, an art, a techne. A studio provides the tools of
+> a techne and opportunities for their use, invitations for their
+> development, a challenge to accomplished performance within a
 > community of peers.\
 > — Robbie McClintock, [StudyPlace](http://www.studyplace.org/wiki/The_Studio_for)
 
-> "Cancel all student loan debt? But that would be unfair to all those 
-> people who struggled for years to pay back their student loans!" 
-> Let me assure the reader that, as someone who struggled for years to 
-> pay back his student loans and finally did so, this argument makes 
-> about as much sense as saying it would be "unfair" to a mugging 
+> "Cancel all student loan debt? But that would be unfair to all those
+> people who struggled for years to pay back their student loans!"
+> Let me assure the reader that, as someone who struggled for years to
+> pay back his student loans and finally did so, this argument makes
+> about as much sense as saying it would be "unfair" to a mugging
 > victim not to mug their neighbors too.\
 > David Graeber, _Debt: the first 5,000 years_
 
@@ -53,18 +53,18 @@ long multimedia project that teaches some aspect of this challenge. The
 semester will culminate with a student show, which will be refereed by a
 panel of experts in the field of educational technology.
 
-Debt is one of the defining characteristics of our times. Student 
+Debt is one of the defining characteristics of our times. Student
 debt in the U.S. has passed the one trillion dollar mark.
-[According to BusinessWeek](http://www.businessweek.com/ap/2012-09-12/underwater-mortgages-declined-in-2nd-quarter) 
-“underwater” mortgages (where the value of a home is lower than 
-mortgage) account for about “10.8 million properties — about 22 of 
-all U.S. homes with a mortgage.” Cities are cutting community and 
-social services while increasing spending on debt services. 
-Americans are almost [$20 billion behind in paying back their 
+[According to BusinessWeek](http://www.businessweek.com/ap/2012-09-12/underwater-mortgages-declined-in-2nd-quarter)
+“underwater” mortgages (where the value of a home is lower than
+mortgage) account for about “10.8 million properties — about 22 of
+all U.S. homes with a mortgage.” Cities are cutting community and
+social services while increasing spending on debt services.
+Americans are almost [$20 billion behind in paying back their
 credit card debt](http://dealbook.nytimes.com/2012/08/12/problems-riddle-moves-to-collect-credit-card-debt).
 
-This studio challenges students to create multimedia learning 
-artifacts that explore the history and contemporary issues 
+This studio challenges students to create multimedia learning
+artifacts that explore the history and contemporary issues
 surrounding debt.
 
 ## Goals
@@ -83,10 +83,30 @@ for learning. Specifically, they should learn to:
 -   think creatively about far-reaching challenges in teaching and
     learning
 
+At the end of the studio, every student will have a high quality, published multimedia artefact that will be part of their portfolio.
+
 ## Required text
 Graeber, D. (2011). _Debt: the first 5,000 years_. Brooklyn, NY: Melville House.
 
-## Readings
+## Debt readings
+
+Amin, S., Rai, A. S., & Topa, G. (2003). Does microcredit reach the poor and vulnerable? Evidence from northern Bangladesh. Journal of Development Economics, 70(1), 59–82. doi:10.1016/S0304-3878(02)00087-1
+
+[BEYOND GOOD AND EVIL COMMONS: A seminar Silvia Federici, George Caffentzis, & David Graeber](http://www.16beavergroup.org/silvia_george_david/).
+
+Graeber, D. (2012a). [DEBT: The First 5,000 Years](http://www.youtube.com/watch?v=CZIINXhGDcs). Authors@Google.
+
+Kamenetz, A. (2006). Generation Debt: How Our Future Was Sold Out for Student Loans, Bad Jobs, NoBenefits, and Tax Cuts for Rich Geezers--And How to Fight Back. Riverhead Trade.
+
+Navajas, S., Schreiner, M., Meyer, R. L., Gonzalez-vega, C., & Rodriguez-meza, J. (2000). Microcredit and the Poorest of the Poor: Theory and Evidence from Bolivia. World Development, 28(2), 333–346. doi:10.1016/S0305-750X(99)00121-7
+
+Rahman, A. (1999). Micro-credit initiatives for equitable and sustainable development: Who pays? World Development, 27(1), 67–82. doi:10.1016/S0305-750X(98)00105-3
+
+Rankin, K. N. (2001). Governing development: neoliberalism, microcredit, and rational economic woman. Economy and Society, 30(1), 18–37. doi:10.1080/03085140020019070
+
+[Strike Debt! Debt Resistance for the 99%](http://strikedebt.org/)
+
+## Multimedia readings
 Collins, A. 2004. Design research: Theoretical and methodological issues. *Journal of the learning Sciences*, *13* (*1*)15–42.
 
 Jewitt, C. 2008. Multimodality and Literacy in School Classrooms. *Review of Research in Education*, *32* (*1*)241-267.
@@ -101,7 +121,7 @@ Moggridge, B. 2007. *Designing interactions.* MIT Press. Cambridge Mass. ISBN 97
 
 Moreno, R. 2007. Interactive multimodal learning environments. *Educational Psychology Review*, *19* (*3*)309–326.
 
-Wilson, B. G. 1997. Constructivist learning environments: Case studies in instructional design. *IEEE Transactions on Professional Communication*. 
+Wilson, B. G. 1997. Constructivist learning environments: Case studies in instructional design. *IEEE Transactions on Professional Communication*.
 
 ## Schedule
 Session	Date	Topic	                                Workshop Leader
@@ -124,7 +144,7 @@ Session	Date	Topic	                                Workshop Leader
 15	    May 9	Working session	                        Curinga
 16	    May 16	Final Show                              _Jury_
 
-_This is a tentative list and schedule of workshops. The actual 
+_This is a tentative list and schedule of workshops. The actual
 studio will be organized to be responsive to the needs of the students._
 
 ## Assignments
