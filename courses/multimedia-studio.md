@@ -106,7 +106,7 @@ Rankin, K. N. (2001). Governing development: neoliberalism, microcredit, and rat
 
 [Strike Debt! Debt Resistance for the 99%](http://strikedebt.org/)
 
-## Multimedia readings
+## Multimedia & design readings
 Collins, A. 2004. Design research: Theoretical and methodological issues. *Journal of the learning Sciences*, *13* (*1*)15–42.
 
 Jewitt, C. 2008. Multimodality and Literacy in School Classrooms. *Review of Research in Education*, *32* (*1*)241-267.
@@ -115,7 +115,7 @@ Kuhn, S. 2001. Learning from the architecture studio: Implications for project-b
 
 Kvan, T. (2001) [The pedagogy of virtual design studios](http://www.sciencedirect.com/science/article/B6V20-41KP556-K/2/1ad23074f36031dadda5bd8e49e80986). *Automation in Construction*, *10* (*3*)345-353.
 
-Löwgren, J. 2007. _Thoughtful interaction design: a design perspective on information technology._ MIT Press. Cambridge Mass.; London. ISBN 9780262622097.
+Löwgren, J. & Stolterman, E. (2007). _Thoughtful interaction design: a design perspective on information technology._ MIT Press. Cambridge Mass.; London. ISBN 9780262622097.
 
 Moggridge, B. 2007. *Designing interactions.* MIT Press. Cambridge Mass. ISBN 9780262134743
 
@@ -124,25 +124,25 @@ Moreno, R. 2007. Interactive multimodal learning environments. *Educational Psyc
 Wilson, B. G. 1997. Constructivist learning environments: Case studies in instructional design. *IEEE Transactions on Professional Communication*.
 
 ## Schedule
-Session	Date	Topic	                                Workshop Leader
-------- ------  --------------------------------------  ----------------
-1	    Jan 25	Studio Pedagogy & Multimedia Learning	Curinga
-2	    Feb 1	Multimedia Learning/SMARTBoards	        Vaughn-Shavo
-3	    Feb 8	Interaction design	                    Curinga
-4	    Feb 15	Games, Play, & Learning	                Vikaros
-5	    Feb 22	Building Websites with WordPress	    Curinga
-6	    Feb 29	Digital Image Editing	                Fleurimond
-7	    Mar 7	Social media	                        Curinga
--	    Mar 14	_Spring Break_	                               -
-8	    Mar 21	Going Mobile with PhoneGap	            Saravanos
-9	    Mar 28	Midpoint Critique	                    Curinga
-10	    Apr 4	Teaching with Video	                    Kase & Jennings
-11	    Apr 11	User Experience	                        Curinga
-12	    Apr 18	Sound & Audio	                        Gregory
-13	    Apr 25	Data-driven multimedia	                Curinga
-14	    May 2	GIS: Maps & Location	                TPD
-15	    May 9	Working session	                        Curinga
-16	    May 16	Final Show                              _Jury_
+Session    Date    Topic                                    Workshop Leader
+------- ------     --------------------------------------  ----------------
+1        Jan 25    Studio Pedagogy & Multimedia Learning    Curinga
+2        Feb 1     Multimedia Learning/SMARTBoards          Curinga
+3        Feb 8     Interaction design                       Curinga
+4        Feb 15    Games, Play, & Learning                  Vikaros
+5        Feb 22    Building Websites with WordPress         Curinga
+6        Feb 29    Digital Art                              Fleurimond
+7        Mar 7     Social media                             Curinga
+-        Mar 14    _Spring Break_                              -
+8        Mar 21    Going Mobile with PhoneGap               Saravanos
+9        Mar 28    Midpoint Critique                        Curinga
+10       Apr 4     Teaching with Video                      Kase & Jennings
+11       Apr 11    User Experience                          Curinga
+12       Apr 18    Sound & Audio                            Gregory
+13       Apr 25    Data-driven multimedia                   Curinga
+14       May 2     GIS: Maps & Location                     TPD
+15       May 9     Working session                          Curinga
+16       May 16    Final Show                              _Jury_
 
 _This is a tentative list and schedule of workshops. The actual
 studio will be organized to be responsive to the needs of the students._
