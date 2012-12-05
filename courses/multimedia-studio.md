@@ -90,19 +90,19 @@ Graeber, D. (2011). _Debt: the first 5,000 years_. Brooklyn, NY: Melville House.
 
 ## Debt readings
 
-Amin, S., Rai, A. S., & Topa, G. (2003). Does microcredit reach the poor and vulnerable? Evidence from northern Bangladesh. Journal of Development Economics, 70(1), 59–82. doi:10.1016/S0304-3878(02)00087-1
+Amin, S., Rai, A. S., & Topa, G. (2003). Does microcredit reach the poor and vulnerable? Evidence from northern Bangladesh. _Journal of Development Economics_, _70_(1), 59–82. doi:10.1016/S0304-3878(02)00087-1
 
 [BEYOND GOOD AND EVIL COMMONS: A seminar Silvia Federici, George Caffentzis, & David Graeber](http://www.16beavergroup.org/silvia_george_david/).
 
-Graeber, D. (2012a). [DEBT: The First 5,000 Years](http://www.youtube.com/watch?v=CZIINXhGDcs). Authors@Google.
+Graeber, D. (2012). [Video] [DEBT: The First 5,000 Years](http://www.youtube.com/watch?v=CZIINXhGDcs). Authors@Google.
 
-Kamenetz, A. (2006). Generation Debt: How Our Future Was Sold Out for Student Loans, Bad Jobs, NoBenefits, and Tax Cuts for Rich Geezers--And How to Fight Back. Riverhead Trade.
+Kamenetz, A. (2006). _Generation Debt: How Our Future Was Sold Out for Student Loans, Bad Jobs, NoBenefits, and Tax Cuts for Rich Geezers—And How to Fight Back_. Riverhead Trade.
 
-Navajas, S., Schreiner, M., Meyer, R. L., Gonzalez-vega, C., & Rodriguez-meza, J. (2000). Microcredit and the Poorest of the Poor: Theory and Evidence from Bolivia. World Development, 28(2), 333–346. doi:10.1016/S0305-750X(99)00121-7
+Navajas, S., Schreiner, M., Meyer, R. L., Gonzalez-vega, C., & Rodriguez-meza, J. (2000). Microcredit and the Poorest of the Poor: Theory and Evidence from Bolivia. _World Development_, _28_(2), 333–346. doi:10.1016/S0305-750X(99)00121-7
 
-Rahman, A. (1999). Micro-credit initiatives for equitable and sustainable development: Who pays? World Development, 27(1), 67–82. doi:10.1016/S0305-750X(98)00105-3
+Rahman, A. (1999). Micro-credit initiatives for equitable and sustainable development: Who pays? _World Development_, _27_(1), 67–82. doi:10.1016/S0305-750X(98)00105-3
 
-Rankin, K. N. (2001). Governing development: neoliberalism, microcredit, and rational economic woman. Economy and Society, 30(1), 18–37. doi:10.1080/03085140020019070
+Rankin, K. N. (2001). Governing development: neoliberalism, microcredit, and rational economic woman. _Economy and Society_, _30_(1), 18–37. doi:10.1080/03085140020019070
 
 [Strike Debt! Debt Resistance for the 99%](http://strikedebt.org/)
 
@@ -164,7 +164,7 @@ Session   Assignment due       % of final grade
  9        mid-term critique       20%
 16        final project           65%
 
-Projects will be evaluated using the following criteria.
+## Evaluation Criteria
 
 ### Design
 The design of the project encompasses the information, interaction, and
