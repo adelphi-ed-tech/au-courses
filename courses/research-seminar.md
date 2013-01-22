@@ -1,11 +1,36 @@
-**0858-618 Research and evaluation of educational technology 6**
+% Research and evaluation of educational technology
+% Matthew X. Curinga
 
-**Description:** In this course, students investigate methods for determining if a given
-technology contributes to a stronger educational experience. Reviewing
-the body of research on educational technology, students will probe the
-merits of different methodologies. Students learn how to develop good
-research questions and choose methodologies to conduct their own
-investigations. 
+<!--
+This syllabus was created for
+the Educational Technology Program
+at Adelphi University:
+http://education.adelphi.edu
+copyright 2012 Matthew X. Curinga
+http://matt.curinga.com
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
+a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+We ask, but do not require, that attribution includes a link to our websites (above).
+version: 2.1
+Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
+-->
+
+**Educational Technology 0858-618, Spring 2012**
+
+**Keywords:** research methods, good questions, design research, 
+ethnography, statistics, quantitative research, epistemology, 
+technology research, mixed methods, action research
+
+**Description:** In this course, students investigate methods for 
+determining if a given technology contributes to a stronger 
+educational experience. Reviewing the body of research on 
+educational technology, students will probe the merits of different 
+methodologies. Students learn how to develop good research questions 
+and choose methodologies to conduct their own investigations. 
+
+## Spring 2013 Seminar: Girls & Programming
+
 
 ## Goals
 This research seminar exposes students to the general methods of social
@@ -18,11 +43,10 @@ the effectiveness of their own technology initiatives in the field.
 
 This course has two main goals:
 
-1) to develop students' abilities to
-read and write about scholarly research in the area of educational
-technology, and
-2) to foster their ability to conduct academic research
-and less formal evaluations of educational technology.
+1) to develop students' abilities to read and write about scholarly 
+   research in the area of educational technology, and
+2) to foster their ability to conduct formal academic research and less 
+   formal evaluations of educational technology.
 
 Students will be able to:
 
@@ -46,12 +70,7 @@ Students will be able to:
 
 
 ## Required texts
-McMillan, James H. 2007. *Educational Research: Fundamentals for the
-Consumer (5*^*th*^*Edition).*Boston MA: Allyn & Bacon. ISBN 0205508308
-
-Ladson-Billings, G (ed.). 2006. *Education research in the public
-interest: Social justice, action, and policy.* New York NY: Teachers
-College Press. ISBN 0807747041.
+_None_
 
 ## Bibliography & readings
 Bernhardt, Victoria. 2004. *Data Analysis for Continuous School
@@ -77,6 +96,17 @@ Research Designs for Improving Learning.*Teachers College Press. ISBN
 Kelly, A.. 2004. Design research in education: Yes, but is it
 methodological? *Journal of the Learning Sciences*, *13* (*1*)115–128.
 
+Ladson-Billings, G (ed.). 2006. *Education research in the public
+interest: Social justice, action, and policy.* New York NY: Teachers
+College Press. ISBN 0807747041.
+
+McMillan, James H. 2007. *Educational Research: Fundamentals for the
+Consumer (5*^*th*^*Edition).*Boston MA: Allyn & Bacon. ISBN 0205508308
+
+NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in 
+S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation (NSF).
+
+
 Reeves, T. C. 2005. Design research: A socially responsible approach to
 instructional technology research in higher education. *Journal of
 Computing in Higher Education*, *16* (*2*)96–115.
@@ -92,13 +122,16 @@ educational technology.*Information Age Publishing. ISBN 9781930608542.
 
 ## Class Sessions
 
-### Introduction to educational research
+### Why conduct research
 
-*Readings due: Boote*
 
 ### Locating and reviewing relevant research
 
-*Readings due: McMillan, ch 1*
+#### Readings due:
+
+Haraway, D. (1988). [Situated Knowledges: The Science Question in 
+Feminism and the Privilege of Partial Perspective](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf).
+_Feminist Studies_, _14_(3), 575–599. doi:10.2307/3178066
 
 ### Hypothesis and variables
 
