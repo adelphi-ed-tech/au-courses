@@ -38,7 +38,16 @@ Specific software development goals include:
 -   Polymorphism
 
 
-## Course Texts
+## Required Books
+Duckett, J. T. (2011). [_Html & css: design and
+build websites (1st ed.)_](http://htmlandcssbook.com/).
+Indianapolis, IN: Wiley Pubishing, Inc.
+
+![](http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG)
+
+
+
+## Optional Books
 Anderson, T. (Ed.). (2008). [*Theory and practice of online learning*](http://www.aupress.ca/index.php/books/120146). Edmonton: AU Press.
 
 Hayward, J. (2011). *Django JavaScript Integration: AJAX and jQuery*.
@@ -80,75 +89,77 @@ _Classes will be on a Sunday-to-Sunday schedule. Students work at their
 own pace through the course materials, but must attend at least 4
 synchronous labs (either online or in person) during the class._
 
-Session	    Week of	    Due
-----------  --------    --------------------------------------------------
-1	        Jan 27      A running virtual server with a basic web page
-2	        Feb 03      A single-page website
-3	        Feb 10      A dynamic website with Django templates
-4	        Feb 17      Text Analysis
-5	        Feb 24      Final Project Ideas
-6	        Mar 03      Object Model
-7	        Mar 10      Project Forms
-8	        Mar 17      Final Project
+            
+
+Week  Date	   Due/Checkpooint
+----- -------- --------------------------------------------------
+1	  Jan 27   A running virtual server with a basic web page
+2	  Feb 03   -
+3	  Feb 10   **Single Page Website**
+4	  Feb 17   Final Project Pitch
+5	  Feb 24   -
+6	  Mar 03   Project Object Models
+7	  Mar 10   Project Forms
+8	  Mar 17   **Final Project**
 
 ## Class Sessions
-### Topography of interactive websites
+### HTML
 
-### Web development
-* Trac/wiki
-* command line basics
-* source code versioning with Git
-* how the web works
-* installing a virtual server
-* installing and configuring apache
-* setting up a basic, static website
+#### How the web works
 
-### HTML, CSS, & Javascript
-* common idioms for structuring content with HTML
-    - headers
-    - divs & spans
-    - lists
-* styles
-    - cascading
-    - box model
-    - fonts/text
-    - background/images
-* javascript
-    * syntax basics
-    * Javascript & DOM
-    * Jquery
+**Read/Watch**
+
+- [CERN: How the Web Works](http://public.web.cern.ch/public/en/about/webwork-en.html)
+- 
+
+
+2. HTML Document & Text
+3. Your own webserver
+4. Links & Images
+5. Lists & Tables
+
+### More HTMl & CSS
+
+6. CSS & Style Sheets
+7. Boxes (divs & spans)
+8. Layout
+9. Video & AUdio
+
+### Usability & accessiblity
+10. universal design
+11. screen and media types
+12. search & metadata
+13. usability testing
 
 ### Dynamic websites
-* installing Django
-* creating views
-* controller basics
-* dynamic pages with templates
 
+14. Installing Django
+15. Views
+16. Controllers
+17. Templates
 
-
-### Object Oriented Design
-* classes in Python
-* object modeling
-* Django Models
-* Object-Relational Mapper
+### Object Oriented Programming
+18. object modeling
+19. classes in Python
+20. Django Models
+21. Object-Relational Mapper
 
 ### Object composition, "mixins", & inheritance
-* more complex objects
-* creating HTML forms
-* processing form data
+22. more complex objects
+23. creating HTML forms
+24. processing form data
+
+### Users & authentication
+25. Administrators, editors, users
+26. Authentication
+27. Authorization & permissions
 
 ### Final projects
+_Your final project is due._
 
 ## Assignments
 
-Students in this class are given 3 open-ended challenges. The challenges
-become increasingly complex and are designed to scaffold students into
-tackling more complex analysis and programming projects. The challenges
-are designed to be solved in pairs. The first two challenges have an
-optional "bonus", which is meant to give more advanced teams a
-challenge.
-
-1.  **Single Page Website (30%):** students will build a single-page,
+1.  **Single Page Website (40%):** students will build a single-page,
     informational website on a topic of their choice. Their website will
     be composed of HTML5, CSS, and Javascript. It will display their
     fluency with the components of HTML, styling with CSS, and enhancing
@@ -157,16 +168,24 @@ challenge.
     on something they are already familiar with and interested in. This
     is an individual project.
 
-2.  **Word Frequency Statistics (30%):** Students will parse texts
-    to create a variety of word frequency statistics. The input text can
-    be uploaded or submitted via a form. The results are displayed as
-    HTML. *Bonus*: create “Wordle” or tag-cloud style visualizations of
-    the results and/or pull in source text from other website URLs.
-
-3.  **Final project (40%):** student teams will propose, design, and
+2.  **Final project (60%):** student teams will propose, design, and
     execute their own project. The requirements for the project are that
     it demonstrates effective use of the web for supporting learning, as
     well as the student's understanding of software analysis and design.
     The instructor will work with teams to develop suitable projects. In
     addition to submitting the working code, students will turn in a one
     page paper reflecting on the pedagogy informing their design.
+
+
+## Resources
+
+### Required
+
+- [git version control](http://git-scm.com/)
+- a text editor
+- an ssh client (Mac Users can use Terminal)
+- [Firefox web browser](http://www.mozilla.org/en-US/)
+- an FTP/SCP client
+
+
+

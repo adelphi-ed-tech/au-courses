@@ -20,16 +20,18 @@ http://education.adelphi.edu/ed-tech
 <h3>Course Outline</h3>
 <ul>
 <li><a href="#goals-and-objectives">Goals and Objectives</a></li>
-<li><a href="#course-texts">Course Texts</a></li>
+<li><a href="#required-books">Required Books</a></li>
+<li><a href="#optional-books">Optional Books</a></li>
 <li><a href="#readings">Readings</a></li>
 <li><a href="#schedule">Schedule</a></li>
 <li><a href="#class-sessions">Class Sessions</a><ul>
-<li><a href="#topography-of-interactive-websites">Topography of interactive websites</a></li>
-<li><a href="#web-development">Web development</a></li>
-<li><a href="#html-css-javascript">HTML, CSS, &amp; Javascript</a></li>
+<li><a href="#html">HTML</a></li>
+<li><a href="#more-html-css">More HTMl &amp; CSS</a></li>
+<li><a href="#usability-accessiblity">Usability &amp; accessiblity</a></li>
 <li><a href="#dynamic-websites">Dynamic websites</a></li>
-<li><a href="#object-oriented-design">Object Oriented Design</a></li>
+<li><a href="#object-oriented-programming">Object Oriented Programming</a></li>
 <li><a href="#object-composition-mixins-inheritance">Object composition, &quot;mixins&quot;, &amp; inheritance</a></li>
+<li><a href="#users-authentication">Users &amp; authentication</a></li>
 <li><a href="#final-projects">Final projects</a></li>
 </ul></li>
 <li><a href="#assignments">Assignments</a></li>
@@ -62,8 +64,15 @@ http://education.adelphi.edu/ed-tech
          <li>Polymorphism</li>
          </ul>
          </div>
-         <div class="section level2" id="course-texts">
-         <h2><a href="#TOC">Course Texts</a></h2>
+         <div class="section level2" id="required-books">
+         <h2><a href="#TOC">Required Books</a></h2>
+         <p>Duckett, J. T. (2011). <a href="http://htmlandcssbook.com/"><em>Html &amp; css: design and build websites (1st ed.)</em></a>. Indianapolis, IN: Wiley Pubishing, Inc.</p>
+         <div class="figure">
+         <img src="http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG" /><p class="caption"></p>
+         </div>
+         </div>
+         <div class="section level2" id="optional-books">
+         <h2><a href="#TOC">Optional Books</a></h2>
          <p>Anderson, T. (Ed.). (2008). <a href="http://www.aupress.ca/index.php/books/120146"><em>Theory and practice of online learning</em></a>. Edmonton: AU Press.</p>
          <p>Hayward, J. (2011). <em>Django JavaScript Integration: AJAX and jQuery</em>. Packet Publishing. ISBN 1849510342</p>
          </div>
@@ -85,9 +94,9 @@ http://education.adelphi.edu/ed-tech
          <table>
          <thead>
          <tr class="header">
-         <th align="left">Session</th>
-         <th align="left">Week of</th>
-         <th align="left">Due</th>
+         <th align="left">Week</th>
+         <th align="left">Date</th>
+         <th align="left">Due/Checkpooint</th>
          </tr>
          </thead>
          <tbody>
@@ -99,27 +108,27 @@ http://education.adelphi.edu/ed-tech
          <tr class="even">
          <td align="left">2</td>
          <td align="left">Feb 03</td>
-         <td align="left">A single-page website</td>
+         <td align="left">-</td>
          </tr>
          <tr class="odd">
          <td align="left">3</td>
          <td align="left">Feb 10</td>
-         <td align="left">A dynamic website with Django templates</td>
+         <td align="left"><strong>Single Page Website</strong></td>
          </tr>
          <tr class="even">
          <td align="left">4</td>
          <td align="left">Feb 17</td>
-         <td align="left">Text Analysis</td>
+         <td align="left">Final Project Pitch</td>
          </tr>
          <tr class="odd">
          <td align="left">5</td>
          <td align="left">Feb 24</td>
-         <td align="left">Final Project Ideas</td>
+         <td align="left">-</td>
          </tr>
          <tr class="even">
          <td align="left">6</td>
          <td align="left">Mar 03</td>
-         <td align="left">Object Model</td>
+         <td align="left">Project Object Models</td>
          </tr>
          <tr class="odd">
          <td align="left">7</td>
@@ -129,89 +138,85 @@ http://education.adelphi.edu/ed-tech
          <tr class="even">
          <td align="left">8</td>
          <td align="left">Mar 17</td>
-         <td align="left">Final Project</td>
+         <td align="left"><strong>Final Project</strong></td>
          </tr>
          </tbody>
          </table>
          </div>
          <div class="section level2" id="class-sessions">
          <h2><a href="#TOC">Class Sessions</a></h2>
-         <div class="section level3" id="topography-of-interactive-websites">
-         <h3><a href="#TOC">Topography of interactive websites</a></h3>
+         <div class="section level3" id="html">
+         <h3><a href="#TOC">HTML</a></h3>
+         <ol style="list-style-type: decimal">
+         <li>How the web works</li>
+         <li>HTML Document &amp; Text</li>
+         <li>Your own webserver</li>
+         <li>Links &amp; Images</li>
+         <li>Lists &amp; Tables</li>
+         </ol>
          </div>
-         <div class="section level3" id="web-development">
-         <h3><a href="#TOC">Web development</a></h3>
-         <ul>
-         <li>Trac/wiki</li>
-         <li>command line basics</li>
-         <li>source code versioning with Git</li>
-         <li>how the web works</li>
-         <li>installing a virtual server</li>
-         <li>installing and configuring apache</li>
-         <li>setting up a basic, static website</li>
-         </ul>
+         <div class="section level3" id="more-html-css">
+         <h3><a href="#TOC">More HTMl &amp; CSS</a></h3>
+         <ol start="6" style="list-style-type: decimal">
+         <li>CSS &amp; Style Sheets</li>
+         <li>Boxes (divs &amp; spans)</li>
+         <li>Layout</li>
+         <li>Video &amp; AUdio</li>
+         </ol>
          </div>
-         <div class="section level3" id="html-css-javascript">
-         <h3><a href="#TOC">HTML, CSS, &amp; Javascript</a></h3>
-         <ul>
-         <li>common idioms for structuring content with HTML
-         <ul>
-         <li>headers</li>
-         <li>divs &amp; spans</li>
-         <li>lists</li>
-         </ul></li>
-         <li>styles
-         <ul>
-         <li>cascading</li>
-         <li>box model</li>
-         <li>fonts/text</li>
-         <li>background/images</li>
-         </ul></li>
-         <li>javascript
-         <ul>
-         <li>syntax basics</li>
-         <li>Javascript &amp; DOM</li>
-         <li>Jquery</li>
-         </ul></li>
-         </ul>
+         <div class="section level3" id="usability-accessiblity">
+         <h3><a href="#TOC">Usability &amp; accessiblity</a></h3>
+         <ol start="10" style="list-style-type: decimal">
+         <li>universal design</li>
+         <li>screen and media types</li>
+         <li>search &amp; metadata</li>
+         <li>usability testing</li>
+         </ol>
          </div>
          <div class="section level3" id="dynamic-websites">
          <h3><a href="#TOC">Dynamic websites</a></h3>
-         <ul>
-         <li>installing Django</li>
-         <li>creating views</li>
-         <li>controller basics</li>
-         <li>dynamic pages with templates</li>
-         </ul>
+         <ol start="14" style="list-style-type: decimal">
+         <li>Installing Django</li>
+         <li>Views</li>
+         <li>Controllers</li>
+         <li>Templates</li>
+         </ol>
          </div>
-         <div class="section level3" id="object-oriented-design">
-         <h3><a href="#TOC">Object Oriented Design</a></h3>
-         <ul>
-         <li>classes in Python</li>
+         <div class="section level3" id="object-oriented-programming">
+         <h3><a href="#TOC">Object Oriented Programming</a></h3>
+         <ol start="18" style="list-style-type: decimal">
          <li>object modeling</li>
+         <li>classes in Python</li>
          <li>Django Models</li>
          <li>Object-Relational Mapper</li>
-         </ul>
+         </ol>
          </div>
          <div class="section level3" id="object-composition-mixins-inheritance">
          <h3><a href="#TOC">Object composition, &quot;mixins&quot;, &amp; inheritance</a></h3>
-         <ul>
+         <ol start="22" style="list-style-type: decimal">
          <li>more complex objects</li>
          <li>creating HTML forms</li>
          <li>processing form data</li>
-         </ul>
+         </ol>
+         </div>
+         <div class="section level3" id="users-authentication">
+         <h3><a href="#TOC">Users &amp; authentication</a></h3>
+         <ol start="25" style="list-style-type: decimal">
+         <li>Administrators, editors, users</li>
+         <li>Authentication</li>
+         <li>Authorization &amp; permissions</li>
+         </ol>
          </div>
          <div class="section level3" id="final-projects">
          <h3><a href="#TOC">Final projects</a></h3>
+         <p><em>Your final project is due.</em></p>
          </div>
          </div>
          <div class="section level2" id="assignments">
          <h2><a href="#TOC">Assignments</a></h2>
-         <p>Students in this class are given 3 open-ended challenges. The challenges become increasingly complex and are designed to scaffold students into tackling more complex analysis and programming projects. The challenges are designed to be solved in pairs. The first two challenges have an optional &quot;bonus&quot;, which is meant to give more advanced teams a challenge.</p>
          <ol style="list-style-type: decimal">
-         <li><p><strong>Single Page Website (30%):</strong> students will build a single-page, informational website on a topic of their choice. Their website will be composed of HTML5, CSS, and Javascript. It will display their fluency with the components of HTML, styling with CSS, and enhancing user experience with Javascript. The content of the website is entirely up to the student. They are encouraged to create a website on something they are already familiar with and interested in. This is an individual project.</p></li>
-         <li><p><strong>Word Frequency Statistics (30%):</strong> Students will parse texts to create a variety of word frequency statistics. The input text can be uploaded or submitted via a form. The results are displayed as HTML. <em>Bonus</em>: create “Wordle” or tag-cloud style visualizations of the results and/or pull in source text from other website URLs.</p></li>
-         <li><p><strong>Final project (40%):</strong> student teams will propose, design, and execute their own project. The requirements for the project are that it demonstrates effective use of the web for supporting learning, as well as the student's understanding of software analysis and design. The instructor will work with teams to develop suitable projects. In addition to submitting the working code, students will turn in a one page paper reflecting on the pedagogy informing their design.</p></li>
+         <li><p><strong>Single Page Website (40%):</strong> students will build a single-page, informational website on a topic of their choice. Their website will be composed of HTML5, CSS, and Javascript. It will display their fluency with the components of HTML, styling with CSS, and enhancing user experience with Javascript. The content of the website is entirely up to the student. They are encouraged to create a website on something they are already familiar with and interested in. This is an individual project.</p></li>
+         <li><p><strong>Final project (60%):</strong> student teams will propose, design, and execute their own project. The requirements for the project are that it demonstrates effective use of the web for supporting learning, as well as the student's understanding of software analysis and design. The instructor will work with teams to develop suitable projects. In addition to submitting the working code, students will turn in a one page paper reflecting on the pedagogy informing their design.</p></li>
          </ol>
          </div></article>
 
@@ -239,7 +244,7 @@ http://education.adelphi.edu/ed-tech
     You are encouraged to modify and teach this course under the terms of the license.
     </p>
 
-<p><tt>Last modified: Wednesday, 05. December 2012 03:45PM</tt></p>
+<p><tt>Last modified: Monday, 14. January 2013 01:49PM</tt></p>
 
 <!-- Piwik -->
 <script type="text/javascript">
