@@ -18,16 +18,16 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 **Educational Technology 0858-618, Spring 2012**
 
-**Keywords:** research methods, good questions, design research, 
-ethnography, statistics, quantitative research, epistemology, 
+**Keywords:** research methods, good questions, design research,
+ethnography, statistics, quantitative research, epistemology,
 technology research, mixed methods, action research
 
-**Description:** In this course, students investigate methods for 
-determining if a given technology contributes to a stronger 
-educational experience. Reviewing the body of research on 
-educational technology, students will probe the merits of different 
-methodologies. Students learn how to develop good research questions 
-and choose methodologies to conduct their own investigations. 
+**Description:** In this course, students investigate methods for
+determining if a given technology contributes to a stronger
+educational experience. Reviewing the body of research on
+educational technology, students will probe the merits of different
+methodologies. Students learn how to develop good research questions
+and choose methodologies to conduct their own investigations.
 
 ## Spring 2013 Seminar: Girls & Programming
 
@@ -43,9 +43,9 @@ the effectiveness of their own technology initiatives in the field.
 
 This course has two main goals:
 
-1) to develop students' abilities to read and write about scholarly 
+1) to develop students' abilities to read and write about scholarly
    research in the area of educational technology, and
-2) to foster their ability to conduct formal academic research and less 
+2) to foster their ability to conduct formal academic research and less
    formal evaluations of educational technology.
 
 Students will be able to:
@@ -68,6 +68,11 @@ Students will be able to:
     information
 -   design measures to evaluate the success of technology initiatives
 
+## Online Resources
+* Course Wiki <http://aws.curinga.com/wiki>
+* Zotero Group: Girls, Women & Computer Science <https://www.zotero.org/groups/girls_women__computer_science>
+* Google Scholar <http://scholar.google.com>
+* Adelphi Libraries <http://libraries.adelphi.edu>
 
 ## Required texts
 _None_
@@ -100,15 +105,15 @@ Elliott, J. 1991. *Action research for educational change.*Philadelphia:
 Open University Press. ISBN 0335096905.
 
 Few, Stephen. 2009. *Now You See It: Simple Visualization Techniques for
-Quantitative Analysis.*Analytics Press. ISBN 0970601980. 
+Quantitative Analysis.*Analytics Press. ISBN 0970601980.
 
 Haertel, Geneva D. 2003. *Evaluating Educational Technology: Effective
 Research Designs for Improving Learning. *Teachers College Press. ISBN
 0807743305.
 
-Haslanger, S., Tuana, N., & O’Connor, P. (2012). 
-[Topics in Feminism](http://plato.stanford.edu/archives/win2012/entries/feminism-topics/). 
-In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ 
+Haslanger, S., Tuana, N., & O’Connor, P. (2012).
+[Topics in Feminism](http://plato.stanford.edu/archives/win2012/entries/feminism-topics/).
+In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_
 (Winter 2012.).
 
 Kelly, A. 2004. Design research in education: Yes, but is it
@@ -121,7 +126,7 @@ College Press. ISBN 0807747041.
 McMillan, James H. 2007. *Educational Research: Fundamentals for the
 Consumer (5*^*th*^*Edition). *Boston MA: Allyn & Bacon. ISBN 0205508308
 
-NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in 
+NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in
 S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation (NSF).
 
 Reeves, T. C. 2005. Design research: A socially responsible approach to
@@ -146,15 +151,15 @@ educational technology.*Information Age Publishing. ISBN 9781930608542.
 
 #### Readings due:
 
-Haslanger, S., Tuana, N., & O’Connor, P. (2012). 
-[Topics in Feminism](http://plato.stanford.edu/archives/win2012/entries/feminism-topics/). 
-In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ 
+Haslanger, S., Tuana, N., & O’Connor, P. (2012).
+[Topics in Feminism](http://plato.stanford.edu/archives/win2012/entries/feminism-topics/).
+In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_
 (Winter 2012.).
 
-NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in 
+NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in
 S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation (NSF).
 
-Haraway, D. (1988). [Situated Knowledges: The Science Question in 
+Haraway, D. (1988). [Situated Knowledges: The Science Question in
 Feminism and the Privilege of Partial Perspective](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf).
 _Feminist Studies_, _14_(3), 575–599. doi:10.2307/3178066
 
@@ -167,9 +172,7 @@ Researcher*, *34* (*6*)3.
 
 ### Participants and subjects
 
-*Readings due: McMillan, ch 5; “Public Interest and the Interests of
-White People Are Not the Same: Assessment, Education Policy and Racism”,
-David Gillborn in Ladson-Billings*
+
 
 ### Survey-based research
 
@@ -183,15 +186,11 @@ David Gillborn in Ladson-Billings*
 
 ### Research ethics
 
-*Readings due: “Interrupting the Right: On Doing Critical Educational
-Work in Conservative Times”, Michael Apple in Ladson-Billings*
+### Research Design Workshop 1
 
-
-*Readings due: McMillan, ch 9*
-
+### Research Design Workshop 2
 
 ### Data and continuous improvement
-
 
 ### Final presentations
 
@@ -214,7 +213,7 @@ Through this assignment, students will be evaluated on their ability to
 understand, analyze, and synthesize research from a range of sources
 using a variety of research methodologies.
 
-**Assignment 2 — Research design** **(60%)**
+**Assignment 2 — Research design & Pilot** **(60%)**
 
 For the final assignment, each student will develop a novel research
 study to explore an area of educational technology. Students will be
