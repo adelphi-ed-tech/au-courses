@@ -106,7 +106,6 @@ Consumer (5*^*th*^*Edition).*Boston MA: Allyn & Bacon. ISBN 0205508308
 NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in 
 S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation (NSF).
 
-
 Reeves, T. C. 2005. Design research: A socially responsible approach to
 instructional technology research in higher education. *Journal of
 Computing in Higher Education*, *16* (*2*)96–115.
@@ -125,13 +124,22 @@ educational technology.*Information Age Publishing. ISBN 9781930608542.
 ### Why conduct research
 
 
-### Locating and reviewing relevant research
-
+### Creating hypothesis and generating good questions
 #### Readings due:
+
+NSF. (n.d.). [Report] [Women, Minorities, and Persons with Disabilities in
+S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation.
 
 Haraway, D. (1988). [Situated Knowledges: The Science Question in 
 Feminism and the Privilege of Partial Perspective](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf).
 _Feminist Studies_, _14_(3), 575–599. doi:10.2307/3178066
+
+#### Assignments Due:
+* Create an account on [Zotero](http://zotero.org)
+* Set up Zotero on your computer
+* Add 2 good and relevant scholarly sources to our group: [Girls, Women & Comp. Sci](https://www.zotero.org/groups/girls_women__computer_science)
+
+
 
 ### Hypothesis and variables
 
