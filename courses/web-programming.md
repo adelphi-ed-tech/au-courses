@@ -1,5 +1,7 @@
 % Programming web-based educational media
 % Matthew X. Curinga
+  Antonios Saravanos
+
 
 **Description:** In this course students learn techniques of web programming to develop
 interactive, educational media. Using the Python programming language
@@ -44,8 +46,6 @@ build websites (1st ed.)_](http://htmlandcssbook.com/).
 Indianapolis, IN: Wiley Pubishing, Inc.
 
 ![](http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG)
-
-
 
 ## Optional Books
 Anderson, T. (Ed.). (2008). [*Theory and practice of online learning*](http://www.aupress.ca/index.php/books/120146). Edmonton: AU Press.
@@ -110,13 +110,18 @@ Week  Date	   Due/Checkpooint
 **Read/Watch**
 
 - [CERN: How the Web Works](http://public.web.cern.ch/public/en/about/webwork-en.html)
-- 
+- Duckett, Introduction & Chapter 1
 
+**Do:**
+- create a basic website on your own computer (Hello World)
+- add _at least_ 2 entries to the [Programming Lexicon](http://aws.curinga.com/wiki/Web_Programming_Lexicon)
 
-2. HTML Document & Text
-3. Your own webserver
-4. Links & Images
-5. Lists & Tables
+#### HTML Document & Text
+
+#### Your own webserver
+
+#### Links & Images
+#### Lists & Tables
 
 ### More HTMl & CSS
 

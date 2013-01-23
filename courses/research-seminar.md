@@ -73,15 +73,28 @@ Students will be able to:
 _None_
 
 ## Bibliography & readings
+
+Baker, R. S.J.D. 2009. The state of educational data mining in 2009: A
+review and future visions. *Journal of Educational Data Mining*, *1*
+(*1*)3–17.
+
 Bernhardt, Victoria. 2004. *Data Analysis for Continuous School
-Improvement.*Eye on Education. ISBN 1930556748.
+Improvement. *Eye on Education. ISBN 1930556748.
 
 Bernhardt, Victoria. 2008. *Data, Data, Everywhere.* Eye on Education.
 ISBN 1596671025.
 
-Collins, Allan. 2009. *Rethinking Education in the Age of Technology:
-The Digital Revolution and Schooling in America.*New York NY: Teachers
+Boote, D. N. 2005. Scholars before researchers: On the centrality of the
+dissertation literature review in research preparation. *Educational
+Researcher*, *34* (*6*)3.
+
+Collins, Allan. 2009. _Rethinking Education in the Age of Technology:
+The Digital Revolution and Schooling in America._ New York NY: Teachers
 College Press. ISBN 0807750026.
+
+Collins, A., Joseph, D. and Bielaczyc, K. 2004. Design research:
+Theoretical and methodological issues. *Journal of the learning
+Sciences*, *13* (*1*)15–42.
 
 Elliott, J. 1991. *Action research for educational change.*Philadelphia:
 Open University Press. ISBN 0335096905.
@@ -90,10 +103,15 @@ Few, Stephen. 2009. *Now You See It: Simple Visualization Techniques for
 Quantitative Analysis.*Analytics Press. ISBN 0970601980. 
 
 Haertel, Geneva D. 2003. *Evaluating Educational Technology: Effective
-Research Designs for Improving Learning.*Teachers College Press. ISBN
+Research Designs for Improving Learning. *Teachers College Press. ISBN
 0807743305.
 
-Kelly, A.. 2004. Design research in education: Yes, but is it
+Haslanger, S., Tuana, N., & O’Connor, P. (2012). 
+[Topics in Feminism](http://plato.stanford.edu/archives/win2012/entries/feminism-topics/). 
+In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ 
+(Winter 2012.).
+
+Kelly, A. 2004. Design research in education: Yes, but is it
 methodological? *Journal of the Learning Sciences*, *13* (*1*)115–128.
 
 Ladson-Billings, G (ed.). 2006. *Education research in the public
@@ -101,11 +119,10 @@ interest: Social justice, action, and policy.* New York NY: Teachers
 College Press. ISBN 0807747041.
 
 McMillan, James H. 2007. *Educational Research: Fundamentals for the
-Consumer (5*^*th*^*Edition).*Boston MA: Allyn & Bacon. ISBN 0205508308
+Consumer (5*^*th*^*Edition). *Boston MA: Allyn & Bacon. ISBN 0205508308
 
 NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in 
 S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation (NSF).
-
 
 Reeves, T. C. 2005. Design research: A socially responsible approach to
 instructional technology research in higher education. *Journal of
@@ -122,21 +139,31 @@ educational technology.*Information Age Publishing. ISBN 9781930608542.
 
 ## Class Sessions
 
-### Why conduct research
+### Ways of knowing
 
 
-### Locating and reviewing relevant research
+### Types of research
 
 #### Readings due:
+
+Haslanger, S., Tuana, N., & O’Connor, P. (2012). 
+[Topics in Feminism](http://plato.stanford.edu/archives/win2012/entries/feminism-topics/). 
+In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ 
+(Winter 2012.).
+
+NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in 
+S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation (NSF).
 
 Haraway, D. (1988). [Situated Knowledges: The Science Question in 
 Feminism and the Privilege of Partial Perspective](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf).
 _Feminist Studies_, _14_(3), 575–599. doi:10.2307/3178066
 
-### Hypothesis and variables
+### Quantitative Research
 
-*Readings due: McMillan, ch 2;”What Should Count as Educational
-Research: Notes Toward a New Paradigm,” Jean Anyon in Ladson-Billings*
+#### Readings due:
+Boote, D. N. 2005. Scholars before researchers: On the centrality of the
+dissertation literature review in research preparation. *Educational
+Researcher*, *34* (*6*)3.
 
 ### Participants and subjects
 
@@ -144,42 +171,27 @@ Research: Notes Toward a New Paradigm,” Jean Anyon in Ladson-Billings*
 White People Are Not the Same: Assessment, Education Policy and Racism”,
 David Gillborn in Ladson-Billings*
 
+### Survey-based research
+
+### Experimental design
+
+### Qualitative Research
+
+### Action Research & Design Research
+
+### Case Studies & Ethnogrpahy
+
 ### Research ethics
 
 *Readings due: “Interrupting the Right: On Doing Critical Educational
 Work in Conservative Times”, Michael Apple in Ladson-Billings*
 
-### Experimental design
+
 *Readings due: McMillan, ch 9*
 
-### Action research & design research
-*Readings due: Collins*
 
-### Survey-based research
-*Readings due: McMillan, ch 8*
+### Data and continuous improvement
 
-### Ethnographic research
-
-### Case studies
-
-*Readings due: McMillan, ch 11*
-
-### Mixed methods
-
-*Readings due: McMillan, ch 12*
-
-
-### Data mining and "business intelligence"
-
-*Readings due: Baker*
-
-### Continuous data integration in schools
-
-*Readings due: Bernhardt (2004) [selections]*
-
-### Data visualization
-
-*Readings due: Tufte (1997) [selections]*
 
 ### Final presentations
 
@@ -215,19 +227,6 @@ be evaluated on:
 -   the appropriateness of the methodology chosen
 -   the feasibility of the study
 
-## Other Readings
-
-Baker, R. S.J.D. 2009. The state of educational data mining in 2009: A
-review and future visions. *Journal of Educational Data Mining*, *1*
-(*1*)3–17.
-
-Boote, D. N. 2005. Scholars before researchers: On the centrality of the
-dissertation literature review in research preparation. *Educational
-Researcher*, *34* (*6*)3.
-
-Collins, A., Joseph, D. and Bielaczyc, K. 2004. Design research:
-Theoretical and methodological issues. *Journal of the learning
-Sciences*, *13* (*1*)15–42.
 
 
 
