@@ -18,16 +18,16 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 **Educational Technology 0858-618, Spring 2012**
 
-**Keywords:** research methods, good questions, design research, 
-ethnography, statistics, quantitative research, epistemology, 
+**Keywords:** research methods, good questions, design research,
+ethnography, statistics, quantitative research, epistemology,
 technology research, mixed methods, action research
 
-**Description:** In this course, students investigate methods for 
-determining if a given technology contributes to a stronger 
-educational experience. Reviewing the body of research on 
-educational technology, students will probe the merits of different 
-methodologies. Students learn how to develop good research questions 
-and choose methodologies to conduct their own investigations. 
+**Description:** In this course, students investigate methods for
+determining if a given technology contributes to a stronger
+educational experience. Reviewing the body of research on
+educational technology, students will probe the merits of different
+methodologies. Students learn how to develop good research questions
+and choose methodologies to conduct their own investigations.
 
 ## Spring 2013 Seminar: Girls & Programming
 
@@ -43,9 +43,9 @@ the effectiveness of their own technology initiatives in the field.
 
 This course has two main goals:
 
-1) to develop students' abilities to read and write about scholarly 
+1) to develop students' abilities to read and write about scholarly
    research in the area of educational technology, and
-2) to foster their ability to conduct formal academic research and less 
+2) to foster their ability to conduct formal academic research and less
    formal evaluations of educational technology.
 
 Students will be able to:
@@ -68,32 +68,55 @@ Students will be able to:
     information
 -   design measures to evaluate the success of technology initiatives
 
+## Online Resources
+* Course Wiki <http://aws.curinga.com/wiki>
+* Zotero Group: Girls, Women & Computer Science <https://www.zotero.org/groups/girls_women__computer_science>
+* Google Scholar <http://scholar.google.com>
+* Adelphi Libraries <http://libraries.adelphi.edu>
 
 ## Required texts
 _None_
 
 ## Bibliography & readings
+
+Baker, R. S.J.D. 2009. The state of educational data mining in 2009: A
+review and future visions. *Journal of Educational Data Mining*, *1*
+(*1*)3–17.
+
 Bernhardt, Victoria. 2004. *Data Analysis for Continuous School
-Improvement.*Eye on Education. ISBN 1930556748.
+Improvement. *Eye on Education. ISBN 1930556748.
 
 Bernhardt, Victoria. 2008. *Data, Data, Everywhere.* Eye on Education.
 ISBN 1596671025.
 
-Collins, Allan. 2009. *Rethinking Education in the Age of Technology:
-The Digital Revolution and Schooling in America.*New York NY: Teachers
+Boote, D. N. 2005. Scholars before researchers: On the centrality of the
+dissertation literature review in research preparation. *Educational
+Researcher*, *34* (*6*)3.
+
+Collins, Allan. 2009. _Rethinking Education in the Age of Technology:
+The Digital Revolution and Schooling in America._ New York NY: Teachers
 College Press. ISBN 0807750026.
+
+Collins, A., Joseph, D. and Bielaczyc, K. 2004. Design research:
+Theoretical and methodological issues. *Journal of the learning
+Sciences*, *13* (*1*)15–42.
 
 Elliott, J. 1991. *Action research for educational change.*Philadelphia:
 Open University Press. ISBN 0335096905.
 
 Few, Stephen. 2009. *Now You See It: Simple Visualization Techniques for
-Quantitative Analysis.*Analytics Press. ISBN 0970601980. 
+Quantitative Analysis.*Analytics Press. ISBN 0970601980.
 
 Haertel, Geneva D. 2003. *Evaluating Educational Technology: Effective
-Research Designs for Improving Learning.*Teachers College Press. ISBN
+Research Designs for Improving Learning. *Teachers College Press. ISBN
 0807743305.
 
-Kelly, A.. 2004. Design research in education: Yes, but is it
+Haslanger, S., Tuana, N., & O’Connor, P. (2012).
+[Topics in Feminism](http://plato.stanford.edu/archives/win2012/entries/feminism-topics/).
+In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_
+(Winter 2012.).
+
+Kelly, A. 2004. Design research in education: Yes, but is it
 methodological? *Journal of the Learning Sciences*, *13* (*1*)115–128.
 
 Ladson-Billings, G (ed.). 2006. *Education research in the public
@@ -101,9 +124,9 @@ interest: Social justice, action, and policy.* New York NY: Teachers
 College Press. ISBN 0807747041.
 
 McMillan, James H. 2007. *Educational Research: Fundamentals for the
-Consumer (5*^*th*^*Edition).*Boston MA: Allyn & Bacon. ISBN 0205508308
+Consumer (5*^*th*^*Edition). *Boston MA: Allyn & Bacon. ISBN 0205508308
 
-NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in 
+NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in
 S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation (NSF).
 
 Reeves, T. C. 2005. Design research: A socially responsible approach to
@@ -121,16 +144,21 @@ educational technology.*Information Age Publishing. ISBN 9781930608542.
 
 ## Class Sessions
 
-### Why conduct research
+### Ways of knowing
 
+### Types of research
 
-### Creating hypothesis and generating good questions
 #### Readings due:
 
-NSF. (n.d.). [Report] [Women, Minorities, and Persons with Disabilities in
-S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation.
+Haslanger, S., Tuana, N., & O’Connor, P. (2012).
+[Topics in Feminism](http://plato.stanford.edu/archives/win2012/entries/feminism-topics/).
+In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_
+(Winter 2012.).
 
-Haraway, D. (1988). [Situated Knowledges: The Science Question in 
+NSF. (n.d.). [Women, Minorities, and Persons with Disabilities in
+S&E](http://www.nsf.gov/statistics/women/). US National Science Foundation (NSF).
+
+Haraway, D. (1988). [Situated Knowledges: The Science Question in
 Feminism and the Privilege of Partial Perspective](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf).
 _Feminist Studies_, _14_(3), 575–599. doi:10.2307/3178066
 
@@ -140,54 +168,34 @@ _Feminist Studies_, _14_(3), 575–599. doi:10.2307/3178066
 * Add 2 good and relevant scholarly sources to our group: [Girls, Women & Comp. Sci](https://www.zotero.org/groups/girls_women__computer_science)
 
 
+### Quantitative Research
 
-### Hypothesis and variables
-
-*Readings due: McMillan, ch 2;”What Should Count as Educational
-Research: Notes Toward a New Paradigm,” Jean Anyon in Ladson-Billings*
+#### Readings due:
+Boote, D. N. 2005. Scholars before researchers: On the centrality of the
+dissertation literature review in research preparation. *Educational
+Researcher*, *34* (*6*)3.
 
 ### Participants and subjects
 
-*Readings due: McMillan, ch 5; “Public Interest and the Interests of
-White People Are Not the Same: Assessment, Education Policy and Racism”,
-David Gillborn in Ladson-Billings*
+
+
+### Survey-based research
+
+### Experimental design
+
+### Qualitative Research
+
+### Action Research & Design Research
+
+### Case Studies & Ethnogrpahy
 
 ### Research ethics
 
-*Readings due: “Interrupting the Right: On Doing Critical Educational
-Work in Conservative Times”, Michael Apple in Ladson-Billings*
+### Research Design Workshop 1
 
-### Experimental design
-*Readings due: McMillan, ch 9*
+### Research Design Workshop 2
 
-### Action research & design research
-*Readings due: Collins*
-
-### Survey-based research
-*Readings due: McMillan, ch 8*
-
-### Ethnographic research
-
-### Case studies
-
-*Readings due: McMillan, ch 11*
-
-### Mixed methods
-
-*Readings due: McMillan, ch 12*
-
-
-### Data mining and "business intelligence"
-
-*Readings due: Baker*
-
-### Continuous data integration in schools
-
-*Readings due: Bernhardt (2004) [selections]*
-
-### Data visualization
-
-*Readings due: Tufte (1997) [selections]*
+### Data and continuous improvement
 
 ### Final presentations
 
@@ -195,22 +203,23 @@ Students will present their research designs and receive feedback from
 the instructor and their peers.
 
 ## Assignments and Grades
-**Assignment 1 — Review of literature (40%)**
+### Assignment 1 — Review of literature (40%)
 
-Each semester, the seminar will collaboratively author a review of
-literature related to a major research area in educational technology.
-Examples of topics for the literature review:
-
--   technology and school reform
--   technology and special education
--   technology and global development
--   educational equity and technology
+This semester, we will collaboratively author a "review of
+literature" related to gender studies of teaching computer science and related
+engineerign topics.
 
 Through this assignment, students will be evaluated on their ability to
 understand, analyze, and synthesize research from a range of sources
 using a variety of research methodologies.
 
-**Assignment 2 — Research design** **(60%)**
+Collaboratively we will create an outline and scope for the review.
+Individual studentst will be responsible for sub-topics within the report.
+The group will share responsibility for editing and revising the document.
+
+**The final report will be completed by session 6.**
+
+## Assignment 2 — Research design & Pilot (60%)
 
 For the final assignment, each student will develop a novel research
 study to explore an area of educational technology. Students will be
@@ -223,19 +232,10 @@ be evaluated on:
 -   the appropriateness of the methodology chosen
 -   the feasibility of the study
 
-## Other Readings
+**Due dates:**
 
-Baker, R. S.J.D. 2009. The state of educational data mining in 2009: A
-review and future visions. *Journal of Educational Data Mining*, *1*
-(*1*)3–17.
-
-Boote, D. N. 2005. Scholars before researchers: On the centrality of the
-dissertation literature review in research preparation. *Educational
-Researcher*, *34* (*6*)3.
-
-Collins, A., Joseph, D. and Bielaczyc, K. 2004. Design research:
-Theoretical and methodological issues. *Journal of the learning
-Sciences*, *13* (*1*)15–42.
-
+- hypothesis & research question(s): session 7
+- research proposal/protocol: session 10
+- results: final session
 
 
