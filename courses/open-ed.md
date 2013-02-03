@@ -430,7 +430,9 @@ there are some practical refinements.
 
 Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
 
-### Critical Essay Choose an area of interest that has arisen out of
+### Critical Essay
+
+Choose an area of interest that has arisen out of
 the course readings and discussions and write a reflective essay on
 this topic. Follow [Chris Higgins' Notes on the
 critical-interpretive
@@ -483,7 +485,6 @@ Their reviewers consider:
 
 From [Process: Appendix A](http://peerproduction.net/peer-review/process/). _modifications appear in italics_
 
-Three people will read your essay and offer a grade and comments: the instructor, an outside reviewer, and a fellow student from the class. Your grade for the essay will be the average of these three grades.
 
 ## Open Education Projects
 This is a selected list of open education projects. You will take a couple of weeks to try to get to know one of these projects, and then report back what you learned to the group. Here are some questions that might inform you study:

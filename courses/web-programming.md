@@ -4,12 +4,12 @@
 
 **EDT 603 _Programming web-based educational media_, Spring 2013**
 
-**Description:** In this course students learn techniques of web programming to develop
-interactive, educational media. Using the Python programming language
-and web development technologies (HTML5, Javascript, CSS), students gain
-practice in the object oriented programming and design of interactive
-software. For their final project, students will create their own
-educational website.
+**Description:** In this course students learn techniques of web
+programming to develop interactive, educational media. Using the
+Python programming language and web development technologies (HTML5,
+Javascript, CSS), students gain practice in the object oriented
+programming and design of interactive software. For their final
+project, students will create their own educational website.
 
 ## Instructors & Office Hours
 Matt Curinga, Post Annex Conference Room
@@ -27,7 +27,12 @@ Antonios Saravanos, online via Google Hangout
 ## Course Format
 
 This course is fully online. Each week there will be a series of
-topics, for students to pursue at their own pace.
+topics, for students to pursue at their own pace. Weeks will run on
+a Monday-to-Monday schedule. Assignments for the week are due on the
+following Monday.
+
+This course runs on the Cycle 3 schedule. It begins on Monday
+January 27 and ends on Monday March 18.
 
 Instruction will come from several sources:
 
@@ -119,13 +124,7 @@ Berkeley CA. ISBN 9780321719638.
 Zelle, John. 2004. *Python programming: an introduction to computer
 science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
-## Schedule
-_This online course runs according to Adelphi's Cycle 3._
-_Classes will be on a Sunday-to-Sunday schedule. Students work at their
-own pace through the course materials, but must attend at least 4
-synchronous labs (either online or in person) during the class._
-
-            
+## Schedule          
 
 Week  Date	   Due/Checkpooint
 ----- -------- --------------------------------------------------
@@ -148,35 +147,35 @@ Week  Date	   Due/Checkpooint
 * Week 7: Users & authentication
 * Week 8: Final project showcase
 
-
 ## Assignments & Grading
 
 There are two major projects in this course, the _single page
-website_ and the _dynamic web application_.
+website_ and the _dynamic web application_. Other grades come from
+particiaption and improvement.
 
-### Participation
+### Participation (15%)
 
-Students are expected to be active participants
-in the course, communicating via email, posting to the wiki, and
-completing assignments in a timely manner. The course
-instructors will base the participation grade on the quality and
-timeliness of their participation in the course.
+Students are expected to be active participants in the course,
+communicating via email, posting to the wiki, and completing
+assignments in a timely manner. The course instructors will base the
+participation grade on the quality and timeliness of their
+participation in the course.
 
-### Improvement
-The two coding projects will be based on
-mastery of the skills of web development. Because students come
-to the course with different skillsets, part of their final
-assessment will be based on their improvement. In the first week
-of the course, students will post a short, narrative
-self-assessment of their web programming skills: HTML, CSS,
-Javascript, (Python or other) Programming, and general
+### Improvement (15%)
+
+The two coding projects will be based on mastery of the skills of
+web development. Because students come to the course with different
+skill sets, part of their final assessment will be based on their
+improvement. In the first week of the course, students will post a
+short, narrative self-assessment of their web programming skills:
+HTML, CSS, Javascript, (Python or other) Programming, and general
 understanding of how the Interent and Web work.
 
-At the end of the semester, each student will email the
-instructors with an updated assessment and the grade they think
-they deserve for their improvement.
+At the end of the semester, each student will email the instructors
+with an updated assessment and the grade they think they deserve for
+their improvement.
     
-### Single Page Website
+### Single Page Website (30%)
 
 Students will build a single-page,
 informational website on a topic of their choice. Their website
@@ -187,7 +186,7 @@ content of the website is entirely up to the student. They are
 encouraged to create a website on something they are already
 familiar with and interested in. This is an individual project.
 
-### Dynamic web application.
+### Dynamic web application (40%)
 
 Student teams will propose, design, and execute a project. The
 project can be completed individually, or in a 2-person team. The
