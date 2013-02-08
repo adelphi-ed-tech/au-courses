@@ -17,7 +17,7 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 -->
 
 
-**Educational Technology 0145-602, Fall 2012**
+**Computer Science 0145-602, Fall 2012**
 
 **Keywords:**  computer programming, CS1, python, lego robotics, 
 lego nxt, computational thinking
