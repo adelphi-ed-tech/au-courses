@@ -29,10 +29,10 @@ educational technology, students will probe the merits of different
 methodologies. Students learn how to develop good research questions
 and choose methodologies to conduct their own investigations.
 
-## Spring 2013 Seminar: Girls & Programming
-
 
 ## Goals
+**Spring 2013 Seminar Topic: Girls & Programming**
+
 This research seminar exposes students to the general methods of social
 science research used in education settings as well as to the specific
 research paradigms common to technology research. They need these skills
@@ -69,6 +69,7 @@ Students will be able to:
 -   design measures to evaluate the success of technology initiatives
 
 ## Online Resources
+* Celly: <http://cy.tl/UlBZ4q>
 * Course Wiki <http://aws.curinga.com/wiki>
 * Zotero Group: Girls, Women & Computer Science <https://www.zotero.org/groups/girls_women__computer_science>
 * Google Scholar <http://scholar.google.com>

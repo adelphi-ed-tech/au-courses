@@ -18,9 +18,18 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 **Educational Technology 0858-502, Fall 2012**
 
-**Keywords:** open education, deschooling, OER, free culture, networked learning, peer-to-peer learning, p2p learning, open source education, hacking education, peer production, MOOC
+**Keywords:** open education, deschooling, OER, free culture, 
+networked learning, peer-to-peer learning, p2p learning, open source 
+education, hacking education, peer production, MOOC
 
-**Description:** Open education combines practices from Free Software development with (radically) student-centered pedagogy. In open education, free learning resources are developed collaboratively using the global internet, tailored locally to the specific needs of learners, and studied collaboratively. Students in this course consider the underlying principles of open education: why it works, when it fails, how it relates to "traditional" education, and what we want it to look like.
+**Description:** Open education combines practices from Free 
+Software development with (radically) student-centered pedagogy. In 
+open education, free learning resources are developed 
+collaboratively using the global internet, tailored locally to the 
+specific needs of learners, and studied collaboratively. Students in 
+this course consider the underlying principles of open education: 
+why it works, when it fails, how it relates to "traditional" 
+education, and what we want it to look like.
 
 ------------------------------------------------------------------------
 
@@ -436,9 +445,9 @@ Choose an area of interest that has arisen out of
 the course readings and discussions and write a reflective essay on
 this topic. Follow [Chris Higgins' Notes on the
 critical-interpretive
-essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpreti
-ve_essay) for the structure of this essay, which should be: _focused_
-, _interesting_, _motivated_, and _controversial_. The chapters in
+essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpretive_essay)
+for the structure of this essay, which should be: _focused_,
+_interesting_, _motivated_, and _controversial_. The chapters in
 _Cognitive Capitalism, Education, and Digital Labor_ are typical of
 writing in this style. You should refer closely to the texts that we
 engage with during the semester in your writing. Your work must
