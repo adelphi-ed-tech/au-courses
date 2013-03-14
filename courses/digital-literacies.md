@@ -333,7 +333,7 @@ as well as some critics of the need to participate.
 the shallows, etc
 
 ### Week 15, December 20: Presentations
-Students will present their final projects 
+Students will give a lightnight talk based on their portfolio
 
 
 ## Assignments
@@ -390,16 +390,32 @@ Data literacy
     * [Datamob "meta" collector of datasets](http://datamob.org/datasets)
 
 ### Workshop
-Students in this course come in with a wide range of skills and competencies. As part of your participation in this course, you need to schedule and lead a workshop for your peers on a practical area of "digital literacy." You don't need to be an expert in the area -- rather, you should take a little bit of extra time to become proficient before leading the workshop. You can run your workshop alone, or with a partner. If you work with a partner, depending on the number of students, you may need to present twice. In addition to facilitating a workshop, everyone must **participate in at least two** workshops. Workshops will be scheduled at the convenience of the facilitators, either on the Adelphi campus or online.
 
-Here is the tenative schedule of workshops. You will have the opportunity to sign up for one, and to discuss the content covered with the instructor. If you have an idea for another workshop, please suggest it.
+Students in this course come in with a wide range of
+skills and competencies. As part of your participation in this
+course, you need to schedule and lead a workshop for your peers on a
+practical area of "digital literacy." You don't need to be an expert
+in the area -- rather, you should take a little bit of extra time to
+become proficient before leading the workshop. You can run your
+workshop alone, or with a partner. If you work with a partner,
+depending on the number of students, you may need to present twice.
+In addition to facilitating a workshop, everyone must **participate
+in at least two** workshops. Workshops will be scheduled at the
+convenience of the facilitators, either on the Adelphi campus or
+online.
 
+Here is the tenative schedule of workshops. You will have the
+opportunity to sign up for one, and to discuss the content covered
+with the instructor. If you have an idea for another workshop,
+please suggest it.
+
+1. MediaWiki & Wikipedia
 2. HTML5 basics
 3. Basic image editing with GIMP
 4. Shooting digital video (and audio)
 5. Basic digital video editing with iMovie and YouTube
 6. Podcasting (with Audacity and iTunes)
-7. Screencasting (with Jira and/or RecordMyDesktop)
+7. Screencasting (with Quicktime and/or RecordMyDesktop)
 8. Who's afraid of a spreadsheet? excel and spreadsheet basics
 9. Functions, graphs, and (more) advanced spreadsheets
 10. Visual programming with (Scratch or LEGO Mindstorms or Kodu)
