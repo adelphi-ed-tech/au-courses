@@ -140,7 +140,7 @@ Session    Date    Topic                                    Workshop Leader
 11       Apr 11    User Experience                          Curinga
 12       Apr 18    Sound & Audio                            Gregory
 13       Apr 25    Data-driven multimedia                   Curinga
-14       May 2     GIS: Maps & Location                     TPD
+14       May 2     GIS: Maps & Location                     TBD
 15       May 9     Working session                          Curinga
 16       May 16    Final Show                              _Jury_
 

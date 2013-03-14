@@ -69,7 +69,7 @@ Press. ISBN 9780335242160
 
 Lessig, L. (1999). _Code and Other Laws of Cyberspace._ New York: Basic Books. <!-- Note: I know there's an updated version, but I don't think it's as readable or coherent as the original. -->
 
-Mirzoeff, N. (2009). _An introduction to visual culture (3nd ed.)_. London;New York: Routledge. ISBN
+Mirzoeff, N. (2009). _An introduction to visual culture (3rd ed.)_. London;New York: Routledge. ISBN
 9780415327589
 
 Wardrip-Fruin, N., & Montfort, N. (Eds.). (2003). _The New Media Reader_. Cambridge Mass.: MIT
