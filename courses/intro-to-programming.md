@@ -70,6 +70,8 @@ Downey, A. (2012). _Think Python_. Sebastopol, CA: O’Reilly.
 [free](http://www.greenteapress.com/thinkpython/html/index.html)
 [py v3](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf)
 
+Pilgrim, M. (2009). [_Dive into Python 3_](http://www.diveinto.org/python3/index.html). New York: Apress.
+
 Zelle, J. (2010). _Python Programming: An Introduction to Computer
 Science_. Franklin, Beedle & Associates Inc.
 
@@ -117,17 +119,28 @@ Assignments and Grading
 
 Assignmnet              Pct
 -------------------     -------
-
+Discussion Leader       10%
 Quizzes                 20%
 Project 1		        20%
-Project 2               25%
-Project 3               35%
+Project 2               20%
+Project 3               30%
 
 
 
 Computational Thinking Dicussion Leader
 --------------------------------------------------------
 
+Each student will take a turn leading a discussion about an area
+of topical interest related to computational thinking and computational
+literacy. As the leader, you may, optionally, send out a short reading
+to the class on the discussion as background reading.
+
+When you lead the discussion, be prepared to:
+
+1. introduce the topic with relevant information
+2. describe why you think it is an important issue
+3. discuss how it is related to computational literacy
+4. facilitate a 10-15 minute discussion with the class
 
 
 Quizzes
