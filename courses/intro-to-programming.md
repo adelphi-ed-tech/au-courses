@@ -58,8 +58,8 @@ programming using the Python language]_. Beijing ; Sebastopol,
 CA: O’Reilly.
 
 Downey, A. (2012). _Think Python_. Sebastopol, CA: O’Reilly. 
-[free](http://www.contentreserve.com/TitleInfo.asp?ID={8BDDEF5E-F64A-4212-A868-9B60E742EC40}&Format=50)
-[py v3]()
+[free](http://www.greenteapress.com/thinkpython/html/index.html)
+[py v3](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf)
 
 Zelle, J. (2010). _Python Programming: An Introduction to Computer
 Science_. Franklin, Beedle & Associates Inc.
