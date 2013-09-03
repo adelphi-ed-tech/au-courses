@@ -33,21 +33,30 @@ variables, functions, repetition/loops, basic data structures
 * [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
 * [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
 
+**Teaching assistant**
+
+* Ariel Fleurimond, <arielfleurimond@adelphi.edu>
+
 **Class meetings:** Tues. 6:30-8:20PM, Harvey 104
 
-**Office hours**
+**Dr. Curinga Office Hours**
 
 * Tuesday, 4:30-6:30PM
 * Thursday, 3-5PM
 * Online or in person, by appointment
 
+**Ms. Fleurimond Lab Hours**
+
+* Thursday, 6pm-8:30pm, Harvey 104 and/or Google Hangout
+
 Required Text
---------------------------------------------------------
+==========================================================================================
 
 _None._
 
-Bibliography
---------------------------------------------------------
+Readings & Bibliography
+==========================================================================================
+
 _This is a selected bibliography of computer science and Python texts and other materials
 that you may explore as references or further reading._
 
@@ -65,7 +74,7 @@ Zelle, J. (2010). _Python Programming: An Introduction to Computer
 Science_. Franklin, Beedle & Associates Inc.
 
 Class meetings
---------------------------------------------------------
+==========================================================================================
 
 Introduction to computer programming meets every Tuesday, 4:30-6:20 in Harvey 104.
 All students are expected to come on time and prepared for class. You may bring your
@@ -74,27 +83,37 @@ source files to work on in class
 
 Session Week    Topic									Due
 ------- ------  -------------------------------------   -------------------
-1       4-Sep   Critical Computational Thinking
+1       4-Sep   Critical Computational Thinking                  -
 2       11-Sep  Data, Math, & Conditions				Quiz 1
 3       18-Sep  Strings & Lists							Quiz 2
 4       25-Sep  Simple Functions						Quiz 3
-5       2-Oct   Testing & Exceptions					Project 1										
-6       9-Oct   										Quiz 4
-7       16-Oct  Lists and ``for`` Loops					Quiz 5
-8       23-Oct  Dictionaries, Sets, and Tuples			Project 2
-9       30-Oct  Advanced Functions						Quiz 6
-10      6-Nov   Sorting lists							Quiz 7
+5       2-Oct   Testing & Exceptions					**Project 1**
+6       9-Oct   Lists and loops							Quiz 4
+7       16-Oct  Dictionaries, Sets, and Tuples          Quiz 5
+8       23-Oct  Content Analysis            			Quiz 6
+9       30-Oct  Advanced Functions						Quiz 7
+10      6-Nov   Sorting lists							**Project 2**
 11      13-Nov  String functions						Quiz 8
 12      20-Nov  Dates and other standard library		Quiz 9
--       27-Nov  _No Class. Happy Thanksgiving_
+-       27-Nov  _No Class. Happy Thanksgiving_				     -
 13      4-Dec   Introducing classes						Quiz 10
-14      11-Dec  Review
-15      18-Dec  Final Project Presentation				Final Project
+14      11-Dec  Review/Project Lab						         -
+15      18-Dec  Final Project Presentation				**Final Project**
+
+
+
+Programming Lab
+==========================================================================================
+
+Every week the teaching assistant will host a programming lab/workshop. It is highly
+recommended that you attend every lab session. The TA will lead you through sample
+problems very similar to what will be on the quizzes, will help debug/troubleshoot
+your code, and will 
+
 
 
 Assignments and Grading
---------------------------------------------------------
-
+==========================================================================================
 
 Assignmnet              Pct
 -------------------     -------
@@ -107,11 +126,15 @@ Project 3               35%
 Quizzes
 --------------------------------------------------------
 
-There will be 10 pass/fail quizzes which will be completed individually at
-the start of class. Quizzes consist of 3-5 short answer programming questions drawn
-directly from the reading for the week. Quizzes are designed to be passed easily by
-students who are keeping up with the reading and the concepts in the course, and 
-will help students and the instructor maintain a good pace for the development of the course.
+There will be 10 pass/fail quizzes which will be completed 
+individually at the start of class. Quizzes consist of 3-5 short 
+answer programming questions drawn directly from the reading for the 
+week. Quizzes are designed to be passed easily by students who are 
+keeping up with the reading and the concepts in the course, and will 
+help students and the instructor maintain a good pace for the 
+development of the course. _If you fail a quiz, you will be required
+to attend the programming lab on Thursdays until you pass your next
+quiz._
 
 
 Programming projects
@@ -121,12 +144,12 @@ You will complete three programming projects, of increasing complexity, as the m
 portions of your course.
 
 
-Project 1: Facebook Status
----------------------------------------------
+### Project 1: Facebook Status
 
 You will write a program to categorize Facebook status posts as either "happy" or "sad".
 
 **Programming competencies:**
+
 * input
 	- use variables as input to the program and functions
 * output
@@ -151,23 +174,44 @@ You will write a program to categorize Facebook status posts as either "happy" o
 	- use functions for repeated operations
 	
 
-Project 2: Text Analysis
----------------------------------------------
+### Project 2: Text Analysis
 
+For this project you will select a text or a collection of texts and write a program
+that uses computation to analyze the texts. It is up to you to both select the texts
+and to decide what type of analysis is "interesting."
 
+In addition to improving on the programming competencies from project 1, you should
+demonstrate the following in your code:
 
-Project 3: Refactoring
----------------------------------------------
+* functions
+	- abstraction through function parameters
+	- encapsulation through function parameters and return statements; zero-side effects
+	- _higher order function strategies_
+	- _recursion_
+* data structures
+	- use python built-in data structures appropriately: ``list``, ``dict``, ``tuple``, ``set``
+	- use index/slice notation
+	- sort data structures
+	- _use list comprehensions_, _map()_, or _filter()_
+* testing
+	- write test code that helps validate your program
+	- _use ``doctest`` or ``unittest`` frameworks
+* libraries/modules
+	- divide your code into more than one file/module
+	- use import statements to work with Python's standard library
 
-Choose either project 1 or project 2 and make an advanced, fully functional version,
-where you demonstrate all of the programming and computer science competencies
+### Project 3: Refactoring & Visualization
 
+For your final project, you can team up with one of your classmates to revisit and improve
+your earlier code. In particular, you should make your code more robust, more flexible,
+and improve your tests. You should explicitly write code that demonstrates your understanding
+of ``abstraction``, ``encapsulation``, and ``algorithms``. In the final class meeting
+you will present your project in class, and show the parts of your program that best
+exemplify these concepts, as you understand them.
 
-
-
-
-
-
-
+In addition to improving and expanding your existing code, you will add a graphical
+visualization of your results using the a Scalable Vector Graphics (SVG) library. SVGs
+are graphics files that can be displayed in any modern web browser, and will let you
+create things like line graphs, bar graphs, labels, heat maps, and other visualizations.
 
 
