@@ -117,10 +117,17 @@ Assignments and Grading
 
 Assignmnet              Pct
 -------------------     -------
+
 Quizzes                 20%
 Project 1		        20%
 Project 2               25%
 Project 3               35%
+
+
+
+Computational Thinking Dicussion Leader
+--------------------------------------------------------
+
 
 
 Quizzes
