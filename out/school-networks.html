@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _ 
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |            
+                     |_|            
+ ______    _   _______        _     
+|  ____|  | | |__   __|      | |    
+| |__   __| |    | | ___  ___| |__  
+|  __| / _` |    | |/ _ \/ __| '_ \ 
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+http://education.adelphi.edu/ed-tech
+-->
+
+<title>Educational information systems and networks :: course syllabus</title>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Matthew X. Curinga" />
+  <meta name="date" content="Monday, 09. September 2013 03:52PM" />
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+
+
+  <!-- this css file gets inlined by the build script to make standalone html5 output
+  that's why it has a style tag... -->
+  
+  <style type="text/css">
+  body
+  {
+      background-color: white;
+      margin: 0;
+      padding: 0;
+      font-size: 14px;
+  }
+  
+  body, p, ul, ol, li, span, div
+  {
+       font-family: "FreeSans", "Helvetica", sans-serif; 
+  }
+  
+  h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
+  
+  h1{ font-size: 150%;  margin: 0px; margin-top: 2em; }
+  h2{ font-size: 130%; margin:0; margin-top: 1em; text-transform: uppercase;}
+  h3{ font-size: 120%; font-weight: bold; }
+  h4{ font-size: 110%; font-weight: bold; }
+  h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
+  
+  h1.title 
+  {
+      margin:0;
+      padding:0;
+      padding-top: 80px;
+      border-style: none;
+      background-color: transparent;
+      color: black;
+      clear: both;
+      font-size: 200%;
+      font-weight: bold; 
+  }
+  
+  h1.title,.rsa-red-text { color: #ab1c19; }
+  .rsa-red-bg { background-color: #ab1c19; }
+  
+  dt { font-weight: bold; }
+  dt:after { content: ":"; }
+  dd p {padding: 0; margin: 0; }
+  
+  
+  a { text-decoration: none; }
+  a img { border-style: none; }
+  
+  table
+  {
+      border-collapse:collapse;
+  }
+  table,th, td
+  {
+      border: 1px solid black;
+      padding: 0 .5em;
+  }
+  
+  tr.odd { background-color: #d3d3d3; }
+  
+  p
+  {
+      margin: .5em 0;
+      line-height: 1.5em;
+  }
+  
+  blockquote
+  {
+      line-height: 120%;
+      font-size: 90%;
+      border-left: 3px solid gray;
+      padding-left: 1em;
+  }
+  
+  .img-right 
+  {
+      float: right;
+      background-color: #d3d3d3;
+      padding: .25em;
+      font-weight: bold;
+      font-size: 80%;
+      text-align: center;
+  }
+  .img-right img { display: block; margin-bottom: .25em; }
+  .clear-all {clear: both;}
+  .warn { color: red; font-weight: bold; text-align: center; }
+  .center { text-align: center; }
+  .single, .single p { line-height: 1.25; }
+  
+  /* hanging indents for references/citations */
+  #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p
+  {
+      margin-bottom: 1em;
+      margin-left: 2em;
+      margin-bottom: .25em;
+      text-indent: -2em;
+      line-height: 1.5em;
+  }
+  
+  *[id*='books'] img
+  {
+      max-width: 150px;
+      max-height: 150px;
+      display: block;
+  }
+  
+  
+  .figure
+  {
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+      padding: .25em 0;
+  }
+  .figure svg, .figure img
+  {
+      max-width: 100%;
+  }
+  .caption
+  {
+      font-weight: bold; font-size: 80%;
+  }
+  
+  
+  @media screen
+  {
+      body
+      {
+          font-size: 14px;
+          width: 800px;
+          margin: 0 auto;
+      }
+  }
+  
+  @media print
+  {
+      a {color: black;}
+  
+      #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
+       { content:" <" attr(href) "> "; }
+  
+      #TOC {display: none;}
+      body
+      {
+          font-size: 10pt;
+          width: 100%;
+      }
+      .page-break {clear: both; page-break-before: always; }
+  }
+  
+  #logo
+  {
+      background-color: white;
+      border-bottom: 1px solid #D3D3DE;
+      color: #D3D3DE;
+      font-family: monospace;
+      height: 4em;
+      left: 0;
+      line-height: 1em;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      right: 0;
+      word-wrap: break-word;
+  }
+  
+  #logo .inner
+  {
+      background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
+      padding: 0 0.25em;
+      position: absolute;
+      right: 10px;
+      top: 10px;
+  }
+  
+  #logo h1 { text-transform: uppercase; }
+  #logo h2 { font-size: 100%; }
+  #logo a {text-transform: lowercase; font-size: 90%; }
+  #logo h1, #logo h2, #logo a
+  {
+      color: #ab1c19;
+      text-align: right;
+      background-color: transparent;
+      border-style: none;
+      padding: 0;
+      margin: 0;
+      font-weight: bold;
+      line-height: 1.25em;
+  /*
+      text-shadow: 2px 2px black;
+  */
+  }
+  
+  #logo h2 { color: black; }
+  
+  #class-sessions { counter-reset: week; }
+  #class-sessions h3:before {
+      counter-increment: week;
+      content: "Week " counter(week) ": " 
+  }
+  
+  
+  #class-sessions h3
+  {
+      margin-left: -1em;    
+  }
+  
+  #class-sessions>div
+  {
+      border: 1px solid black;
+      margin: 1em 0 0 0;
+      padding: 0 2em;
+  }
+  
+  
+  nav#TOC
+  {
+      background: none repeat scroll 0 0 white;
+      border: 1px solid black;
+      counter-reset: toc;
+      float: right;
+      width: 40%;
+      margin: 1.5em;   
+  }
+  #TOC > ul > li 
+  { 
+      list-style: upper-roman; 
+      counter-increment: toc; 
+      counter-reset: sub1;
+  }
+  /*#TOC>ul>li>ul>li:before { 
+      content: counter(toc) "." counter(sub1) " ";
+      counter-increment: toc; }*/
+  #TOC li ul li { list-style: decimal;}
+  
+  #TOC ul li ul li ul { display: none; }
+  
+  #TOC h3 { text-align: center; }
+  
+  footer
+  {
+      border-top: 2px dotted gray;
+      margin-top: 1.5em;
+  }
+  
+  </style>
+
+
+</head>
+<body>
+<header>
+<div id="logo">
+    <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
+    <div class="inner">
+    <h1>Program in Educational Technology</h1>
+    <h2>Adelphi University | <a href="http://education.adelphi.edu/ed-tech">education.adelphi.edu/ed-tech</a></h2>
+    </div>
+</div>
+</header>
+
+<h1 class="title">Educational information systems and networks</h1>
+
+<nav id="TOC">
+<h3>Course Outline</h3>
+<ul>
+<li><a href="#required-books">Required Books</a></li>
+<li><a href="#bibliography">BIBLIOGRAPHY</a></li>
+<li><a href="#class-sessions">Class sessions</a><ul>
+<li><a href="#networks-and-the-internet">Networks and the internet</a></li>
+<li><a href="#the-linux-operating-system">The linux operating system</a></li>
+<li><a href="#unix-tools-and-utilities">UNIX tools and utilities</a></li>
+<li><a href="#users-and-groups">Users and groups</a></li>
+<li><a href="#file-systems">File systems</a></li>
+<li><a href="#ethics-school-computer-systems">Ethics &amp; school computer systems</a></li>
+<li><a href="#network-protocols">Network protocols</a></li>
+<li><a href="#local-area-networks">Local area networks</a></li>
+<li><a href="#wireless-networks">Wireless networks</a></li>
+<li><a href="#computer-security">computer security</a></li>
+<li><a href="#the-educational-computer-lab">The educational computer lab</a></li>
+<li><a href="#web-servers">Web servers</a></li>
+<li><a href="#database-servers">Database servers</a></li>
+<li><a href="#educational-applications-and-services">Educational applications and services</a></li>
+<li><a href="#cloud-computing">Cloud computing</a></li>
+</ul></li>
+<li><a href="#grades-assignments">Grades &amp; Assignments</a></li>
+</ul>
+</nav>
+
+<p><strong>Description:</strong> From a foundation of computer networks and systems, this course expands to cover instructional technology infrastructure: file systems, users, wired and wireless networks, email, web servers, computer labs, and common educational software services. This course focuses on Free Software; where the source code is free to use, study, or modify. (50 words)</p>
+<p><br /> GOALS &amp; OBJECTIVES ------------------</p>
+<p>The Educational Technology Specialist certification track must prepare graduates to be school-based technology leaders. One of their main duties will be to install and maintain local computer networks, workstations, and school servers. Other graduates will be developing networked learning solutions, requiring the fundamental knowledge and skills covered in this course.</p>
+<p>Students in this course develop a basic understanding of computer operating systems and digital networks. Upon completing this course they will be able to:</p>
+<ul>
+<li><p>set up a secure, network computing environment</p></li>
+<li><p>effectively use the basic tools of Unix/Linux computing environments</p></li>
+<li><p>implement techniques for administering group and user permissions</p></li>
+<li><p>install and troubleshoot hardware and software infrastructure for networked and internet computing</p></li>
+<li><p>configure various server-side applications to support teaching and learning</p></li>
+<li><p>identify the ethical and legal concerns surrounding school information systems</p></li>
+</ul>
+<div class="section level2" id="required-books">
+<h2><a href="#TOC">Required Books</a></h2>
+<p>Esteve, J. 2009. <em><a href="http://ftacademy.org/materials/fsm/2#1">The GNU/Linux Operating System.*Free Technology Academy</a></em>. Barcelona.</p>
+<p>Kurose, J. (2010). <em>Computer networking : a top-down approach</em> (5<sup>th</sup> ed.). Boston: Addison-Wesley. ISBN 0136079679.</p>
+</div>
+<div class="section level2" id="bibliography">
+<h2><a href="#TOC">BIBLIOGRAPHY</a></h2>
+<p>Adelstein, Tom. 2007. <em>Linux System Administration.</em> O'Reilly Media. ISBN 0596009526.</p>
+<p>Gift, Noah. 2008. <em>Python for Unix and Linux System Administration.</em>O'Reilly Media. ISBN 0596515820.</p>
+<p>Peterson, Larry L. 2011. <em>Computer Networks, Fifth Edition: A Systems Approach.</em>Morgan Kaufmann. ISBN 0123850592.</p>
+<p>Tanenbaum, Andrew S. 2002. <em>Computer Networks.</em>Prentice Hall. ISBN 0130661023.</p>
+</div>
+<div class="section level2" id="class-sessions">
+<h2><a href="#TOC">Class sessions</a></h2>
+<div class="section level3" id="networks-and-the-internet">
+<h3><a href="#TOC">Networks and the internet</a></h3>
+<p>Students will get an overview of current network computing scene. They will learn how to install the Ubunutu GNU/Linux operating system.</p>
+</div>
+<div class="section level3" id="the-linux-operating-system">
+<h3><a href="#TOC">The linux operating system</a></h3>
+<p>This session focuses on the organization of the Linux OS. Students will also learn about package management, maintaining and upgrading software, Gnome and KDE windowing systems.</p>
+</div>
+<div class="section level3" id="unix-tools-and-utilities">
+<h3><a href="#TOC">UNIX tools and utilities</a></h3>
+<p>Students will learn the basic tools of the linux shell: text editors (emacs/vi/nano), head/tail/more, cat, man, etc.</p>
+</div>
+<div class="section level3" id="users-and-groups">
+<h3><a href="#TOC">Users and groups</a></h3>
+<p>Students will look at managing users and groups, superuser and sudo, password files, and more.</p>
+</div>
+<div class="section level3" id="file-systems">
+<h3><a href="#TOC">File systems</a></h3>
+<p>Students will format drives, create file permissions, use uname, symbolic links, rsync, and backup strategies.</p>
+</div>
+<div class="section level3" id="ethics-school-computer-systems">
+<h3><a href="#TOC">Ethics &amp; school computer systems</a></h3>
+<p>Reviewing several cases of controversies in school systems, students will consider the ethical and legal considerations of administering computer systems in a school setting, including maintaining the privacy of sensitive data, equitable distribution of computing resources, design for universal access, and more.</p>
+</div>
+<div class="section level3" id="network-protocols">
+<h3><a href="#TOC">Network protocols</a></h3>
+<p>This session introduces Interent Protocol (IP), the concept of network layers, TCP, UDP, DNS, and routing.</p>
+</div>
+<div class="section level3" id="local-area-networks">
+<h3><a href="#TOC">Local area networks</a></h3>
+<p>Students practice with local area networks: distributed file systems, DHCP, print servers, and user management.</p>
+</div>
+<div class="section level3" id="wireless-networks">
+<h3><a href="#TOC">Wireless networks</a></h3>
+<p>This session looks at wireless networking standards, routers and access points, and wireless security protocols.</p>
+</div>
+<div class="section level3" id="computer-security">
+<h3><a href="#TOC">computer security</a></h3>
+<p>This session looks more specifically at the security of computer networks, including firewalls, hardening servers, virus protection, and encryption.</p>
+</div>
+<div class="section level3" id="the-educational-computer-lab">
+<h3><a href="#TOC">The educational computer lab</a></h3>
+<p>Students will learn strategies for maintaining computer labs, including Linux Terminal Server.</p>
+</div>
+<div class="section level3" id="web-servers">
+<h3><a href="#TOC">Web servers</a></h3>
+<p>Students configure the Apache HTTP server, learn about configuration files, and plugins, security settings for Apache.</p>
+</div>
+<div class="section level3" id="database-servers">
+<h3><a href="#TOC">Database servers</a></h3>
+<p>Students learn how to set up databases with mySQL, grant user permissions, and use the mysql CLI client to run sql commands.</p>
+</div>
+<div class="section level3" id="educational-applications-and-services">
+<h3><a href="#TOC">Educational applications and services</a></h3>
+<p>This session looks at installing and configuring some of the popular applications used in learning environments: Moodle, WordPress, Drupal, Kaltura, etc.</p>
+</div>
+<div class="section level3" id="cloud-computing">
+<h3><a href="#TOC">Cloud computing</a></h3>
+<p>Examines the trend towards cloud computing; what this paradigm really means. Also, looks at the benefits and drawbacks of &quot;cloud&quot; vendors, such as Amazon EC2.</p>
+</div>
+</div>
+<div class="section level2" id="grades-assignments">
+<h2><a href="#TOC">Grades &amp; Assignments</a></h2>
+<p>Students will have weekly homework assignments. These assignments will measure the discrete skills and knowledge covered each week. In addition, there will be practice-based midterm and final exams, where students will have to use their own server space to install and configure network and application services.</p>
+<p><em>Grading:</em></p>
+<ul>
+<li>Homework (30%)</li>
+<li>Midterm (30%)</li>
+<li>Final project (40%)</li>
+</ul>
+</div>
+
+<footer>
+
+<h3>University Statement on Academic Assistance for Students with Disabilities</h3>
+<p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
+
+<h3>University Statement on Academic Integrity</h3>
+<p>You are expected to behave with the highest level of academic integrity. Cheating and other forms of dishonesty will not be tolerated and will result in the proper disciplinary action from the university. Classroom behavior that interferes with the instructor’s ability to conduct the class or ability of students to benefit from the instruction will not be tolerated. All beepers and cellular phones should be turned off while class is in session. You are expected to come to class prepared - this means having read and studied the assigned chapters before class. By having prepared in this manner, you will be able to maximize your time spent in class.</p>
+<p>Adelphi University demands the highest standards of academic integrity. Proper conduct during examinations, the proper attribution of sources in preparation of written work, and complete honesty in all academic endeavors is required. Submission of false data, falsification of grades or records, misconduct during examinations, and plagiarism are among the violations of academic integrity. Students who do not meet these standards are subject to dismissal from the University.</p>
+
+
+<h3>Use of Candidate Work</h3>
+<p>All teacher education programs in New York State undergo periodic reviews by accreditation agencies and the state education department. For these purposes samples of students’ work are made available to those professionals conducting the review. Student anonymity is assured under these circumstances. If you do not wish to have your work made available for these purposes, please let the professor know before the start of the second class. Your cooperation is greatly appreciated.</p>
+<img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/adelphi-logo-soe_thumb.jpg" alt="rsa school of education adelphi university logo" />
+
+<hr class="clear-all" />
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />
+    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" 
+    property="dct:title" rel="dct:type"><strong>Educational information systems and networks</strong></span> was created by:
+    <ul>
+            <li><a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Matthew X. Curinga</a></li>
+            </ul>
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+    Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
+
+<p><tt>Last modified: Monday, 09. September 2013 03:52PM</tt></p>
+
+
+</footer>
+</body>
+</html>
