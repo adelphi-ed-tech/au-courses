@@ -58,9 +58,11 @@ Readings & Bibliography
 ==========================================================================================
 
 _This is a selected bibliography of computer science and Python texts and other materials
-that you may explore as references or further reading._
-
+that you may explore as references or further reading. Many weekly readings will come
+from these materials. Specific readings will be posted on Moodle for each week._
+ 
 Alvarado, C., Dodds, Z., Kuenning, G., & Libeskind-Hadas, R. (2013). [_CS for All_](http://www.cs.hmc.edu/csforall/).
+Claremont, CA: Harvey Mudd College.
 
 Barry, P. (2009). _Head first programming: [a learner’s guide to
 programming using the Python language]_. Beijing ; Sebastopol,
@@ -71,6 +73,8 @@ Downey, A. (2012). _Think Python_. Sebastopol, CA: O’Reilly.
 [py v3](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf)
 
 Pilgrim, M. (2009). [_Dive into Python 3_](http://www.diveinto.org/python3/index.html). New York: Apress.
+
+[_The Python Tutorial v.3.3_](http://docs.python.org/3/tutorial/).
 
 Zelle, J. (2010). _Python Programming: An Introduction to Computer
 Science_. Franklin, Beedle & Associates Inc.
@@ -88,17 +92,17 @@ Session Week    Topic									Due
 1       4-Sep   Critical Computational Thinking                  -
 2       11-Sep  Data, Math, & Conditions				Quiz 1
 3       18-Sep  Strings & Lists							Quiz 2
-4       25-Sep  Simple Functions						Quiz 3
+4       25-Sep  Functions								Quiz 3
 5       2-Oct   Testing & Exceptions					**Project 1**
 6       9-Oct   Lists and loops							Quiz 4
 7       16-Oct  Dictionaries, Sets, and Tuples          Quiz 5
 8       23-Oct  Content Analysis            			Quiz 6
 9       30-Oct  Advanced Functions						Quiz 7
-10      6-Nov   Sorting lists							**Project 2**
-11      13-Nov  String functions						Quiz 8
-12      20-Nov  Dates and other standard library		Quiz 9
+10      6-Nov   Sorting	     							**Project 2**
+11      13-Nov  Libraries and modules                   Quiz 8
+12      20-Nov  Graphical output with SVG               Quiz 9
 -       27-Nov  _No Class. Happy Thanksgiving_				     -
-13      4-Dec   Introducing classes						Quiz 10
+13      4-Dec   Custom datatypes with Classes			Quiz 10
 14      11-Dec  Review/Project Lab						         -
 15      18-Dec  Final Project Presentation				**Final Project**
 
@@ -142,6 +146,7 @@ When you lead the discussion, be prepared to:
 3. discuss how it is related to computational literacy
 4. facilitate a 10-15 minute discussion with the class
 
+This assignment can be completed individual or in teams of 2.
 
 Quizzes
 --------------------------------------------------------
@@ -234,4 +239,5 @@ visualization of your results using the a Scalable Vector Graphics (SVG) library
 are graphics files that can be displayed in any modern web browser, and will let you
 create things like line graphs, bar graphs, labels, heat maps, and other visualizations.
 
-
+This assignment must be completed in a team of 2. If you wish to work in a team of three,
+please seek instructor permission.
