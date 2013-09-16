@@ -17,7 +17,8 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 -->
 
 
-**Computer Science 0145-602, Fall 2013**
+
+[**Computer Science 0145-602, Fall 2013**](https://moodle.adelphi.edu/course/view.php?id=63723 "Go to the course website")
 
 **Keywords:**  computer programming, CS1, python, computational thinking, 
 critical computational literacy
@@ -35,9 +36,13 @@ variables, functions, repetition/loops, basic data structures
 
 **Teaching assistant**
 
-* Ariel Fleurimond, <arielfleurimond@adelphi.edu>
+* Hannah Groves, <hannahgroves@mail.adelphi.edu>
 
 **Class meetings:** Tues. 6:30-8:20PM, Harvey 104
+
+**Ms. Groves Lab Hours**
+
+* Thursday, 6pm-8:30pm, Harvey 104 and/or Google Hangout
 
 **Dr. Curinga Office Hours**
 
@@ -45,9 +50,6 @@ variables, functions, repetition/loops, basic data structures
 * Thursday, 3-5PM
 * Online or in person, by appointment
 
-**Ms. Fleurimond Lab Hours**
-
-* Thursday, 6pm-8:30pm, Harvey 104 and/or Google Hangout
 
 Required Text
 ==========================================================================================
@@ -85,26 +87,26 @@ Class meetings
 Introduction to computer programming meets every Tuesday, 4:30-6:20 in Harvey 104.
 All students are expected to come on time and prepared for class. You may bring your
 own laptop to class, or use one of the lab computers for your work. If you need
-source files to work on in class	
+source files to work on in class    
 
-Session Week    Topic									Due
+Session Week    Topic                                   Due
 ------- ------  -------------------------------------   -------------------
 1       4-Sep   Critical Computational Thinking                  -
-2       11-Sep  Data, Math, & Conditions				Quiz 1
-3       18-Sep  Strings & Lists							Quiz 2
-4       25-Sep  Functions								Quiz 3
-5       2-Oct   Testing & Exceptions					**Project 1**
-6       9-Oct   Lists and loops							Quiz 4
+2       11-Sep  Data, Math, & Conditions                Quiz 1
+3       18-Sep  Strings & Lists                         Quiz 2
+4       25-Sep  Functions                               Quiz 3
+5       2-Oct   Testing & Exceptions                    **Project 1**
+6       9-Oct   Lists and loops                         Quiz 4
 7       16-Oct  Dictionaries, Sets, and Tuples          Quiz 5
-8       23-Oct  Content Analysis            			Quiz 6
-9       30-Oct  Advanced Functions						Quiz 7
-10      6-Nov   Sorting	     							**Project 2**
+8       23-Oct  Content Analysis                        Quiz 6
+9       30-Oct  Advanced Functions                      Quiz 7
+10      6-Nov   Sorting                                 **Project 2**
 11      13-Nov  Libraries and modules                   Quiz 8
 12      20-Nov  Graphical output with SVG               Quiz 9
--       27-Nov  _No Class. Happy Thanksgiving_				     -
-13      4-Dec   Custom datatypes with Classes			Quiz 10
-14      11-Dec  Review/Project Lab						         -
-15      18-Dec  Final Project Presentation				**Final Project**
+-       27-Nov  _No Class. Happy Thanksgiving_                   -
+13      4-Dec   Custom datatypes with Classes           Quiz 10
+14      11-Dec  Review/Project Lab                               -
+15      18-Dec  Final Project Presentation              **Final Project**
 
 
 
@@ -125,7 +127,7 @@ Assignmnet              Pct
 -------------------     -------
 Discussion Leader       10%
 Quizzes                 20%
-Project 1		        20%
+Project 1               20%
 Project 2               20%
 Project 3               30%
 
@@ -146,7 +148,20 @@ When you lead the discussion, be prepared to:
 3. discuss how it is related to computational literacy
 4. facilitate a 10-15 minute discussion with the class
 
-This assignment can be completed individual or in teams of 2.
+This assignment can be completed individually or in teams of 2.
+
+Here are a few potential topics, to give you a sense of themes
+for this assignment:
+
+- changes to friendship, love, and other social relationships in the age
+  of Facebook and other social media
+- use of data encryption
+- the split-attention and distraction caused by text messages, twitter, etc.
+- role of universities and faculty/professors given a (possible)
+  abundance of online learning opportunities like MOOCs, YouTube, Khan Academy, ...
+- Wikipedia, knowledge, learning, etc.
+- video games and their social effects
+- the balance between security and privacy
 
 Quizzes
 --------------------------------------------------------
@@ -176,28 +191,28 @@ You will write a program to categorize Facebook status posts as either "happy" o
 **Programming competencies:**
 
 * input
-	- use variables as input to the program and functions
+    - use variables as input to the program and functions
 * output
-	- use ``print()`` to display output to the user
-	- display output in intuitive and useful ways
+    - use ``print()`` to display output to the user
+    - display output in intuitive and useful ways
 * variables
-	- use ``string`` and ``int`` variables to hold data
+    - use ``string`` and ``int`` variables to hold data
 * math
-	- increment and decrement counters
-	- find averages
-	- make numerical comparisons
+    - increment and decrement counters
+    - find averages
+    - make numerical comparisons
 * conditions
-	- test for equality
-	- match strings
+    - test for equality
+    - match strings
 * style/readability
-	- variable names
-	- comments
-	- doc strings
-	- white space
+    - variable names
+    - comments
+    - doc strings
+    - white space
 * functions
-	- use functions to organize the program and make it more readable
-	- use functions for repeated operations
-	
+    - use functions to organize the program and make it more readable
+    - use functions for repeated operations
+    
 
 ### Project 2: Text Analysis
 
@@ -209,21 +224,21 @@ In addition to improving on the programming competencies from project 1, you sho
 demonstrate the following in your code:
 
 * functions
-	- abstraction through function parameters
-	- encapsulation through function parameters and return statements; zero-side effects
-	- _higher order function strategies_
-	- _recursion_
+    - abstraction through function parameters
+    - encapsulation through function parameters and return statements; zero-side effects
+    - _higher order function strategies_
+    - _recursion_
 * data structures
-	- use python built-in data structures appropriately: ``list``, ``dict``, ``tuple``, ``set``
-	- use index/slice notation
-	- sort data structures
-	- _use list comprehensions_, _map()_, or _filter()_
+    - use python built-in data structures appropriately: ``list``, ``dict``, ``tuple``, ``set``
+    - use index/slice notation
+    - sort data structures
+    - _use list comprehensions_, _map()_, or _filter()_
 * testing
-	- write test code that helps validate your program
-	- _use ``doctest`` or ``unittest`` frameworks
+    - write test code that helps validate your program
+    - _use ``doctest`` or ``unittest`` frameworks
 * libraries/modules
-	- divide your code into more than one file/module
-	- use import statements to work with Python's standard library
+    - divide your code into more than one file/module
+    - use import statements to work with Python's standard library
 
 ### Project 3: Refactoring & Visualization
 

@@ -82,7 +82,7 @@ def GenerateCourse(html, raw, course):
     subprocess.check_call(cmd,shell=True)
 
 def GetWebPages():
-    ids = [817,819,822,841,834,836,839,807,812,1156,1131,847]
+    ids = [817,819,822,841,834,836,839,807,812,1156,1131,847,1428]
     pages = dict()
     client = Client(url,user,pw)
     for postId in ids:

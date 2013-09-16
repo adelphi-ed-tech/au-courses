@@ -1,4 +1,4 @@
-% Introduction to Programming
+% School based practicum of educational technology
 % Matthew X. Curinga,
   Aarong Hung
 
@@ -60,12 +60,12 @@ a university faculty supervisor.
 
 
 Required Text
-========================================================================
+------------------------------------------------------------------------
 
 _None._
 
 Field-based practicum
-========================================================================
+------------------------------------------------------------------------
 
 Students will work in 2 different school systems during the course of 
 the semester. Their placements will be sequential; you will not be
@@ -77,7 +77,7 @@ Students are expected to be on-site for additional horus, as needed, to
 complete their projects and per requirements by their field supervisor.
 
 University seminar
-========================================================================
+------------------------------------------------------------------------
 
 During university seminars students discuss their placements, get help
 on projects from faculty supervisors and cohort, and demonstrate their
@@ -100,26 +100,68 @@ Session Week    Session Leader
 10      16-Dec  Hung
 
 Practicum projects & assessment
-========================================================================
+------------------------------------------------------------------------
 
-Students will complete 3 major projects in their partner school during
+Students will complete 3 major projects in their partner schools during
 the course of the practicum. The projects will be assessed by their 
 field-based mentor and faculty supervisor through field observations
 and portfolio assessments. The projects reflect the expectations for 
 practicing Educational Technology Specialists working in New York 
-State public schools.
+State public schools and meet the standards outlined by ISTE, the
+[International Society for Technology in Education](http://iste.org).
 
-Project 1: Technology infrastructure
-------------------------------------------------------------------------
+Projects do not need to be completed in the order detailed below. The
+scope of the projects and sequence of their implementation will be
+developed by the interns in consultation with their school-based mentor
+and faculty supervisor. Projects will be completed individually or in
+collaboration with other interns, as appropriate.
 
+### Project 1: Technology infrastructure
 
+For this projects students will work develop a project to help improve
+the technical infrastructure of the school. Infrastructure improvements
+may take several different forms. For example:
 
+* facilities improvements: installing new software or operating systems
+  on school computers; installing more wireless access points to improve
+  wifi network
+* processes: create new procedures for tech support; implement new
+  system for hardware, software, or media management
+* development: find and apply for grants to improve the school's use
+  of technology; create budget and implementation plans for future
+  improvements; improve the school or district's technology plan
 
-Project 2: Co-teaching
-------------------------------------------------------------------------
+[**Assessment of this project will follow the standards detailed in the
+ISTE NETS for Administrators (NETS•A)**](http://www.iste.org/standards/nets-for-administrators)
 
-Project 3: Professional development
-------------------------------------------------------------------------
+### Project 2: Professional development
 
+Working closely with school mentors, interns will conduct a needs
+assessment of their host school to determine what areas of professional
+development are most needed and will have the most direct impact on
+student achievement. They will develop and implement a professional
+development series informed by current evidence-based practices of
+"embedded" professional development; models that occur over time and
+focus on coaching. It's possible that the _professional development_
+and _co-teaching_ projects will be coordinated.
 
+[**Assessment of this project will follow the standards detailed in the
+ISTE NETS for Coaches (NETS•C)**](http://www.iste.org/standards/nets-for-coaches)
+
+### Project 3: Co-teaching
+
+For this project interns will be paired with classroom teachers who
+share their same domain background for teaching. Working with this
+master teacher, the intern will infuse review an existing unit that
+makes up part of the school's curriculum and then find ways to infuse
+the unit with suitable technologies. The intern will create appropriate,
+formal or informal, assessment measures to validate that the technology
+interventions contribute to student achievement. The intern will
+push-in with the master teacher to teach the technology-enhanced lessons.
+In most cases this project will take place during regular school hours,
+but if the situation allows, it can occur in afterschool programs that
+have academic focuses.
+
+[**Assessment of this project will follow the standards detailed in the
+ISTE NETS for Teachers (NETS•T)**](http://www.iste.org/standards/nets-for-teachers)
 
