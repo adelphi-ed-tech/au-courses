@@ -93,15 +93,15 @@ Session Week    Topic                                   Due
 ------- ------  -------------------------------------   -------------------
 1       4-Sep   Critical Computational Thinking                  -
 2       11-Sep  Data, Math, & Conditions                Quiz 1
-3       18-Sep  Strings & Lists                         Quiz 2
+3       18-Sep  Strings                                 Quiz 2
 4       25-Sep  Functions                               Quiz 3
-5       2-Oct   Testing & Exceptions                    **Project 1**
-6       9-Oct   Lists and loops                         Quiz 4
+5       2-Oct   Lists and loops                         Quiz 4
+6       9-Oct   Testing & Exceptions                    **Project 1**
 7       16-Oct  Dictionaries, Sets, and Tuples          Quiz 5
 8       23-Oct  Content Analysis                        Quiz 6
 9       30-Oct  Advanced Functions                      Quiz 7
-10      6-Nov   Sorting                                 **Project 2**
-11      13-Nov  Libraries and modules                   Quiz 8
+10      6-Nov   Sorting                                 Quiz 8
+11      13-Nov  Libraries and modules                   **Project 2**
 12      20-Nov  Graphical output with SVG               Quiz 9
 -       27-Nov  _No Class. Happy Thanksgiving_                   -
 13      4-Dec   Custom datatypes with Classes           Quiz 10
@@ -118,8 +118,6 @@ recommended that you attend every lab session. The TA will lead you through samp
 problems very similar to what will be on the quizzes, will help debug/troubleshoot
 your code, and will 
 
-
-
 Assignments and Grading
 ==========================================================================================
 
@@ -130,8 +128,6 @@ Quizzes                 20%
 Project 1               20%
 Project 2               20%
 Project 3               30%
-
-
 
 Computational Thinking Dicussion Leader
 --------------------------------------------------------
@@ -207,7 +203,7 @@ You will write a program to categorize Facebook status posts as either "happy" o
 * style/readability
     - variable names
     - comments
-    - doc strings
+    - ``docstrings``
     - white space
 * functions
     - use functions to organize the program and make it more readable
@@ -222,6 +218,8 @@ and to decide what type of analysis is "interesting."
 
 In addition to improving on the programming competencies from project 1, you should
 demonstrate the following in your code:
+
+**Programming competencies:**
 
 * functions
     - abstraction through function parameters
