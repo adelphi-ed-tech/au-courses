@@ -102,7 +102,7 @@ Session Week    Topic                                   Due
 9       30-Oct  Advanced Functions                      Quiz 7
 10      6-Nov   Sorting                                 Quiz 8
 11      13-Nov  Libraries and modules                   **Project 2**
-12      20-Nov  Graphical output with SVG               Quiz 9
+12      20-Nov  Graphics with SVG                       Quiz 9
 -       27-Nov  _No Class. Happy Thanksgiving_                   -
 13      4-Dec   Custom datatypes with Classes           Quiz 10
 14      11-Dec  Review/Project Lab                               -
