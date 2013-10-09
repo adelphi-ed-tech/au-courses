@@ -16,22 +16,22 @@
     * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
 
-**Keywords:** mlearning, mobile learning, android, ipad, tablet computing, one-to-one computing, 1:1, olpc
-
 **Educational Technology 0858-512**
+
+**Course description.**
+Most of the world connects to the Internet from mobile phones. Android
+tablets and iPads are filtering into schools — and the hands of
+children. Students carry significant computing power in their pockets.
+This course considers how mobile computing forces us to reconsider the
+time and the place of learning.
+
+**Keywords:** mlearning, mobile learning, android, ipad, tablet computing, one-to-one computing, 1:1, olpc
 
 **Intructor:**    [Matthew X. Curinga](http://matt.curinga.com)<br />
 **Email:**    <mcuringa@adelphi.edu><br />
 **Class:**    Harvey 104, Wed. 6:30-8:20 (every other week)<br />
 **Office hours:**    Post Annex 1, Mon 3-5pm, Tues, 2-4pm, Wed. by appointment (in person or online)<br />
 **Course website:**    [http://mlearnau.tumblr.com](http://mlearnau.tumblr.com)
-
-## Course description
-Most of the world connects to the Internet from mobile phones. Android
-tablets and iPads are filtering into schools — and the hands of
-children. Students carry significant computing power in their pockets.
-This course considers how mobile computing forces us to reconsider the
-time and the place of learning.
 
 <div class="img-right">
 ![http://www.internationalhero.co.uk/d/diktracy.htm](http://www.internationalhero.co.uk/d/dicktracy.jpg "go to the originating site, thanks for the art")
@@ -46,7 +46,9 @@ schools, from 1:1 laptop programs to handheld computers. They will also
 look at how mobile computing supports learning outside of schools, both
 in K-12, higher ed, and informal settings.
 
-## Goals & objectives
+Goals & objectives
+----------------------------------------
+
 Students taking this course will develop an understanding of the ways
 that mobile technologies can be used for teaching and learning. They
 will also consider the impact of mobile computing on the field of
@@ -70,7 +72,9 @@ Students will:
     places of learning
 
     
-## How to use Tumblr for this course
+How to use Tumblr for this course
+----------------------------------------
+
 We are going to use the social blogging software/website [Tumblr](http://www.tumblr.com) as our main course website this semester. Here are the basics of how we will use it:
 
 * assignments, writing prompts, and other useful information will be posted at [mLearn AU](http://mlearnau.tumblr.com) &oumdash; the main course website
@@ -90,35 +94,27 @@ We are going to use the social blogging software/website [Tumblr](http://www.tum
     - post a question on your blog, you never know who may help you out
     - for "official" support, post your question to the course site: [http://mlearnau.tumblr.com/ask](http://mlearnau.tumblr.com/ask)
 
-## Weekly topics
+Weekly topics
+----------------------------------------------------
+
 _Readings, prompts for posts, and other assignments are available on the course website's post for the week._
 
 
-week     date       topic                                 format          reading                                Due
-------  ---------   ------------------------------------- ----------      -----------------------------          -------------
- 1        1/25/12   Creating an agenda to study mLearning traditional     none                                   -
- 2        2/01/12   Going mobile                          online          Weiser, Traxler, Sixth Sense           poem, RR
- 3        2/08/12   Mobile technologies                   traditional     self-assigned                          tech report
- 4        2/15/12   Situated cognition & embodiment       online          Brown, Wenger, Naismith, Billings      RR
- 5        2/22/12   Constructionism and 1:1 computing     traditional     Papert, Penuel, OLPC, Negroponte       tech reports, RR
- 6        2/29/12   Supporting the classroom              online          Pasnik, Wishart, Chaiprasurt, Martyn   video interview, RR
- 7        3/07/12   mobile tech/political dissent         traditional     Castells, Mirzoeff, Morozov, Doctorow  RR
- -        3/14/12   **spring break**                           -                 -                                 -
- 8        3/21/12   Panel: mlearning & schools            **Manhattan**   _no readings_                          mid-term essays
- 9        3/28/12   Mobile games for learning             online          Facer, Rosenbaum                       RR
-10        4/04/12   mLearning in domains 1                traditional     [self-selected]                        podcast1
-11        4/11/12   Tablets & ereaders                    online          Hillesund, Hu                          RR
-12        4/18/12   Apps4Ed                               traditional     Mayer, Ritter                          RR
-13        4/25/12   Mobile interfaces & design            online          Nielsen, van der Merwe, Apple Inc      App Review, RR
-14        5/02/12   mLearning in domains 2                traditional     [self-selected]                        podcast2
-15        5/09/12   curriculum and mobile strategy        online                                                 RR
-16        5/16/12   final project presentations           traditional                                            Final Project, Professionalism rubric
+week     date       topic                                   reading                                Due
+------  ---------   -------------------------------------   -----------------------------          -------------
+ 1        11/3/13   Going mobile                            Weiser, Traxler, Sixth Sense           poem
+ 2        11/10/13  Situated cognition & embodiment         Brown, Wenger, Naismith, Billings      -
+ 3        11/10/13  Constructionism and 1:1 computing       Papert, Penuel, OLPC, Negroponte       tech reports
+ 4        11/17/13  Supporting the classroom                Pasnik, Wishart, Chaiprasurt, Martyn   
+ 5        11/24/13  mobile tech/political dissent           Castells, Mirzoeff, Morozov, Doctorow  video interview
+ 6        12/1/13   Mobile games for learning               Facer, Squire (2010)                       
+ 7        12/8/13   Tablets & ereaders                      Hillesund, Hu           
+ 8        12/15/13  Apps4Ed                                 Mayer, Ritter                          App Review
+ 9        1/5/14    Mobile interfaces & design              Nielsen, van der Merwe, Apple Inc      
+10        1/12/14   Final Projects                                                                 Final Project
 
-**RR = Reading Response due**
-
-**Note:** for topics where it says **mLearning in domains**, students will pursue their own self-study of how mLearning is implemented in certain domains of learning. For these weeks, you will choose your own readings (3-5 papers, about 50 pages total) and then write a reading response to those readings. You are encouraged to form study groups for these weeks, but are not required to. For example, on week 10, you may write about mobile learning and TESOL. On week 14, you might focus on mobile learning and Math.
-
-## Assignments & grading
+Assignments & grading
+----------------------------------------------------
 
 assignment                  due                 pct
 -----------------------     ------------        ---
@@ -164,20 +160,26 @@ At the end of the semester, you will fill out a self-evaluation of your professi
 Using your own mobile device, create a _multimedia poem_, "Where I'm from". The poem will consist of the text and at least 5 images that you record with your phone (or tablet). 
 
 ### Tech Report
-Working in groups, students will present a "Tech Report", on an aspect
-of mobile technology. Groups will prepare a 10-12 minute presentation, followed by questions. They will also post an annotated list of resources (websites, press, and scholarly articles) related to their topic. Annotations should only be a few sentences.
+
+Working in groups, students will present a "Tech Report", on an
+aspect of mobile technology. Groups will prepare an 7-8 slidecast
+which they will on their blog (teammates will link to/cross-post
+it). They will also post an annotated list of resources (websites,
+press, and scholarly articles) related to their topic. Annotations
+should only be a few sentences.
 
 Example topics:
 
 * wireless networks
 * near field communications (NFC)
 * device hardware
-* GPS & location
+* GIS/GPS & location
 * iOS and Android Platforms
 * mobile media (video, audio, animations, web/html/css, etc)
-* speech recognition, text-to-speech
+* speech recognition, text-to-speech, voice interfaces
 * facial recognition & computer vision
 * mobile computing and assistive technology
+* wireless/mobile security
 
 ### Mobile Video Interview
 Video-capable phones and tablets have made it very easy to record video. For this assignment you are going to shoot a 5 minute video (keep it within 30 seconds of 5 min). In the video you will interview somebody (at least one person, more than one if you choose to go that way). The **theme** for the interview is: _The effect of mobile computing on our society._ You should write your interview questions before hand, but also feel free to improvise during the interview. Some interviewers edit out their own voice and questions (more of a documentary style), others leave them in (more conversational). This is entirely up to you. While you are encouraged to work with other students on the this project, everyone must upload their own interview.
@@ -188,20 +190,6 @@ Videos will be evaluated on the following scale:
 * 4 points, questions: do the questions elicit interesting response from the speaker? are they thoughtful
 * 2 points, appeal: was the video entertaining? would you watch another video again by this producer? did it keep you interest throughout?
 * 2 points, production: could you hear the audio? was there enough light to say what was going on? was the camera steady, if meant to be steady? shaky if meant to be shaky? did you keep the subject in the frame? we're not looking for an award winning film, but something that doesn't make us strain or feel queasy.
-
-### Mid-term essays
-
-The instructor will post 3 essay questions related to mlearning on the course website. You will have two weeks to prepare your response (Wed. to Wed.). Choose two of the three essays to answer. Post two 500-800 word responses on your Tumblr. Your response should follow the standards of academic writing, referencing scholarly work and other sources to support your thesis. Please carefully proof your response before posting. Since you are writing for the web, you are encouraged to include relevant hyperlinks as well as image or other media that support your thesis. You can either use endnotes or APA formatted references for citations -- the goal is that all references are clearly indicated and can be verified by a reader.
-
-Example of an essay question:
-
-> Some people view mobile learning as a "light" form of elearning or online
-> learning: learners use the same methods and forms as other online learning,
-> albeit the more constrained computing and physical affordances of mobile
-> computers. Others, though, argue that the greater potential of mlearning is to
-> rethink how and when we learn. Compare traditional elearning/online learning 
-> to mobile learning. Consider what elements are unique to each model, and 
-> discuss the potential learning benefits of each.
 
 ### Podcasts
 Podcasts show up in much of the recent literature on mobile learning as an easy way for teachers to communicate to their students and families and as a way for learners to express their ideas. During this semester, you will create 2 podcasts &mdash; an audio recording that you upload to your tumblr. The podcasts are due for sessions 10 & 12, the weeks where you will research mobile learning within a specific topic of interest to you. If you choose to work as part of a team (which is encouraged but not required) on these topics, you can submit a group podcast (where everyone in the group speaks). Group podcasts will receive the same grade, one grade for the group. Alternatively, you can work individually, or work as part of a team, but upload individual podcasts.
@@ -297,7 +285,8 @@ You can research a topic of your choice, but to give you a sense consider these 
 
 If you would like to work with students using mobile devices, please discuss your project idea with the instructor. There may be some schools in Brooklyn and/or Long Island we can work with, either during the school day or after school. You could possible teach a lesson and write up a report (or create a video portfolio) or do a series of observations, etc.
 
-## Course Readings & Bibliography
+Course Readings & Bibliography
+----------------------------------------
 
 Ally, M. (Ed.). (2009). [_Mobile learning transforming the delivery of education and training_](http://www.aupress.ca/index.php/books/120155  "open access ebook"). Edmonton: AU Press. ISBN 978-1-897425-44-2
 
@@ -377,6 +366,8 @@ Ryu, H., & Parsons, D. (Eds.). (2008). *Innovative Mobile Learning: Techniques a
 Sen, A. (2010). [The Mobile and the World.](http://itidjournal.org/itid/article/view/614/254) *Information Technologies & International Development*, *6*(Special Edition).
 
 Sharples, M., Taylor, J., & Vavoula, G. (2005). [Towards a theory of mobile learning.](http://www.lsri.nottingham.ac.uk/msh/Papers/Towards%20a%20theory%20of%20mobile%20learning.pdf) *Proceedings of mLearn 2005*.
+
+Squire, K. (2010). From information to experience: Place-based augmented reality games as a model for learning in a globally networked society. _Teachers College Record_, _112_(10), 2565–2602.
 
 Squire, K. D., & Jan, M. (2007). Mad City Mystery: Developing Scientific Argumentation Skills with a Place-based Augmented Reality Game on Handheld Computers. *Journal of Science Education and Technology*, *16*(1), 5-29.
 
