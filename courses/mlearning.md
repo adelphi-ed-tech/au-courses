@@ -26,24 +26,20 @@ This course considers how mobile computing forces us to reconsider the
 time and the place of learning.
 
 **Keywords:** mlearning, mobile learning, android, ipad, tablet computing, one-to-one computing, 1:1, olpc
-
-**Intructor:**    [Matthew X. Curinga](http://matt.curinga.com)<br />
-**Email:**    <mcuringa@adelphi.edu><br />
-**Class:**    Harvey 104, Wed. 6:30-8:20 (every other week)<br />
-**Office hours:**    Post Annex 1, Mon 3-5pm, Tues, 2-4pm, Wed. by appointment (in person or online)<br />
-**Course website:**    [http://mlearnau.tumblr.com](http://mlearnau.tumblr.com)
+    
+**Previous Course website:**    [http://mlearnau.tumblr.com](http://mlearnau.tumblr.com)
 
 <div class="img-right">
 ![http://www.internationalhero.co.uk/d/diktracy.htm](http://www.internationalhero.co.uk/d/dicktracy.jpg "go to the originating site, thanks for the art")
 1951, Dick Tracy's wearable computer
 </div>
 
-As mobile networks become faster and more
-ubiquitous, devices more powerful, and the internet spreading to all
-corners of the world, mobile computing becomes one of the main channels
-for teaching and learning. Students will learn about mobile computing in
-schools, from 1:1 laptop programs to handheld computers. They will also
-look at how mobile computing supports learning outside of schools, both
+As mobile networks become faster and more ubiquitous, devices more
+powerful, and the internet spreading to all corners of the world,
+mobile computing becomes one of the main channels for teaching and
+learning. Students will learn about mobile computing in schools,
+from 1:1 laptop programs to handheld computers. They will also look
+at how mobile computing supports learning outside of schools, both
 in K-12, higher ed, and informal settings.
 
 Goals & objectives
@@ -75,21 +71,30 @@ Students will:
 How to use Tumblr for this course
 ----------------------------------------
 
-We are going to use the social blogging software/website [Tumblr](http://www.tumblr.com) as our main course website this semester. Here are the basics of how we will use it:
+We are going to use the social blogging software/website
+[Tumblr](http://www.tumblr.com) as our main course website this
+semester. Here are the basics of how we will use it:
 
-* assignments, writing prompts, and other useful information will be posted at [mLearn AU](http://mlearnau.tumblr.com) &oumdash; the main course website
+* assignments, writing prompts, and other useful information will be
+  posted at [mLearn AU](http://mlearnau.tumblr.com) &oumdash; the main
+  course website
 * each class member will have their own Tumblr
-    - you do not have to use your own name or personally identifying information -- we will know who you are
+    - you do not have to use your own name or personally identifying
+      information -- we will know who you are
     - you must "follow" mlearnau and all of the other members of the class
 * you must check Tumblr at least once a day
-* **post once, comment twice**, this will be the main online interaction for the course (i.e. what makes it blended)
-    * every week you are required to post a 300+ word reading response, by the **end of day on Sunday**
+* **post once, comment twice**, this will be the main online interaction
+  for the course
+    * every week you are required to post a **~500 word**
+    [reading response](#reading-responses), by the **end of day on Sunday**
     * for your reading response
         - refer closely to the reading
         - you _must_ use the tags #reading response #sessionXX where XX refers to the class session/week
-    * comments are due **before class on Wednesday**
-* you should try to read/post using your mobile phone and other mobile devices; some work, though, is better suited to using larger computers
-* other than reading responses, you should use your blog to post links, quotes, and other mLearning related resources
+    * comments due by **end of day on Wednesday**
+* you should try to read/post using your mobile phone and other mobile
+  devices; some work, though, is better suited to using larger computers
+* other than reading responses, you should use your blog to post links,
+  quotes, jokes, and other mLearning related resources
 * for questions about the course and support:
     - post a question on your blog, you never know who may help you out
     - for "official" support, post your question to the course site: [http://mlearnau.tumblr.com/ask](http://mlearnau.tumblr.com/ask)
@@ -97,40 +102,46 @@ We are going to use the social blogging software/website [Tumblr](http://www.tum
 Weekly topics
 ----------------------------------------------------
 
-_Readings, prompts for posts, and other assignments are available on the course website's post for the week._
+_Readings, prompts for posts, and other assignments are
+available on the course website's post for the week._
 
-
-week     date       topic                                   reading                                Due
-------  ---------   -------------------------------------   -----------------------------          -------------
- 1        11/3/13   Going mobile                            Weiser, Traxler, Sixth Sense           poem
- 2        11/10/13  Situated cognition & embodiment         Brown, Wenger, Naismith, Billings      -
- 3        11/10/13  Constructionism and 1:1 computing       Papert, Penuel, OLPC, Negroponte       tech reports
- 4        11/17/13  Supporting the classroom                Pasnik, Wishart, Chaiprasurt, Martyn   
- 5        11/24/13  mobile tech/political dissent           Castells, Mirzoeff, Morozov, Doctorow  video interview
- 6        12/1/13   Mobile games for learning               Facer, Squire (2010)                       
- 7        12/8/13   Tablets & ereaders                      Hillesund, Hu           
- 8        12/15/13  Apps4Ed                                 Mayer, Ritter                          App Review
- 9        1/5/14    Mobile interfaces & design              Nielsen, van der Merwe, Apple Inc      
-10        1/12/14   Final Projects                                                                 Final Project
+week  date      topic                              reading                                due
+----- --------- ---------------------------------- -----------------------------          -------------
+ 1    11/3/13   Going mobile                       Weiser, Traxler, Sixth Sense           poem
+ 2    11/10/13  Situated cognition & embodiment    Brown, Wenger, Naismith, Billings      -
+ 3    11/10/13  Constructionism and 1:1 computing  Papert, Penuel, OLPC, Negroponte       tech reports
+ 4    11/17/13  Supporting the classroom           Pasnik, Wishart, Chaiprasurt, Martyn   
+ 5    11/24/13  mobile tech/political dissent      Castells, Mirzoeff, Morozov, Doctorow  video interview
+ 6    12/1/13   Mobile games for learning          Facer, Squire (2010)                       
+ 7    12/8/13   Tablets & ereaders                 Hillesund, Hu           
+ 8    12/15/13  Apps4Ed                            Mayer, Ritter                          App Review
+ 9    1/5/14    Mobile interfaces & design         Nielsen, van der Merwe, Apple Inc      
+10    1/12/14   Final Projects                                                            Final Project
 
 Assignments & grading
 ----------------------------------------------------
 
-assignment                  due                 pct
------------------------     ------------        ---
-Professionalism rubric      last session        10%
-Reading response posts      weekly (10 total)   10%
-Where I'm from              session 2           10%
-Tech report                 session 3           10%
-Mobile video interview      session 6           10%
-Midterm essay               session 8           15%
-App Review                  session 13          10%
-Podcasts                    sessions 10 & 14    10%
-Final Project/Paper         last session        15%
+assignment                     pct
+-----------------------        ---
+Reading response posts         20%
+Professionalism self-assesment 10%
+Where I'm from                 10%
+Tech report                    10%
+Mobile video interview         10%
+App Review                     10%
+Podcast                        10%
+Final Project/Paper            20%
 
+Grades for assignments will be posted on the offical Moodle course
+website. The professionalism self-assessment will also be completed
+through Moodle.
 
 ### Reading Responses
-Almost every week, you will be asked to post a _reading response_ on your Tumblr. This is the main online interaction for this blended course, and will happen most weeks &mdash; regardless of whether we are schedule to meet in person or not. Your reading response should be approximately 300-500 words, but occasionally may call for more or less.
+
+Every week you will be asked to post a _reading response_ on your
+Tumblr. This is the main online interaction for this course. Your
+reading response should be approximately 500 words, but occasionally
+may call for more or less.
 
 A good reading response:
 
@@ -142,19 +153,29 @@ A good reading response:
 6. _is_ intended for this course and your classmates, though, so should be professional
 7. **is posted before the end of day on Sunday, every week**
 
-In addition to your own response, you should check Tumblr and Disqus every day. You are required to comment on at least two of your peer's responses each week. Usually you will want to respond to people who engage with you.
+In addition to your own response, you should check Tumblr and Disqus
+every day. You are required to comment on at least two of your
+peer's responses each week. Usually you will want to respond to
+people who engage with you.
 
-There are a total of 11 possible response. 10 of them will be graded (you get one free pass). You will get either 1 point or 0 points, no partial credit. Late responses will be accepted (but highly discouraged) up until Wed. Chronic late responses will bring down your grade on your professionalism rubric.
+There are a total of 9 responses due for this course. You will get
+either 2, 1, or 0 points for your post. Late responses will
+be accepted (but highly discouraged) up until Wed. If you post
+on time every week, you will get an extra 2 points for this
+assignment. Chronic late
+responses will bring down your grade on your professionalism rubric.
 
 ### Professionalism rubric
-At the end of the semester, you will fill out a self-evaluation of your professional conduct in the class. You will be asked to reflect on:
 
-- class attendance
-- reading respons posts
+At the end of the semester, you will fill out a self-evaluation of
+your professional conduct in the class. You will be asked to reflect
+on:
+
+- reading response posts
 - preparation and engagement with course readings
-- participation in class and online discussions
+- participation in online discussions
 - contribution to group assignments
-- promptness of course materials
+- promptness of assignments
 
 ### Where I'm from
 Using your own mobile device, create a _multimedia poem_, "Where I'm from". The poem will consist of the text and at least 5 images that you record with your phone (or tablet). 
