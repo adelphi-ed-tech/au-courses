@@ -242,7 +242,8 @@ demonstrate the following in your code:
 
 You should turn in all files related to your project in a single
 archive (e.g., .zip, .tar, .7z). Project files _must_ contain your
-Python program. The program must start with a comment where you identify:
+**Python program** and the data/text files you're analyzing. 
+The program must start with a comment where you identify:
 
 * the question you are investigating (i.e. your hypothesis)
 * the method for investigating this question
