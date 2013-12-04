@@ -238,6 +238,54 @@ demonstrate the following in your code:
     - divide your code into more than one file/module
     - use import statements to work with Python's standard library
 
+**Deliverables:**
+
+You should turn in all files related to your project in a single
+archive (e.g., .zip, .tar, .7z). Project files _must_ contain your
+**Python program** and the data/text files you're analyzing. 
+The program must start with a comment where you identify:
+
+* the question you are investigating (i.e. your hypothesis)
+* the method for investigating this question
+* the results identified by your code
+
+Here is an example header comment:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{.python .numberLines}
+# news.py
+# by: matt curinga
+"""
+Background:
+New York has 3 major daily newspapers:
+The New York Times, The Daily News, and The New York Post.
+
+It is commonly underestood that the Times is written at
+higher level than the other dailies.
+
+Hypothesis:
+Computational analysis of articles will show that
+the Times is written at a higher level than the
+other two papers.
+
+Method:
+This program looks at four measures to compare
+the papers:
+
+1. Average sentence length
+2. Average word length
+3. Word diversity (unique words per 1k words)
+4. Average word frequency (computed against unique word frequency table)
+
+Results:
+The results of this program support the hypothesis in all
+four measures. The Times had longer sentences, longer
+words, greater word diversity, and lower frequency
+words.
+
+"""
+# the code would be here...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ### Project 3: Refactoring & Visualization
 
 For your final project, you can team up with one of your classmates to revisit and improve
