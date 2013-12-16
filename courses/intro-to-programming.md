@@ -251,7 +251,7 @@ The program must start with a comment where you identify:
 
 Here is an example header comment:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{.python .numberLines}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{.python}
 # news.py
 # by: matt curinga
 """
@@ -281,8 +281,8 @@ The results of this program support the hypothesis in all
 four measures. The Times had longer sentences, longer
 words, greater word diversity, and lower frequency
 words.
-
 """
+
 # the code would be here...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
