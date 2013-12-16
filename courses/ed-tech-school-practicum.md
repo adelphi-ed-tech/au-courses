@@ -75,6 +75,12 @@ hours each week working on projects for their sites, including at least
 a week during school hours, or twice a week during after-school hours.
 Students are expected to be on-site for additional horus, as needed, to
 complete their projects and per requirements by their field supervisor.
+In most cases practicum students will need to clear 1 or 2 days during
+the practicum during school hours (typically 8am-3pm) where they can
+be on their school sites to work with K-12 students. Other times are more
+flexible and may combine on-site meetings during administrative hours and
+after school (3pm-6pm) as well as off-site work according to the practicum
+student's schedule.
 
 University seminar
 ------------------------------------------------------------------------
