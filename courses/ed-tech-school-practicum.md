@@ -171,3 +171,13 @@ have academic focuses.
 [**Assessment of this project will follow the standards detailed in the
 ISTE NETS for Teachers (NETS•T)**](http://www.iste.org/standards/nets-for-teachers)
 
+### Portfolio
+
+Your portfolio is a reflective piece documenting your accomplishments in your school practicum. Please upload the following materials here:
+
+* Brief (1-2 page) **narrative** of your experience working with the teachers and administrators in your school placement. Your write-up should also include which of the [NET standards](http://www.iste.org/standards/standards-for-coaches) you chose to focus on, and how it was integrated into the work. You should also include a reflection of your participation and what you would have done differently to improve your experience.
+* **Evidence:** These include pictures, screenshots, videos, observation notes, and other artifacts that demonstrate your work and how you aligned to the NET standards.
+
+The product you turn-in should be organized in a way that would be easy to understand. Be sure to follow academic writing conventions, using proper grammar and spelling. You can combine your portfolio into a single PDF file, upload your narrative and supporting documents here in a single .zip, or share supporting evidence using Google Drive. Your portfolio is not meant to be _exhaustive_ of your work, but _selective_: a few exemplary documents that demonstrate your best work and support your narrative will suffice.
+
+
