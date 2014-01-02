@@ -121,7 +121,7 @@ your code, and will
 Assignments and Grading
 ==========================================================================================
 
-Assignmnet              Pct
+Assignment              Pct
 -------------------     -------
 Discussion Leader       10%
 Quizzes                 20%
@@ -129,7 +129,7 @@ Project 1               20%
 Project 2               20%
 Project 3               30%
 
-Computational Thinking Dicussion Leader
+Computational Thinking Discussion Leader
 --------------------------------------------------------
 
 Each student will take a turn leading a discussion about an area
@@ -176,13 +176,14 @@ quiz._
 Programming projects
 --------------------------------------------------------
 
-You will complete three programming projects, of increasing complexity, as the major
-portions of your course.
+You will complete three programming projects, of increasing complexity, as the
+major portions of your course.
 
 
 ### Project 1: Facebook Status
 
-You will write a program to categorize Facebook status posts as either "happy" or "sad".
+You will write a program to categorize Facebook status posts as either "happy"
+or "sad".
 
 **Programming competencies:**
 
@@ -212,33 +213,130 @@ You will write a program to categorize Facebook status posts as either "happy" o
 
 ### Project 2: Text Analysis
 
-For this project you will select a text or a collection of texts and write a program
-that uses computation to analyze the texts. It is up to you to both select the texts
-and to decide what type of analysis is "interesting."
+For this project you will select a text or a collection of texts and write a
+program that uses computation to analyze the texts. It is up to you to both
+select the texts and to decide what type of analysis is "interesting."
 
-In addition to improving on the programming competencies from project 1, you should
-demonstrate the following in your code:
+In addition to improving on the programming competencies from project 1, you
+should demonstrate the following in your code:
 
-**Programming competencies:**
+#### Marking guide:
 
-* functions
-    - abstraction through function parameters
-    - encapsulation through function parameters and return statements; zero-side effects
-    - _higher order function strategies_
-    - _recursion_
-* data structures
-    - use python built-in data structures appropriately: ``list``, ``dict``, ``tuple``, ``set``
-    - use index/slice notation
-    - sort data structures
-    - _use list comprehensions_, _map()_, or _filter()_
-* testing
-    - write test code that helps validate your program
-    - _use ``doctest`` or ``unittest`` frameworks
-* libraries/modules
-    - divide your code into more than one file/module
-    - use import statements to work with Python's standard library
+There are a total of 20 possible points for this assignment, which will
+be evaluated on the following criteria:
 
-**Deliverables:**
+1. **Question Quality** (_3 points_)\
+   Does the question chosen reflect a problem that a computer program is good
+   at analyzing? Is the question interesting or important? Is the answer
+   obvious, or is it worthy of analysis?
+
+    - 3 points: the _question can not be easily answered without the aid of
+      software_ because it requires a lot of input data, involves 
+      tedious/repetetive tasks which are prone to error, or requires complex
+      calculations. Further, the _question is interesting_—it tells us
+      something that is not already established in research or provides
+      evidence for something that is incompletely or ambiguously understood
+    - 2 points: the question meets one of the two criteria for 3 points,
+      but not both
+    - 1 point: the question is trivial or obvious after brief human
+      analysis, or does not lend itself to generalization/abstract
+      conclusions
+    - 0 points: the question would be more easily analyzed by human
+      rather than computer analysis; trying to write software to
+      answer the problem actually makes it more difficult to get a clear
+      picture of the problem
+2. **Coding fundamentals** (_8 points_)\
+   The program demonstrates a grasp of the programming concepts covered
+   in this class, including:
+
+    - _variables_
+        - data is not "hard coded" and can be easily changed
+        by using variables
+        - data is separate from functionality
+    - _functions_
+        - abstraction through function parameters
+        - encapsulation through function parameters and return statements; 
+          use "pure functions" with zero-side effects
+    - _design_
+        - the program is organized through the use of functions
+        - functions "scale" is appropriate to the task and discrete:
+          concerns are separated logically, such as one function
+          for gather results and another for displaying results
+        - functions are written in a way that they are used
+          several times in the program
+        - code is not repeated
+    - _data structures_
+        - use python built-in data structures appropriately:
+          ``list``, ``dict``, ``tuple``, ``set``
+        - use index/slice notation if needed
+        - sort data structures
+   
+    _Point values:_
+
+    - 6-8 points: creates new functions that perform _new analysis_ not
+      available in the ``content.py`` program provided by the instructor. The
+      program would easily be able to work on a different data set 
+      (i.e. different input text files) to provide good results. Functions
+      are consistent (in that the parameters expected and results
+      returned work well with other functions in the program) and can be
+      combined in different ways.
+    - 3-5 points: code is clear and organized, but does not add significant
+      new functions, some code may have unintended side effects, such
+      as modifying list or dictionary data in unexpected ways; other code
+      may take parameters, but not use them. Code cannot easily operate
+      on other data sets.
+    - 0-2 points: repetitive tasks are not factored into functions, but
+      exhibit more of a copy-paste approach, functions don't (always)
+      return the expected results or contain logic errors; code doesn't
+      run due to syntax errors or runtime errors
+3. **Risk Taking** (_4 points_)\
+   How "adventurous" is this code? Does the student show that they move beyond the
+   template given to them? Do they incorporate ideas from other projects into
+   this? Is there evidence they read online docs or the course text to learn
+   addition techniques to approach the problem?
+
+     - 4 points: in several places, the program use advanced features such 
+       as optional functional parameters, list comprehensions,
+       advanced sorting techniques, or string formatting functions; libraries
+       are imported to improve code performance and clarity; content.py
+       functions are modified and improved by the student
+    -  3 points: some core changes are made to content.py, other advanced
+       techniques are evident 1 or 2 times
+    -  1-2 points: tentative changes are made to content.py, mostly by
+       adding composite functions that combine existing functionality
+    -  0 points: only cosmetic changes are made to the initial content.py
+       example, such as changing the input text files and the target
+       words passed into the ``neighbors`` function
+4. **Code Style** (_2 points_)\
+   Is the program consistently formatted according to Python conventions?
+
+    - 2 points: consistently follows the spirit of the _Think Python_ and
+      PEP 8 style guides.
+    - 1 point: follows guide most of the time, shows internal consistency
+       for style
+    - 0 points: lack of consistency in style makes the program harder to
+      read and (potentially) harder to debug and maintain
+
+5. **Results** (_3 points_)\
+   The quality of your results include both the information that your program
+   produces and the way that it is formatted for the user. When your program
+   runs, it should produce some type of report that sheds light on your
+   hypothesis. It doesn't matter if your hypothesis was correct or not—after
+   your program is runs, the user should have more information to evaluate the
+   hypothesis. 
+
+       - 3 points: results give clear support for or against the
+         hypothesis by providing relevant information and are formatted
+         in a way that makes them easy to interpret
+       - 2 points: results provide some evidence for or against the
+         hypothesis. they may not be formatted in a way that makes them
+         easy to interpret or they may leave some ambiguity that could
+         have been explored further in the code
+       - 1 point: some evidence is provided but it is difficult to 
+         interpret either due to formatting or the output achieved
+       - 0 points: results do not shed any light on the question posed
+
+#### Deliverables:
 
 You should turn in all files related to your project in a single
 archive (e.g., .zip, .tar, .7z). Project files _must_ contain your
@@ -248,6 +346,13 @@ The program must start with a comment where you identify:
 * the question you are investigating (i.e. your hypothesis)
 * the method for investigating this question
 * the results identified by your code
+
+To create an archive file, Mac users can simply right-click
+the project folder from the finder and choose "Compress". This
+will create a .zip archive of the project directory. Windows
+does not come with a compression utility by default. If you
+do not have one installed or are not sure, Adelphi IT
+recommends [7-zip, which you can download and use for free.](http://7-zip.org/)
 
 Here is an example header comment:
 
@@ -259,7 +364,7 @@ Background:
 New York has 3 major daily newspapers:
 The New York Times, The Daily News, and The New York Post.
 
-It is commonly underestood that the Times is written at
+It is commonly understood that the Times is written at
 higher level than the other dailies.
 
 Hypothesis:
@@ -285,6 +390,94 @@ words.
 """
 # the code would be here...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#### Text Resources
+Here are a few links to places online where you can find full texts to download.
+This list is by no means exhaustive, but with these links you can certainly
+find a suitable text for your project. If you are looking for something more
+specific, or want to work with a text that is not in the public domain
+or released under a permissive copyright license, please contact the course
+instructor.
+
+* [Project Gutenberg](http://www.gutenberg.org/) (out of copyright books, other stuff)\
+  Project Gutenberg has a very large collection of texts, mostly classic works
+  including novels, poetry, history, philosophy, etc. You can choose to download the
+  texts as a text file (UTF-8 or ASCII). You probably want to delete the Project Gutenberg
+  license and pre-amble stuff before you begin your analysis.
+* [Nexis-Lexis](http://libproxy.adelphi.edu:2048/login?url=http://www.lexisnexis.com/hottopics/lnacademic/?)\
+  Lexis-Nexis is a database of newspaper (and other news) articles, which affords a range
+  of search parameters. You can export the full text articles for more recent articles 
+  (published in the last 20 years or so). You will probably have to download
+  your articles in batches and copy-past them into one file for your analysis.
+  _You must log in to Adelphi follow this link_.
+* [JSTOR](http://libproxy.adelphi.edu:2048/login?url=http://www.jstor.org/cgi-bin/jstor/gensearch)\
+  JSTOR allows you to search a range of academic journal articles. You cannot
+  easily export the full text of the articles in one shot, but you can export
+  the titles and abstracts, which is often enough for interesting analysis.
+  Like Lexis-Nexis, _you must log in to Adelphi to follow the link_.
+  **Tips:** 
+  - use the basic search, which allows you to export abstracts and 
+    titles
+  - change the options to show 100 results at a time
+  - use the "select all" toggle to select the full page of results
+  - choose "Printer-friendly" as the export format
+  - copy-paste those results into one file
+  - repeat for next batch of 100 results 
+* [Library of Congress](http://www.loc.gov/rr/)\
+  The Library of Congress maintains a decent online
+  collection of materials, including the text of historical
+  documents and more.
+* [WikiSource](https://en.wikisource.org/wiki/Main_Page)
+  WikiSource contains the full text of documents on Wikipedia and elsewhere
+  there is a lot of overlap with Gutenberg, but it might be easier to find
+  and access the WikiSource documents.
+* [American Rhetoric Speech Bank](http://americanrhetoric.com/speechbank.htm)
+  I can't vouch for this source in particular, but they do have a collection
+  of famous speeches. Many/most of these are in the public domain, but this
+  might be a decent place to look for them, if you want to analyze speeches.
+
+
+#### Sample project ideas
+
+One of the intentional challenges of this project is for students to generate
+their own ideas for projects. It's one thing to answer a quiz question or
+to work on homework problems where you know exactly what you are supposed
+to do; quite another when you need to decide what the goals for the
+program are, too, and what results it should find.
+
+Here are some ideas, though, that might get you started.
+
+1. Compare the ways that U.S. news and foreign news cover a topic:
+    a. choose your topic
+    b. download US news with a keyword search
+    c. download foreign news with same keywords
+    d. do a neighbor (n-gram) analysis of word counts near key terms
+2. [Stylometry](https://en.wikipedia.org/wiki/Stylometry)\
+   Instead of considering the context and content of important keywords,
+   stylometry would let us look at the style of a text. By considering
+   common words and phrases, we might be able to answer questions such
+   as:
+   a. is a text written by a man or a woman?
+   b. do African Americans have a distinct writing style?
+   c. how has writing style changed over time? can we identify when
+      a piece was written based on its style?
+3. Compare 2 books or 2 authors\
+   Create two texts from Gutenberg or another source and pick an area
+   to analyze. Classic things to consider are the ways a text deals
+   with issues of race, gender, sex, violence, humor, death, god/religion,
+   etc.
+4. Compare speeches:
+   - what are the difference and similarities between speeches
+     from WWI, WWII, Vietnam, and today? Has the "security" message changed?
+     Has the anti-war/peace message changed?
+   - compare the speeches from different political parties? what propaganda
+     do they use? how do they use language to shade the issues that are
+     most crucial to their supporters?
+   - what are the characteristics of a great speech? are the similarities
+     between the rhetorical styles of Lincoln, Churchhill, King, Malcom X
+     and others?
+
+
 
 ### Project 3: Refactoring & Visualization
 
