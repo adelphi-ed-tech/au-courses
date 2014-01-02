@@ -356,7 +356,7 @@ recommends [7-zip, which you can download and use for free.](http://7-zip.org/)
 
 Here is an example header comment:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{.python .numberLines}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{.python}
 # news.py
 # by: matt curinga
 """
@@ -386,8 +386,8 @@ The results of this program support the hypothesis in all
 four measures. The Times had longer sentences, longer
 words, greater word diversity, and lower frequency
 words.
-
 """
+
 # the code would be here...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

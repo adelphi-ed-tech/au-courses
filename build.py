@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python3
 
 import subprocess
 import os
@@ -101,14 +101,18 @@ def PushToWeb(courses):
 
     for course in courses:
         print("pushing to web", course)
-        page = pages[course]
         try:
+            page = pages[course]
             f = open("raw/%s.html" % (course,),"r")
             page.content = f.read()
             f.close()
         except IOError as ioe:
             print("** no raw file found for",course)
             print(ioe)
+            continue
+        except KeyError as keyx:
+            print("** no course found on blog",course)
+            print(keyx)
             continue
 
         result = client.call(posts.EditPost(page.id, page))
@@ -124,8 +128,7 @@ def IncludeIfExists(path, arg):
 
 def GetTemplate(tmpl):
     dt = datetime.datetime.now()
-
-    return Template("pandoc  -t html5 --toc --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
+    return Template("pandoc --toc --highlight-style zenburn -t html5 --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
     
 def main():
     html = GetTemplate("adelphi")
