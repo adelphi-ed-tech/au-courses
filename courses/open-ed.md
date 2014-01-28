@@ -166,8 +166,9 @@ of people to group chats.
 * [Google+](http://plus.google.com) has a
 Hangout feature that has a robust multi-person video chat, which
 also supports screen sharing, document editing, and other advanced
-features.You need to set up your profile on G+, google's social
-networking site, even if you just want the hangouts.
+features. You need to set up your profile on G+, google's social
+networking site, even if you just want the hangouts, but it will be
+linked to your Adelphi ID/gmail account.
 
 
 Schedule, format, & session leaders
@@ -189,8 +190,8 @@ Spring break  3/18       -            -
 10            4/8     in person     The Commons
 11            4/15    online        Wikipedia
 12            4/22    in person     MOOCs: Massively Open Online Courses
-13            4/29    online        Resisting Open Education
-14            5/6     online        Writing workshop
+13            4/29    online        The Future University (MOOCs and More)
+14            5/6     online        Resisting Open Education
 15            5/13    in person     Wrap-up
 
 * **In person** classes meet on Tuesday. at 4:30 in Harvey 104.
@@ -228,13 +229,14 @@ Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www
 [Stephen Downes' Review of _The Edupunks' Guide_](http://halfanhour.blogspot.com/2011/08/review-edupunks-guide-by-anya-kamenetz.html)
 
 #### Assignments due:
-* [personal learning plan](#personal-learning-plan)
-* [sign up to lead a weekly discussion here]("#comingsoon")
+* Choose an "open education" project to participate in and study
 
 Deschooling
 ----------------------------------------------
 
 #### Readings due:
+Curinga, M. (2012) [Ivan Illich: a brief introduction](http://www.youtube.com/watch?v=fvdzcjV0pqs) [video]. YouTube.
+
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
 ### Read ahead:
@@ -244,7 +246,10 @@ Ignorant Schoolmaster
 ----------------------------------------------
 
 #### Readings due:
-Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. [_Chapters 2 & 3_](https://moodle.adelphi.edu/file.php/53983/ranciere-1991-ignorant-schoolmaster_ch1.pdf)
+Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in 
+Intellectual Emancipation_. Stanford University Press. USA. 
+[_Chapters 2 & 3_](https://moodle.adelphi.edu/file.php/53983/ranciere-1991-ignorant-s
+choolmaster_ch1.pdf)
 
 Connected Learning
 ----------------------------------------------
@@ -331,11 +336,11 @@ Opening Up Education: The Collective Advancement of Education
 through Open Technology, Open Content, and Open Knowledge (pp.
 47–59). Cambridge  Mass.: MIT Press.
 
-The commons
+The Commons
 ----------------------------------------------
 
 #### Readings due:
-Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+Bollier, D. (2003). _Silent Theft: The Private Plunder of Our Common Wealth_. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
 
 Elinor Ostrom. (2010). [Defining “the commons.”](http://youtu.be/aXzbcgj9F54) [Video 00:01:07]
 
@@ -349,6 +354,12 @@ Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [select
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
 
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
+
+Wikipedia
+----------------------------------------------
+
+#### Readings due:
+_TBD_
 
 MOOCs: Massively Open Online Courses
 ----------------------------------------------
@@ -370,10 +381,10 @@ futures](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capital
 (Eds.), _Cognitive capitalism, education, and digital labor_ (pp.
 245–258). New York: Peter Lang.
 
-MOOCs and the future university
+The Future University (MOOCs and More)
 -----------------------------------------------
-
-
+#### Readings due:
+_TBD_
 
 
 Resisting Open Education
@@ -399,13 +410,15 @@ Peter Lang.
 [selections](https://moodle.adelphi.edu/file.php/53983/peters-2011-
 cognitive-capitalism.pdf)[moodle pdf]
 
-Final paper writing workshop
-----------------------------------------------
-
-_Come prepared with a draft of your paper._
 
 Lightning talks and wrap-up
 ----------------------------------------------
+#### Readings due:
+_none_
+
+#### Assignments due:
+* final paper
+* lightnight talk
 
 
 Assignments
@@ -476,7 +489,7 @@ Here are some things to avoid:
 * allowing a few voices to dominate the conversation
 
 While most of the above comments hold for **online discussions**,
-there are some practical refinements.
+there are some practical refinements for online weeks.
 
 1. You should post a video, audio, slideshow/PPT, or written
    introduction to the texts on the first day of the session you are
@@ -492,6 +505,13 @@ there are some practical refinements.
 
 Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
 
+Open Education Report
+----------------------------------------------
+
+By the second week of the semester, you will choose an Open 
+Education Project (see list below) to follow and study. Details
+on the report format and grading are coming soon.
+
 Critical Essay
 ----------------------------------------------
 
@@ -505,38 +525,24 @@ _interesting_, _motivated_, and _controversial_. The chapters in
 _Cognitive Capitalism, Education, and Digital Labor_ are typical of
 writing in this style. You should refer closely to the texts that we
 engage with during the semester in your writing. Your work must
-properly cite your sources. Since we will be compiling our essays
-together, you should use APA style. You may include endnotes in your
-essay as well
+properly cite your sources, using APA styled references. You may include endnotes in your
+essay as well.
 
-Essays must be approximately 5,000 words long (about 10 pages). They
-will be posted online for discussion in our last week of the
-semester. This is strictly an individual assignment (one essay per
+Essays must be approximately 2,500 words long. They
+will be posted on the [Educational Technology Blog](http://au-ed-tech.blogspot.com). 
+This is strictly an individual assignment (one essay per
 person). You should work with your study group to draft and improve
 your essay. I strongly suggest that everyone schedule an appointment
 with the [Writing Center](http://students.adelphi.edu/writingcenter/)
 before you turn in your draft, and then again before you turn in
 your final essay.
 
-You must bring a **draft of your essay** on 12/5. You will be
-assigned another classmate as the editor for your work. This person
-will be outside of your study group, to give you a different
-perspective. You are encouraged to also solicit comments from your
-study group. **Comments from your peer editor are due on 12/12.**
-
-**Your final essay is due on 12/19.** Late work will not be accepted
+**Your final essay is due on 5/13.** Late work will not be accepted
 for this assignment and there will not be an opportunity to re-write
-your final draft. Avail yourself to the resources in your personal
-learning network to ensure that you turn in high quality work.
-
-The final essays will be **collected into an e-book**
-and published using a Creative Commons license on the Educational
-Technology program website as our contribution to the study of Open
-Education.
+your final draft.
 
 Your grade for the final paper will be based on the jouranl article
-evaluation process from the _[Journal of Peer
-Production](http://peerproduction.net/)_
+evaluation process from the _[Journal of Peer Production](http://peerproduction.net/)_
 
 Their reviewers consider:
 
@@ -549,11 +555,23 @@ Their reviewers consider:
 From [Process: Appendix A](http://peerproduction.net/peer-review/process/). _modifications appear in italics_
 
 
+Lightning talk
+------------------------
+
+A [lightning talk](http://en.wikipedia.org/wiki/Lightning_talk) is a 
+short presentation, typically on a small, but engaging topic. We 
+will follow the "ignite" format, where every presenter uploads 20 
+slides (powerpoint or libreoffice/open document presentation) timed
+to automatically advance at 15 seconds (for a 5 minute presentation).
+
+The topic is up to you---anything related to our themes in Open Education.
+
+
 Open Education Projects
 ====================================
 
 This is a selected list of open education projects. You will take a
-couple of weeks to try to get to know one of these projects, and
+several weeks to try to get to know one of these projects, and
 then report back what you learned to the group. Here are some
 questions that might inform you study:
 
@@ -590,7 +608,6 @@ questions that might inform you study:
     * [Flickr]()
     * [OpenClipArt]
     * [MERLOT]()
-    
 * Free Open Source Software for Education
     * [Moodle](http://www.moodle.org)
     * [BuddyPress](http://buddypress.org/)
