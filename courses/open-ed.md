@@ -6,7 +6,7 @@ This syllabus was created for
 the Educational Technology Program
 at Adelphi University:
 http://education.adelphi.edu
-copyright 2012 Matthew X. Curinga
+copyright 2012-2014 Matthew X. Curinga
 http://matt.curinga.com
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
@@ -16,7 +16,7 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Educational Technology 0858-502, Fall 2012**
+**Educational Technology 0858-502, Spring 2014**
 
 **Keywords:** open education, deschooling, OER, free culture, 
 networked learning, peer-to-peer learning, p2p learning, open source 
@@ -60,12 +60,12 @@ education, and what we want it to look like.
 
 **Class meetings:**
 
-- Wed. 4:30-6:20, Harvey 104 and online
+- Tues. 4:30-6:20, Harvey 104 and online
 
 **Office hours:**
 
 - Monday, 3-5PM
-- Thursday, 2:30-4:30PM
+- Tuesday, 2:30-4:30PM
 - Online or in person, by appointment
 
 Readings
@@ -79,7 +79,6 @@ Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Ema
 ![book cover igorant schoolmaster](http://photo.goodreads.com/books/1223664347l/445408.jpg)
 
 Buy online: [Powells](http://www.powells.com/biblio/9780804719698) | [Amazon](http://amzn.com/0804719691) | [B&N](http://search.barnesandnoble.com/The-Ignorant-Schoolmaster/Jacques-Ranciere/e/9780804719698 "buy or rent") | [ConnectNY](http://www.connectny.info/search/a?searchtype=i&searcharg=0804719691&SORT=A) | _or go to the AU bookstore._
-
 
 Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. ISBN: 1433109816
 ![book cover cognitive capitalism](http://www.peterlang.com/files/smthumbnaildata//325x/1/8/8/0/1/2/310981_cover.jpg)
@@ -129,6 +128,8 @@ Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to 
 Mandiberg, M. (Ed.). (2012). [_The social media reader_](http://archive.org/details/TheSocialMediaReader). New York: New York University Press.
 
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
+
+Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
 
@@ -186,7 +187,7 @@ Spring break  3/18       -            -
 8             3/25    in person     Free Culture & Open Content
 9             4/1     online        Open Education Resources
 10            4/8     in person     The Commons
-11            4/15    online        Open Education Reports
+11            4/15    online        Wikipedia
 12            4/22    in person     MOOCs: Massively Open Online Courses
 13            4/29    online        Resisting Open Education
 14            5/6     online        Writing workshop
@@ -212,9 +213,6 @@ Foundations of Open Education
 #### Readings due:
 none, just come to class
 
-#### Assignments due:
-* buy _The Ignorant Schoolmaster_ and _Cognitive Capitalism_
-* log into the Moodle site for this course
 
 Doing "open learning"
 ----------------------------------------------
@@ -224,7 +222,7 @@ Doing "open learning"
 
 [Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
 
-Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. [_Chapter 1_](https://moodle.adelphi.edu/file.php/53983/ranciere-1991-ignorant-schoolmaster_ch1.pdf "if you don't have the book yet, you can download chapter 1 from Moodle. LOG IN FIRST")
+Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
 
 #### Optional readings:
 [Stephen Downes' Review of _The Edupunks' Guide_](http://halfanhour.blogspot.com/2011/08/review-edupunks-guide-by-anya-kamenetz.html)
@@ -239,16 +237,14 @@ Deschooling
 #### Readings due:
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
-Rancière, chapters 2 & 3
-
-#### Assignments due:
-* weekly online discussion
+### Read ahead:
+Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. [_Chapter 1_](https://moodle.adelphi.edu/file.php/53983/ranciere-1991-ignorant-schoolmaster_ch1.pdf)
 
 Ignorant Schoolmaster
 ----------------------------------------------
 
 #### Readings due:
-Rancière, chapter 4 & 5
+Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. [_Chapters 2 & 3_](https://moodle.adelphi.edu/file.php/53983/ranciere-1991-ignorant-schoolmaster_ch1.pdf)
 
 Connected Learning
 ----------------------------------------------
@@ -276,13 +272,13 @@ Peer production
 ----------------------------------------------
 
 #### Readings due:
-Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446. [download from moodle](https://moodle.adelphi.edu/file.php/53983/benkler-2002-coases-penguin.pdf)
+Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.yale.edu/yalelj/112/BenklerWEB.pdf). _The Yale Law Journal_, _112(3)_, 369-446.
 
 #### Optional video:
 If you would like some extra background on the reading and want to
 put the ideas in context, you might want to [check out this TED
 video of Yochai Benkler explaining the ideas expressed in Coase's
-Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the textwebsite") (recorded in 2005)
+Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the website") (recorded in 2005)
 
 Free Culture & Open Content
 ----------------------------------------------
@@ -307,9 +303,6 @@ Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to 
 Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
 
 [Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html) [video]
-
-#### Assignments due:
-* [personal learning plan](#personal-learning-plan) (mid-point update)
 
 Open Education Resources
 ----------------------------------------------
@@ -342,11 +335,11 @@ The commons
 ----------------------------------------------
 
 #### Readings due:
-Elinor Ostrom. (2010). [Defining “the commons.”](http://youtu.be/aXzbcgj9F54) [Video 00:
+Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+
+Elinor Ostrom. (2010). [Defining “the commons.”](http://youtu.be/aXzbcgj9F54) [Video 00:01:07]
 
 [Tragedy of the Commons.](http://youtu.be/lwaNZgY9PCQ?hd=1) (2011). [Video 00:05:35]
-
-Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
 
 Federici, S. (2011). [Feminism and the Politics of the Commons](http://www.commoner.org.uk/wp-content/uploads/2011/01/federici-feminism-and-the-politics-of-commons.pdf). _The Commoner_, _24_.
 
@@ -356,11 +349,6 @@ Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press. [select
 Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/content/162/3859/1243.full). _Science_, _162(859)_, 1243.
 
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
-
-Open Education Project Report
-----------------------------------------------
-
-There are no assigned readings this week.
 
 MOOCs: Massively Open Online Courses
 ----------------------------------------------
@@ -381,6 +369,12 @@ futures](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capital
 [moodle pdf]. In M. A. Peters & E. Bulut
 (Eds.), _Cognitive capitalism, education, and digital labor_ (pp.
 245–258). New York: Peter Lang.
+
+MOOCs and the future university
+-----------------------------------------------
+
+
+
 
 Resisting Open Education
 ----------------------------------------------
@@ -410,7 +404,7 @@ Final paper writing workshop
 
 _Come prepared with a draft of your paper._
 
-Final project presentations and wrap-up
+Lightning talks and wrap-up
 ----------------------------------------------
 
 
@@ -421,11 +415,11 @@ Assignments
 
 Assignment                  Due                     % of final grade
 -----------------           ----------------------  -----------------
-Participation               ongoing                 25%
-Personal Learning Plan      session 2               15%
-Session leader              varied                  15%
-Open Education Report       session 10              15%
-WikiBook Chapter            final class             30%
+Participation               ongoing                 20%
+Session leader              varied                  20%
+Open Education Report       session 7               25%
+Critical Essay              final class             25%
+Open Ed Lightning Talk      final class             10%
 
 Participation
 ----------------------------------------------
@@ -443,47 +437,6 @@ to discuss texts before full group discussions.
 
 Your grade in this area will be a combination of self-, instructor-,
 and peer-evaluations.
-
-Personal Learning Plan
-----------------------------------------------
-
-You will create a plan for what you want
-to learn in this course, how it connects to your broader learning
-goals, and how you hope to accomplish these goals and your plan.
-Your plan should be a narrative, of approximately 500 words. It may
-include diagrams, lists, timelines, web links, and other necessary
-elements. Create it as an Adelphi Google Doc, and post the link to
-your document on Moodle.
-
-It must include some reflection on:
-
-1. Your **overall goals** (in school, as a person, in life, etc.)
-2. **Specific goals** for this course. A good way to formulate goals
-   are to think about **research questions** and **capacities** that
-   you want to explore. For example: "I would like to understand the
-   role of a traditional university in the world of free, online
-   courses" or "I want to learn how to contribute a patch to a Free
-   Software project."
-3. **Practices** where and howyou learn best (studying same time
-   every day, setting goals, working in groups, working in library,
-   reading on train, etc.) What's your plan for this semester?
-4. **Distractors** and disruptors that make it more difficult to
-   learn/study (work, sports, friends, siblings, Facebook, etc.)
-5. **Measures:** how will you know you met your goals, when
-   will/should you be satisfied? (you might measure this by what you
-   produce, like a paper, what you know, or connections you make)
-6. **Peers:** who is interested in learning similar things? how
-   did/do you meet them? how do you keep in touch? what do you offer to
-   your peers? how is knowledge shared? what technology do you use?
-7. **Mentors:** who do you turn to for help when you are learning
-   things? What types of things do they help you with? Do you need to
-   reach out to more mentors?
-8. Your **study group**: a group of 3-5 other students in class who
-   you can contact when you have questions and will meet with (online
-   or in person) to discuss readings, edit your work, etc.
-
-Your personal learning plan is due on the second class
-meeting. You are encouraged to maintain and update it as the semester unfolds.
 
 Session leader
 ----------------------------------------------
@@ -618,11 +571,13 @@ questions that might inform you study:
     * [Wikipedia (Ed. Program)](http://outreach.wikimedia.org/wiki/Wikipedia_Education_Program)
     * [Khan Academy](http://www.khanacademy.org)
     * [MIT OCW](http://ocw.mit.edu)
-* Open Courses (and self-study)
+* MOOCS, Open Courses, and Self-Study
     * [Udacity](http://www.udacity.com)
     * [Coursera](http://www.coursera.org)
     * [P2P University](http://p2pu.org)
     * [OpenStudy](http://openstudy.com/)
+    * [Saylor](http://www.saylor.org/)
+    * [Instructables](http://www.instructables.com/)
 * Teaching/Learning Content & Lessons
     * [Khan Academy Smarthistory](http://smarthistory.org/)
     * [Connexions](http://cnx.org)
@@ -631,6 +586,11 @@ questions that might inform you study:
     * [TeacherTube](http://www.teachertube.com)
     * [Flat World Knowledge](http://www.flatworldknowledge.com/)
     * [CK-12](http://www.ck12.org/)
+* Free Culture Media (for education and other uses)
+    * [Flickr]()
+    * [OpenClipArt]
+    * [MERLOT]()
+    
 * Free Open Source Software for Education
     * [Moodle](http://www.moodle.org)
     * [BuddyPress](http://buddypress.org/)
@@ -645,5 +605,5 @@ _Here are some other lists of Open Ed projects_.
 * [OER Commons](http://www.oercommons.org/)
 * [Open Courseware Consortium](http://www.ocwconsortium.org/)
 * [OER Consortium](http://oerconsortium.org/)
-* [Creative Commons Wiki/OER](http://wiki.creativecommons.org/OER)
-
+* [Creative Commons Education](http://creativecommons.org/education)
+* [FOSsil Bank](http://fossilbank.wikidot.com/)

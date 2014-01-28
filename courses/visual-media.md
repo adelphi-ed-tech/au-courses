@@ -128,7 +128,7 @@ Regardless of the content, the work _must_ pay explicit attention to
 the aesthetic and semantic content of the work, beyond the instructional
 value.
 
-Acceptable media or this project include:
+Acceptable media for this project include:
 
 * original digital or analog games for learning
 * websites, web applications, or mobile (web) apps
@@ -136,12 +136,32 @@ Acceptable media or this project include:
 * original instructional video or audio (video can be animated, live
   action, screencasts, or a combination)
   
-Along with the educational media, each student will turn in a 500
+Along with the educational media, each student will turn in a ~300
 word reflection where they indicate the goals of their project in
 terms of visual culture and media literacy, and discuss their
 successes and difficulties in meeting these goals.
 
-### Visuality in Educational Media (50%)
+The media project will be evaluated in each of the following criteria,
+with a possible 10 points available for each area of evaluation:
+
+1. _Aesthetics_: is the the work visually appealing? does it use visual
+   metaphors and "visuality" to make it more powerful and appealing? does
+   the author carefully use color and composition?
+2. _Learning sciences_: in what ways does the author draw on the best
+   practices for how people learn and how people learn from visual media?
+3. _Curriculum_: how does the project meet the stated curricular goals?
+   does it address an important learning goal for the target audience?
+   does the scale of the media match the learning goals? i.e., does the media
+   focus on the most important or most challening apsects to teach?
+4. _Technqique_: how well does the author demonstrate his/her facility with
+   the given media? for example, do SMARTBoard lessons take advantage of the
+   diverse tools available in the Notebook software? are digital images cropped
+   and scaled "cleanly"? does the author demonstrate the ability to compose
+   text and images?
+5. _Reflection_: does the reflective paper clearly state the goals for the project?
+   does the author clearly articulate the reasons for the choices in the project?
+
+### Visuality in Educational Media or Youth Media (50%)
 
 Students will choose a work of educational media and write a critique
 based on the course readings. The essay should connect to the
@@ -153,6 +173,22 @@ being studied. Themes include:
 * visuality of power, coloniality, and empire
 * markets, attention, and visual media
 * mediation
+
+Specifically, this paper should draw from at least four different essays from
+the _The visual culture reader_ as well as _Media literacy in the K-12
+classroom_.
+
+Suitable media:
+
+* illustrated text books
+* illustrated children's literature
+* "multimedia" textbooks (such as iBooks)
+* youth magazines
+* video games (educational or otherwise)
+* children's/youth television or films (e.g. PBS, Nickelodian)
+* educational "apps" or websites
+* educational video or documentaries
+* SMARTBoard lessons
 
 This assignment must be between 4,000 and 5,000 words, and be written
 following the style and citation format of the APA.
@@ -176,4 +212,7 @@ relevance
     pragmatic approach of this course inm mind, does the author 
     adequately connect the scholarly themes of the paper with the 
     lived experience of people in the world?
+
+
+
 

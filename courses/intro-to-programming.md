@@ -477,8 +477,6 @@ Here are some ideas, though, that might get you started.
      between the rhetorical styles of Lincoln, Churchhill, King, Malcom X
      and others?
 
-
-
 ### Project 3: Refactoring & Visualization
 
 For your final project, you can team up with one of your classmates to revisit and improve
