@@ -11,42 +11,22 @@ Javascript, CSS), students gain practice in the object oriented
 programming and design of interactive software. For their final
 project, students will create their own educational website.
 
-## Instructors & Office Hours
-Matt Curinga, Post Annex Conference Room
+Office Hours
+-----------------
+
+Matt Curinga, Post Annex, Room 1
 :  mcuringa@adelphi.edu
-:  Tuesday 3:00pm - 5:00pm 
-:  Wednesday 2:30pm - 4:30pm 
+:  Tuesday 3pm - 5pm 
+:  Monday 4pm - 6pm
 :  _and by appointment_
 
-Antonios Saravanos, online via Google Hangout
-:  saravanos@gmail.com
-:  Monday 8:30pm - 10:30pm 
-:  Thursday 8:30pm - 10:30pm 
-:  _and by appointment_
 
-## Course Format
+Lab Hours
+-------------------
 
-This course is fully online. Each week there will be a series of
-topics, for students to pursue at their own pace. Weeks will run on
-a Monday-to-Monday schedule. Assignments for the week are due on the
-following Monday.
-
-This course runs on the Cycle 3 schedule. It begins on Monday
-January 27 and ends on Monday March 18.
-
-Instruction will come from several sources:
-
-* the course text book (Duckett)
-* web resources, especially Code Academy
-* instructor videos
-
-There will be instructor led labs during office hours every week, both
-online via Google Hangout and in-person on the Garden City campus.
-
-Students _must_ attend at least 4 lab sessions. Assignments will be
-posted to this wiki and other communications will be sent via the
-Google Group Email List --
-[Adelphi Web Programming](https://groups.google.com/forum/?fromgroups#!forum/au-web-programming)
+Hannah Groves, Harvey 104
+:  hannahgroves@mail.adelphi.edu
+:  Thursday 6:30pm - 8:20pm
 
 ## Goals and Objectives
 
