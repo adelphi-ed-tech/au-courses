@@ -112,7 +112,7 @@ Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/conte
 
 Hardt, M., & Negri, A. (2009). _Commonwealth_. Harvard University Press.
 
-Iiyoshi, T., & Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11309&mode=toc). MIT Press. Cambridge Mass.
+Iiyoshi, T., & Kumar, M., Vijay, S. (2008). [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/sites/default/files/titles/content/9780262515016_Open_Access_Edition.pdf). MIT Press. Cambridge Mass.
 
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
@@ -219,6 +219,9 @@ Doing "open learning"
 ----------------------------------------------
 
 #### Readings due:
+
+Iiyoshi, T., & Kumar, M., Vijay, S. (2008). "Introduction" [p. 1-10]. In [_Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_](http://mitpress.mit.edu/sites/default/files/titles/content/9780262515016_Open_Access_Edition.pdf). MIT Press. Cambridge Mass.
+
 [Edupunk's Guide tutorials](http://edupunksguide.org/tutorials), especially regarding personal learning plan and personal learning networks
 
 [Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
@@ -605,9 +608,9 @@ questions that might inform you study:
     * [Flat World Knowledge](http://www.flatworldknowledge.com/)
     * [CK-12](http://www.ck12.org/)
 * Free Culture Media (for education and other uses)
-    * [Flickr]()
-    * [OpenClipArt]
-    * [MERLOT]()
+    * [Flickr](http://www.flickr.com/)
+    * [OpenClipArt](https://openclipart.org/)
+    * [MERLOT](http://www.merlot.org/merlot/index.htm)
 * Free Open Source Software for Education
     * [Moodle](http://www.moodle.org)
     * [BuddyPress](http://buddypress.org/)
