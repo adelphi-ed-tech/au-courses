@@ -509,8 +509,15 @@ Open Education Report
 ----------------------------------------------
 
 By the second week of the semester, you will choose an Open 
-Education Project (see list below) to follow and study. Details
-on the report format and grading are coming soon.
+Education Project (see list below) to follow and study. You should
+plan to spend at least one hour a week participating in the project.
+Typically, at first, this will mean reading about it and following
+along. As you learn about the community, you can contribute more:
+
+- communicating via online forums, email lists, IRC, etc.
+- adding or editing resources
+
+<!-- On week 7, when your report is due, you will upload -->
 
 Critical Essay
 ----------------------------------------------
