@@ -40,7 +40,7 @@ teaching programming and web development.
 
 Specific teaching and learning goals include:
 
--   designing web-based interactions and multimedia to support learning\
+-   designing web-based interactions and multimedia to support learning
 -   coding effective user interfaces for learning
 -   implementing Universal Design goals for accessible web sites
 -   identifying effective methods for teaching more advanced programming
@@ -60,7 +60,8 @@ Specific software development goals include:
 -   Polymorphism
 
 
-## Required Books
+Required Books
+---------------
 
 Duckett, J. T. (2011). [_Html & css: design and
 build websites (1st ed.)_](http://htmlandcssbook.com/).
@@ -71,12 +72,16 @@ Indianapolis, IN: Wiley Pubishing, Inc.
 ## Optional Books
 Anderson, T. (Ed.). (2008). [*Theory and practice of online learning*](http://www.aupress.ca/index.php/books/120146). Edmonton: AU Press.
 
-Hayward, J. (2011). *Django JavaScript Integration: AJAX and jQuery*.
-Packet Publishing. ISBN 1849510342
 
-## Readings
+
+Bibliography
+---------------------
+
 Castro, Elizabeth. 2010. *Html 5 Visual Quickstart Guide.* Peachpit
 Press. ISBN 9780321719614.
+
+Hayward, J. (2011). *Django JavaScript Integration: AJAX and jQuery*.
+Packet Publishing. ISBN 1849510342
 
 Gamma, E., Helm, R., Johnson, R., & Vlissides, J. M. (1994). *Design
 Patterns: Elements of Reusable Object-Oriented Software* (1st ed.).
@@ -104,28 +109,88 @@ Berkeley CA. ISBN 9780321719638.
 Zelle, John. 2004. *Python programming: an introduction to computer
 science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
-## Schedule          
+Schedule 
+---------
 
-Week  Date	   Due/Checkpooint
------ -------- --------------------------------------------------
-1	  Jan 27   A running virtual server with a basic web page
-2	  Feb 03   -
-3	  Feb 10   **Single Page Website**
-4	  Feb 17   Final Project Pitch
-5	  Feb 24   -
-6	  Mar 03   Project Object Models
-7	  Mar 10   Project Forms
-8	  Mar 17   **Final Project**
+Week  Date	   Topic
+----- -------- ----------------------------------------------------------
+1	  28-Jan   How the web works
+2	  4-Feb    Document Structure, Text, and Lists
+3	  11-Feb   Links and Style
+4	  18-Feb   Media and Usability
+5	  25-Feb   Layout and Responsive design
+6	  4-Mar    Dynamic website and Django, **Single Page Website Due**
+7	  11-Mar   URL Dispatching and Templates
+-	  18-Mar   _Spring break_
+8     25-Mar   Defining Objects
+9     1-Apr    Saving Objects
+10    8-Apr    Customizing and Validating Forms
+11    15-Apr   Object composition and inheritance
+12    22-Apr   Searching Django models
+13    29-Apr   Users and Authentication
+14    6-May    Advanced Topics, Project Lab
+15    13-May   Wrap-up and Reflection
 
-## Class Sessions
-* Week 1: HTML & Web Basics
-* Week 2: More HTMl & CSS
-* Week 3: Usability & accessiblity
-* Week 4: Dynamic websites
-* Week 5: Object Oriented Programming
-* Week 6: Object composition, "mixins", & inheritance
-* Week 7: Users & authentication
-* Week 8: Final project showcase
+Class Sessions
+----------------
+
+### How the web works
+
+**Read (optional):**
+
+* [CERN: How the web works](http://home.web.cern.ch/topics/birth-web)
+
+### Document Structure, Text, and Lists
+
+**Read/Do:**
+
+* Duckett, chapters 1, 2, & 3
+* Bradley, S. (2012, November 5). Exploration Of [Single-Page Websites](http://www.smashingmagazine.com/2012/11/05/navigation-patterns-in-single-page-websites/). _Smashing Magazine_.
+* [Web Basics Tutorials Introduction to HTML & Body elements](http://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1). _Code Academy_.
+
+**Milestone:**
+
+* choose a topic for your single page website
+* bring an html document that has initial content for your project, organized using
+  &lt;h1&gt;-->;&lt;h6&gt;, &lt;ul&gt; or &lt;ol&gt;, and &lt;p&gt; tags
+
+### Links and Style
+
+**Read:**
+
+* Duckett, chapters 4, 10, 11, & 12
+
+**Milestone:**
+* update your site to use stylesheets
+* add links to your site
+* improve content
+
+### Media and Usability
+
+**Read:**
+
+* [NNGroup: Usability 101](http://www.hh.se/download/18.5173bcf712de11663378000958/1341268042153/diskussionsuppgift_F5_nielsen.pdf)
+
+
+
+### Layout and Positioning
+
+**Read:**
+* Ducket, chapters 13 & 15
+* 
+
+-------------------------------------------------------------------
+
+### Dynamic website and Django, **Single Page Website Due**
+### URL Dispatching and Templates
+### Defining Objects
+### Saving Objects
+### Customizing and Validating Forms
+### Object composition and inheritance
+### Searching Django models
+### Users and Authentication
+### Advanced Topics, Project Lab
+### Wrap-up and Reflection
 
 ## Assignments & Grading
 
@@ -133,15 +198,7 @@ There are two major projects in this course, the _single page
 website_ and the _dynamic web application_. Other grades come from
 particiaption and improvement.
 
-### Participation (15%)
-
-Students are expected to be active participants in the course,
-communicating via email, posting to the wiki, and completing
-assignments in a timely manner. The course instructors will base the
-participation grade on the quality and timeliness of their
-participation in the course.
-
-### Improvement (15%)
+### Improvement (10%)
 
 The two coding projects will be based on mastery of the skills of
 web development. Because students come to the course with different
@@ -155,16 +212,37 @@ At the end of the semester, each student will email the instructors
 with an updated assessment and the grade they think they deserve for
 their improvement.
     
-### Single Page Website (30%)
+### Single Page Website (40%)
 
 Students will build a single-page,
 informational website on a topic of their choice. Their website
 will be composed of HTML, CSS, and (optionally) Javascript. It
-will display their fluency with the components of HTML, styling
+will display their fluency with the HTML elements, styling
 with CSS, and enhancing user experience with Javascript. The
 content of the website is entirely up to the student. They are
 encouraged to create a website on something they are already
 familiar with and interested in. This is an individual project.
+
+The project will be graded on the following criteria:
+
+1. **Technical design (15 pts):**
+    - is html code well formatted and error free?
+    - are html elements used appropriately 
+      to give semantic structure to the document?
+    - are elements combined in ways to make complex layouts?
+    - is the document elegant? does it use tags minimally, 
+      but in a way that makes it clear for developers to read?
+2. **Graphic design (10 pts):**
+    - aesthetics
+    - usability
+    - media (images, video, audio)
+    - typography
+3. **Information architecture (10 pts)::**
+    - logical structure of information
+    - organization of internal links on page
+4. **Impact (5 pts):**
+    - does the site deliver an important message?
+    - do the design and content (copy) work together?
 
 ### Dynamic web application (40%)
 
@@ -173,4 +251,14 @@ project can be completed individually, or in a 2-person team. The
 requirements for the project are that it demonstrates the students
 understanding of server-side and client-side web development. The
 instructor will work with teams to develop suitable projects.
+
+Resources
+--------------------
+
+
+### HTML & CSS
+* web typography <http://webtypography.net/>
+* [A list apart](http://alistapart.com/) design and layout
+
+
 
