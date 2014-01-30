@@ -17,8 +17,8 @@ body, p, ul, ol, li, span, div
 
 h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
 
-h1{ font-size: 150%;  margin: 0px; margin-top: 2em; }
-h2{ font-size: 130%; margin:0; margin-top: 1em; text-transform: uppercase;}
+h1{ font-size: 150%;  margin: 0px; margin-top: 2em;  text-transform: uppercase;}
+h2{ font-size: 130%; margin:0; margin-top: 1em;}
 h3{ font-size: 120%; font-weight: bold; }
 h4{ font-size: 110%; font-weight: bold; }
 h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
@@ -198,7 +198,6 @@ blockquote
     counter-increment: week;
     content: "Week " counter(week) ": " 
 }
-
 
 #class-sessions h3
 {

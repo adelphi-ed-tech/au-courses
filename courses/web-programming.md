@@ -4,6 +4,11 @@
 
 **EDT 603 _Programming web-based educational media_, Spring 2013**
 
+> Anyone who has lost track of time when using a computer knows the
+> propensity to dream, the urge to make dreams come true and the
+> tendency to miss lunch.<br>
+> **Tim Berners-Lee, inventor of the world wide web**
+
 **Description:** In this course students learn techniques of web
 programming to develop interactive, educational media. Using the
 Python programming language and web development technologies (HTML5,
@@ -11,24 +16,28 @@ Javascript, CSS), students gain practice in the object oriented
 programming and design of interactive software. For their final
 project, students will create their own educational website.
 
+**Key words:** computer science, web development, python, interaction
+design, django, html, html5, css, javascript, OOP
+
 Office Hours
------------------
+========================================================================
 
 Matt Curinga, Post Annex, Room 1
-:  mcuringa@adelphi.edu
-:  Tuesday 3pm - 5pm 
-:  Monday 4pm - 6pm
-:  _and by appointment_
+  ~ <mcuringa@adelphi.edu>
+  ~ Tuesday 3pm - 5pm 
+  ~ Monday 4pm - 6pm
+  ~ _and by appointment_
 
 
 Lab Hours
--------------------
+========================================================================
 
 Hannah Groves, Harvey 104
-:  hannahgroves@mail.adelphi.edu
-:  Thursday 6:30pm - 8:20pm
+  ~ <hannahgroves@mail.adelphi.edu>
+  ~ Thursday 6:30pm - 8:20pm
 
-## Goals and Objectives
+Goals and Objectives
+========================================================================
 
 This course builds on CSC 602 to move beyond basic programming
 concepts; students will gain expertise in building more complex
@@ -61,7 +70,7 @@ Specific software development goals include:
 
 
 Required Books
----------------
+========================================================================
 
 Duckett, J. T. (2011). [_Html & css: design and
 build websites (1st ed.)_](http://htmlandcssbook.com/).
@@ -69,13 +78,22 @@ Indianapolis, IN: Wiley Pubishing, Inc.
 
 ![](http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG)
 
-## Optional Books
-Anderson, T. (Ed.). (2008). [*Theory and practice of online learning*](http://www.aupress.ca/index.php/books/120146). Edmonton: AU Press.
+Optional Books
+========================================================================
+
+Anderson, T. (Ed.). (2008). [*Theory and practice of online
+learning*](http://www.aupress.ca/index.php/books/120146). Edmonton:
+AU Press.
+
+Greenfeld, D., & Roy, A. (2013). [_Two scoops of django: best
+practices for Django
+1.5._](http://twoscoopspress.org/products/two-scoops-of-django-1-5-e-b
+ook-bundle)
 
 
 
 Bibliography
----------------------
+========================================================================
 
 Castro, Elizabeth. 2010. *Html 5 Visual Quickstart Guide.* Peachpit
 Press. ISBN 9780321719614.
@@ -110,18 +128,18 @@ Zelle, John. 2004. *Python programming: an introduction to computer
 science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 
 Schedule 
----------
+========================================================================
 
-Week  Date	   Topic
+ Week     Date Topic
 ----- -------- ----------------------------------------------------------
-1	  28-Jan   How the web works
-2	  4-Feb    Document Structure, Text, and Lists
-3	  11-Feb   Links and Style
-4	  18-Feb   Media and Usability
-5	  25-Feb   Layout and Responsive design
-6	  4-Mar    Dynamic website and Django, **Single Page Website Due**
-7	  11-Mar   URL Dispatching and Templates
--	  18-Mar   _Spring break_
+1     28-Jan   How the web works
+2     4-Feb    Document Structure, Text, and Lists
+3     11-Feb   Links and Style
+4     18-Feb   Media and Usability
+5     25-Feb   Layout and Responsive design
+6     4-Mar    Dynamic website and Django, **Single Page Website Due**
+7     11-Mar   URL Dispatching and Templates
+-     18-Mar   _Spring break_
 8     25-Mar   Defining Objects
 9     1-Apr    Saving Objects
 10    8-Apr    Customizing and Validating Forms
@@ -132,15 +150,17 @@ Week  Date	   Topic
 15    13-May   Wrap-up and Reflection
 
 Class Sessions
-----------------
+========================================================================
 
-### How the web works
+How the web works
+----------------------------------------
 
 **Read (optional):**
 
 * [CERN: How the web works](http://home.web.cern.ch/topics/birth-web)
 
-### Document Structure, Text, and Lists
+Document Structure, Text, and Lists
+----------------------------------------
 
 **Read/Do:**
 
@@ -148,57 +168,95 @@ Class Sessions
 * Bradley, S. (2012, November 5). Exploration Of [Single-Page Websites](http://www.smashingmagazine.com/2012/11/05/navigation-patterns-in-single-page-websites/). _Smashing Magazine_.
 * [Web Basics Tutorials Introduction to HTML & Body elements](http://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1). _Code Academy_.
 
+**Example:**
+
+* [Teaching Labor, basic](http://home.adelphi.edu/~mxc/html/labor1.html)
+
 **Milestone:**
 
 * choose a topic for your single page website
 * bring an html document that has initial content for your project, organized using
   &lt;h1&gt;-->;&lt;h6&gt;, &lt;ul&gt; or &lt;ol&gt;, and &lt;p&gt; tags
 
-### Links and Style
+Links and Style
+----------------------------------------
 
 **Read:**
 
 * Duckett, chapters 4, 10, 11, & 12
 
-**Milestone:**
+**Milestones:**
+
 * update your site to use stylesheets
 * add links to your site
 * improve content
 
-### Media and Usability
+Media and Usability
+----------------------------------------
 
 **Read:**
 
+* [Universal Design](http://en.wikipedia.org/wiki/Universal_Design),
+  a general overview
 * [NNGroup: Usability 101](http://www.hh.se/download/18.5173bcf712de11663378000958/1341268042153/diskussionsuppgift_F5_nielsen.pdf)
+* Read Marcotte, E. (2010, May 25). [Responsive Web
+  Design](http://alistapart.com/article/responsive-web-design). *A List Apart*.
 
 
+Layout and Positioning
+----------------------------------------
 
-### Layout and Positioning
+**Read/Do:**
 
-**Read:**
-* Ducket, chapters 13 & 15
-* 
+* Ducket, chapters 8, 13 & 15
+- *Code Academy* [HTML Basics
+  III](http://www.codecademy.com/courses/web-beginner-en-f8mcL?curriculum_id=50579fb998b470000202dc8b)
+  part 3 (*3. Div and span*)
+- *Code Academy* [CSS Element
+  Positioning](http://www.codecademy.com/courses/web-beginner-en-6merh?curriculum_id=50579fb998b470000202dc8b)
+
+**Milestones:**
+- DIV tag
+- add positioning, margins, padding, float, etc.
 
 -------------------------------------------------------------------
 
-### Dynamic website and Django, **Single Page Website Due**
-### URL Dispatching and Templates
-### Defining Objects
-### Saving Objects
-### Customizing and Validating Forms
-### Object composition and inheritance
-### Searching Django models
-### Users and Authentication
-### Advanced Topics, Project Lab
-### Wrap-up and Reflection
+**Dynamic website and Django**
+----------------------------------------
 
-## Assignments & Grading
+* **Single Page Website Due**
+
+URL Dispatching and Templates
+----------------------------------------
+Defining Objects
+----------------------------------------
+Saving Objects
+----------------------------------------
+Customizing and Validating Forms
+----------------------------------------
+Object composition and inheritance
+----------------------------------------
+Searching Django models
+----------------------------------------
+Users and Authentication
+----------------------------------------
+Advanced Topics, Project Lab
+----------------------------------------
+
+**Wrap-up and Reflection**
+----------------------------------------
+
+* **web application due**
+
+Assignments & Grading
+========================================================================
 
 There are two major projects in this course, the _single page
 website_ and the _dynamic web application_. Other grades come from
 particiaption and improvement.
 
-### Improvement (10%)
+Improvement (10%)
+----------------------------------------
 
 The two coding projects will be based on mastery of the skills of
 web development. Because students come to the course with different
@@ -212,7 +270,8 @@ At the end of the semester, each student will email the instructors
 with an updated assessment and the grade they think they deserve for
 their improvement.
     
-### Single Page Website (40%)
+Single Page Website (40%)
+----------------------------------------
 
 Students will build a single-page,
 informational website on a topic of their choice. Their website
@@ -244,7 +303,8 @@ The project will be graded on the following criteria:
     - does the site deliver an important message?
     - do the design and content (copy) work together?
 
-### Dynamic web application (40%)
+Dynamic web application (40%)
+----------------------------------------
 
 Student teams will propose, design, and execute a project. The
 project can be completed individually, or in a 2-person team. The
@@ -253,12 +313,35 @@ understanding of server-side and client-side web development. The
 instructor will work with teams to develop suitable projects.
 
 Resources
---------------------
+========================================================================
 
 
-### HTML & CSS
+HTML & CSS
+----------------------------------------
+
+* [W3C](http://www.w3.org/), read the official specifications
+* [Treehouse](http://teamtreehouse.com/), free trial of web, design,
+  and other tutorials
+* [Mozilla Developer
+* Network](https://developer.mozilla.org/en-US/learn), html, css, &
+  javascript
+* [W3 Schools](http://www.w3schools.com/), html reference and
+  tutorials
+* [CodeAcademy](http://codeacademy.com)
+
+Design & Usability
+----------------------------------------
+
 * web typography <http://webtypography.net/>
 * [A list apart](http://alistapart.com/) design and layout
+- [Nielsen/Norman Group](http://www.nngroup.com/articles/)
+- [United States Section 508](http://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973)
+  - [https://www.section508.gov/](https://www.section508.gov/)
+  - [http://webaim.org/standards/508/checklist](http://webaim.org/standards/508/checklist)
+- [Usability.gov](http://www.usability.gov/index.html)
+- [Research-Based Web Design & Usability Guidelines](http://www.usability.gov/guidelines/guidelines_book.pdf)
+
+
 
 
 
