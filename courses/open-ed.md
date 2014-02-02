@@ -88,7 +88,7 @@ Buy online: [Powells](http://www.powells.com/biblio/1433109816) | [Amazon](http:
 Bibliography & readings
 ----------------------------------------------
 
-Barabási, A.-L. (2003). _Linked: How everything is connected to everything else and what it means for business, science, and everyday life_. New York: Plume.
+Barabási, A. L. (2003). _Linked: How everything is connected to everything else and what it means for business, science, and everyday life_. New York: Plume.
 
 Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.jstor.org/stable/1562247). _The Yale Law Journal_, _112(3)_, 369-446. [download from moodle](https://moodle.adelphi.edu/file.php/53983/benkler-2002-coases-penguin.pdf)
 
@@ -175,24 +175,24 @@ Schedule, format, & session leaders
 ====================================
 
 
-Session	      Date    Format        Topic
------------   ----    ----------    ------------------------------
-1             1/28    in person     Foundations of Open Education
-2             2/4     online        Doing "open learning"
-3             2/11    in person     Deschooling
-4             2/18    online        Ignorant Schoolmaster
-5             2/25    in person     Connected Learning
-6             3/4     online        Free Software/Open Source Software
-7             3/11    in person     Peer production
-Spring break  3/18       -            -
-8             3/25    in person     Free Culture & Open Content
-9             4/1     online        Open Education Resources
-10            4/8     in person     The Commons
-11            4/15    online        Wikipedia
-12            4/22    in person     MOOCs: Massively Open Online Courses
-13            4/29    online        The Future University (MOOCs and More)
-14            5/6     online        Resisting Open Education
-15            5/13    in person     Wrap-up
+Session           Date      Format       Topic
+--------------   ------    ----------    ------------------------------
+             1     1/28    in person     Foundations of Open Education
+             2      2/4    online        Doing "open learning"
+             3     2/11    in person     Deschooling
+             4     2/18    online        Ignorant Schoolmaster
+             5     2/25    in person     Connected Learning
+             6      3/4    online        Free Software/Open Source Software
+             7     3/11    in person     Peer production
+_Spring break_     3/18       -                -
+             8     3/25    in person     Free Culture & Open Content
+             9      4/1    online        Open Education Resources
+            10      4/8    in person     The Commons
+            11     4/15    online        Wikipedia
+            12     4/22    in person     MOOCs: Massively Open Online Courses
+            13     4/29    online        The Future University (MOOCs and More)
+            14      5/6    online        Resisting Open Education
+            15     5/13    in person     Wrap-up
 
 * **In person** classes meet on Tuesday. at 4:30 in Harvey 104.
 * **online** weeks have no set meeting time. They will be carried
@@ -560,9 +560,8 @@ Their reviewers consider:
 2. Is the treatment of the subject matter intellectually interesting? _Does the author cite relevant literature to support the claims_?
 3. Are there any noticeable problems with the author’s means of validating assumptions or making judgments?
 4. Is the article well written?
-5. Are there portions of the article that you recommend be shortened, excised or expanded?
 
-From [Process: Appendix A](http://peerproduction.net/peer-review/process/). _modifications appear in italics_
+Adapted from [Process: Appendix A](http://peerproduction.net/peer-review/process/). _modifications appear in italics_
 
 
 Lightning talk
@@ -574,7 +573,7 @@ will follow the "ignite" format, where every presenter uploads 20
 slides (powerpoint or libreoffice/open document presentation) timed
 to automatically advance at 15 seconds (for a 5 minute presentation).
 
-The topic is up to you---anything related to our themes in Open Education.
+The topic is up to you—anything related to our themes in Open Education.
 
 
 Open Education Projects

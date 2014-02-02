@@ -1,5 +1,5 @@
 <!-- this css file gets inlined by the build script to make standalone html5 output
-that's why it has a style tag... -->
+thats why it has a style tag... -->
 
 <style type="text/css">
 body
@@ -204,7 +204,7 @@ blockquote
     margin-left: -1em;    
 }
 
-#class-sessions>div
+#class-sessions>section
 {
     border: 1px solid black;
     margin: 1em 0 0 0;
