@@ -24,7 +24,7 @@ http://education.adelphi.edu/ed-tech
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Matthew X. Curinga" />
   <meta name="author" content="Antonios Saravanos" />
-  <meta name="date" content="Thursday, 30. January 2014 11:46AM" />
+  <meta name="date" content="Saturday, 01. February 2014 11:30AM" />
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
 <!--[if lt IE 9]>
@@ -32,6 +32,26 @@ http://education.adelphi.edu/ed-tech
 <![endif]-->
 
 
+  <style type="text/css">
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; background-color: #303030; color: #cccccc; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; }
+td.sourceCode { padding-left: 5px; }
+pre, code { color: #cccccc; background-color: #303030; }
+code > span.kw { color: #f0dfaf; }
+code > span.dt { color: #dfdfbf; }
+code > span.dv { color: #dcdccc; }
+code > span.bn { color: #dca3a3; }
+code > span.fl { color: #c0bed1; }
+code > span.ch { color: #dca3a3; }
+code > span.st { color: #cc9393; }
+code > span.co { color: #7f9f7f; }
+code > span.ot { color: #efef8f; }
+code > span.al { color: #ffcfaf; }
+code > span.fu { color: #efef8f; }
+code > span.er { color: #c3bf9f; }
+  </style>
 
 
   <!-- this css file gets inlined by the build script to make standalone html5 output
@@ -279,6 +299,33 @@ http://education.adelphi.edu/ed-tech
   }
   
   </style>
+  <style type="text/css">
+  pre.sourceCode
+  {
+    width: 50%;
+    padding: 1em;
+  }
+  
+  
+  #class-sessions { counter-reset: week; }
+  #class-sessions h2:before {
+      counter-increment: week;
+      content: "Week " counter(week) ": " 
+  }
+  
+  #class-sessions h2
+  {
+      margin-left: -1em;    
+  }
+  
+  #class-sessions>section
+  {
+      border: 1px solid black;
+      margin: 1em 0 0 0;
+      padding: 0 2em;
+  }
+  
+  </style>
 
 
 </head>
@@ -335,9 +382,20 @@ http://education.adelphi.edu/ed-tech
 </nav>
 
 <p><strong>EDT 603 <em>Programming web-based educational media</em>, Spring 2013</strong></p>
-<blockquote>
-<p>Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch.<br> <strong>Tim Berners-Lee, inventor of the world wide web</strong></p>
-</blockquote>
+<pre class="sourceCode html"><code class="sourceCode html"><span class="dt">&lt;!DOCTYPE </span>html<span class="dt">&gt;</span>
+<span class="kw">&lt;html&gt;</span>
+  <span class="kw">&lt;body&gt;</span>
+    <span class="kw">&lt;blockquote&gt;</span>
+      Anyone who has lost track of time when
+      using a computer knows the propensity
+      to dream, the urge to make dreams come
+      true and the tendency to miss
+      lunch.<span class="kw">&lt;br&gt;</span>
+      <span class="kw">&lt;strong&gt;</span>Tim Berners-Lee<span class="kw">&lt;/strong&gt;</span>
+      <span class="kw">&lt;em&gt;</span>, inventor of the world wide web<span class="kw">&lt;/em&gt;</span>
+    <span class="kw">&lt;/blockquote&gt;</span>
+  <span class="kw">&lt;/body&gt;</span>
+<span class="kw">&lt;/html&gt;</span></code></pre>
 <p><strong>Description:</strong> In this course students learn techniques of web programming to develop interactive, educational media. Using the Python programming language and web development technologies (HTML5, Javascript, CSS), students gain practice in the object oriented programming and design of interactive software. For their final project, students will create their own educational website.</p>
 <p><strong>Key words:</strong> computer science, web development, python, interaction design, django, html, html5, css, javascript, OOP</p>
 <section id="office-hours" class="level1">
@@ -711,7 +769,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Thursday, 30. January 2014 11:46AM</tt></p>
+<p><tt>Last modified: Saturday, 01. February 2014 11:30AM</tt></p>
 
 <!-- Piwik -->
 <script type="text/javascript">

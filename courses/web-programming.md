@@ -4,10 +4,22 @@
 
 **EDT 603 _Programming web-based educational media_, Spring 2013**
 
-> Anyone who has lost track of time when using a computer knows the
-> propensity to dream, the urge to make dreams come true and the
-> tendency to miss lunch.<br>
-> **Tim Berners-Lee, inventor of the world wide web**
+~~~~~~~~~~~~~~~~~~~~~~~~~~{.html}
+<!DOCTYPE html>
+<html>
+  <body>
+    <blockquote>
+      Anyone who has lost track of time when
+      using a computer knows the propensity
+      to dream, the urge to make dreams come
+      true and the tendency to miss
+      lunch.<br>
+      <strong>Tim Berners-Lee</strong>
+      <em>, inventor of the world wide web</em>
+    </blockquote>
+  </body>
+</html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Description:** In this course students learn techniques of web
 programming to develop interactive, educational media. Using the

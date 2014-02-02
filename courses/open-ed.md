@@ -607,6 +607,7 @@ questions that might inform you study:
     * [Saylor](http://www.saylor.org/)
     * [Instructables](http://www.instructables.com/)
 * Teaching/Learning Content & Lessons
+    * [OpenAssembly](http://openassembly.com)
     * [Khan Academy Smarthistory](http://smarthistory.org/)
     * [Connexions](http://cnx.org)
     * [Claco](http://www.claco.com/)

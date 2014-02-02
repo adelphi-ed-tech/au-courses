@@ -79,6 +79,7 @@ def GenerateCourse(html, raw, course):
 
     args["out"] = "raw"
     cmd = raw.substitute(args)
+    print(cmd)
     subprocess.check_call(cmd,shell=True)
 
 def GetWebPages():
