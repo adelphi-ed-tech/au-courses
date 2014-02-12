@@ -137,6 +137,8 @@ Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.ed
 
 Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/578/499/). _First Monday_, _3(3)_.
 
+Raymond, E. (1999, June 28). [Shut Up And Show Them The Code](http://www.linuxtoday.com/developer/1999062802310NWSM). _Linux Today_.
+
 Reagle, J. (2010). _Good faith collaboration: the culture of Wikipedia_. MIT Press. Cambridge Mass.
 
 Siemens, G. (2004). [Connectivism: A learning theory for the digital age](http://www.elearnspace.org/Articles/connectivism.htm). _eLearn Space_.
@@ -242,17 +244,13 @@ Curinga, M. (2012) [Ivan Illich: a brief introduction](http://www.youtube.com/wa
 
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
-### Read ahead:
-Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. [_Chapter 1_](https://moodle.adelphi.edu/file.php/53983/ranciere-1991-ignorant-schoolmaster_ch1.pdf)
-
 Ignorant Schoolmaster
 ----------------------------------------------
 
 #### Readings due:
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in 
 Intellectual Emancipation_. Stanford University Press. USA. 
-[_Chapters 2 & 3_](https://moodle.adelphi.edu/file.php/53983/ranciere-1991-ignorant-s
-choolmaster_ch1.pdf)
+[_Chapters 1, 2 & 3_](https://moodle.adelphi.edu/mod/resource/view.php?id=782721) [moodle]
 
 Connected Learning
 ----------------------------------------------
@@ -275,6 +273,9 @@ Free Software/Open Source Software
 Stallman, R. M. (1992). "[Why Software Should Be Free](http://www.gnu.org/philosophy/shouldbefree.html)".
 
 Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/578/499/). _First Monday_, _3(3)_.
+
+Raymond, E. (1999, June 28). [Shut Up And Show Them The Code](http://www.linuxtoday.com/developer/1999062802310NWSM). _Linux Today_.
+
 
 Peer production
 ----------------------------------------------
@@ -387,13 +388,7 @@ futures](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capital
 The Future University (MOOCs and More)
 -----------------------------------------------
 #### Readings due:
-_TBD_
 
-
-Resisting Open Education
-----------------------------------------------
-
-#### Readings due:
 Vaidhyanathan, S. (2012, November 16). [A New Era of Unfounded
 Hyperbole](http://www.cato-unbound.org/2012/11/16/siva-vaidhyanathan/a-new-era-of-unfounded-hyperbole/). _Cato Unbound_. 
 
@@ -405,13 +400,16 @@ reader_](http://archive.org/details/TheSocialMediaReader "epub, pdf,
 and other formats here") (pp. 257–274). New York: New York
 University Press.
 
-#### Optional Readings:
+
+Resisting Open Education
+----------------------------------------------
+
+#### Readings due:
 
 Federici and Fuchs Chapters in Peters, M., & Bulut, E. (2011).
 _Cognitive capitalism, education, and digital labor_. New York:
 Peter Lang.
-[selections](https://moodle.adelphi.edu/file.php/53983/peters-2011-
-cognitive-capitalism.pdf)[moodle pdf]
+[selections](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)[moodle pdf]
 
 
 Lightning talks and wrap-up
@@ -511,16 +509,44 @@ Your grade in this area will be a combination of self-, instructor-, and peer-ev
 Open Education Report
 ----------------------------------------------
 
-By the second week of the semester, you will choose an Open 
-Education Project (see list below) to follow and study. You should
-plan to spend at least one hour a week participating in the project.
-Typically, at first, this will mean reading about it and following
-along. As you learn about the community, you can contribute more:
+By the second week of the semester, you will choose an Open  Education Project
+(see list below) to follow and study. You should plan to spend at least one
+hour a week participating in the project. Typically, at first, this will mean
+reading about it and following along. As you learn about the community, you
+can contribute more to its projects.
 
-- communicating via online forums, email lists, IRC, etc.
-- adding or editing resources
+Your final report, due in week 7, will be uploaded to the [Ed Tech Blog](http://au-ed-tech.blogspot.com).
+As we build a number of Open Education case studies, all of the reports must have the
+same format:
 
-<!-- On week 7, when your report is due, you will upload -->
+Introduction
+  ~ narrative description of the project
+  ~ sample works (screenshots, links, diagrams, etc)
+  ~ project goals
+Collaboration
+  ~ how do participants collaborate?
+  ~ what technologies support collaboration?
+  ~ how is quality controlled?
+  ~ how are decisions made and goals set?
+  ~ who is allowed to participate and what access rights do they have?
+Community
+  ~ what principles do participants have in common?
+  ~ how is community maintained?
+  ~ how are new members invited or excluded?
+  ~ how do people learn how to participate?
+Openness
+  ~ in what ways is this project "open"?
+  ~ consider: licenses, technologies, production model, output model, access, cost, APIs
+  ~ how does it fit in with other projects?
+Conclusion
+  ~ how important is this project?
+  ~ what is its potential impact?
+  ~ does it reflect best educational practices and learning sciences?
+  ~ does it support or enhance the social/political goals of education?
+
+Your report should be concise, well edited, and prepared in a way
+that will make it useful for a general audience interested in
+technology and open education. Aim for about 3 pages.
 
 Critical Essay
 ----------------------------------------------
