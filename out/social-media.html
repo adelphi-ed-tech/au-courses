@@ -24,7 +24,7 @@ http://education.adelphi.edu/ed-tech
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Matthew X. Curinga" />
   <meta name="author" content="Laura Martin" />
-  <meta name="date" content="Sunday, 02. February 2014 07:39AM" />
+  <meta name="date" content="Wednesday, 12. February 2014 10:11AM" />
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
 <!--[if lt IE 9]>
@@ -170,7 +170,44 @@ http://education.adelphi.edu/ed-tech
   
   @media print
   {
-      a {color: black;}
+      body
+      {
+          font-size: 10pt;
+          margin: 0;
+          padding: 0;
+          width: 100% !important;
+          min-width: 100% !important;
+          counter-reset: page 1;
+          counter-reset: fig 0;
+      }
+      @page
+      {
+          size: 8.5in 11in;
+          margin: 1in;
+          counter-increment: page;
+          orphans: 3;
+          widows: 3;
+  
+          @top-right
+          {
+              font-family: "FreeSans", "Helvetica", sans-serif; 
+              position: absolute;
+              top: .25in;
+              right: 1in;
+              content: "Syllabus      | " counter(page) " of " counter(pages);
+              font-size: 8pt;
+              font-weight: bold;
+          }
+      }
+  
+      @page:first
+      {
+          @top-right { content: ''; }
+      }
+  
+  
+  
+      a {color: black; !important }
   
       #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
        { content:" <" attr(href) "> "; }
@@ -517,7 +554,7 @@ http://education.adelphi.edu/ed-tech
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Sunday, 02. February 2014 07:39AM</tt></p>
+<p><tt>Last modified: Wednesday, 12. February 2014 10:11AM</tt></p>
 
 
 </footer>

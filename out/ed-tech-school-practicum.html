@@ -24,7 +24,7 @@ http://education.adelphi.edu/ed-tech
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Matthew X. Curinga," />
   <meta name="author" content="Aarong Hung" />
-  <meta name="date" content="Sunday, 02. February 2014 07:39AM" />
+  <meta name="date" content="Wednesday, 12. February 2014 10:11AM" />
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
 <!--[if lt IE 9]>
@@ -170,7 +170,44 @@ http://education.adelphi.edu/ed-tech
   
   @media print
   {
-      a {color: black;}
+      body
+      {
+          font-size: 10pt;
+          margin: 0;
+          padding: 0;
+          width: 100% !important;
+          min-width: 100% !important;
+          counter-reset: page 1;
+          counter-reset: fig 0;
+      }
+      @page
+      {
+          size: 8.5in 11in;
+          margin: 1in;
+          counter-increment: page;
+          orphans: 3;
+          widows: 3;
+  
+          @top-right
+          {
+              font-family: "FreeSans", "Helvetica", sans-serif; 
+              position: absolute;
+              top: .25in;
+              right: 1in;
+              content: "Syllabus      | " counter(page) " of " counter(pages);
+              font-size: 8pt;
+              font-weight: bold;
+          }
+      }
+  
+      @page:first
+      {
+          @top-right { content: ''; }
+      }
+  
+  
+  
+      a {color: black; !important }
   
       #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
        { content:" <" attr(href) "> "; }
@@ -331,19 +368,9 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 <p>Each student will work with a field-based mentor who is a regular employee of a K-12 public school in New York State. Typically field mentors are school or district technology coordinators, school computer or media teachers, principals or assistant principals who have primary responsiblities for technology planning and implementation, or classroom teachers who fill technology leadership roles in their schools. In addition to the field mentor, the course is led by a university faculty supervisor.</p>
 <p><strong>Faculty supervisors</strong></p>
 <ul>
-<li><a href="http://matt.curinga.com">Matthew X. Curinga</a>, <script type="text/javascript">
-<!--
-h='&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x6d;&#x63;&#x75;&#114;&#x69;&#110;&#x67;&#x61;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#x6d;&#x63;&#x75;&#114;&#x69;&#110;&#x67;&#x61;&#32;&#x61;&#116;&#32;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript></li>
+<li><a href="http://matt.curinga.com">Matthew X. Curinga</a>, <a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a></li>
 <li><p><a href="http://goo.gl/maps/XReYB" title="Where is Post Annex? click the link to see it on a map">Post Annex, Room 1</a></p></li>
-<li>Aaron Hung, <script type="text/javascript">
-<!--
-h='&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#104;&#x75;&#110;&#x67;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#104;&#x75;&#110;&#x67;&#32;&#x61;&#116;&#32;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript></li>
+<li>Aaron Hung, <a href="mailto:hung@adelphi.edu">hung@adelphi.edu</a></li>
 <li><p><a href="http://goo.gl/maps/XReYB" title="Where is Post Annex? click the link to see it on a map">Post Annex, Room 2</a></p></li>
 </ul>
 <p><strong>University seminar meetings:</strong> TBD</p>
@@ -487,7 +514,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Sunday, 02. February 2014 07:39AM</tt></p>
+<p><tt>Last modified: Wednesday, 12. February 2014 10:11AM</tt></p>
 
 
 </footer>

@@ -23,7 +23,7 @@ http://education.adelphi.edu/ed-tech
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Matthew X. Curinga" />
-  <meta name="date" content="Sunday, 02. February 2014 07:39AM" />
+  <meta name="date" content="Wednesday, 12. February 2014 10:11AM" />
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
 <!--[if lt IE 9]>
@@ -189,7 +189,44 @@ code > span.er { color: #c3bf9f; }
   
   @media print
   {
-      a {color: black;}
+      body
+      {
+          font-size: 10pt;
+          margin: 0;
+          padding: 0;
+          width: 100% !important;
+          min-width: 100% !important;
+          counter-reset: page 1;
+          counter-reset: fig 0;
+      }
+      @page
+      {
+          size: 8.5in 11in;
+          margin: 1in;
+          counter-increment: page;
+          orphans: 3;
+          widows: 3;
+  
+          @top-right
+          {
+              font-family: "FreeSans", "Helvetica", sans-serif; 
+              position: absolute;
+              top: .25in;
+              right: 1in;
+              content: "Syllabus      | " counter(page) " of " counter(pages);
+              font-size: 8pt;
+              font-weight: bold;
+          }
+      }
+  
+      @page:first
+      {
+          @top-right { content: ''; }
+      }
+  
+  
+  
+      a {color: black; !important }
   
       #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
        { content:" <" attr(href) "> "; }
@@ -355,22 +392,12 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 <p><strong>Description:</strong> This course introduces students to programming and some core concepts of computer science, using a modern, object oriented programming language (currently Python). Students learn concepts of variables, functions, repetition/loops, basic data structures (arrays, lists, hashtables), and basic object oriented programming.</p>
 <p><strong>Instructor</strong></p>
 <ul>
-<li><a href="http://matt.curinga.com">Matthew X. Curinga</a>, <script type="text/javascript">
-<!--
-h='&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x6d;&#x63;&#x75;&#114;&#x69;&#110;&#x67;&#x61;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#x6d;&#x63;&#x75;&#114;&#x69;&#110;&#x67;&#x61;&#32;&#x61;&#116;&#32;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript></li>
+<li><a href="http://matt.curinga.com">Matthew X. Curinga</a>, <a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a></li>
 <li><a href="http://goo.gl/maps/XReYB" title="Where is Post Annex? click the link to see it on a map">Post Annex, Room 1</a></li>
 </ul>
 <p><strong>Teaching assistant</strong></p>
 <ul>
-<li>Hannah Groves, <script type="text/javascript">
-<!--
-h='&#x6d;&#x61;&#x69;&#108;&#46;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#104;&#x61;&#110;&#110;&#x61;&#104;&#x67;&#114;&#x6f;&#118;&#x65;&#x73;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#104;&#x61;&#110;&#110;&#x61;&#104;&#x67;&#114;&#x6f;&#118;&#x65;&#x73;&#32;&#x61;&#116;&#32;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript></li>
+<li>Hannah Groves, <a href="mailto:hannahgroves@mail.adelphi.edu">hannahgroves@mail.adelphi.edu</a></li>
 </ul>
 <p><strong>Class meetings:</strong> Tues. 6:30-8:20PM, Harvey 104</p>
 <p><strong>Ms. Groves Lab Hours</strong></p>
@@ -810,7 +837,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Sunday, 02. February 2014 07:39AM</tt></p>
+<p><tt>Last modified: Wednesday, 12. February 2014 10:11AM</tt></p>
 
 
 </footer>

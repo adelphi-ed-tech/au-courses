@@ -134,7 +134,44 @@ blockquote
 
 @media print
 {
-    a {color: black;}
+    body
+    {
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        width: 100% !important;
+        min-width: 100% !important;
+        counter-reset: page 1;
+        counter-reset: fig 0;
+    }
+    @page
+    {
+        size: 8.5in 11in;
+        margin: 1in;
+        counter-increment: page;
+        orphans: 3;
+        widows: 3;
+
+        @top-right
+        {
+            font-family: "FreeSans", "Helvetica", sans-serif; 
+            position: absolute;
+            top: .25in;
+            right: 1in;
+            content: "Syllabus      | " counter(page) " of " counter(pages);
+            font-size: 8pt;
+            font-weight: bold;
+        }
+    }
+
+    @page:first
+    {
+        @top-right { content: ''; }
+    }
+
+
+
+    a {color: black; !important }
 
     #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
      { content:" <" attr(href) "> "; }

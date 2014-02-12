@@ -334,8 +334,7 @@ HTML & CSS
 * [W3C](http://www.w3.org/), read the official specifications
 * [Treehouse](http://teamtreehouse.com/), free trial of web, design,
   and other tutorials
-* [Mozilla Developer
-* Network](https://developer.mozilla.org/en-US/learn), html, css, &
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/learn), html, css, &
   javascript
 * [W3 Schools](http://www.w3schools.com/), html reference and
   tutorials

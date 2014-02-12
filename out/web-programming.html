@@ -24,7 +24,7 @@ http://education.adelphi.edu/ed-tech
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Matthew X. Curinga" />
   <meta name="author" content="Antonios Saravanos" />
-  <meta name="date" content="Sunday, 02. February 2014 07:39AM" />
+  <meta name="date" content="Wednesday, 12. February 2014 10:11AM" />
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
 <!--[if lt IE 9]>
@@ -190,7 +190,44 @@ code > span.er { color: #c3bf9f; }
   
   @media print
   {
-      a {color: black;}
+      body
+      {
+          font-size: 10pt;
+          margin: 0;
+          padding: 0;
+          width: 100% !important;
+          min-width: 100% !important;
+          counter-reset: page 1;
+          counter-reset: fig 0;
+      }
+      @page
+      {
+          size: 8.5in 11in;
+          margin: 1in;
+          counter-increment: page;
+          orphans: 3;
+          widows: 3;
+  
+          @top-right
+          {
+              font-family: "FreeSans", "Helvetica", sans-serif; 
+              position: absolute;
+              top: .25in;
+              right: 1in;
+              content: "Syllabus      | " counter(page) " of " counter(pages);
+              font-size: 8pt;
+              font-weight: bold;
+          }
+      }
+  
+      @page:first
+      {
+          @top-right { content: ''; }
+      }
+  
+  
+  
+      a {color: black; !important }
   
       #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
        { content:" <" attr(href) "> "; }
@@ -299,6 +336,33 @@ code > span.er { color: #c3bf9f; }
   }
   
   </style>
+  <style type="text/css">
+  pre.sourceCode
+  {
+    width: 50%;
+    padding: 1em;
+  }
+  
+  
+  #class-sessions { counter-reset: week; }
+  #class-sessions h2:before {
+      counter-increment: week;
+      content: "Week " counter(week) ": " 
+  }
+  
+  #class-sessions h2
+  {
+      margin-left: -1em;    
+  }
+  
+  #class-sessions>section
+  {
+      border: 1px solid black;
+      margin: 1em 0 0 0;
+      padding: 0 2em;
+  }
+  
+  </style>
 
 
 </head>
@@ -375,12 +439,7 @@ code > span.er { color: #c3bf9f; }
 <h1><a href="#office-hours">Office Hours</a></h1>
 <dl>
 <dt>Matt Curinga, Post Annex, Room 1</dt>
-<dd><script type="text/javascript">
-<!--
-h='&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x6d;&#x63;&#x75;&#114;&#x69;&#110;&#x67;&#x61;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#x6d;&#x63;&#x75;&#114;&#x69;&#110;&#x67;&#x61;&#32;&#x61;&#116;&#32;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript>
+<dd><a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a>
 </dd>
 <dd>Tuesday 3pm - 5pm
 </dd>
@@ -394,12 +453,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <h1><a href="#lab-hours">Lab Hours</a></h1>
 <dl>
 <dt>Hannah Groves, Harvey 104</dt>
-<dd><script type="text/javascript">
-<!--
-h='&#x6d;&#x61;&#x69;&#108;&#46;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#104;&#x61;&#110;&#110;&#x61;&#104;&#x67;&#114;&#x6f;&#118;&#x65;&#x73;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#104;&#x61;&#110;&#110;&#x61;&#104;&#x67;&#114;&#x6f;&#118;&#x65;&#x73;&#32;&#x61;&#116;&#32;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x61;&#100;&#x65;&#108;&#112;&#104;&#x69;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript>
+<dd><a href="mailto:hannahgroves@mail.adelphi.edu">hannahgroves@mail.adelphi.edu</a>
 </dd>
 <dd>Thursday 6:30pm - 8:20pm
 </dd>
@@ -696,8 +750,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <ul>
 <li><a href="http://www.w3.org/">W3C</a>, read the official specifications</li>
 <li><a href="http://teamtreehouse.com/">Treehouse</a>, free trial of web, design, and other tutorials</li>
-<li>[Mozilla Developer</li>
-<li>Network](https://developer.mozilla.org/en-US/learn), html, css, &amp; javascript</li>
+<li><a href="https://developer.mozilla.org/en-US/learn">Mozilla Developer Network</a>, html, css, &amp; javascript</li>
 <li><a href="http://www.w3schools.com/">W3 Schools</a>, html reference and tutorials</li>
 <li><a href="http://codeacademy.com">CodeAcademy</a></li>
 </ul>
@@ -742,7 +795,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Sunday, 02. February 2014 07:39AM</tt></p>
+<p><tt>Last modified: Wednesday, 12. February 2014 10:11AM</tt></p>
 
 
 </footer>
