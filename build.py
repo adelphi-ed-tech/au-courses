@@ -18,13 +18,13 @@ except:
 # you need to create your own settings.py, or just enter these vars here
 from settings import url, user, pw
 
-def GenerateAllCourses(html, raw):
+def GenerateAllCourses(html, raw, word):
     courses = [f[:-3] for f in os.listdir("courses") if f.endswith(".md")]
     pagesToBuild = []
     for c in courses:
         if(IsModified(c)):
             print("rebuilding course: %s" % (c,))
-            GenerateCourse(html, raw, c)
+            GenerateCourse(html, raw, word, c)
             pagesToBuild.append(c)
     PushToWeb(pagesToBuild)
 
@@ -36,10 +36,11 @@ def ModTimeIfExists(path):
 def IsModified(course):
     """check to see if any relevant course materials have been modified
        since this course was last built."""
-    rawMod = ModTimeIfExists("raw/%s.html" % (course,))
-    outMod = ModTimeIfExists("out/%s.html" % (course,))
+    rawMod = ModTimeIfExists("raw/{}.html".format(course))
+    outMod = ModTimeIfExists("out/{}.html".format(course))
+    wordMod = ModTimeIfExists("word/{}.docx".format(course))
 
-    lastBuilt = min(rawMod,outMod)
+    lastBuilt = min(rawMod, outMod, wordMod)
 
     if(lastBuilt == 0):
         return True
@@ -63,24 +64,33 @@ def IsModified(course):
 
     return mostRecentChange > lastBuilt
     
-def GenerateCourse(html, raw, course):
+def GenerateCourse(html, raw, word, course):
     pwd = os.getcwd()
-    args = dict()
+    args = {}
     args["course"] = course
     courseCSS = os.path.join(pwd,"css/%s.css" % (course,))
     args["courseCSS"] = IncludeIfExists(courseCSS, "-H")
 
+
     footer = os.path.join(pwd,"tmpl/footer.html")
     args["footer"] = IncludeIfExists(footer, "-A")
-    args["out"] = "out"
 
+    # build standalone HTML versions
+    args["out"] = "out"
     cmd = html.substitute(args)
     subprocess.check_call(cmd,shell=True)
 
+    # build HTML fragment version
     args["out"] = "raw"
     cmd = raw.substitute(args)
-    print(cmd)
     subprocess.check_call(cmd,shell=True)
+
+    # build MS Word version (due to institutional coercion)
+    args["out"] = "word"
+    cmd = word.substitute(args)
+    subprocess.check_call(cmd,shell=True)
+
+
 
 def GetWebPages():
     # the most stable way to access WordPress is to
@@ -130,11 +140,17 @@ def IncludeIfExists(path, arg):
 def GetTemplate(tmpl):
     dt = datetime.datetime.now()
     return Template("pandoc --email-obfuscation=none -S --toc --highlight-style zenburn -t html5 --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
+
+def GetWordTemplate():
+    dt = datetime.datetime.now()
+    return Template("pandoc -S --toc --highlight-style zenburn -t docx -V date='%s' $$(pwd)/courses/$course.md -o word/$course.docx" % (dt.strftime("%A, %d. %B %Y %I:%M%p")))
+
     
 def main():
     html = GetTemplate("adelphi")
     raw = GetTemplate("raw")
-    GenerateAllCourses(html, raw)
+    word = GetWordTemplate()
+    GenerateAllCourses(html, raw, word)
 
 if __name__ == "__main__":
     main()
