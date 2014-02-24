@@ -18,10 +18,10 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 
 
-[**Computer Science 0145-602, Fall 2013**](https://moodle.adelphi.edu/course/view.php?id=63723 "Go to the course website")
+[**Computer Science 0145-602, Fall 2013**](https://moodle.adelphi.edu/course/view.php?id=63723 "Go to the course website on Moodle")
 
 **Keywords:**  computer programming, CS1, python, computational thinking, 
-critical computational literacy
+critical computational literacy, Python
 
 **Description:** This course introduces students to programming and 
 some core concepts of computer science, using a modern, object oriented
@@ -29,26 +29,37 @@ programming language (currently Python). Students learn concepts of
 variables, functions, repetition/loops, basic data structures 
 (arrays, lists, hashtables), and basic object oriented programming.
 
+**Class meetings:** Tues. 6:30-8:20PM, Harvey 104
+
 **Instructor**
 
 * [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
 * [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
 
-**Teaching assistant**
-
-* Hannah Groves, <hannahgroves@mail.adelphi.edu>
-
-**Class meetings:** Tues. 6:30-8:20PM, Harvey 104
-
-**Ms. Groves Lab Hours**
-
-* Thursday, 6pm-8:30pm, Harvey 104 and/or Google Hangout
-
-**Dr. Curinga Office Hours**
+**Dr. Curinga's Office Hours**
 
 * Tuesday, 4:30-6:30PM
 * Thursday, 3-5PM
 * Online or in person, by appointment
+
+**Teaching assistant**
+
+* Hannah Groves, <hannahgroves@mail.adelphi.edu>
+
+**Ms. Groves' Lab Hours**
+
+* Thursday, 6pm-8:30pm, Harvey 104 and/or Google Hangout
+
+Learning Goals
+===========================
+
+* understand the types of problems that can be solved using computational techniques
+* understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections) 
+* learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion) 
+* think algorithmically to design and test computer programs 
+* master the basic syntax and idioms of the Python programming language 
+* use technical documentation, APIs, and the internet to learn new technical concepts 
+* develop step-by-step problem solving and debugging practices
 
 
 Required Text
@@ -474,7 +485,7 @@ Here are some ideas, though, that might get you started.
      do they use? how do they use language to shade the issues that are
      most crucial to their supporters?
    - what are the characteristics of a great speech? are the similarities
-     between the rhetorical styles of Lincoln, Churchhill, King, Malcom X
+     between the rhetorical styles of Lincoln, Churchill, King, Malcom X
      and others?
 
 ### Project 3: Refactoring & Visualization
