@@ -58,6 +58,20 @@ a university faculty supervisor.
 
 **Dr. Hung Office Hours**
 
+Learning Goals
+------------------------
+Students who complete this course should be ready to assume technology leadership roles in K-12 schools. In particular, they should be prepared to: 
+
+- plan and teach a series of enrichment classes for students, in an area of computers and digital media 
+  (digital video, game design,  robotics, programming, web design) or in a content area with technology enrichment
+- write a technology grant for the school 
+- create or improve the school websites, especially to make it a learning resource for students and families 
+- design and implement professional development for the school's teachers and staff based on 
+  mentoring and coachning models that are proven effective on fostering more effective pedagogy
+- install or upgrade the learning technology infrastructure in the school computer lab, classrooms, or library 
+- develop a multi-year technology plan  
+
+
 
 Required Text
 ------------------------------------------------------------------------
