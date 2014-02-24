@@ -28,14 +28,34 @@ and multimodal semiotics. They write philosophical
 critiques of current media, and develop original media projects 
 informed by course readings.
 
+**Cylce 2:** Nov. 1 — Jan. 12
+
+**Class meetings:** Online
+
 **Instructor**
 
 * [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
 * [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
 
-**Cylce 2:** Nov. 1 -- Jan. 12
+## Goals and Objectives
 
-**Class meetings:** Online
+The course provides students with a broad historical perspective of the
+philosophical positions on the role of technology in society. In
+addition to understanding how technology is used, students should also
+be aware of how it changes our relation to mind, perception, reality and
+society.
+
+By the end of the course, students should be able to:
+
+1.  Understand major topics in philosophy of technology
+2.  Apply a philosophical lens to critique current and emerging
+    technologies
+3.  Compare and contrast different philosophical traditions and
+    synthesize them to make coherent arguments and assess the role of
+    technology in society
+4.  Understand various positions (e.g. feminist, anti-technology, post-colonial)
+    and why they are relevant to the development and use of educational
+    technology
 
 **Dr. Curinga Office Hours**
 
