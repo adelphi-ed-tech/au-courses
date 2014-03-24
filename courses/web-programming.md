@@ -308,7 +308,7 @@ The project will be graded on the following criteria:
     - usability
     - media (images, video, audio)
     - typography
-3. **Information architecture (10 pts)::**
+3. **Information architecture (10 pts):**
     - logical structure of information
     - organization of internal links on page
 4. **Impact (5 pts):**
