@@ -4,12 +4,15 @@
   Gillian "Gus" Andrews
 
 
-1. Literacy
+1. Critical Literacy
 2. Media, new and old
 3. Media literacy
-4. Visual studies
-5. Community literacy
-6. Computer literacy & computatonal thinking
+4. Media & self
+5. The visual
+6. Media ecologies
+7. Information literacy
+8. Computatonal thinking
+
 
 
 
@@ -35,7 +38,7 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 theory, youth media, media studies, software studies
 
 Description
---------------------
+====================
 How do multimedia, texting, chat, status updates, and hypertext change the way we read and interpret texts? Students study various theories of literacy and how it changes with the introduction of digital technologies. Readings will include selections on new media, new literacy, multiliteracies, multimedia cognition, and visual semantics.
 
 This foundational course provides students a conceptual framework to critically interpret digital media, and to author powerful and effective digital documents. Students have the opportunity to practice and develop these skills, which are central to many aspects of the degree in Educational Technology.
@@ -44,7 +47,7 @@ This foundational course provides students a conceptual framework to critically 
 ------------------------------------------------------------------------
 
 Class Information
-------------------
+====================
 **Instructor:**
 
 - [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
@@ -68,7 +71,7 @@ Classes meet 2pm-6pm at Adelphi Manhattan.
 
 
 Goals & objectives
---------------------
+====================
 
 Two overarching goals drive this course. First, students should
 understand the literacy skills required to critically interpret digital
@@ -89,20 +92,23 @@ the tools and techniques of digital media. More specifically:
   attention to concerns of power and equity online and in classrooms.
 
 Class sessions
---------------
+====================
 
-### DAY 1: INTRODUCTION TO DIGITAL LITERACIES
+DAY 1: Critical literacy
+------------------------------
 
-#### Readings due:
+### Readings due:
+* Pedagogy of the Oppressed
 * Gee (2009) Digital media and learning as an emerging field, Part I: How we got here. _International Journal of Learning and Media_, 1(2), pp. 13-23
 * The New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. Harvard Educational Review, 66(1), 60-92.
 
-#### Assignments due:
+### Assignments due:
 * My Digital History Lightning Talk
 
-### DAY 2: NEW MEDIA ECOLOGIES
+DAY 2: Media, new and old
+------------------------------
 
-#### Readings due:
+### Readings due:
 * Ito et al, (2010) _Hanging out, messing around, and geeking out._ Introduction and Ch. 1 (pp. 1-78). 
 * Grazian, D. 2010) Mix it up: Popular culture, mass media, and society. Ch. 10 (pp. 196-213).
 
@@ -111,53 +117,57 @@ Supplemental Resources:
 * Watchdogs <http://wearedata.watchdogs.com>: A stunning example of how data is used today.
 * NET-S <http://www.iste.org/standards>: National Educational Technology Standards (NETS) for the digital age.
 
-### DAY 3: MEDIA LITERACY
-
-#### Readings due: 
+DAY 3: Media Literacy
+------------------------------
+### Readings due: 
 * Burniske, R. W. (2008) Literacy in the Digital Age. Thousand Oaks, CA: Corwin Press. (Chapter 1)
 * Baker, F. W. (2012) Media literacy in the K-12 classroom. International Society for Technology in Education. Chapter 2.
-* Scheibe, C. and Rogow, F. (2011) Teacher's guide to media literacy: Critical thinking in a multimedia world. New York: Corwin. Ch. 2 (optional), Ch. 6 (look at content area relevant to you).Ito et al, (2010) Hanging out, messing around, and geeking out. Ch. 2 (pp. 79-115).
 
-### DAY 4: VISUAL LITERACY
+DAY 4: VISUAL LITERACY
+------------------------------
 
-#### Readings due: 
+### Readings due: 
 * Burniske, R. W. (2008) Literacy in the Digital Age. Thousand Oaks, CA: Corwin Press. (Ch. 6)
 * Tufte, E. (2001) The cognitive style of PowerPoint.
 * Envisioning information (PPT).
 
-### DAY 5: PRIVACY AND SECURITY
+DAY 5: Information literacy
+------------------------------
 Videos: 
 * Steve Rambam: Privacy: A postmortem (https://www.youtube.com/watch?v=L5otnMs0jSQ)
 * Alessandro Acquisti: Why privacy matters (http://www.ted.com/talks/alessandro_acquisti_why_privacy_matters.html)
 
 
-### DAY 6: DIGITAL LIFE
+DAY 6: DIGITAL LIFE
+------------------------------
 
-#### Readings due: 
+### Readings due: 
 * Burniske, R. W. (2008) Literacy in the Digital Age. Thousand Oaks, CA: Corwin Press. (Chapters 3-5)
 * Merchant, G. (2010) View my profile(s). In D. E. Alvermann (Ed.), Adolescents’ Online Literacies (pp. 51-70). New York, NY: Peter Lang.
 * Lam, Wan Shun Eva (2009). Multiliteracies on instant messaging in negotiating local, translocal, and transnational affiliations: A case of an adolescent immigrant. Reading Research Quarterly, 44(4): 377-397. 
 
-### DAY 7: PARTICIPATION AND PRODUCTION
+DAY 7: PARTICIPATION AND PRODUCTION
+------------------------------
 
-#### Readings due: 
+### Readings due: 
 * Ito et al, (2010) Hanging out, messing around, and geeking out. Ch. 6 (pp. 243-293).
 * Jenkins, H. (2006). Confronting the challenges of participatory culture: Media education for the 21st century. MacArthur Foundation.
 Supplemental Resources (Optional):
 * Yasseri T., Spoerri A., Graham M., and Kertész J. (2014) The most controversial topics in Wikipedia: A multilingual and geographical analysis. In P. Fichman & N. Hara (Eds.), Global Wikipedia: International and cross-cultural issues in online collaboration.
 
-#### Assignments due:
+### Assignments due:
 * Mini-unit
 
-### DAY 8: WORK AND SOCIETY
+DAY 8: WORK AND SOCIETY
+------------------------------
 
-#### Readings due: 
+### Readings due: 
 * Ito et al, (2010) Hanging out, messing around, and geeking out. Ch. 6 (pp. 243-293).
 * Jenkins, H. (2006). Confronting the challenges of participatory culture: Media education for the 21st century. MacArthur Foundation.
 Supplemental Resources (Optional):
 * Yasseri T., Spoerri A., Graham M., and Kertész J. (2014) The most controversial topics in Wikipedia: A multilingual and geographical analysis. In P. Fichman & N. Hara (Eds.), Global Wikipedia: International and cross-cultural issues in online collaboration.
 
-#### Assignments due:
+### Assignments due:
 * Hidden Gems write-up
 * Digital Portfolio
 
@@ -165,7 +175,8 @@ Supplemental Resources (Optional):
 Assignments
 ------------
 
-### Digital portfolio
+Digital portfolio
+------------------------------
 You will create a digital portfolio that highlights your understanding and proficiency with various digital literacies. You will be adding items to this portfolio throughout the term. You _must_ show a breadth of expertise, with basic proficiency in each area of digital literacy. Additionally, you _must_ demonstrate a depth of expertise in at least one of the areas below. You will turn in your portfolio for a midpoint check at the end of the first week, and for final evaluation at the end of the course, along with a narrative introduction that guides evaluators through it.
 
 You will host your digital portfolio on your Adelphi ``panther`` account.
@@ -215,10 +226,11 @@ Data literacy
     * [Wikipedia Data](http://dumps.wikimedia.org/index.html) for the more ambitious
     * [Datamob "meta" collector of datasets](http://datamob.org/datasets)
 
-### Participation
-Your participation in the course is what makes it worthwhile to you and the other participants. Your participation grade will be based on your self-evaluation and peer evaluations.
+Participation
+------------------------------
 
-------------------------------------------------------------------------
-
+Your participation in the course is what makes it worthwhile to you
+and the other participants. Your participation grade will be based
+on your self-evaluation and peer evaluations.
 
     
