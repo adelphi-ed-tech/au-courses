@@ -11,12 +11,12 @@ try:
     from wordpress_xmlrpc.methods import posts
     from wordpress_xmlrpc import WordPressPage
     pushToWordPress = True
+    
+    # you need to create your own settings.py, or just enter these vars here
+    from settings import url, user, pw
 except:
     print("no wordpress support")
     pushToWordPress = False
-
-# you need to create your own settings.py, or just enter these vars here
-from settings import url, user, pw
 
 def GenerateAllCourses(html, raw, word):
     courses = [f[:-3] for f in os.listdir("courses") if f.endswith(".md")]
