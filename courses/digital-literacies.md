@@ -18,7 +18,7 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Educational Technology 0858-501, Summer Institute Edition '14**
+**Educational Technology 0858-501, Spring 2015**
 
 **Key words:** digital literacies, multileracies, new literacy, semantics, new media, communication
 theory, youth media, media studies, software studies
@@ -28,6 +28,7 @@ Description
 How do multimedia, texting, chat, status updates, and hypertext change the way we read and interpret texts? Students study various theories of literacy and how it changes with the introduction of digital technologies. Readings will include selections on new media, new literacy, multiliteracies, multimedia cognition, and visual semantics.
 
 This foundational course provides students a conceptual framework to critically interpret digital media, and to author powerful and effective digital documents. Students have the opportunity to practice and develop these skills, which are central to many aspects of the degree in Educational Technology.
+
 
 
 ------------------------------------------------------------------------
