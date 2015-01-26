@@ -16,7 +16,7 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Educational Technology 0858-502, Spring 2014**
+**Educational Technology 0858-502, Spring 2015**
 
 **Keywords:** open education, deschooling, OER, free culture, 
 networked learning, peer-to-peer learning, p2p learning, open source 
@@ -60,12 +60,11 @@ education, and what we want it to look like.
 
 **Class meetings:**
 
-- Tues. 4:30-6:20, Harvey 104 and online
+- Thurs. 7:00-8:50, Room 272 and online
 
 **Office hours:**
 
-- Monday, 3-5PM
-- Tuesday, 2:30-4:30PM
+- Wed, 2:30-4:30PM
 - Online or in person, by appointment
 
 Readings
@@ -175,33 +174,33 @@ linked to your Adelphi ID/gmail account.
 
 Schedule, format, & session leaders
 ====================================
+ 
+ Date    Format               Topic
+-------- --------       ---------------------------------------------
+  Jan 29  online        Foundations of Open Education
+   Feb 5  in person     Doing "open learning"
+  Feb 12  online        Deschooling
+  Feb 19  in person     Ignorant Schoolmaster
+  Feb 26  online        Connected Learning
+   Mar 5  in person     Free Software/Open Source Software
+  Mar 12  online        Peer production
+  Mar 19  Spring break         -
+  Mar 26  online        Free Culture & Open Content
+   Apr 2  in person     Open Education Resources
+   Apr 9  online        The Commons
+  Apr 16  in person     Wikipedia
+  Apr 23  online        MOOCs: Massively Open Online Courses
+  Apr 30  in person     The Future University (MOOCs and More)
+   May 7  online        Resisting Open Education
+  May 14  in person     Wrap-up
 
 
-Session           Date      Format       Topic
---------------   ------    ----------    ------------------------------
-             1     1/28    in person     Foundations of Open Education
-             2      2/4    online        Doing "open learning"
-             3     2/11    in person     Deschooling
-             4     2/18    online        Ignorant Schoolmaster
-             5     2/25    in person     Connected Learning
-             6      3/4    online        Free Software/Open Source Software
-             7     3/11    in person     Peer production
-_Spring break_     3/18       -                -
-             8     3/25    in person     Free Culture & Open Content
-             9      4/1    online        Open Education Resources
-            10      4/8    in person     The Commons
-            11     4/15    online        Wikipedia
-            12     4/22    in person     MOOCs: Massively Open Online Courses
-            13     4/29    online        The Future University (MOOCs and More)
-            14      5/6    online        Resisting Open Education
-            15     5/13    in person     Wrap-up
-
-* **In person** classes meet on Tuesday. at 4:30 in Harvey 104.
+* **In person** classes meet on Thursdays at 7pm, Manhattan Center Room 272
 * **online** weeks have no set meeting time. They will be carried
   out by posting writing, video, or other media to the course website.
   You should consult with your _study group_ every week. During
   asynchronous weeks, you **must check the course website at least
-  once a day.** Online weeks run from Wednesday to the next Wednesday.
+  once a day.** Online weeks run from Thursday to the next Thursday.
   A typical online week looks like this:
     - Tues-Fri: do the readings
     - Sat or Sun: post your response online (300-500 words), due by end of day on Sunday
