@@ -88,7 +88,11 @@ def GenerateCourse(html, raw, word, course):
     # build MS Word version (due to institutional coercion)
     args["out"] = "word"
     cmd = word.substitute(args)
-    subprocess.check_call(cmd,shell=True)
+    try:
+        subprocess.check_call(cmd,shell=True)
+    except Exception as ex:
+        print('failed to generate word doc for {}'.format(course))
+        print(ex)
 
 
 

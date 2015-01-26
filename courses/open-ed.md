@@ -63,9 +63,12 @@ education, and what we want it to look like.
 - Thurs. 7:00-8:50, Room 272 and online
 
 **Office hours:**
+Manhattan
+: Tues, 4pm-6pm
+: Thurs, 3pm-5pm
 
-- Wed, 2:30-4:30PM
-- Online or in person, by appointment
+Garden City 
+:  Wed, 2:30-4:30PM
 
 Readings
 ====================================
@@ -155,26 +158,6 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_
 Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
-Tools
-====================================
-
-_Here are some of the digital tools that we will be using to facilitate this course, especially the online portions._
-
-* [@celly](http://cel.ly) provides text messaging groups. You can opt-in
-to receive class-related text messages by texting @open-ed to 23559.
-You will need the password (ask Prof. Curinga)
-* [Skype](http://skype.com)
-is a well tested video chat service. There are clients for Win,
-MacOS, Linux, Android, iOS, etc. The free version limits the number
-of people to group chats.
-* [Google+](http://plus.google.com) has a
-Hangout feature that has a robust multi-person video chat, which
-also supports screen sharing, document editing, and other advanced
-features. You need to set up your profile on G+, google's social
-networking site, even if you just want the hangouts, but it will be
-linked to your Adelphi ID/gmail account.
-
-
 Schedule, format, & session leaders
 ====================================
  
@@ -216,11 +199,14 @@ Foundations of Open Education
 -----------------------------------------------
 
 #### Readings due:
-Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
+
+Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_
+Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
 [Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
 
 <!-- 
+
 Moodle Post:
 Tell us about the most important thing you learned _outside of school_. You might consider: Why is it important? How did you learn it? What people and things made it possible for you to learn it? Can you learn other things this way?
 
@@ -232,6 +218,18 @@ Tell us about the most important thing you learned _outside of school_. You migh
     a. Topics are first come, first serve.
     b. You are responsible for setting up your week on Moodle before next class
 3. Choose an "open education" project to participate in and study
+
+Connected Learning
+----------------------------------------------
+
+#### Readings due:
+Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
+
+Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
+
+Siemens, G. (2004). [Connectivism: A learning theory for the digital age](http://www.elearnspace.org/Articles/connectivism.htm). _eLearn Space_.
+
+Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:24]. TEDxUIUC.
 
 Deschooling
 ----------------------------------------------
@@ -247,19 +245,7 @@ Ignorant Schoolmaster
 #### Readings due:
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in 
 Intellectual Emancipation_. Stanford University Press. USA. 
-[_Chapters 1, 2 & 3_](https://moodle.adelphi.edu/mod/resource/view.php?id=782721) [moodle]
-
-Connected Learning
-----------------------------------------------
-
-#### Readings due:
-Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
-
-Siemens, G. (2004). [Connectivism: A learning theory for the digital age](http://www.elearnspace.org/Articles/connectivism.htm). _eLearn Space_.
-
-Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:24]. TEDxUIUC.
-
-(optional) Crouch, C. H., & Mazur, E. (2001). [Peer instruction: Ten years of experience and results](http://newfaculty.mst.edu/documents/MazurActiveLearning.pdf). _American Journal of Physics_, _69_, 970.
+[_Chapters 1 & 2_](https://moodle.adelphi.edu/mod/resource/view.php?id=782721) [moodle]
 
 Free Software/Open Source Software
 ----------------------------------------------
@@ -303,17 +289,12 @@ Question Copyright. (2011). [Copying Is Not Theft](http://youtu.be/IeTybKL1pM4?h
 #### Optional Reading:
 Lessig, L. (2004). [_Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_](http://www.free-culture.cc/freeculture.pdf). Penguin Press HC.
 
-Lessig, L. [Collection of Lessig Videos](blip.tv/lessig) Blip.tv
+Lessig, L. [Collection of Lessig Videos](http://blip.tv/lessig) Blip.tv
 
 [Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html) [video]
 
 Open Education Resources
 ----------------------------------------------
-
-For this weeks readings, download the creative commons book,
-[_Opening Up Education: The Collective Advancement of Education
-through Open Technology, Open Content, and Open
-Knowledge_](https://moodle.adelphi.edu/file.php/53983/iiyoshi-2008-opening-up-ed.pdf).
 
 #### Readings due:
 (2007) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
@@ -323,7 +304,14 @@ Unesco. (2012) ["The UNESCO Paris Declaration."](http://www.unesco.org/new/filea
 Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
 
 
-<!-- McGrath, O. (2008). Open educational technology: Tempered aspirations. In T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_ (pp. 13–26). Cambridge  Mass.: MIT Press.
+<!-- 
+
+For this weeks readings, download the creative commons book,
+[_Opening Up Education: The Collective Advancement of Education
+through Open Technology, Open Content, and Open
+Knowledge_](https://moodle.adelphi.edu/file.php/53983/iiyoshi-2008-opening-up-ed.pdf).
+
+McGrath, O. (2008). Open educational technology: Tempered aspirations. In T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_ (pp. 13–26). Cambridge  Mass.: MIT Press.
 
 Casserly, C. M., & Smith, M. S. (2008). Revolutionizing Education
 through Innovation: Can Openness Transform Teaching and Learning? In
@@ -336,6 +324,7 @@ Barriers to Open Education. In T. Iiyoshi & M. S. V. Kumar (Eds.),
 Opening Up Education: The Collective Advancement of Education
 through Open Technology, Open Content, and Open Knowledge (pp.
 47–59). Cambridge  Mass.: MIT Press.
+
 -->
 
 The Commons
@@ -425,18 +414,18 @@ Assignments
 
 #### Due Dates and Grading
 
-Assignment                  Due                     % of final grade
------------------           ----------------------  -----------------
-Participation               ongoing                 20%
-Session leader              varied                  20%
-Open Education Report       session 7               25%
-Critical Essay              final class             25%
-Open Ed Lightning Talk      final class             10%
+Assignment                   Due             % of final grade
+---------------------------  --------------  -----------------
+Participation                ongoing         20%
+Session leader               varied          20%
+Open Education Report        session 7       25%
+Critical Essay               final class     25%
+Video Dictionary Definition  final class     10%
 
 Participation
 ----------------------------------------------
 
-This will be a reading-heavy course. Whether
+This is a reading-oriented course. Whether
 class is conducted in-person or asynchronously online,
 you are expected to be prepared each week. In a typical week, there
 will be 40-80 pages of reading. Sometimes there will be videos to
@@ -552,7 +541,7 @@ Critical Essay
 Choose an area of interest that has arisen out of
 the course readings and discussions and write a reflective essay on
 this topic. Follow 
-[Chris Higgins' Notes on thecritical-interpretive essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpretive_essay)
+[Chris Higgins' Notes on the critical-interpretive essay](http://www.studyplace.org/wiki/Notes_on_the_critical-interpretive_essay)
 for the structure of this essay, which should be: _focused_,
 _interesting_, _motivated_, and _controversial_. The chapters in
 _Cognitive Capitalism, Education, and Digital Labor_ are typical of
