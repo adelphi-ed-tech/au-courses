@@ -161,24 +161,24 @@ Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 Schedule, format, & session leaders
 ====================================
  
-Session   Date    Format               Topic
-------- --------  --------      ---------------------------------------------
+Session   Date    Format        Topic                                       Assignment
+------- --------  --------      ------------------------------------------  -----------
    1      Jan 29  online        Foundations of Open Education
-   2       Feb 5  in person     Doing "open learning"
-   3      Feb 12  online        Deschooling
-   4      Feb 19  in person     Ignorant Schoolmaster
-   5      Feb 26  online        Connected Learning
-   6       Mar 5  in person     Free Software/Open Source Software
-   7      Mar 12  online        Peer production
-   -      Mar 19  Spring break         -
-   8      Mar 26  online        Free Culture & Open Content
-   9       Apr 2  in person     Open Education Resources
+   2       Feb 5  in person     Connected Learning
+   3      Feb 12  online        Open Education Resources
+   4      Feb 19  in person     Open Education Resource Reports             OER Report
+   5      Feb 26  online        Deschooling                        
+   6       Mar 5  in person     Ignorant Schoolmaster
+   7      Mar 12  online        Free Software/Open Source Software
+   -      Mar 19  Spring break  Peer production
+   8      Mar 26  online               -
+   9       Apr 2  in person     Free Culture & Open Content
   10       Apr 9  online        The Commons
   11      Apr 16  in person     Wikipedia
   12      Apr 23  online        MOOCs: Massively Open Online Courses
   13      Apr 30  in person     The Future University (MOOCs and More)
   14       May 7  online        Resisting Open Education
-  15      May 14  in person     Wrap-up
+  15      May 14  in person     Video Dictionary
        
 
 * **In person** classes meet on Thursdays at 7pm, Manhattan Center Room 272
