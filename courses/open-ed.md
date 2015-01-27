@@ -580,14 +580,18 @@ Open Ed Video Dictionary Entry
 -------------------------------
 Terms
 
-- Open Education Resource (OER)
-- Creative Commons
-- Open Source
-- Free Software
-- Open Access
-- MOOC
+- Badges
 - Copyright
+- Creative Commons
+- Free Software
+- MOOC
+- Open Access
 - Open Data
+- Open Education Resource (OER)
+- Open Source
+- Open Video
+- Free Culture
+- Commons
 
 Open Education Projects
 ====================================
@@ -633,6 +637,7 @@ questions that might inform you study:
     * [MERLOT](http://www.merlot.org/merlot/index.htm)
 * Free Open Source Software for Education
     * [Moodle](http://www.moodle.org)
+    * [Canvas](https://github.com/instructure/canvas-lms/wiki)
     * [BuddyPress](http://buddypress.org/)
     * [EduBuntu](http://www.edubuntu.org/)
     * [Mahara](https://mahara.org/)
@@ -640,10 +645,13 @@ questions that might inform you study:
 
 **Find your own:**
 
-_Here are some other lists of Open Ed projects_.
+_Related links and sites.
 
+* [On the Commons](http://www.onthecommons.org/)
 * [OER Commons](http://www.oercommons.org/)
 * [Open Courseware Consortium](http://www.ocwconsortium.org/)
 * [OER Consortium](http://oerconsortium.org/)
 * [Creative Commons Education](http://creativecommons.org/education)
 * [FOSsil Bank](http://fossilbank.wikidot.com/)
+* [P2P Foundation](http://p2pfoundation.net/)
+
