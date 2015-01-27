@@ -161,25 +161,25 @@ Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 Schedule, format, & session leaders
 ====================================
  
- Date    Format               Topic
--------- --------       ---------------------------------------------
-  Jan 29  online        Foundations of Open Education
-   Feb 5  in person     Doing "open learning"
-  Feb 12  online        Deschooling
-  Feb 19  in person     Ignorant Schoolmaster
-  Feb 26  online        Connected Learning
-   Mar 5  in person     Free Software/Open Source Software
-  Mar 12  online        Peer production
-  Mar 19  Spring break         -
-  Mar 26  online        Free Culture & Open Content
-   Apr 2  in person     Open Education Resources
-   Apr 9  online        The Commons
-  Apr 16  in person     Wikipedia
-  Apr 23  online        MOOCs: Massively Open Online Courses
-  Apr 30  in person     The Future University (MOOCs and More)
-   May 7  online        Resisting Open Education
-  May 14  in person     Wrap-up
-
+Session   Date    Format               Topic
+------- --------  --------      ---------------------------------------------
+   1      Jan 29  online        Foundations of Open Education
+   2       Feb 5  in person     Doing "open learning"
+   3      Feb 12  online        Deschooling
+   4      Feb 19  in person     Ignorant Schoolmaster
+   5      Feb 26  online        Connected Learning
+   6       Mar 5  in person     Free Software/Open Source Software
+   7      Mar 12  online        Peer production
+   -      Mar 19  Spring break         -
+   8      Mar 26  online        Free Culture & Open Content
+   9       Apr 2  in person     Open Education Resources
+  10       Apr 9  online        The Commons
+  11      Apr 16  in person     Wikipedia
+  12      Apr 23  online        MOOCs: Massively Open Online Courses
+  13      Apr 30  in person     The Future University (MOOCs and More)
+  14       May 7  online        Resisting Open Education
+  15      May 14  in person     Wrap-up
+       
 
 * **In person** classes meet on Thursdays at 7pm, Manhattan Center Room 272
 * **online** weeks have no set meeting time. They will be carried
