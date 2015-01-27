@@ -91,8 +91,9 @@ def GenerateCourse(html, raw, word, course):
     try:
         subprocess.check_call(cmd,shell=True)
     except Exception as ex:
-        print('failed to generate word doc for {}'.format(course))
-        print(ex)
+        pass
+        # print('failed to generate word doc for {}'.format(course))
+        # print(ex)
 
 
 

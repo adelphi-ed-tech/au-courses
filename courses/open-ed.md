@@ -155,30 +155,29 @@ Turkle, S. (2011). _Alone Together: Why We Expect More from Technology and Less 
 
 Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Processes_. Harvard University Press. Cambridge Mass.
 
-Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_
-Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
+Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
 Schedule, format, & session leaders
 ====================================
  
-Session   Date    Format        Topic                                       Assignment
-------- --------  --------      ------------------------------------------  -----------
-   1      Jan 29  online        Foundations of Open Education
-   2       Feb 5  in person     Connected Learning
-   3      Feb 12  online        Open Education Resources
-   4      Feb 19  in person     Open Education Resource Reports             OER Report
-   5      Feb 26  online        Deschooling                        
-   6       Mar 5  in person     Ignorant Schoolmaster
-   7      Mar 12  online        Free Software/Open Source Software
-   -      Mar 19  Spring break  Peer production
-   8      Mar 26  online               -
-   9       Apr 2  in person     Free Culture & Open Content
-  10       Apr 9  online        The Commons
-  11      Apr 16  in person     Wikipedia
-  12      Apr 23  online        MOOCs: Massively Open Online Courses
-  13      Apr 30  in person     The Future University (MOOCs and More)
-  14       May 7  online        Resisting Open Education
-  15      May 14  in person     Video Dictionary
+Session Date    Format       Topic                         Assignment
+------- ------  --------     ----------------------------- --------------------------------
+   1    Jan 29  online       Foundations of Open Education 
+   2     Feb 5  in person    Connected Learning             
+   3    Feb 12  online       Open Education Resources       
+   4    Feb 19  in person    Open Education Reports         OER Report
+   5    Feb 26  online       Deschooling                        
+   6     Mar 5  in person    Ignorant Schoolmaster          
+   7    Mar 12  online       Free Software                  
+   -    Mar 19  Spring Break               -                
+   8    Mar 26  online       Free Culture & Open Content    Open Ed Subject Guide
+   9     Apr 2  in person    Peer production                
+  10     Apr 9  online       The Commons                    
+  11    Apr 16  in person    Wikipedia                      
+  12    Apr 23  online       MOOCs: Massively Open Online   Essay Abstract
+  13    Apr 30  in person    Resisting Open Education       Essay First Page
+  14     May 7  online       Writing workshop               Essay Draft
+  15    May 14  in person    Video Dictionary Studio        Final Essay
        
 
 * **In person** classes meet on Thursdays at 7pm, Manhattan Center Room 272
@@ -436,8 +435,7 @@ mind: (1) what is the text arguing? (2) to what extent do you agree
 with these arguments? You should be in touch with your study group
 to discuss texts before full group discussions.
 
-Your grade in this area will be a combination of self-, instructor-,
-and peer-evaluations.
+Your grade in this area will be determined by the end of term particpant survey and the instructor grade.
 
 Session leader
 ----------------------------------------------
@@ -451,7 +449,8 @@ readings for the session you are leading, take notes on the
 readings, and formulate questions.
 
 In-class seminar leaders may want to open class with a few comments
-about the texts. How you choose to lead your session is up to you.\
+about the texts. How you choose to lead your session is up to you.
+
 Here are some techniques that I use (you can mix, match, or ignore):
 
 * begin with (~15 minutes) of initial free writing/journaling
@@ -491,7 +490,8 @@ there are some practical refinements for online weeks.
    can. Facilitate interaction between commenters who have similar,
    conflicting, or overlapping ideas.
 
-Your grade in this area will be a combination of self-, instructor-, and peer-evaluations.
+Your grade in this area will be determined by the session leader survey completed
+by all participants.
 
 Open Education Report
 ----------------------------------------------
@@ -502,38 +502,38 @@ hour a week participating in the project. Typically, at first, this will mean
 reading about it and following along. As you learn about the community, you
 can contribute more to its projects.
 
-Your final report, due in week 7, will be uploaded to the [Ed Tech Blog](http://au-ed-tech.blogspot.com).
+Your final report, due in week 4, will be uploaded to the [Ed Tech Blog](http://www.auedtech.org).
 As we build a number of Open Education case studies, all of the reports must have the
 same format:
 
-Introduction
-  ~ narrative description of the project
-  ~ sample works (screenshots, links, diagrams, etc)
-  ~ project goals
-Collaboration
-  ~ how do participants collaborate?
-  ~ what technologies support collaboration?
-  ~ how is quality controlled?
-  ~ how are decisions made and goals set?
-  ~ who is allowed to participate and what access rights do they have?
-Community
-  ~ what principles do participants have in common?
-  ~ how is community maintained?
-  ~ how are new members invited or excluded?
-  ~ how do people learn how to participate?
-Openness
-  ~ in what ways is this project "open"?
-  ~ consider: licenses, technologies, production model, output model, access, cost, APIs
-  ~ how does it fit in with other projects?
-Conclusion
-  ~ how important is this project?
-  ~ what is its potential impact?
-  ~ does it reflect best educational practices and learning sciences?
-  ~ does it support or enhance the social/political goals of education?
+1. **Introduction**
+    - narrative description of the project
+    - sample works (screenshots, links, diagrams, etc)
+    - project goals
+2. **Collaboration**
+    - how do participants collaborate?
+    - what technologies support collaboration?
+    - how is quality controlled?
+    - how are decisions made and goals set?
+    - who is allowed to participate and what access rights do they have?
+3. **Community**
+    - what principles do participants have in common?
+    - how is community maintained?
+    - how are new members invited or excluded?
+    - how do people learn how to participate?
+4. **Openness**
+    - in what ways is this project "open"?
+    - consider: licenses, technologies, production model, output model, access, cost, APIs
+    - how does it fit in with other projects?
+5. **Conclusion**
+    - how important is this project?
+    - what is its potential impact?
+    - does it reflect best educational practices and learning sciences?
+    - does it support or enhance the social/political goals of education?
 
 Your report should be concise, well edited, and prepared in a way
 that will make it useful for a general audience interested in
-technology and open education. Aim for about 3 pages.
+technology and open education. Aim 2 pages (500-700 words).
 
 Critical Essay
 ----------------------------------------------
@@ -559,39 +559,40 @@ with the [Writing Center](http://students.adelphi.edu/writingcenter/)
 before you turn in your draft, and then again before you turn in
 your final essay.
 
-**Your final essay is due on 5/13.** Late work will not be accepted
-for this assignment and there will not be an opportunity to re-write
-your final draft.
+_Your final essay is due on 5/14._ Late work will not be accepted
+for this assignment and **there will not be an opportunity to re-write
+your final essay.**
 
 Your grade for the final paper will be based on the jouranl article
 evaluation process from the _[Journal of Peer Production](http://peerproduction.net/)_
 
 Their reviewers consider:
 
-1. Is the subject matter relevant?
-2. Is the treatment of the subject matter intellectually interesting? _Does the author cite relevant literature to support the claims_?
-3. Are there any noticeable problems with the author’s means of validating assumptions or making judgments?
-4. Is the article well written?
+1. Is the subject matter relevant? (6 points)
+2. Is the treatment of the subject matter intellectually interesting? _Does the author cite relevant literature to support the claims_? (6 points)
+3. Are there any noticeable problems with the author’s means of validating assumptions or making judgments? (6 points)
+4. Is the article well written? (7 points)
+    - **1 point** indicates that the writing renders the essay extremely difficult to follow, regardless of the merits of the argument. Essays will receive 1 point for writing if any of these conditions are met, or a are met in combination:
+        - 5 or more incomplete or run on sentences
+        - 8 or more spelling errors
+        - 5 or more grammatical errors
+        - no citations in the text or missing references section
+    - **2 points** indicates an essay with significant problems in grammar, spelling, and norms of academic writing
+    - **3 points** indicates an essay that follows the basic conventions of academic writing and has been edited to remove most spelling errors (<3) and common grammatical errors. Essays at this level exhibit awkwardly phrased sentences, poor word choice, organization, and lack strong transitions.
+    - **4 points**. Everyone should strive for at least 4 points for the writing of their essay. 4-point essays are basic, but well written works. They will be edited to remove lower order concerns such as spelling and grammar and also have the basic structure of higher order concerns: structured to develop argument, offers supporting details, parsimonious and focused. Essays at this level may have inconsistent or improper citations, suffer from awkward phrasing ad poor word choice, and lack transitions.
+    - **5 points** will be awarded for essays that are well edited, consistently use academic citations, and read fluidly and consistently. These essays will be improved by focusing on higher order concerns, making sentences more precise, stating ideas more clearly, and using grammar and word choice to enhance further enhance the themes of the essay.
+    - **6 point** essays read fluidly and exhibit a strong authorial voice and mastery of rhetorical structures, using wit, narrative, passion, etc. Each idea is fully developed while retaining our principle of parsimony.
+    - **7 points**, like 6 point essays, but also edited to the point where they are error free and suitable for print. It is very difficult to prepare an essay at this level without feedback from other readers.
+
+For this essay, you may use Chicago, MLA, or APA styled citation, but must be consistent in how you apply them (don't switch styles). In addition to the references, you may include endnotes if necessary. The [Purdue Owling Writing Lab](https://owl.english.purdue.edu/owl/section/2/) is a good resource for citations as well as the basic elements of academic writing.
 
 Adapted from [Process: Appendix A](http://peerproduction.net/peer-review/process/). _modifications appear in italics_
 
+Your paper will be graded by the professor and by an external reviewer from a pool of Adelphi faculty, faculty at other institutions, graduates for the Ed Tech program, and other experts in the field. The external review will be a blind review—the reviewer will not know the author's identity and the author will not know the reviewer's identity.
 
-Open Ed Video Dictionary Entry
--------------------------------
-Terms
+If your work is plagiarized or otherwise violates [Adelphi's Code of Academic] you will receive zero points for this assignment with no opportunity to re-write it.
 
-- Badges
-- Copyright
-- Creative Commons
-- Free Software
-- MOOC
-- Open Access
-- Open Data
-- Open Education Resource (OER)
-- Open Source
-- Open Video
-- Free Culture
-- Commons
+
 
 Open Education Projects
 ====================================
@@ -608,44 +609,45 @@ questions that might inform you study:
 * who is the audience for this project?
 * who does or is likely to benefit the most if this project succeeds?
 
-**Selected Project List:**
+List of Selected Project Open Ed Projects
+-----------------------------------------
 
-* Big Projects/Well Known
-    * [One Laptop Per Child](http://laptop.org)
-    * [Wikipedia (Ed. Program)](http://outreach.wikimedia.org/wiki/Wikipedia_Education_Program)
-    * [Khan Academy](http://www.khanacademy.org)
-    * [MIT OCW](http://ocw.mit.edu)
 * MOOCS, Open Courses, and Self-Study
+    * [MIT OCW](http://ocw.mit.edu)
+    * [P2P University](http://p2pu.org)
     * [Udacity](http://www.udacity.com)
     * [Coursera](http://www.coursera.org)
-    * [P2P University](http://p2pu.org)
     * [OpenStudy](http://openstudy.com/)
     * [Saylor](http://www.saylor.org/)
     * [Instructables](http://www.instructables.com/)
-* Teaching/Learning Content & Lessons
-    * [OpenAssembly](http://openassembly.com)
+    * [Khan Academy](http://www.khanacademy.org)
     * [Khan Academy Smarthistory](http://smarthistory.org/)
+* Textbooks, lessons plans, curricula
+    * [Curriki](http://www.curriki.org/welcome/)
+    * [CK-12](http://www.ck12.org/)
     * [Connexions](http://cnx.org)
     * [Claco](http://www.claco.com/)
     * [Lesson Cast](http://lessoncast.org/)
     * [TeacherTube](http://www.teachertube.com)
+    * [OpenAssembly](http://openassembly.com)
     * [Flat World Knowledge](http://www.flatworldknowledge.com/)
-    * [CK-12](http://www.ck12.org/)
 * Free Culture Media (for education and other uses)
+    * [Wikipedia](http://wikipedia.org) [Ed. Program](http://outreach.wikimedia.org/wiki/Wikipedia_Education_Program)
     * [Flickr](http://www.flickr.com/)
     * [OpenClipArt](https://openclipart.org/)
     * [MERLOT](http://www.merlot.org/merlot/index.htm)
 * Free Open Source Software for Education
     * [Moodle](http://www.moodle.org)
     * [Canvas](https://github.com/instructure/canvas-lms/wiki)
+    * [Scratch](http://wiki.scratch.mit.edu/wiki/Scratch_1.4_Source_Code)
+    * [Snap](http://snap.berkeley.edu/) [Source Code](https://github.com/jmoenig/Snap--Build-Your-Own-Blocks)
     * [BuddyPress](http://buddypress.org/)
     * [EduBuntu](http://www.edubuntu.org/)
     * [Mahara](https://mahara.org/)
     * [Rasberry Pi (hardware)](http://raspberrypi.org/)
 
-**Find your own:**
-
-_Related links and sites.
+Other related links
+--------------------
 
 * [On the Commons](http://www.onthecommons.org/)
 * [OER Commons](http://www.oercommons.org/)
