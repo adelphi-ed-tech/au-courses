@@ -256,19 +256,19 @@ blockquote
 }
 
 #logo h2 { color: black; }
-/*
+
 #class-sessions { counter-reset: week; }
-#class-sessions h3:before 
+#class-sessions h2:before 
 {
     counter-increment: week;
-    content: "Week " counter(week) ": " 
+    content: "Session " counter(week) ": " 
 }
 
-#class-sessions h3
+#class-sessions h2
 {
     margin-left: -1em;    
 }
-*/
+
 
 #class-sessions>section
 {

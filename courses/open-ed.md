@@ -157,9 +157,9 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 
 Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
-Schedule, format, & session leaders
+Class sessions
 ====================================
- 
+
 Session Date    Format       Topic                         Assignment
 ------- ------  --------     ----------------------------- --------------------------------
    1    Jan 29  online       Foundations of Open Education 
@@ -191,16 +191,14 @@ Session Date    Format       Topic                         Assignment
     - Sat or Sun: post your response online (300-500 words), due by end of day on Sunday
     - Mon-Tues: post at least two comments; respond to comments on your post.
 
-Class sessions
-====================================
+
 
 Foundations of Open Education
 -----------------------------------------------
 
 #### Readings due:
 
-Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_
-Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
+Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). In course [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
 [Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
 
@@ -211,12 +209,13 @@ Tell us about the most important thing you learned _outside of school_. You migh
 
  -->
 
-#### Activities:
+#### Assignments:
 1. Form a 3 person study group, post your members on Moodle
 2. Choose a week to be the [session leader](#session-leader)
     a. Topics are first come, first serve.
-    b. You are responsible for setting up your week on Moodle before next class
+    b. You are responsible for setting up your week on Moodle
 3. Choose an "open education" project to participate in and study
+4. List your project on Moodle, one per customer (i.e. no repeats)
 
 Connected Learning
 ----------------------------------------------
@@ -229,6 +228,31 @@ Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.ed
 Siemens, G. (2004). [Connectivism: A learning theory for the digital age](http://www.elearnspace.org/Articles/connectivism.htm). _eLearn Space_.
 
 Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:24]. TEDxUIUC.
+
+
+Open Education Resources
+----------------------------------------------
+
+#### Readings due:
+
+Wiley, D., Bliss, T. J., & McEwen, M. (2013). Open Educational Resources: A Review of the Literature. In J. M. Spector (Ed.), _Handbook of research on educational communications and technology_ (pp. 781–190). New York, NY: Springer.
+
+(2007) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
+
+Unesco. (2012) ["The UNESCO Paris Declaration."](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/Events/English_Paris_OER_Declaration.pdf)
+
+Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
+
+Open Education Reports
+----------------------------------------------
+
+#### Readings due:
+
+_no assigned readings_
+
+#### Assignments due:
+* Open Ed Report (on AU Ed Tech Wordpress)
+* OER Report lightning talk (to present in class)
 
 Deschooling
 ----------------------------------------------
@@ -256,18 +280,6 @@ Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin
 
 Raymond, E. (1999, June 28). [Shut Up And Show Them The Code](http://www.linuxtoday.com/developer/1999062802310NWSM). _Linux Today_.
 
-
-Peer production
-----------------------------------------------
-
-#### Readings due:
-Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.yale.edu/yalelj/112/BenklerWEB.pdf). _The Yale Law Journal_, _112(3)_, 369-446.
-
-#### Optional video:
-If you would like some extra background on the reading and want to
-put the ideas in context, you might want to
-[check out this TED video of Yochai Benkler explaining the ideas expressed in  Coase's Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the website") (recorded in 2005)
-
 Free Culture & Open Content
 ----------------------------------------------
 
@@ -292,39 +304,17 @@ Lessig, L. [Collection of Lessig Videos](http://blip.tv/lessig) Blip.tv
 
 [Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html) [video]
 
-Open Education Resources
+Peer production
 ----------------------------------------------
 
 #### Readings due:
-(2007) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
+Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](http://www.yale.edu/yalelj/112/BenklerWEB.pdf). _The Yale Law Journal_, _112(3)_, 369-446.
 
-Unesco. (2012) ["The UNESCO Paris Declaration."](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/Events/English_Paris_OER_Declaration.pdf)
+#### Optional video:
+If you would like some extra background on the reading and want to
+put the ideas in context, you might want to
+[check out this TED video of Yochai Benkler explaining the ideas expressed in  Coase's Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the website") (recorded in 2005)
 
-Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
-
-
-<!-- 
-
-For this weeks readings, download the creative commons book,
-[_Opening Up Education: The Collective Advancement of Education
-through Open Technology, Open Content, and Open
-Knowledge_](https://moodle.adelphi.edu/file.php/53983/iiyoshi-2008-opening-up-ed.pdf).
-
-McGrath, O. (2008). Open educational technology: Tempered aspirations. In T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The Collective Advancement of Education through Open Technology, Open Content, and Open Knowledge_ (pp. 13–26). Cambridge  Mass.: MIT Press.
-
-Casserly, C. M., & Smith, M. S. (2008). Revolutionizing Education
-through Innovation: Can Openness Transform Teaching and Learning? In
-T. Iiyoshi & M. S. V. Kumar (Eds.), _Opening Up Education: The
-Collective Advancement of Education through Open Technology, Open
-Content, and Open Knowledge_ (pp. 261–275). Cambridge  Mass.: MIT Press.
-
-Lee, S. D. (2008). The Gates Are Shut: Technical and Cultural
-Barriers to Open Education. In T. Iiyoshi & M. S. V. Kumar (Eds.),
-Opening Up Education: The Collective Advancement of Education
-through Open Technology, Open Content, and Open Knowledge (pp.
-47–59). Cambridge  Mass.: MIT Press.
-
--->
 
 The Commons
 ----------------------------------------------
@@ -355,8 +345,6 @@ MOOCs: Massively Open Online Courses
 ----------------------------------------------
 
 #### Readings due:
-Pappano, L. (2012, November 2). [Massive Open Online Courses Are Multiplying at a Rapid Pace](http://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html). _The New York Times_. 
-
 Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc)[video, 04:27]
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
@@ -365,47 +353,38 @@ Siemens, G. (2012, June 12). [What is the theory that underpins our MOOCs](http:
 
 Vollmer, Timothy. (2012, November 1). [Keep MOOCs Open](http://creativecommons.org/weblog/entry/34852)
 
+Exoo, C., & Exoo, C. F. (2013, October 28). [MOOCs: Corporate welfare for credit](http://www.salon.com/2013/10/28/moocs_corporate_welfare_for_credit/). _Salon._
+
+Resisting Open Education
+----------------------------------------------
+
+#### Readings due:
 Peters, M. A. (2011). [Algorithmic capitalism and educational
 futures](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)
 [moodle pdf]. In M. A. Peters & E. Bulut
 (Eds.), _Cognitive capitalism, education, and digital labor_ (pp.
 245–258). New York: Peter Lang.
 
-The Future University (MOOCs and More)
------------------------------------------------
-#### Readings due:
+Federici and Fuchs Chapters in Peters, M., & Bulut, E. (2011).
+_Cognitive capitalism, education, and digital labor_. New York: Peter Lang.
+[selections](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)[moodle pdf]
 
 Vaidhyanathan, S. (2012, November 16). [A New Era of Unfounded
 Hyperbole](http://www.cato-unbound.org/2012/11/16/siva-vaidhyanathan/a-new-era-of-unfounded-hyperbole/). _Cato Unbound_. 
 
-Dawson, A. (2012). [DIY Academy? Cognitive Capitalism, Humanist
-Scholarship, and the Digital
-Transformation](http://archive.org/download/TheSocialMediaReader/Mandiberg-theSocialMediaReader-cc-by-sa-nc.pdf).
-In M. Mandiberg(Ed.), [_The social media
-reader_](http://archive.org/details/TheSocialMediaReader "epub, pdf,
-and other formats here") (pp. 257–274). New York: New York
-University Press.
-
-
-Resisting Open Education
+Peer Editing & Writing Workshop
 ----------------------------------------------
-
 #### Readings due:
-
-Federici and Fuchs Chapters in Peters, M., & Bulut, E. (2011).
-_Cognitive capitalism, education, and digital labor_. New York:
-Peter Lang.
-[selections](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)[moodle pdf]
+_none_
 
 
-Lightning talks and wrap-up
+Open Ed Video Dictionary Workshop
 ----------------------------------------------
 #### Readings due:
 _none_
 
 #### Assignments due:
 * final paper
-* lightnight talk
 
 
 Assignments
@@ -622,15 +601,19 @@ List of Selected Project Open Ed Projects
     * [Instructables](http://www.instructables.com/)
     * [Khan Academy](http://www.khanacademy.org)
     * [Khan Academy Smarthistory](http://smarthistory.org/)
-* Textbooks, lessons plans, curricula
+    * [OpenYale Courses](http://oyc.yale.edu/)
+* Textbooks, lessons, curricula
     * [Curriki](http://www.curriki.org/welcome/)
     * [CK-12](http://www.ck12.org/)
+    * [Phet](http://phet.colorado.edu/)
+    * [Siyavula](http://www.siyavula.com/)
     * [Connexions](http://cnx.org)
     * [Claco](http://www.claco.com/)
     * [Lesson Cast](http://lessoncast.org/)
     * [TeacherTube](http://www.teachertube.com)
     * [OpenAssembly](http://openassembly.com)
     * [Flat World Knowledge](http://www.flatworldknowledge.com/)
+    * [OER Africa](http://oerafrica.org/)
 * Free Culture Media (for education and other uses)
     * [Wikipedia](http://wikipedia.org) [Ed. Program](http://outreach.wikimedia.org/wiki/Wikipedia_Education_Program)
     * [Flickr](http://www.flickr.com/)
