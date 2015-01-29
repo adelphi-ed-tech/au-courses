@@ -155,7 +155,7 @@ blockquote
     {
         font-size: 14px;
         width: 800px;
-        margin: 0 auto;
+        margin: 0 4em 0;
     }
 }
 
@@ -280,13 +280,19 @@ blockquote
 
 nav#TOC
 {
-    background: none repeat scroll 0 0 white;
-    border: 1px solid black;
     counter-reset: toc;
-    float: right;
-    width: 40%;
-    margin: 1.5em;   
+    position: fixed;
+    right: 4em;
+    top: 40px;
+    width: 335px;
+    line-height: 1.25;
 }
+
+nav#TOC li
+{
+    margin-bottom: .25em;
+}
+
 #TOC > ul > li 
 { 
     list-style: upper-roman; 
@@ -299,8 +305,6 @@ nav#TOC
 #TOC li ul li { list-style: decimal;}
 
 #TOC ul li ul li ul { display: none; }
-
-#TOC h3 { text-align: center; }
 
 footer
 {

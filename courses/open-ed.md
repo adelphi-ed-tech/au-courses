@@ -78,13 +78,13 @@ Recommended books
 ----------------------------------------------
 
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. ISBN 0804719691
-![book cover igorant schoolmaster](http://photo.goodreads.com/books/1223664347l/445408.jpg)
-
+<!-- ![book cover igorant schoolmaster](http://photo.goodreads.com/books/1223664347l/445408.jpg)
+ -->
 Buy online: [Powells](http://www.powells.com/biblio/9780804719698) | [Amazon](http://amzn.com/0804719691) | [B&N](http://search.barnesandnoble.com/The-Ignorant-Schoolmaster/Jacques-Ranciere/e/9780804719698 "buy or rent") | [ConnectNY](http://www.connectny.info/search/a?searchtype=i&searcharg=0804719691&SORT=A) | _or go to the AU bookstore._
 
 Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. ISBN: 1433109816
-![book cover cognitive capitalism](http://www.peterlang.com/files/smthumbnaildata//325x/1/8/8/0/1/2/310981_cover.jpg)
-
+<!-- ![book cover cognitive capitalism](http://www.peterlang.com/files/smthumbnaildata//325x/1/8/8/0/1/2/310981_cover.jpg)
+ -->
 Buy online: [Powells](http://www.powells.com/biblio/1433109816) | [Amazon](http://amzn.com/1433109816)
 
 Bibliography & readings
@@ -339,7 +339,31 @@ Wikipedia
 ----------------------------------------------
 
 #### Readings due:
-_TBD_
+* **About Wikipedia**
+    * [Wikipedia](http://en.wikipedia.org/wiki/Wikipedia)
+    * [History of Wikipedia](http://en.wikipedia.org/wiki/History_of_Wikipedia)
+    * [Reliability of Wikipedia](http://en.wikipedia.org/wiki/Reliability_of_Wikipedia)
+    * [Criticism of Wikipedia](http://en.wikipedia.org/wiki/Criticism_of_Wikipedia)
+    * [Blog: Gender Gap](http://blog.wikimedia.org/2011/02/01/wikipedias-gender-gap/)
+
+* **Editing Guidelines**
+    * [Five Pillars](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars)
+    * [Be Bold](https://en.wikipedia.org/wiki/Wikipedia:Be_bold)
+    * [Assume Good Faith](https://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith)
+    * [Wikipedia Adventure](https://en.wikipedia.org/wiki/Wikipedia:TWA/Portal)
+    * [Teahouse (new editors)](https://en.wikipedia.org/wiki/Wikipedia:Teahouse)
+
+
+#### Assignments
+* create a Wikipedia account, if you don't have one
+* choose a Wikipedia article to edit, choose one:
+  - on a topic that you are interested in
+  - that you are knowledgeable about
+  - where there is something you can contribute to
+* read the talk page, to get a sense of what the article authors have been discussing
+* read the recent changes for the page to see what areas have been updated
+* make some minor changes to improve the article
+* watch the page to see if your changes trigger any comments or other activity
 
 MOOCs: Massively Open Online Courses
 ----------------------------------------------
@@ -369,8 +393,6 @@ Federici and Fuchs Chapters in Peters, M., & Bulut, E. (2011).
 _Cognitive capitalism, education, and digital labor_. New York: Peter Lang.
 [selections](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)[moodle pdf]
 
-Vaidhyanathan, S. (2012, November 16). [A New Era of Unfounded
-Hyperbole](http://www.cato-unbound.org/2012/11/16/siva-vaidhyanathan/a-new-era-of-unfounded-hyperbole/). _Cato Unbound_. 
 
 Peer Editing & Writing Workshop
 ----------------------------------------------
@@ -394,11 +416,11 @@ Assignments
 
 Assignment                   Due             % of final grade
 ---------------------------  --------------  -----------------
-Participation                ongoing         20%
-Session leader               varied          20%
-Open Education Report        session 7       25%
+Participation                ongoing         15%
+Session leader               varied          15%
+Open Education Report        session 4       15%
+Open Ed Subject Guide        session 4       15%
 Critical Essay               final class     25%
-Video Dictionary Definition  final class     10%
 
 Participation
 ----------------------------------------------
@@ -580,6 +602,7 @@ This is a selected list of open education projects. You will take a
 several weeks to try to get to know one of these projects, and
 then report back what you learned to the group. Here are some
 questions that might inform you study:
+
 
 * should this project be considered open? why?
 * what does the project _produce_?
