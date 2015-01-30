@@ -56,36 +56,22 @@ education, and what we want it to look like.
 **Instructor:**
 
 - [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
-- [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
 
 **Class meetings:**
 
 - Thurs. 7:00-8:50, Room 272 and online
 
 **Office hours:**
-Manhattan
+
+Manhattan (Room 228)
 : Tues, 4pm-6pm
 : Thurs, 3pm-5pm
 
-Garden City 
+Garden City ([Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map"))
 :  Wed, 2:30-4:30PM
 
 Readings
 ====================================
-
-
-Recommended books
-----------------------------------------------
-
-Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. ISBN 0804719691
-<!-- ![book cover igorant schoolmaster](http://photo.goodreads.com/books/1223664347l/445408.jpg)
- -->
-Buy online: [Powells](http://www.powells.com/biblio/9780804719698) | [Amazon](http://amzn.com/0804719691) | [B&N](http://search.barnesandnoble.com/The-Ignorant-Schoolmaster/Jacques-Ranciere/e/9780804719698 "buy or rent") | [ConnectNY](http://www.connectny.info/search/a?searchtype=i&searcharg=0804719691&SORT=A) | _or go to the AU bookstore._
-
-Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. ISBN: 1433109816
-<!-- ![book cover cognitive capitalism](http://www.peterlang.com/files/smthumbnaildata//325x/1/8/8/0/1/2/310981_cover.jpg)
- -->
-Buy online: [Powells](http://www.powells.com/biblio/1433109816) | [Amazon](http://amzn.com/1433109816)
 
 Bibliography & readings
 ----------------------------------------------
@@ -107,6 +93,8 @@ Cormier, D. (2010). [What is a MOOC?](http://youtu.be/eW3gMGqcZQc) [video, 04:27
 Crouch, C. H., & Mazur, E. (2001). [Peer instruction: Ten years of experience and results](http://newfaculty.mst.edu/documents/MazurActiveLearning.pdf). _American Journal of Physics_, 69.
 
 Dewey, J. (1916). [_Democracy and Education_](http://www.ilt.columbia.edu/publications/dewey.html). The Macmillan Company. New York.
+
+Edu-factory Collective. (2009). [_Toward a global autonomous university_](https://www.gold.ac.uk/media/Towards_A_Global_Autonomous_University.pdf). New York: Autonomedia.
 
 Federici, S. (2011). [Feminism and the Politics of the Commons](http://www.commoner.org.uk/wp-content/uploads/2011/01/federici-feminism-and-the-politics-of-commons.pdf). _The Commoner_, _24_.
 
@@ -136,6 +124,10 @@ Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
 
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science,_ _2_(1), 493–535.
+
+Peters, M., & Bulut, E. (2011). _Cognitive capitalism, education, and digital labor_. New York: Peter Lang. ISBN: 1433109816
+
+Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_. Stanford University Press. USA. ISBN 0804719691
 
 Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/578/499/). _First Monday_, _3(3)_.
 
@@ -201,13 +193,6 @@ Foundations of Open Education
 Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). In course [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
 [Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
-
-<!-- 
-
-Moodle Post:
-Tell us about the most important thing you learned _outside of school_. You might consider: Why is it important? How did you learn it? What people and things made it possible for you to learn it? Can you learn other things this way?
-
- -->
 
 #### Assignments:
 1. Form a 3 person study group, post your members on Moodle
@@ -389,9 +374,8 @@ futures](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capital
 (Eds.), _Cognitive capitalism, education, and digital labor_ (pp.
 245–258). New York: Peter Lang.
 
-Federici and Fuchs Chapters in Peters, M., & Bulut, E. (2011).
-_Cognitive capitalism, education, and digital labor_. New York: Peter Lang.
-[selections](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)[moodle pdf]
+Caffentzis, G., & Federici, S. (2009). Notes on the Edu-Factory and cognitive capitalism. In Edu-factory Collective (Ed.), [Toward a global autonomous university](https://www.gold.ac.uk/media/Towards_A_Global_Autonomous_University.pdf). New York: Autonomedia.
+
 
 
 Peer Editing & Writing Workshop
@@ -419,7 +403,7 @@ Assignment                   Due             % of final grade
 Participation                ongoing         15%
 Session leader               varied          15%
 Open Education Report        session 4       15%
-Open Ed Subject Guide        session 4       15%
+Open Ed Subject Guide        session 8       15%
 Critical Essay               final class     25%
 
 Participation
@@ -503,7 +487,7 @@ hour a week participating in the project. Typically, at first, this will mean
 reading about it and following along. As you learn about the community, you
 can contribute more to its projects.
 
-Your final report, due in week 4, will be uploaded to the [Ed Tech Blog](http://www.auedtech.org).
+Your final report will be uploaded to the [Ed Tech Blog](http://www.auedtech.org).
 As we build a number of Open Education case studies, all of the reports must have the
 same format:
 
@@ -535,6 +519,14 @@ same format:
 Your report should be concise, well edited, and prepared in a way
 that will make it useful for a general audience interested in
 technology and open education. Aim 2 pages (500-700 words).
+
+Open Ed Subject Guide
+----------------------
+The subject guide is a group project that you will complete with your study group and it
+will be graded Pass/Fail. Your project will not pass until their is consensus with the
+entire class that it is ready to launch.
+
+For this project, your study group will choose a topic of common interest (e.g., "These Ten Open Tools for Writing Will CHANGE YOUR LIFE!", "Open Tools for Instructional Designers"). For this project, you will gather a collection of open resources that your group thinks are useful and important for the topic. The guide will consist of an annotated list of these tools with some brief introductory text. Your group will create a brief video highlighting the tools. The video must be between 3-5 minutes long. The video will be released with a Creative Commons License on YouTube and the collection will be posted on the AU ED Tech blog (where all th content is CC licensed).
 
 Critical Essay
 ----------------------------------------------
