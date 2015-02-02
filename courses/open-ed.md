@@ -190,7 +190,7 @@ Foundations of Open Education
 
 #### Readings due:
 
-Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). In course [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
+Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education](https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). In course [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
 [Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
 
@@ -637,6 +637,7 @@ List of Selected Project Open Ed Projects
 * Free Open Source Software for Education
     * [Moodle](http://www.moodle.org)
     * [Canvas](https://github.com/instructure/canvas-lms/wiki)
+    * [Adapt Learning](https://community.adaptlearning.org/)
     * [Scratch](http://wiki.scratch.mit.edu/wiki/Scratch_1.4_Source_Code)
     * [Snap](http://snap.berkeley.edu/) [Source Code](https://github.com/jmoenig/Snap--Build-Your-Own-Blocks)
     * [BuddyPress](http://buddypress.org/)

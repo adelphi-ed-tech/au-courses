@@ -154,8 +154,9 @@ blockquote
     body
     {
         font-size: 14px;
-        width: 800px;
-        margin: 0 4em 0;
+        width: 720px;
+        margin: 0 0 0 4em;
+        background-color: rgba(255,255,255,.8);
     }
 }
 
@@ -286,6 +287,7 @@ nav#TOC
     top: 40px;
     width: 335px;
     line-height: 1.25;
+    background-color: white;
 }
 
 nav#TOC li
