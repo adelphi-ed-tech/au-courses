@@ -400,11 +400,11 @@ Assignments
 
 Assignment                   Due             % of final grade
 ---------------------------  --------------  -----------------
-Participation                ongoing         15%
-Session leader               varied          15%
+Participation                ongoing         20%
+Session leader               varied          20%
 Open Education Report        session 4       15%
 Open Ed Subject Guide        session 8       15%
-Critical Essay               final class     25%
+Critical Essay               final class     30%
 
 Participation
 ----------------------------------------------
@@ -616,10 +616,13 @@ List of Selected Project Open Ed Projects
     * [Instructables](http://www.instructables.com/)
     * [Khan Academy](http://www.khanacademy.org)
     * [Khan Academy Smarthistory](http://smarthistory.org/)
+    * [OpenCourseLibrary](http://opencourselibrary.org/)
     * [OpenYale Courses](http://oyc.yale.edu/)
+    * [OpenBadges](http://openbadges.org/)
 * Textbooks, lessons, curricula
     * [Curriki](http://www.curriki.org/welcome/)
     * [CK-12](http://www.ck12.org/)
+    * [OpenStax](http://openstaxcollege.org/)
     * [Phet](http://phet.colorado.edu/)
     * [Siyavula](http://www.siyavula.com/)
     * [Connexions](http://cnx.org)
