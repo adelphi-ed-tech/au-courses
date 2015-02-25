@@ -210,8 +210,6 @@ Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning
 
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
 
-Siemens, G. (2004). [Connectivism: A learning theory for the digital age](http://www.elearnspace.org/Articles/connectivism.htm). _eLearn Space_.
-
 Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:24]. TEDxUIUC.
 
 
@@ -220,7 +218,7 @@ Open Education Resources
 
 #### Readings due:
 
-Wiley, D., Bliss, T. J., & McEwen, M. (2013). Open Educational Resources: A Review of the Literature. In J. M. Spector (Ed.), _Handbook of research on educational communications and technology_ (pp. 781–190). New York, NY: Springer.
+Wiley, D., Bliss, T. J., & McEwen, M. (2013). [Open Educational Resources: A Review of the Literature.](http://www.opencontent.org/docs/oer_literature_preprint.pdf) In J. M. Spector (Ed.), [_Handbook of research on educational communications and technology_](http://www.worldcat.org/title/handbook-of-research-on-educational-communications-and-technology/oclc/852681273) (pp. 781–190). New York, NY: Springer.
 
 (2007) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
 
@@ -481,7 +479,7 @@ by all participants.
 Open Education Report
 ----------------------------------------------
 
-By the second week of the semester, you will choose an Open  Education Project
+By the second week of the semester, you will choose an Open Education Project
 (see list below) to follow and study. You should plan to spend at least one
 hour a week participating in the project. Typically, at first, this will mean
 reading about it and following along. As you learn about the community, you
@@ -518,15 +516,25 @@ same format:
 
 Your report should be concise, well edited, and prepared in a way
 that will make it useful for a general audience interested in
-technology and open education. Aim 2 pages (500-700 words).
+technology and open education. Aim 2 pages (500-700 words). Along with the
+written report, you will prepare a 5 minute lightning talk [[1](https://en.wikipedia.org/wiki/Lightning_talk#Definition_and_format)] [[2](https://barriebyron.wordpress.com/2013/02/17/so-you-want-to-give-a-lightning-talk/)] about your project.
 
 Open Ed Subject Guide
 ----------------------
-The subject guide is a group project that you will complete with your study group and it
-will be graded Pass/Fail. Your project will not pass until their is consensus with the
-entire class that it is ready to launch.
 
-For this project, your study group will choose a topic of common interest (e.g., "These Ten Open Tools for Writing Will CHANGE YOUR LIFE!", "Open Tools for Instructional Designers"). For this project, you will gather a collection of open resources that your group thinks are useful and important for the topic. The guide will consist of an annotated list of these tools with some brief introductory text. Your group will create a brief video highlighting the tools. The video must be between 3-5 minutes long. The video will be released with a Creative Commons License on YouTube and the collection will be posted on the AU ED Tech blog (where all th content is CC licensed).
+The subject guide is a group project that you will complete with your study
+group and it will be graded Pass/Fail. Your project will not pass until their
+is consensus with the entire class that it is ready to launch.
+
+For this project, your study group will choose a topic of common interest
+(e.g., "These Ten Open Tools for Writing Will CHANGE YOUR LIFE!", "Open Tools
+for Instructional Designers"). You will gather a collection of open resources
+that your group thinks are useful and important for the topic. The guide will
+consist of an annotated list of these tools with some brief introductory text.
+Your group will create a brief video highlighting the tools. The video must be
+between 3-5 minutes long. The video will be released with a Creative Commons
+License on YouTube and the collection will be posted on the AU ED Tech blog
+(where all the content is CC licensed).
 
 Critical Essay
 ----------------------------------------------

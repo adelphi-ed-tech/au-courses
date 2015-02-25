@@ -154,10 +154,36 @@ blockquote
     body
     {
         font-size: 14px;
-        width: 720px;
-        margin: 0 0 0 4em;
+        max-width: 720px;
+        margin: 0 0 0 335px;
         background-color: rgba(255,255,255,.8);
     }
+}
+
+@media screen and (max-width: 1001px)
+{
+    nav#TOC
+    {
+        display: none;
+    }
+    body
+    {
+        width: 100%;
+        margin: 0;
+    }
+    blockquote
+    {
+        margin-left: 0;
+    }
+    table
+    {
+        max-width: 100%!;
+        padding: 0!;
+        margin: inherit 0!;
+        overflow: scroll;
+
+    }
+
 }
 
 @media print
@@ -281,13 +307,24 @@ blockquote
 
 nav#TOC
 {
-    counter-reset: toc;
-    position: fixed;
-    right: 4em;
-    top: 40px;
-    width: 335px;
-    line-height: 1.25;
     background-color: white;
+    counter-reset: toc;
+    line-height: 1.25;
+    position: fixed;
+    right: 10px;
+    top: 60px;
+    width: 335px;
+}
+
+body {
+    font-size: 14px;
+}
+body, p, ul, ol, li, span, div {
+    font-family: "FreeSans","Helvetica",sans-serif;
+}
+body {
+    font-size: 14px;
+}
 }
 
 nav#TOC li

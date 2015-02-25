@@ -23,7 +23,7 @@ http://education.adelphi.edu/ed-tech
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Matthew X. Curinga" />
-  <meta name="date" content="Sunday, 01. February 2015 09:01PM" />
+  <meta name="date" content="Friday, 06. February 2015 11:17AM" />
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
 <!--[if lt IE 9]>
@@ -189,10 +189,36 @@ http://education.adelphi.edu/ed-tech
       body
       {
           font-size: 14px;
-          width: 720px;
-          margin: 0 0 0 4em;
+          max-width: 720px;
+          margin: 0 0 0 335px;
           background-color: rgba(255,255,255,.8);
       }
+  }
+  
+  @media screen and (max-width: 1001px)
+  {
+      nav#TOC
+      {
+          display: none;
+      }
+      body
+      {
+          width: 100%;
+          margin: 0;
+      }
+      blockquote
+      {
+          margin-left: 0;
+      }
+      table
+      {
+          max-width: 100%!;
+          padding: 0!;
+          margin: inherit 0!;
+          overflow: scroll;
+  
+      }
+  
   }
   
   @media print
@@ -316,13 +342,24 @@ http://education.adelphi.edu/ed-tech
   
   nav#TOC
   {
-      counter-reset: toc;
-      position: fixed;
-      right: 4em;
-      top: 40px;
-      width: 335px;
-      line-height: 1.25;
       background-color: white;
+      counter-reset: toc;
+      line-height: 1.25;
+      position: fixed;
+      right: 10px;
+      top: 60px;
+      width: 335px;
+  }
+  
+  body {
+      font-size: 14px;
+  }
+  body, p, ul, ol, li, span, div {
+      font-family: "FreeSans","Helvetica",sans-serif;
+  }
+  body {
+      font-size: 14px;
+  }
   }
   
   nav#TOC li
@@ -394,6 +431,7 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
+
 <p><strong>Educational Technology 0858-723, Cycle 2 2013</strong></p>
 <p><strong>Keywords:</strong> visual culture, media studies, multimedia</p>
 <p><strong>Description:</strong> This course focuses on the philosophy of visual media, with a pragmatic approach to understanding visual culture in our society: schools, youth media, mass media, etc. Students study theories of visuality and multimodal semiotics. They write philosophical critiques of current media, and develop original media projects informed by course readings.</p>
@@ -581,13 +619,13 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 <p><strong>Assessment criteria:</strong></p>
 <dl>
 <dt>argument</dt>
-<dd>does the author state a clear proposition? is the argument supported with relevant examples and references to scholarship? is the topic explored with depth and rigor?
+<dd><p>does the author state a clear proposition? is the argument supported with relevant examples and references to scholarship? is the topic explored with depth and rigor?</p>
 </dd>
 <dt>style</dt>
-<dd>is the paper clear and straightforward? is it organized in a way that engages the reader? does sections flow together and build towards a cohesive essay? is the manuscript properly prepared according to the scholarly standards of the APA?
+<dd><p>is the paper clear and straightforward? is it organized in a way that engages the reader? does sections flow together and build towards a cohesive essay? is the manuscript properly prepared according to the scholarly standards of the APA?</p>
 </dd>
 <dt>relevance</dt>
-<dd>what is at stake in this paper? does the essay engage with current and important themes in the field of visual studies? with the pragmatic approach of this course inm mind, does the author adequately connect the scholarly themes of the paper with the lived experience of people in the world?
+<dd><p>what is at stake in this paper? does the essay engage with current and important themes in the field of visual studies? with the pragmatic approach of this course inm mind, does the author adequately connect the scholarly themes of the paper with the lived experience of people in the world?</p>
 </dd>
 </dl>
 </section>
@@ -617,20 +655,8 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Sunday, 01. February 2015 09:01PM</tt></p>
+<p><tt>Last modified: Friday, 06. February 2015 11:17AM</tt></p>
 
-<!-- Piwik -->
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.curinga.com/" : "http://stats.curinga.com/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script type="text/javascript">
-try {
-    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-    piwikTracker.trackPageView();
-    piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://stats.curinga.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
 
 </footer>
 </body>
