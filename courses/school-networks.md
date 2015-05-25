@@ -2,14 +2,15 @@
 % Matthew X. Curinga
 
 
-**Description:** From a foundation of computer networks and systems, this course expands
-to cover instructional technology infrastructure: file systems, users,
-wired and wireless networks, email, web servers, computer labs, and
-common educational software services. This course focuses on Free
-Software; where the source code is free to use, study, or modify. (50
-words)
+**Description:** From a foundation of computer networks and systems, this
+course expands to cover instructional technology infrastructure: file systems,
+users, wired and wireless networks, email, web servers, computer labs, and
+common educational software services. This course focuses on Free Software;
+where the source code is free to use, study, or modify. Students will work
+through a series of systems challenges, using their own (virtual) Linux
+installation
 
-\
+**Keywords:** linux, bash, systems, networks, lamp, free software, trouble shooting, technical project management
 
 GOALS & OBJECTIVES
 ------------------
@@ -26,29 +27,19 @@ operating systems and digital networks. Upon completing this course they
 will be able to:
 
 -   set up a secure, network computing environment
-
 -   effectively use the basic tools of Unix/Linux computing environments
-
 -   implement techniques for administering group and user permissions
-
 -   install and troubleshoot hardware and software infrastructure for
     networked and internet computing
-
 -   configure various server-side applications to support teaching and
     learning
-
 -   identify the ethical and legal concerns surrounding school
     information systems
 
 
 Required Books
 --------------
-
-Esteve, J. 2009. _[The GNU/Linux Operating System.*Free Technology
-Academy](http://ftacademy.org/materials/fsm/2#1)_. Barcelona. 
-
-Kurose, J. (2010). *Computer networking : a top-down approach* (5^th^
-ed.). Boston: Addison-Wesley. ISBN 0136079679.
+_None_
 
 BIBLIOGRAPHY
 ------------
@@ -56,31 +47,67 @@ BIBLIOGRAPHY
 Adelstein, Tom. 2007. *Linux System Administration.* O'Reilly Media. ISBN
 0596009526.
 
+Esteve, J. 2009. _[The GNU/Linux Operating System.*Free Technology
+Academy](http://ftacademy.org/materials/fsm/2#1)_. Barcelona.
+
 Gift, Noah. 2008. *Python for Unix and Linux System
-Administration.*O'Reilly Media. ISBN 0596515820.
+Administration.*O'Reilly Media. ISBN 0596515820. 
+
+Kurose, J. (2010). *Computer networking : a top-down approach* (5^th^
+ed.). Boston: Addison-Wesley. ISBN 0136079679.
 
 Peterson, Larry L. 2011. *Computer Networks, Fifth Edition: A Systems
-Approach.*Morgan Kaufmann. ISBN 0123850592.
+Approach.* Morgan Kaufmann. ISBN 0123850592.
 
-Tanenbaum, Andrew S. 2002. *Computer Networks.*Prentice Hall. ISBN
+Tanenbaum, Andrew S. 2002. *Computer Networks.* Prentice Hall. ISBN
 0130661023.
 
 
 Class sessions
 --------------
 
-### Networks and the internet
+Session   Date      Topic
+-------   -------   ------
+1         5/26      Computers and Operating Systems
+2         5/28      File System and Unix Basic
+3         6/2       Media Files [matt]
+4         6/4       Networks & Web Servers [david]
+5         6/9       Ethics & Security [david]
+6         6/11      Exam
+7         6/16      Database Servers and Networked Applications [matt]
+8         6/18      DIY
+
+
+### Linux: operating system of the cloud
 
 Students will get an overview of current network computing scene. They
 will learn how to install the Ubunutu GNU/Linux operating system.
 
-### The linux operating system
+Challenges:
+
+1. Install Ubuntu 15.04 on Virtual box
+    - evidence: can boot and log into virtual box
+    - points: 5 points
+2.   
+
+
+
+### Files, users, groups, and permissions
 
 This session focuses on the organization of the Linux OS. Students will
 also learn about package management, maintaining and upgrading software,
 Gnome and KDE windowing systems.
 
-### UNIX tools and utilities
+### Media
+
+
+Level 1:
+
+- screenshot
+- screencast
+- open-convert-save video, audio, image
+
+
 
 Students will learn the basic tools of the linux shell: text editors
 (emacs/vi/nano), head/tail/more, cat, man, etc.
@@ -134,10 +161,6 @@ Linux Terminal Server.
 Students configure the Apache HTTP server, learn about configuration
 files, and plugins, security settings for Apache.
 
-### Database servers
-
-Students learn how to set up databases with mySQL, grant user
-permissions, and use the mysql CLI client to run sql commands.
 
 ### Educational applications and services
 
