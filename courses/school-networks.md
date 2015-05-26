@@ -1,5 +1,6 @@
 % Educational information systems and networks
 % Matthew X. Curinga
+  David Frackman
 
 
 **Description:** From a foundation of computer networks and systems, this
@@ -66,63 +67,46 @@ Tanenbaum, Andrew S. 2002. *Computer Networks.* Prentice Hall. ISBN
 Class sessions
 --------------
 
-Session   Date      Topic
--------   -------   ------
-1         5/26      Computers and Operating Systems
-2         5/28      File System and Unix Basic
-3         6/2       Media Files [matt]
-4         6/4       Networks & Web Servers [david]
-5         6/9       Ethics & Security [david]
-6         6/11      Exam
-7         6/16      Database Servers and Networked Applications [matt]
-8         6/18      DIY
+Session   Date         Topic
+-------   -----------  ------
+1         Tue May 26   Computers and Operating Systems
+2         Thu May 28   File System and Unix Basic
+3         Tue Jun 2    Media Files
+4         Thu Jun 4    Networks & Web Servers
+5         Tue Jun 9    Ethics & Security
+6         Thu Jun 11   Mid Point Exam
+7         Tue Jun 16   Database Servers
+8         Thu Jun 18   Web Applications (pt 1)
+9         Tue Jun 23   Web Applications (pt 2)
+10        Thu Jun 25   DIY
 
+### Tues. 5/26: Computers and Operating Systems
 
-### Linux: operating system of the cloud
+In this session, students will set up their own installation of [Ubuntu
+GNU/Linux](http://www.ubuntu.com) and will learn about the basic operations of
+computer hardware and operating system software.
 
-Students will get an overview of current network computing scene. They
-will learn how to install the Ubunutu GNU/Linux operating system.
+### Thurs 5/28: File System and Unix Basic
 
-Challenges:
+Students will learn about how information is stored on a computer, and learn
+the basics of file permissions, backups, managing data, and working with linux
+users and groups.
 
-1. Install Ubuntu 15.04 on Virtual box
-    - evidence: can boot and log into virtual box
-    - points: 5 points
-2.   
+### Tues 6/2: Media Files
 
+In this session students will learn the basic principles of representing and
+working with digital images, audio, and video. They will learn the relative
+advantages and uses of different media formats and codecs, and work with a
+variety of tools for managing and working with media files.
 
+### Thurs 6/4: Networks & Web Servers
 
-### Files, users, groups, and permissions
+During this session, students will be introduced to the principles of computer
+networks, including the network protocols of the internet (IP/TCP, DNS, HTTP,
+HTTPS). They will also install and configure the Apache HTTP Server to run
+static web sites.
 
-This session focuses on the organization of the Linux OS. Students will
-also learn about package management, maintaining and upgrading software,
-Gnome and KDE windowing systems.
-
-### Media
-
-
-Level 1:
-
-- screenshot
-- screencast
-- open-convert-save video, audio, image
-
-
-
-Students will learn the basic tools of the linux shell: text editors
-(emacs/vi/nano), head/tail/more, cat, man, etc.
-
-### Users and groups
-
-Students will look at managing users and groups, superuser and sudo,
-password files, and more.
-
-### File systems
-
-Students will format drives, create file permissions, use uname,
-symbolic links, rsync, and backup strategies.
-
-### Ethics & school computer systems
+### Tues 6/9: Ethics & Security
 
 Reviewing several cases of controversies in school systems, students
 will consider the ethical and legal considerations of administering
@@ -130,64 +114,102 @@ computer systems in a school setting, including maintaining the privacy
 of sensitive data, equitable distribution of computing resources, design
 for universal access, and more.
 
-### Network protocols
+In addition, they will gain proficiency and understanding of computer and
+network security practices, protocols, and tools.
 
-This session introduces Interent Protocol (IP), the concept of network
-layers, TCP, UDP, DNS, and routing.
+### Thurs 6/11: Midpoint Exam
 
-### Local area networks
+This session will not meet in person. Students will individually complete a
+timed exam on Moodle.
 
-Students practice with local area networks: distributed file systems,
-DHCP, print servers, and user management.
+### Thurs 6/16: Database Servers
 
-### Wireless networks
+Students will gain a basic understanding of the uses and operations of
+database servers. They will install MySql as well as the tools for managing
+the database. They will be given a basic introduction to SQL, as well as the
+tools for copying, backing-up, and moving databases.
 
-This session looks at wireless networking standards, routers and access
-points, and wireless security protocols.
+### Thurs 6/18: Web Applications (pt 1)
 
-### computer security
+During this session students will install and configure full web applications,
+typically running on the Linux Apache MySQL PHP (LAMP) stack. Possible
+applications include:
 
-This session looks more specifically at the security of computer
-networks, including firewalls, hardening servers, virus protection, and
-encryption.
+- Moodle
+- WordPress
+- Canvas
+- MediaWiki
+- edX
 
-### The educational computer lab
+### Thurs 6/23: Web Applications
 
-Students will learn strategies for maintaining computer labs, including
-Linux Terminal Server.
+Students continue configuring and adding demo content to their web application.
 
-### Web servers
+### Tues 6/25: Do-it-yourself
 
-Students configure the Apache HTTP server, learn about configuration
-files, and plugins, security settings for Apache.
+For our last class we will run a DIY fix-it workshop where students will
+propose and complete their own projects.
 
+Example project might include:
 
-### Educational applications and services
+- jailbreaking an iPhone or rooting an Android device
+- creating a dual boot linux laptop
+- setting up an AWS server on Amazon for a public web application
+- replacing the screen on a cracked phone
+- backing up and re-installing Windows to remove viruses
 
-This session looks at installing and configuring some of the popular
-applications used in learning environments: Moodle, WordPress, Drupal,
-Kaltura, etc.
-
-### Cloud computing
-
-Examines the trend towards cloud computing; what this paradigm really
-means. Also, looks at the benefits and drawbacks of "cloud" vendors,
-such as Amazon EC2.
 
 
 Grades & Assignments
 --------------------
 
-Students will have weekly homework assignments. These assignments will
-measure the discrete skills and knowledge covered each week. In
-addition, there will be practice-based midterm and final exams, where
-students will have to use their own server space to install and
-configure network and application services.
 
-*Grading:*
+Assignment       Pct      Due
+---------------  ------   ----
+Systems Game     40%      ongoing
+Flash Cards      20%      6/7 (end of day on Sunday)
+Midpoint Exam    30%      6/11
+DIY Project      10%      6/25
 
--   Homework (30%)
--   Midterm (30%)
--   Final project (40%)
+### Systems Game
 
+During the hands-on portion of each class meeting, students will be paired
+with a random classmate. The class will be presented with a list of tasks
+related to the topic, and each task will have an associated point value. Pairs
+will work together to complete as many tasks as possible, earning points for
+each task they complete. Pairs will receive the same number of points for the
+session they work together. Points are cumulative for the duration of the
+course, and the final grade will be calculated on the total points you earn.
+The grade for this assignment will be on a curve, from A+ to B. If you miss
+class you will not be able to earn points for that session.
 
+### Flash Cards
+
+Each student will be responsible for creating a deck of study flash cards to
+be shared by everyone for the midpoint exam. Students must choose one of the
+following topics:
+
+1. Computer hardware
+2. Operating Systems (and bootloaders)
+3. Computer laws, privacy, and educational policies
+4. File systems
+5. Media files
+6. Computer Networks (wired, wifi, cellular, etc)
+7. Computer Security
+8. Mobile computing (hardware, networks, software/OSs)
+
+### Midpoint exam
+
+The midpoint exam will be a multiple choice and short answer exam on the 8
+topics listed above under "flashcards". Students will be responsible for
+logging into Moodle to complete the timed exam individually. The exam will be
+"open book", but students must not work together, share information regarding
+the exam, or consult other people outside of the class for help during the
+exam.
+
+### DIY Project
+Students will be given a grade for their DIY project:
+
+- 3 points, risk/difficulty of the proposed project
+- 3 points, achievement in completing their project
+- 4 points, skill in approaching their project
