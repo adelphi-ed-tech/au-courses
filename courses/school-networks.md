@@ -72,12 +72,12 @@ Session   Date         Topic
 1         Tue May 26   Computers and Operating Systems
 2         Thu May 28   File System and Unix Basic
 3         Tue Jun 2    Media Files
-4         Thu Jun 4    Networks & Web Servers
+4         Thu Jun 4    Networks
 5         Tue Jun 9    Ethics & Security
-6         Thu Jun 11   Mid Point Exam
+6         Thu Jun 11   Midpoint Exam
 7         Tue Jun 16   Database Servers
-8         Thu Jun 18   Web Applications (pt 1)
-9         Tue Jun 23   Web Applications (pt 2)
+8         Thu Jun 18   Web Servers
+9         Tue Jun 23   Web Applications
 10        Thu Jun 25   DIY
 
 ### Tues. 5/26: Computers and Operating Systems
