@@ -18,7 +18,7 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Educational Technology 0858-501, Spring 2015**
+**Educational Technology 0858-501, Fall 2015**
 
 **Key words:** digital literacies, multileracies, new literacy, semantics, new media, communication
 theory, youth media, media studies, software studies
@@ -39,18 +39,12 @@ Class Information
 
 - [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
 
+**Class dates:** Monday, Sep 21 - Wed Dec 23
+
 **Class meetings:**
 
-Classes meet 9am-1pm at Adelphi Manhattan.
 
-1. Wedenesday, 8/20
-2. Thurdsay, 8/21
-3. Friday, 8/22
-4. Saturday, 8/23
-5. Tuesday, 8/26
-6. Wedenesday, 8/27
-7. Thurdsay, 8/28
-8. Friday, 8/29
+This is an _asynchronous_ online class, which will run on a weekly schdedule, Monday-Sunday, beginning Monday, September 21. Each week, there will be short deadlines to post to the course website and complete other assignments. You **must** commit to checking the online course materials (email, Moodle, other communications) every day during the course. For us to be able to study together, it is crucial that everyone respect deadlines and submits their work on time.
 
 **Office hours:**
 
@@ -66,7 +60,7 @@ texts. Second, they should learn how to communicate effectively using
 the tools and techniques of digital media. More specifically:
 
 * Students will develop a conception of "digital literacy" as a multifaceted, social process of
-  decoding audio and visual symbols and signals.
+  decoding textuaul, audio, and visual symbols and signals.
 * Students will gain a familiarity with a range of research perspectives which engage with digital
   literacy. 
 * Students will refine their understanding of the affordances of a range of media, and these
@@ -81,21 +75,77 @@ the tools and techniques of digital media. More specifically:
 Class sessions
 ====================
 
-Day1: Critical literacy
-------------------------------
+### Dates and Schedule
+Week  Start   End     Topic
+----  -----   ------  ------
+1     21-Sep  27-Sep  Critical literacy
+2     28-Sep  4-Oct   What is Literacy?
+3     5-Oct   11-Oct  Multiliteracies
+4     12-Oct  18-Oct  New Media
+5     19-Oct  25-Oct  Digital Studio 1 (HTML & Image editing)
+6     26-Oct  1-Nov   Media Literacy
+7     2-Nov   8-Nov   Images & Visuality
+8     9-Nov   15-Nov  Power, Media, and Race
+9     16-Nov  22-Nov  Power, Media, and Gender
+10    23-Nov  29-Nov  Privacy & Security
+11    30-Nov  6-Dec   Data, big and small
+12    7-Dec   13-Dec  Visualizing Data
+13    14-Dec  20-Dec  Computational Thinking
+14    21-Dec  23-Dec  Digital Studio 2
+
+
+Week 0: Getting ready for Digital Literacies
+--------------------------------------------
+
+Before our first class meeting, you must get your environment set-up and be ready to go.
+
+Please go through this checklist:
+
+- installed all required software
+- can log into Moodle and Google with your adelphi.edu account
+- can shot and capture video of myself (and audio)
+- have done a practice google hangout with a friend
+- created an account on Slack using your adelphi.edu email, joined #auedtech group
+
+This is a technical course, and expects students to come with some basic technical expertise. In particular:
+
+- you should be an _advanced_ user of your own computer operating system:
+    - you should be comfortable installing and customizing new software
+    - freeing up room on your harddrive if it is full
+    - backing up important work
+    - understanding how (and where!) files are stored on your computer
+- you should be a competent user of the internet:
+    - be able to install necessary plugins to access different media
+    - understand basic internet troubleshooting
+        - when you can't reach a website, is the problem on your end or on the website's end?
+        - what do you do if you can't connect to the wifi in your home, library, or cafe?
+    - have a system for generating and securing passwords and logins for multiple websites
+- you should be an advanced user of media:
+    - can transfer photos and video from your camera or phone to your computer
+    - can download and play video in audio in multiple formats (.avi, .mov, .mpg, .aac, .mp3, etc)
+    - can particpate in video chat, with good clear audio and video (use headphones for sure, and a mic if possible)
+        - you have done this using Skype, iChat, Google Hangout, etc
+
+Week 1: Critical literacy
+-------------------------
 
 ### Readings due:
 Freire, P. (1971). Chapter 2 from _Pedagogy of the Oppressed_. (M. B. RAMOS, Trans.). New York: Herder and Herder.
 
-Gee, J. P. (1989). What Is Literacy? _Journal of Education_, _171_(1), 18–25.
-
-Delpit, L. D. (1992). Acquisition of literate discourse: Bowing before the master? _Theory into Practice_, _31_(4), 296–302.
 
 
 ### Workshop
 * HTML
 
-DayDay 2: Multiliteracies
+Week 2: What is Literacy
+-------------------------
+Gee, J. P. (1989). What Is Literacy? _Journal of Education_, _171_(1), 18–25.
+
+Delpit, L. D. (1992). Acquisition of literate discourse: Bowing before the master? _Theory into Practice_, _31_(4), 296–302.
+
+
+
+Week 3: Multiliteracies
 ------------------------------
 
 ### Readings due:
