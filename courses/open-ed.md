@@ -16,7 +16,7 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Educational Technology 0858-502, Spring 2015**
+**Educational Technology 0858-502, Fall 2015**
 
 **Keywords:** open education, deschooling, OER, free culture, 
 networked learning, peer-to-peer learning, p2p learning, open source 
@@ -59,16 +59,20 @@ education, and what we want it to look like.
 
 **Class meetings:**
 
-- Thurs. 7:00-8:50, Room 272 and online
+- Tues. 4:30-6:20PM, Gallagher Lab, Swirbul Library (Garden City)
 
-**Office hours:**
+**Instructor**
 
-Manhattan (Room 228)
-: Tues, 4pm-6pm
-: Thurs, 3pm-5pm
+* [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
+* [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
 
-Garden City ([Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map"))
-:  Wed, 2:30-4:30PM
+**Dr. Curinga's Office Hours**
+
+* Monday, 3-5:00PM
+* Tuesday, 3:30-4:30PM, 8:30-9:30PM
+* Wednesday, 3-5PM
+* by appointment
+
 
 Readings
 ====================================
@@ -149,63 +153,20 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 
 Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
-Class sessions
-====================================
+Class Topics
+===========================
 
-Session Date    Format       Topic                         Assignment
-------- ------  --------     ----------------------------- --------------------------------
-   1    Jan 29  online       Foundations of Open Education 
-   2     Feb 5  in person    Connected Learning             
-   3    Feb 12  online       Open Education Resources       
-   4    Feb 19  in person    Open Education Reports         OER Report
-   5    Feb 26  online       Deschooling                        
-   6     Mar 5  in person    Ignorant Schoolmaster          
-   7    Mar 12  online       Free Software                  
-   -    Mar 19  Spring Break               -                
-   8    Mar 26  online       Free Culture & Open Content    Open Ed Subject Guide
-   9     Apr 2  in person    Peer production                
-  10     Apr 9  online       The Commons                    
-  11    Apr 16  in person    Wikipedia                      
-  12    Apr 23  online       MOOCs: Massively Open Online   Essay Abstract
-  13    Apr 30  in person    Resisting Open Education       Essay First Page
-  14     May 7  online       Writing workshop               Essay Draft
-  15    May 14  in person    Video Dictionary Studio        Final Essay
-       
-
-* **In person** classes meet on Thursdays at 7pm, Manhattan Center Room 272
-* **online** weeks have no set meeting time. They will be carried
-  out by posting writing, video, or other media to the course website.
-  You should consult with your _study group_ every week. During
-  asynchronous weeks, you **must check the course website at least
-  once a day.** Online weeks run from Thursday to the next Thursday.
-  A typical online week looks like this:
-    - Tues-Fri: do the readings
-    - Sat or Sun: post your response online (300-500 words), due by end of day on Sunday
-    - Mon-Tues: post at least two comments; respond to comments on your post.
-
-
-
-Foundations of Open Education
------------------------------------------------
+Sep 15: Foundations of Open Education & Connected Learning
+----------------------------------------------------------
 
 #### Readings due:
 
 Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education](https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). In course [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
-[Nine steps to participating in a MOOC](http://gsiemens.tumblr.com/post/10153633521/how-to-participate-in-an-open-online-course), George Siemens.
+(2007) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
 
-#### Assignments:
-1. Form a 3 person study group, post your members on Moodle
-2. Choose a week to be the [session leader](#session-leader)
-    a. Topics are first come, first serve.
-    b. You are responsible for setting up your week on Moodle
-3. Choose an "open education" project to participate in and study
-4. List your project on Moodle, one per customer (i.e. no repeats)
+Unesco. (2012) ["The UNESCO Paris Declaration."](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/Events/English_Paris_OER_Declaration.pdf)
 
-Connected Learning
-----------------------------------------------
-
-#### Readings due:
 Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
 
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
@@ -213,31 +174,11 @@ Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.ed
 Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:24]. TEDxUIUC.
 
 
-Open Education Resources
-----------------------------------------------
-
-#### Readings due:
+#### Optional readings:
 
 Wiley, D., Bliss, T. J., & McEwen, M. (2013). [Open Educational Resources: A Review of the Literature.](http://www.opencontent.org/docs/oer_literature_preprint.pdf) In J. M. Spector (Ed.), [_Handbook of research on educational communications and technology_](http://www.worldcat.org/title/handbook-of-research-on-educational-communications-and-technology/oclc/852681273) (pp. 781–190). New York, NY: Springer.
 
-(2007) "[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)".
-
-Unesco. (2012) ["The UNESCO Paris Declaration."](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/Events/English_Paris_OER_Declaration.pdf)
-
-Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
-
-Open Education Reports
-----------------------------------------------
-
-#### Readings due:
-
-_no assigned readings_
-
-#### Assignments due:
-* Open Ed Report (on AU Ed Tech Wordpress)
-* OER Report lightning talk (to present in class)
-
-Deschooling
+Sep 22: Deschooling, Unschooling, and Ignorance
 ----------------------------------------------
 
 #### Readings due:
@@ -245,15 +186,10 @@ Curinga, M. (2012) [Ivan Illich: a brief introduction](http://www.youtube.com/wa
 
 Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/~novembre/illich/1970_Why_We_Must_Abolish_Schooling.html). _The New York Review of Books_.
 
-Ignorant Schoolmaster
-----------------------------------------------
-
-#### Readings due:
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in 
-Intellectual Emancipation_. Stanford University Press. USA. 
-[_Chapters 1 & 2_](https://moodle.adelphi.edu/mod/resource/view.php?id=782721) [moodle]
+Intellectual Emancipation_. Stanford University Press. USA. _Chapters 1 & 2_
 
-Free Software/Open Source Software
+Oct 6: Free Software & Free Culture
 ----------------------------------------------
 
 #### Readings due:
@@ -263,12 +199,7 @@ Raymond, E. S. 1998. [The cathedral and the bazaar](http://firstmonday.org/htbin
 
 Raymond, E. (1999, June 28). [Shut Up And Show Them The Code](http://www.linuxtoday.com/developer/1999062802310NWSM). _Linux Today_.
 
-Free Culture & Open Content
-----------------------------------------------
-
-Since there are many good videos on the topic, we are going to primarily focus on videos this week.
-
-#### Readings due:
+#### Videos
 
 Open Source Cinema. (2006). [Lessig Remix.](http://www.youtube.com/watch?v=TFdcPc-4Ris) YouTube. [Video 00:04:34]
 
@@ -287,7 +218,7 @@ Lessig, L. [Collection of Lessig Videos](http://blip.tv/lessig) Blip.tv
 
 [Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html) [video]
 
-Peer production
+Oct 20: Peer production
 ----------------------------------------------
 
 #### Readings due:
@@ -298,8 +229,11 @@ If you would like some extra background on the reading and want to
 put the ideas in context, you might want to
 [check out this TED video of Yochai Benkler explaining the ideas expressed in  Coase's Penguin](http://www.ted.com/talks/lang/en/yochai_benkler_on_the_new_open_source_economics.html "go to the website") (recorded in 2005)
 
+#### Due:
 
-The Commons
+- Open Ed Report
+
+Nov 10: The Commons
 ----------------------------------------------
 
 #### Readings due:
@@ -318,37 +252,7 @@ Hardin, G.. (1968). [The tragedy of the commons](http://www.sciencemag.org/conte
 
 Ostrom, E. (1999). [Coping with tragedies of the commons](http://www.soc.duke.edu/~pmorgan/ostrom.AR.html). _Annual review of political science_, _2_(1), 493–535.
 
-Wikipedia
-----------------------------------------------
-
-#### Readings due:
-* **About Wikipedia**
-    * [Wikipedia](http://en.wikipedia.org/wiki/Wikipedia)
-    * [History of Wikipedia](http://en.wikipedia.org/wiki/History_of_Wikipedia)
-    * [Reliability of Wikipedia](http://en.wikipedia.org/wiki/Reliability_of_Wikipedia)
-    * [Criticism of Wikipedia](http://en.wikipedia.org/wiki/Criticism_of_Wikipedia)
-    * [Blog: Gender Gap](http://blog.wikimedia.org/2011/02/01/wikipedias-gender-gap/)
-
-* **Editing Guidelines**
-    * [Five Pillars](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars)
-    * [Be Bold](https://en.wikipedia.org/wiki/Wikipedia:Be_bold)
-    * [Assume Good Faith](https://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith)
-    * [Wikipedia Adventure](https://en.wikipedia.org/wiki/Wikipedia:TWA/Portal)
-    * [Teahouse (new editors)](https://en.wikipedia.org/wiki/Wikipedia:Teahouse)
-
-
-#### Assignments
-* create a Wikipedia account, if you don't have one
-* choose a Wikipedia article to edit, choose one:
-  - on a topic that you are interested in
-  - that you are knowledgeable about
-  - where there is something you can contribute to
-* read the talk page, to get a sense of what the article authors have been discussing
-* read the recent changes for the page to see what areas have been updated
-* make some minor changes to improve the article
-* watch the page to see if your changes trigger any comments or other activity
-
-MOOCs: Massively Open Online Courses
+Nov 24: MOOCs: Massively Open Online Courses
 ----------------------------------------------
 
 #### Readings due:
@@ -362,33 +266,24 @@ Vollmer, Timothy. (2012, November 1). [Keep MOOCs Open](http://creativecommons.o
 
 Exoo, C., & Exoo, C. F. (2013, October 28). [MOOCs: Corporate welfare for credit](http://www.salon.com/2013/10/28/moocs_corporate_welfare_for_credit/). _Salon._
 
-Resisting Open Education
+Dec 1: Resisting Open Education
 ----------------------------------------------
 
 #### Readings due:
-Peters, M. A. (2011). [Algorithmic capitalism and educational
-futures](https://moodle.adelphi.edu/file.php/53983/peters-2011-cognitive-capitalism.pdf)
-[moodle pdf]. In M. A. Peters & E. Bulut
-(Eds.), _Cognitive capitalism, education, and digital labor_ (pp.
-245–258). New York: Peter Lang.
+Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
 
 Caffentzis, G., & Federici, S. (2009). Notes on the Edu-Factory and cognitive capitalism. In Edu-factory Collective (Ed.), [Toward a global autonomous university](https://www.gold.ac.uk/media/Towards_A_Global_Autonomous_University.pdf). New York: Autonomedia.
 
+Taylor, A. (2015). _People’s platform: taking back power and culture in the digital age._ New York: Picador, Henry Holt and Company. [Selections]
 
-
-Peer Editing & Writing Workshop
+Dec 8: Writing workshop
 ----------------------------------------------
-#### Readings due:
-_none_
 
+_Everyone will bring drafts of their paper and will will do some writing/editing exercises._
 
-Open Ed Video Dictionary Workshop
+Dec 15: Papers due
 ----------------------------------------------
-#### Readings due:
-_none_
-
-#### Assignments due:
-* final paper
+No in person meeting, but final papers are due.
 
 
 Assignments
@@ -398,11 +293,9 @@ Assignments
 
 Assignment                   Due             % of final grade
 ---------------------------  --------------  -----------------
-Participation                ongoing         20%
-Session leader               varied          20%
-Open Education Report        session 4       15%
-Open Ed Subject Guide        session 8       15%
-Critical Essay               final class     30%
+Participation                ongoing         30%
+Open Education Report        Oct 20          30%
+Critical Essay               Dec 15          40%
 
 Participation
 ----------------------------------------------
@@ -420,62 +313,6 @@ to discuss texts before full group discussions.
 
 Your grade in this area will be determined by the end of term particpant survey and the instructor grade.
 
-Session leader
-----------------------------------------------
-
-Everyone in the class will be responsible for
-leading a class session, either alone or working with a partner
-(depending on class size). When you sign up to lead a session, you
-will either be leading an in-person seminar or an online discussion.
-In either case, you should take extra time to understand the
-readings for the session you are leading, take notes on the
-readings, and formulate questions.
-
-In-class seminar leaders may want to open class with a few comments
-about the texts. How you choose to lead your session is up to you.
-
-Here are some techniques that I use (you can mix, match, or ignore):
-
-* begin with (~15 minutes) of initial free writing/journaling
-  related to the texts, some participants read their entries
-* formulate open questions that address a large issue in the text,
-  frame the questions with specific quotations from the works we're
-  studying
-* distribute questions to small groups or pairs, and have them work
-  independently on discussion the works. visit the groups while they
-  are discussing the text and join their discussion. share with full
-  group after certain time.
-* ask each participant to read a line or two that they think is
-  interesting or worth discussing; follow the discussion from there
-* ask participants to write down one or two questions or insights
-  that they have about the works. build a discussion around these.
-
-Here are some things to avoid:
-
-* boring your audience with a poorly organized lecture (especially easy to do with a PPT in the "book report" style)
-* asking yes or no questions: "Does Ivan Illich like schools?"
-* allowing the discussion to drift too far from the texts/subject being discussed
-* misjudging the time it will take to discuss something
-* allowing a few voices to dominate the conversation
-
-While most of the above comments hold for **online discussions**,
-there are some practical refinements for online weeks.
-
-1. You should post a video, audio, slideshow/PPT, or written
-   introduction to the texts on the first day of the session you are
-   leading (we are on a Thurs-to-Thurs schedule, so your intro should be
-   ready by the first Wed. evening).
-2. Give explicit instructions for how, what, where your classmates
-   will post their responses
-3. You are the glue that will make the online discussion work. You
-   must read _everything_ posted, and the faster the better. Ask
-   follow-up questions and provide comments/feedback as soon as you
-   can. Facilitate interaction between commenters who have similar,
-   conflicting, or overlapping ideas.
-
-Your grade in this area will be determined by the session leader survey completed
-by all participants.
-
 Open Education Report
 ----------------------------------------------
 
@@ -485,11 +322,9 @@ hour a week participating in the project. Typically, at first, this will mean
 reading about it and following along. As you learn about the community, you
 can contribute more to its projects.
 
-Your final report will be uploaded to the [Ed Tech Blog](http://www.auedtech.org).
-As we build a number of Open Education case studies, all of the reports must have the
-same format:
+At our meeting on October 20, everyone will report back on the community they have been working with. You should consider:
 
-1. **Introduction**
+1. **Basics**
     - narrative description of the project
     - sample works (screenshots, links, diagrams, etc)
     - project goals
@@ -508,33 +343,13 @@ same format:
     - in what ways is this project "open"?
     - consider: licenses, technologies, production model, output model, access, cost, APIs
     - how does it fit in with other projects?
-5. **Conclusion**
+5. **Insight**
     - how important is this project?
     - what is its potential impact?
     - does it reflect best educational practices and learning sciences?
     - does it support or enhance the social/political goals of education?
 
-Your report should be concise, well edited, and prepared in a way
-that will make it useful for a general audience interested in
-technology and open education. Aim 2 pages (500-700 words). Along with the
-written report, you will prepare a 5 minute lightning talk [[1](https://en.wikipedia.org/wiki/Lightning_talk#Definition_and_format)] [[2](https://barriebyron.wordpress.com/2013/02/17/so-you-want-to-give-a-lightning-talk/)] about your project.
-
-Open Ed Subject Guide
-----------------------
-
-The subject guide is a group project that you will complete with your study
-group and it will be graded Pass/Fail. Your project will not pass until their
-is consensus with the entire class that it is ready to launch.
-
-For this project, your study group will choose a topic of common interest
-(e.g., "These Ten Open Tools for Writing Will CHANGE YOUR LIFE!", "Open Tools
-for Instructional Designers"). You will gather a collection of open resources
-that your group thinks are useful and important for the topic. The guide will
-consist of an annotated list of these tools with some brief introductory text.
-Your group will create a brief video highlighting the tools. The video must be
-between 3-5 minutes long. The video will be released with a Creative Commons
-License on YouTube and the collection will be posted on the AU ED Tech blog
-(where all the content is CC licensed).
+You will prepare a 5 minute lightning talk [[1](https://en.wikipedia.org/wiki/Lightning_talk#Definition_and_format)] [[2](https://barriebyron.wordpress.com/2013/02/17/so-you-want-to-give-a-lightning-talk/)] about your project to present to the group. From there, we will have a general discussion of the projects.
 
 Critical Essay
 ----------------------------------------------
@@ -551,16 +366,14 @@ engage with during the semester in your writing. Your work must
 properly cite your sources, using APA styled references. You may include endnotes in your
 essay as well.
 
-Essays must be approximately 2,500 words long. They
-will be posted on the [Educational Technology Blog](http://www.auedtech.org). 
+Essays must be approximately 2,500 words long.
 This is strictly an individual assignment (one essay per
-person). You should work with your study group to draft and improve
-your essay. I strongly suggest that everyone schedule an appointment
+person). I strongly suggest that everyone schedule an appointment
 with the [Writing Center](http://students.adelphi.edu/writingcenter/)
 before you turn in your draft, and then again before you turn in
 your final essay.
 
-_Your final essay is due on 5/14._ Late work will not be accepted
+Late work will not be accepted
 for this assignment and **there will not be an opportunity to re-write
 your final essay.**
 
@@ -585,14 +398,11 @@ Their reviewers consider:
     - **6 point** essays read fluidly and exhibit a strong authorial voice and mastery of rhetorical structures, using wit, narrative, passion, etc. Each idea is fully developed while retaining our principle of parsimony.
     - **7 points**, like 6 point essays, but also edited to the point where they are error free and suitable for print. It is very difficult to prepare an essay at this level without feedback from other readers.
 
-For this essay, you may use Chicago, MLA, or APA styled citation, but must be consistent in how you apply them (don't switch styles). In addition to the references, you may include endnotes if necessary. The [Purdue Owling Writing Lab](https://owl.english.purdue.edu/owl/section/2/) is a good resource for citations as well as the basic elements of academic writing.
-
 Adapted from [Process: Appendix A](http://peerproduction.net/peer-review/process/). _modifications appear in italics_
 
-Your paper will be graded by the professor and by an external reviewer from a pool of Adelphi faculty, faculty at other institutions, graduates for the Ed Tech program, and other experts in the field. The external review will be a blind review—the reviewer will not know the author's identity and the author will not know the reviewer's identity.
+For this essay, you may use Chicago, MLA, or APA styled citation, but must be consistent in how you apply them (don't switch styles). In addition to the references, you may include endnotes if necessary. The [Purdue Owling Writing Lab](https://owl.english.purdue.edu/owl/section/2/) is a good resource for citations as well as the basic elements of academic writing.
 
 If your work is plagiarized or otherwise violates [Adelphi's Code of Academic] you will receive zero points for this assignment with no opportunity to re-write it.
-
 
 
 Open Education Projects

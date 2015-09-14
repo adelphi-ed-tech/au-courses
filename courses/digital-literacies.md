@@ -29,8 +29,6 @@ How do multimedia, texting, chat, status updates, and hypertext change the way w
 
 This foundational course provides students a conceptual framework to critically interpret digital media, and to author powerful and effective digital documents. Students have the opportunity to practice and develop these skills, which are central to many aspects of the degree in Educational Technology.
 
-
-
 ------------------------------------------------------------------------
 
 Class Information
@@ -101,17 +99,17 @@ Before our first class meeting, you must get your environment set-up and be read
 
 Please go through this checklist:
 
-- installed all required software
 - can log into Moodle and Google with your adelphi.edu account
-- can shot and capture video of myself (and audio)
+- can shoot and capture video of yourself (and audio)
 - have done a practice google hangout with a friend
-- created an account on Slack using your adelphi.edu email, joined #auedtech group
+- created an account on our Slack team (<https://auedtech.slack.com/signup>) using your mail.adelphi.edu email (Slack is group chat that we will be using for informal help/discussions), join the #diglit channel
+- check out [Adelphi's Online Readiness Course](https://moodle.adelphi.edu/course/view.php?id=75374) for students
 
 This is a technical course, and expects students to come with some basic technical expertise. In particular:
 
 - you should be an _advanced_ user of your own computer operating system:
     - you should be comfortable installing and customizing new software
-    - freeing up room on your harddrive if it is full
+    - freeing up room on your hard drive if it is full
     - backing up important work
     - understanding how (and where!) files are stored on your computer
 - you should be a competent user of the internet:
@@ -132,18 +130,11 @@ Week 1: Critical literacy
 ### Readings due:
 Freire, P. (1971). Chapter 2 from _Pedagogy of the Oppressed_. (M. B. RAMOS, Trans.). New York: Herder and Herder.
 
-
-
-### Workshop
-* HTML
-
 Week 2: What is Literacy
 -------------------------
 Gee, J. P. (1989). What Is Literacy? _Journal of Education_, _171_(1), 18–25.
 
 Delpit, L. D. (1992). Acquisition of literate discourse: Bowing before the master? _Theory into Practice_, _31_(4), 296–302.
-
-
 
 Week 3: Multiliteracies
 ------------------------------
@@ -151,71 +142,75 @@ Week 3: Multiliteracies
 ### Readings due:
 The New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. _Harvard Educational Review_, 66(1), 60-92.
 
-### Workshop
-* Screencasting
-
-
-Day 3: New Media
+Week 4: New Media
 ------------------------------
 
 ### Readings due:
 Manovich, L. (2007). "What is new media?" from _The language of new media_. MIT Press. 
 
-### Workshop
-* Shooting & editing digital video
+Week 5: Digital Studio 1
+------------------------------
+_There are no readings this week. The first 2 portfolio items are due (HTML and Digital Image)._
 
-Day 4: Media Literacy
+
+Week 6: Media Literacy
 ------------------------------
 ### Readings due: 
 Baker, F. W. (2012) Teaching Media Literacy from _Media literacy in the K-12 classroom_. International Society for Technology in Education.
 
 Barthes, R. (1972). "Operation Margarine" and "Myth Today" from _Mythologies_.
 
-### Workshop
-* Gimp
+Watch: "Fifteen Million Merits" _Black Mirror_ Season 1, Episode 2.
 
-Day 5: Reading Images
+Week 7: Images & Visuality
 ------------------------------
 
 Debord, G. (1967). The Commodity as Spectacle from _The society of the spectacle_. New York.
 
 Mitchell, W. J. (2005). There are no visual media. Journal of Visual Culture, 4(2), 257–266.
 
-### Workshop
-* Diagramming
-
-Day 6: Representation
+Week 8: Power, Media, and Race
 ------------------------------
 
 ### Readings due:
 Fanon, F. (2000). The fact of blackness. In L. Back & J. Solomos (Eds.), _Theories of Race and Racism: A Reader_ (pp. 257–266).
 
-Nakamura, L. (2013). Digital racial formations and networked images of the body. In N. Mirzoeff (Ed.), _The visual culture reader (3rd ed.)_, (pp. 644–654). London ; New York: Routledge.
+Mirzoeff, N. (2015). [#BlackLivesLooking: A Year After Ferguson](http://tidalmag.org/blog/intensify/blackliveslooking-a-year-after-ferguson/). _Tidal_.
 
-### Workshop
-* Spreadsheets
-
-Day 7: Information and Data
+Week 9: Power, Media, and Gender
 ------------------------------
+
+### Readings due:
+Mulvey, L. (1975). Visual pleasure and narrative cinema. _Media and Cultural Studies: Keyworks_, 393–404.
+
+
+Week 10: Privacy & Security
+------------------------------
+
+#### Readings due:
+Watch Citizen Four
+
+Week 11: Data, big and small
+----------------------------
+_No readings, just data workshop._
+
+Week 12: Visualizing Data
+----------------------------
 ### Readings due: 
 Tufte, E. (2001) The cognitive style of PowerPoint.
 
-### Videos (in class):
-* Steve Rambam: Privacy: A postmortem (https://www.youtube.com/watch?v=L5otnMs0jSQ)
-* Alessandro Acquisti: Why privacy matters (http://www.ted.com/talks/alessandro_acquisti_why_privacy_matters.html)
 
-### Workshop
-* GIS Data (CartoDB)
-
-Day 8: Computation
+Week 13: Computation
 -------------------
 ### Readings Due:
 Deleuze, G. (1992). Postscript on the Societies of Control. _October_, _59_, 3–7.
 
 Grover, S., & Pea, R. (2013). Computational Thinking in K–12: A Review of the State of the Field. _Educational Researcher_, _42_(1), 38–43.
 
-### Workshop
-* Open studio
+Week 14: Digital Studio 2
+------------------------------
+_There are no readings this week. The final portfolio is due._
+
 
 Assignments
 ===========
@@ -245,7 +240,7 @@ Your portfolio must include a report of a **personal security audit**. Your audi
 2. **financial security.** How do you choose passwords? How strong are they? Do you share them? Do you use them across multiple sites? What would happen if one of your passwords and email were stolen from a site you belong to? Can you list all of the sites/services that have financial information (e.g. CC, bank account, SSN)? In order, which of these do you think are the most secure?
 3. **personal digital security.** Do you run a firewall on your desktop or laptop computer? Is there a password on your phone or tablet? If I stole your phone, what would I find? Do you encrypt any files on your computer? If I logged into your computer (or networked account) as you, what damage could I do? What steps do you take to minimize this damage?
 4. **social security.** If I Google your name, what do I see? Would you want your mom to see it? Your (potential) boss? Do the top hits give the image you want to project? What if I look on Bing, Yahoo, or Duck Duck Go?\
-What about Facebook or that old MySpace account? How much information is public, or shared with your "networks" (i.e. everyone on Facebook)? What is the worst case if your FB account were hacked? What if you have a falling out with a close friend or lover? If you were hoping for a job at the Mayor's office and they asked to see your personal FB account, would you still get the job? Do you care?
+What about Facebook or that old MySpace account? How much information is public, or shared with your "networks" (i.e. everyone on Facebook)? What is the worst case if one of your social media accounts were hacked? What if you have a falling out with a close friend or lover? If you were hoping for a job at the Mayor's office and they asked to see your personal Facebook (or Instagram, etc.) account, would you still get the job? Do you care?
 
 Write up your finding, (self) recommendations, and any changes that you have already made in a one-page report (~300 words).
 
@@ -259,15 +254,16 @@ The networked society is characterized by the problem of overabundance rather th
 4. Creating a multimedia (textual and visual) representation of your interesting finding (like a series of graphs or an infographic).
 
 
-Seminar Leader
+Session Leader
 ---------------
 
-Each student will lead the discussion part of our class, where they spend extra time preparing to discuss the readings and devise strategies and prompts to facilitate a good discussion. The leader will not create a presentation, but will be an active participant in the seminar discussion. Discussions will typically take one of our class time.
+Each student will lead and moderate the online discussion forums for one week. The session leader will post prompts for the discussion of the readings and spend extra time reading and writing in the discussion forums.
+
 
 Participation
 --------------
 
-Your participation in the class is crucial for the class to succeed for all of us. You are expected to attend every class meeting and to arrive on time. You should treat your peers professionally and with respect. You should come to class prepared to discuss readings and other work. Lastly, you should turn in all assignments in a timely manner.
+Your participation in the class is crucial for the class to succeed for all of us. You are expected to post your work on time. You should treat your peers professionally and with respect.
 
 
 Grading
@@ -276,7 +272,7 @@ Grading
 Item             % of grade
 ---------------  ----------
 Portfolio            80%
-Seminar leader       10%
+Session leader       10%
 Participation        10%
 
 Web & Digital Media Toolbox and Resources
@@ -298,8 +294,6 @@ This short, curated list is the software we will be using.
     - [Safari](http://support.apple.com/kb/dl1531), to get a second look
     - [Chrome](http://www.google.com/chrome/), to test you site in Chrome
     - [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie), you might as well take a look in IE, too, either on your old windows box or in emulation
-* Source control
-    - [git](http://git-scm.com/downloads)
 * FTP/SFTP/SCP Clients
     - [FileZilla](https://filezilla-project.org/download.php?type=client), cross platform
     - [CyberDuck](http://cyberduck.io/), mac

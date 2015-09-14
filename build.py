@@ -80,14 +80,16 @@ def GenerateCourse(html, raw, word, course):
     cmd = html.substitute(args)
     subprocess.check_call(cmd,shell=True)
 
-    # build HTML fragment version
-    args["out"] = "raw"
-    cmd = raw.substitute(args)
-    subprocess.check_call(cmd,shell=True)
+    # # build HTML fragment version
+    # args["out"] = "raw"
+    # cmd = raw.substitute(args)
+    # subprocess.check_call(cmd,shell=True)
 
     # build MS Word version (due to institutional coercion)
     args["out"] = "word"
     cmd = word.substitute(args)
+    print(cmd)
+
     try:
         subprocess.check_call(cmd,shell=True)
     except Exception as ex:
@@ -153,6 +155,7 @@ def GetWordTemplate():
     
 def main():
     html = GetTemplate("adelphi")
+    print(html)
     raw = GetTemplate("raw")
     word = GetWordTemplate()
     GenerateAllCourses(html, raw, word)

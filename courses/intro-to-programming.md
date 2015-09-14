@@ -18,10 +18,9 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 
 
-[**Computer Science 0145-602, Fall 2013**](https://moodle.adelphi.edu/course/view.php?id=63723 "Go to the course website on Moodle")
+**Computer Science 0145-602, Fall 2015**
 
-**Keywords:**  computer programming, CS1, python, computational thinking, 
-critical computational literacy, Python
+**Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, Python
 
 **Description:** This course introduces students to programming and 
 some core concepts of computer science, using a modern, object oriented
@@ -29,7 +28,7 @@ programming language (currently Python). Students learn concepts of
 variables, functions, repetition/loops, basic data structures 
 (arrays, lists, hashtables), and basic object oriented programming.
 
-**Class meetings:** Tues. 6:30-8:20PM, Harvey 104
+**Class meetings:** Tues. 6:30-8:20PM, Gallagher Lab, Swirbul Library (Garden City)
 
 **Instructor**
 
@@ -38,17 +37,10 @@ variables, functions, repetition/loops, basic data structures
 
 **Dr. Curinga's Office Hours**
 
-* Tuesday, 4:30-6:30PM
-* Thursday, 3-5PM
-* Online or in person, by appointment
-
-**Teaching assistant**
-
-* Hannah Groves, <hannahgroves@mail.adelphi.edu>
-
-**Ms. Groves' Lab Hours**
-
-* Thursday, 6pm-8:30pm, Harvey 104 and/or Google Hangout
+* Monday, 3-5:00PM
+* Tuesday, 3:30-4:30PM, 8:30-9:30PM
+* Wednesday, 3-5PM
+* by appointment
 
 Learning Goals
 ===========================
@@ -65,7 +57,7 @@ Learning Goals
 Required Text
 ==========================================================================================
 
-_None._
+[_Think Python: How to think like a computer scientist. (Adelphi 2015 Edition)_](http://www.auedtech.org/think-python)
 
 Readings & Bibliography
 ==========================================================================================
@@ -92,144 +84,83 @@ Pilgrim, M. (2009). [_Dive into Python 3_](http://www.diveinto.org/python3/index
 Zelle, J. (2010). _Python Programming: An Introduction to Computer
 Science_. Franklin, Beedle & Associates Inc.
 
+Technology Requirements
+==========================================================================================
+
+Everyone will need access to a Python development environment at home in order to complete
+the homework and project assignments. We will be using the following core tools:
+
+- [Python 3](https://www.python.org/downloads/): the python language, you may have an earlier version installed (e.g. Python 2.7), but you will need Python 3 (Python 3.3, 3.4, etc) for this course
+    * you should be able to execute python scripts and the python interpreter from a command prompt
+- [Sublime Text 3](http://www.sublimetext.com/3): This is a programmer's text editor and we will use it to write our Python programs
+- [Slack](https://auedtech.slack.com): team communication/chat software that we will use to ask and answer questions when we get stuck, this is also the preferred way to contact me with course related questions. For private concerns, you can email me. You will have to [register on our slack team using your adelphi email](https://auedtech.slack.com). There are Windows, Mac, iOS, and Android clients, as well as the web client.
+- (optional) [iPython](http://ipython.org/install.html): a better interactive python shell
+
 Class meetings
 ==========================================================================================
 
-Introduction to computer programming meets every Tuesday, 4:30-6:20 in Harvey 104.
-All students are expected to come on time and prepared for class. You may bring your
-own laptop to class, or use one of the lab computers for your work. If you need
-source files to work on in class    
+All students are expected to come on time and prepared for class. You may
+bring your own laptop to class, or use one of the lab computers for your work.
+If you need source files to work on in class, you are responsible for bringing
+them or making them available online. It is recommended that you bring a USB
+flash drive or set-up Google Drive or Dropbox to manage your files for this
+course.
 
-Session Week    Topic                                   Due
-------- ------  -------------------------------------   -------------------
-1       4-Sep   Critical Computational Thinking                  -
-2       11-Sep  Data, Math, & Conditions                Quiz 1
-3       18-Sep  Strings                                 Quiz 2
-4       25-Sep  Functions                               Quiz 3
-5       2-Oct   Lists and loops                         Quiz 4
-6       9-Oct   Testing & Exceptions                    **Project 1**
-7       16-Oct  Dictionaries, Sets, and Tuples          Quiz 5
-8       23-Oct  Content Analysis                        Quiz 6
-9       30-Oct  Advanced Functions                      Quiz 7
-10      6-Nov   Sorting                                 Quiz 8
-11      13-Nov  Libraries and modules                   **Project 2**
-12      20-Nov  Graphics with SVG                       Quiz 9
--       27-Nov  _No Class. Happy Thanksgiving_                   -
-13      4-Dec   Custom datatypes with Classes           Quiz 10
-14      11-Dec  Review/Project Lab                               -
-15      18-Dec  Final Project Presentation              **Final Project**
+Session Week    Topic                                  Read         Due
+------- ------  -------------------------------------  -----------  -------------------
+      1 1-Sep   Critical Computational Thinking        -            -
+      2 8-Sep   Variables & Statements (Math)          TIP 1 & 2    Quiz 1
+      3 15-Sep  Functions                              TIP 3 & 4    Quiz 2
+      4 22-Sep  Conditionals                           TIP 5        Quiz 3
+      5 29-Sep  Iteration/Loops                        TIP 6        Quiz 4
+      6 6-Oct   Lists                                  TIP 7        Quiz 5
+      7 13-Oct  Review                                 -            Quiz 6
+      8 20-Oct  Midterm                                -            **In Class Midterm**
+      - 27-Oct  _No Class. Happy Thanksgiving_         -            -
+      9 3-Nov   Dictionaries, Sets, and Tuples         TIP 8 & 9    Quiz 7
+     10 10-Nov  Content Analysis                       TIP 10 & 11  Quiz 8
+     11 17-Nov  Modules & Files                        TIP 12 & 13  Quiz 9
+     12 24-Nov  List Algorithms                        TIP 14       Quiz 10
+     13 1-Dec   Classes and Objects                    TIP 15       Code Review
+     14 8-Dec   Project Lab                            -            Code Review
+     15 15-Dec  Final Project Presentation             _            **Final Project**
 
-
-
-Programming Lab
-==========================================================================================
-
-Every week the teaching assistant will host a programming lab/workshop. It is highly
-recommended that you attend every lab session. The TA will lead you through sample
-problems very similar to what will be on the quizzes, will help debug/troubleshoot
-your code, and will 
+* TIP: [_Thinking in Python_](http://www.auedtech.org/think-python)
+* _For the "code reviews", we will check in on the progress of students final projects._
 
 Assignments and Grading
 ==========================================================================================
 
 Assignment              Pct
 -------------------     -------
-Discussion Leader       10%
-Quizzes                 20%
-Project 1               20%
-Project 2               20%
-Project 3               30%
-
-Computational Thinking Discussion Leader
---------------------------------------------------------
-
-Each student will take a turn leading a discussion about an area
-of topical interest related to computational thinking and computational
-literacy. As the leader, you may, optionally, send out a short reading
-to the class on the discussion as background reading.
-
-When you lead the discussion, be prepared to:
-
-1. introduce the topic with relevant information
-2. describe why you think it is an important issue
-3. discuss how it is related to computational literacy
-4. facilitate a 10-15 minute discussion with the class
-
-This assignment can be completed individually or in teams of 2.
-
-Here are a few potential topics, to give you a sense of themes
-for this assignment:
-
-- changes to friendship, love, and other social relationships in the age
-  of Facebook and other social media
-- use of data encryption
-- the split-attention and distraction caused by text messages, twitter, etc.
-- role of universities and faculty/professors given a (possible)
-  abundance of online learning opportunities like MOOCs, YouTube, Khan Academy, ...
-- Wikipedia, knowledge, learning, etc.
-- video games and their social effects
-- the balance between security and privacy
+Quizzes                 30%
+Midterm                 30%
+Final Project           40%
 
 Quizzes
 --------------------------------------------------------
 
 There will be 10 pass/fail quizzes which will be completed 
-individually at the start of class. Quizzes consist of 3-5 short 
+individually at the start of class. Quizzes consist of 1-5 short 
 answer programming questions drawn directly from the reading for the 
 week. Quizzes are designed to be passed easily by students who are 
 keeping up with the reading and the concepts in the course, and will 
 help students and the instructor maintain a good pace for the 
-development of the course. _If you fail a quiz, you will be required
-to attend the programming lab on Thursdays until you pass your next
-quiz._
+development of the course.
 
-
-Programming projects
+Midterm
 --------------------------------------------------------
 
-You will complete three programming projects, of increasing complexity, as the
-major portions of your course.
+There will be an in-class midterm for this course on session 8. The midterm will require most/all of the available class time. The exam will consist of a short answer section as well as a full program which will likely require several functions to solve. There will be no partial credit for short answers. The full program will be scored with partial credit. Students will choose from one of two possible problems for the long-answer. The exam will be "open book"—students can use their notes, online resources, the course text, code examples from class, etc. The only exception is that real-time communication between students, or between students and outside parties is prohibited during the exam (i.e. no Slack, IM, texting, IRC, posting new questions to forums, etc).
 
-
-### Project 1: Facebook Status
-
-You will write a program to categorize Facebook status posts as either "happy"
-or "sad".
-
-**Programming competencies:**
-
-* input
-    - use variables as input to the program and functions
-* output
-    - use ``print()`` to display output to the user
-    - display output in intuitive and useful ways
-* variables
-    - use ``string`` and ``int`` variables to hold data
-* math
-    - increment and decrement counters
-    - find averages
-    - make numerical comparisons
-* conditions
-    - test for equality
-    - match strings
-* style/readability
-    - variable names
-    - comments
-    - ``docstrings``
-    - white space
-* functions
-    - use functions to organize the program and make it more readable
-    - use functions for repeated operations
-    
-
-### Project 2: Text Analysis
+Final Project: Textual Analysis
+--------------------------------------------------------
 
 For this project you will select a text or a collection of texts and write a
 program that uses computation to analyze the texts. It is up to you to both
 select the texts and to decide what type of analysis is "interesting."
 
-In addition to improving on the programming competencies from project 1, you
-should demonstrate the following in your code:
+You should demonstrate the following in your code:
 
 #### Marking guide:
 
@@ -242,8 +173,8 @@ be evaluated on the following criteria:
    obvious, or is it worthy of analysis?
 
     - 3 points: the _question can not be easily answered without the aid of
-      software_ because it requires a lot of input data, involves 
-      tedious/repetetive tasks which are prone to error, or requires complex
+      software_ because it analyzes a large data set, involves 
+      tedious/repetitive tasks which are prone to error, or requires complex
       calculations. Further, the _question is interesting_—it tells us
       something that is not already established in research or provides
       evidence for something that is incompletely or ambiguously understood
@@ -302,13 +233,12 @@ be evaluated on the following criteria:
       run due to syntax errors or runtime errors
 3. **Risk Taking** (_4 points_)\
    How "adventurous" is this code? Does the student show that they move beyond the
-   template given to them? Do they incorporate ideas from other projects into
-   this? Is there evidence they read online docs or the course text to learn
+   template given to them? Is there evidence they read online docs or the course text to learn
    addition techniques to approach the problem?
 
      - 4 points: in several places, the program use advanced features such 
        as optional functional parameters, list comprehensions,
-       advanced sorting techniques, or string formatting functions; libraries
+       advanced sorting techniques, object oriented programming, or string formatting functions; libraries
        are imported to improve code performance and clarity; content.py
        functions are modified and improved by the student
     -  3 points: some core changes are made to content.py, other advanced
@@ -333,7 +263,7 @@ be evaluated on the following criteria:
    produces and the way that it is formatted for the user. When your program
    runs, it should produce some type of report that sheds light on your
    hypothesis. It doesn't matter if your hypothesis was correct or not—after
-   your program is runs, the user should have more information to evaluate the
+   your program runs, the user should have more information to evaluate the
    hypothesis. 
 
        - 3 points: results give clear support for or against the
@@ -487,20 +417,3 @@ Here are some ideas, though, that might get you started.
    - what are the characteristics of a great speech? are the similarities
      between the rhetorical styles of Lincoln, Churchill, King, Malcom X
      and others?
-
-### Project 3: Refactoring & Visualization
-
-For your final project, you can team up with one of your classmates to revisit and improve
-your earlier code. In particular, you should make your code more robust, more flexible,
-and improve your tests. You should explicitly write code that demonstrates your understanding
-of ``abstraction``, ``encapsulation``, and ``algorithms``. In the final class meeting
-you will present your project in class, and show the parts of your program that best
-exemplify these concepts, as you understand them.
-
-In addition to improving and expanding your existing code, you will add a graphical
-visualization of your results using the a Scalable Vector Graphics (SVG) library. SVGs
-are graphics files that can be displayed in any modern web browser, and will let you
-create things like line graphs, bar graphs, labels, heat maps, and other visualizations.
-
-This assignment must be completed in a team of 2. If you wish to work in a team of three,
-please seek instructor permission.
