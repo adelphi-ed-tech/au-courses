@@ -86,7 +86,7 @@ Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](ht
 
 Benkler, Y. (2006). [_The Wealth of Networks: How Social Production Transforms Markets and Freedom_](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf). New Haven and London: Yale University Press.
 
-Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://www.schoolofcommoning.com/sites/default/files/Week2_Bollier_SilentTheft_Introduction.pdf)
 
 Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
 
@@ -178,7 +178,7 @@ Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:2
 
 Wiley, D., Bliss, T. J., & McEwen, M. (2013). [Open Educational Resources: A Review of the Literature.](http://www.opencontent.org/docs/oer_literature_preprint.pdf) In J. M. Spector (Ed.), [_Handbook of research on educational communications and technology_](http://www.worldcat.org/title/handbook-of-research-on-educational-communications-and-technology/oclc/852681273) (pp. 781–190). New York, NY: Springer.
 
-Sep 22: Deschooling, Unschooling, and Ignorance
+Sep 29: Deschooling, Unschooling, and Ignorance
 ----------------------------------------------
 
 #### Readings due:
@@ -189,7 +189,7 @@ Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in 
 Intellectual Emancipation_. Stanford University Press. USA. _Chapters 1 & 2_
 
-Oct 6: Free Software & Free Culture
+Oct 13: Free Software & Free Culture
 ----------------------------------------------
 
 #### Readings due:
@@ -218,7 +218,7 @@ Lessig, L. [Collection of Lessig Videos](http://blip.tv/lessig) Blip.tv
 
 [Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html) [video]
 
-Oct 20: Peer production
+Oct 27: Peer production
 ----------------------------------------------
 
 #### Readings due:
@@ -237,7 +237,7 @@ Nov 10: The Commons
 ----------------------------------------------
 
 #### Readings due:
-Bollier, D. (2003). _Silent Theft: The Private Plunder of Our Common Wealth_. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+Bollier, D. (2003). _Silent Theft: The Private Plunder of Our Common Wealth_. Routledge. [Introduction](http://www.schoolofcommoning.com/sites/default/files/Week2_Bollier_SilentTheft_Introduction.pdf)
 
 Elinor Ostrom. (2010). [Defining “the commons.”](http://youtu.be/aXzbcgj9F54) [Video 00:01:07]
 
@@ -266,7 +266,7 @@ Vollmer, Timothy. (2012, November 1). [Keep MOOCs Open](http://creativecommons.o
 
 Exoo, C., & Exoo, C. F. (2013, October 28). [MOOCs: Corporate welfare for credit](http://www.salon.com/2013/10/28/moocs_corporate_welfare_for_credit/). _Salon._
 
-Dec 1: Resisting Open Education
+Dec 8: Resisting Open Education
 ----------------------------------------------
 
 #### Readings due:
@@ -275,11 +275,6 @@ Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www
 Caffentzis, G., & Federici, S. (2009). Notes on the Edu-Factory and cognitive capitalism. In Edu-factory Collective (Ed.), [Toward a global autonomous university](https://www.gold.ac.uk/media/Towards_A_Global_Autonomous_University.pdf). New York: Autonomedia.
 
 Taylor, A. (2015). _People’s platform: taking back power and culture in the digital age._ New York: Picador, Henry Holt and Company. [Selections]
-
-Dec 8: Writing workshop
-----------------------------------------------
-
-_Everyone will bring drafts of their paper and will will do some writing/editing exercises._
 
 Dec 15: Papers due
 ----------------------------------------------
@@ -294,7 +289,7 @@ Assignments
 Assignment                   Due             % of final grade
 ---------------------------  --------------  -----------------
 Participation                ongoing         30%
-Open Education Report        Oct 20          30%
+Open Education Report        Oct 27          30%
 Critical Essay               Dec 15          40%
 
 Participation
