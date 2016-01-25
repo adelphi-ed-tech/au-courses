@@ -123,7 +123,7 @@ Mandiberg, M. (Ed.). (2012). [_The social media reader_](http://archive.org/deta
 
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
 
-Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
+Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://thebaffler.com/salvos/the-meme-hustler). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
 
@@ -270,9 +270,9 @@ Dec 8: Resisting Open Education
 ----------------------------------------------
 
 #### Readings due:
-Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
+Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://thebaffler.com/salvos/the-meme-hustler). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
 
-Caffentzis, G., & Federici, S. (2009). Notes on the Edu-Factory and cognitive capitalism. In Edu-factory Collective (Ed.), [Toward a global autonomous university](https://www.gold.ac.uk/media/Towards_A_Global_Autonomous_University.pdf). New York: Autonomedia.
+Caffentzis, G., & Federici, S. (2009). Notes on the Edu-Factory and cognitive capitalism. In Edu-factory Collective (Ed.), [Toward a global autonomous university](http://www.auedtech.org/wp-content/uploads/2015/01/edufactory-2009-toward-a-global-autonomous-university.pdf). New York: Autonomedia.
 
 Taylor, A. (2015). _People’s platform: taking back power and culture in the digital age._ New York: Picador, Henry Holt and Company. [Selections]
 
