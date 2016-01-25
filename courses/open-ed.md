@@ -112,7 +112,7 @@ Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/
 
 Illich, I. (1971). [_Deschooling Society_]("http://www.preservenet.com/theory/Illich/Deschooling/intro.html"). Harper & Row. New York.
 
-Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http://twobits.net/read/). Duke University Press. Durham, N.C.
+Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http://twobits.net/pub/Kelty-TwoBits.pdf). Duke University Press. Durham, N.C.
 
 Kamenetz, A. (2011). the [Edupunks’ Guide to a DIY Education!](http://www.edupunksguide.org/) Bill and Melinda Gates Foundation.
 [website and ebook].
