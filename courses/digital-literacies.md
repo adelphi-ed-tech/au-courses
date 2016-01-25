@@ -235,7 +235,7 @@ We live in a visual culture, and the ability to communicate using images is esse
 ### Item 4: Privacy & Security
 
 Your portfolio must include a report of a **personal security audit**. Your audit will examine your digital and social practices to look for weaknesses. You must consider:
-    
+
 1. what **digital data** is most precious to you? do you have back-ups? how are they managed? can you restore them? if you keep your data "in the cloud", can you retrieve it all at once? can you keep your own backup? _do you_? are you locked into a certain service (e.g. flickr, facebook, gmail)? are you locked into a proprietary format that would prevent you from switching? are their social/network pressures that influence you?
 2. **financial security.** How do you choose passwords? How strong are they? Do you share them? Do you use them across multiple sites? What would happen if one of your passwords and email were stolen from a site you belong to? Can you list all of the sites/services that have financial information (e.g. CC, bank account, SSN)? In order, which of these do you think are the most secure?
 3. **personal digital security.** Do you run a firewall on your desktop or laptop computer? Is there a password on your phone or tablet? If I stole your phone, what would I find? Do you encrypt any files on your computer? If I logged into your computer (or networked account) as you, what damage could I do? What steps do you take to minimize this damage?
@@ -253,13 +253,6 @@ The networked society is characterized by the problem of overabundance rather th
 3. Discovering something interesting in the data.
 4. Creating a multimedia (textual and visual) representation of your interesting finding (like a series of graphs or an infographic).
 
-
-Session Leader
----------------
-
-Each student will lead and moderate the online discussion forums for one week. The session leader will post prompts for the discussion of the readings and spend extra time reading and writing in the discussion forums.
-
-
 Participation
 --------------
 
@@ -271,8 +264,7 @@ Grading
 
 Item             % of grade
 ---------------  ----------
-Portfolio            80%
-Session leader       10%
+Portfolio            90%
 Participation        10%
 
 Web & Digital Media Toolbox and Resources
