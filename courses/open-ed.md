@@ -153,7 +153,7 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 
 Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
-Class Topics
+Class Sessions
 ===========================
 
 Sep 15: Foundations of Open Education & Connected Learning

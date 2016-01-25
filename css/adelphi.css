@@ -5,92 +5,33 @@ thats why it has a style tag... -->
 body
 {
     background: url('sample.png') repeat white;
-    margin: 0;
-    padding: 0;
-    font-size: 14px;
 }
 
-body, p, ul, ol, li, span, div
-{
-     font-family: "FreeSans", "Helvetica", sans-serif; 
-}
 
-h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
-
-h1{ font-size: 150%;  margin: 0px; margin-top: 2em;  text-transform: uppercase;}
-h2{ font-size: 130%; margin:0; margin-top: 1em;}
-h3{ font-size: 110%; font-weight: bold; }
-h4{ font-size: 100%; font-weight: bold; }
-h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
-
-h1.title 
-{
-    margin:0;
-    padding:0;
-    padding-top: 80px;
-    border-style: none;
-    background-color: transparent;
-    color: black;
-    clear: both;
-    font-size: 200%;
-    font-weight: bold; 
-}
-
-h1.title, .rsa-red-text { color: #ab1c19; }
+.page-header h1, .rsa-red-text { color: #ab1c19; }
 .rsa-red-bg { background-color: #ab1c19; }
 
-dt:after { content: ":"; }
-dd p {padding: 0; margin: 0; }
-dt 
-{
+
+.h1, h1 {
+    font-size: 24px;
+}
+.h2, h2 {
+    font-size: 20px;
+}
+.h3, h3 {
+    font-size: 18px;
+}
+.h4, h4 {
+    font-size: 14px;
+}
+.h5, h5 {
+    font-size: 12px;
+}
+.h6, h6 {
+    font-size: 100%;
     font-weight: bold;
-    clear: left;
-    float: left;
-    overflow: hidden;
-    text-align: right;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    width: 160px;
 }
 
-
-
-
-a { text-decoration: none; }
-a img { border-style: none; }
-
-table
-{
-    border-collapse:collapse;
-    margin-bottom: 20px;
-    max-width: 100%;
-    width: 100%;
-    background-color: transparent;
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-td, th
-{
-    padding: 5px;
-    border-top: 1px solid #ddd;
-    line-height: 1.5;
-    vertical-align: top;
-}
-
-th
-{
-    border-bottom: 2px solid #ddd;
-    vertical-align: bottom;
-}
-
-tr.odd { background-color: #f9f9f9; }
-
-p
-{
-    margin: .5em 0;
-    line-height: 1.5em;
-}
 
 blockquote
 {
@@ -149,52 +90,153 @@ blockquote
 }
 
 
-@media screen
+#logo
 {
-    body
-    {
-        font-size: 14px;
-        max-width: 720px;
-        margin: 0 0 0 335px;
-        background-color: rgba(255,255,255,.8);
-    }
+    background-color: white;
+    border-bottom: 1px solid #D3D3DE;
+    color: #D3D3DE;
+    font-family: monospace;
+    height: 4em;
+    left: 0;
+    line-height: 1em;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    word-wrap: break-word;
 }
 
-@media screen and (max-width: 1001px)
+#logo .inner
 {
-    nav#TOC
-    {
-        display: none;
-    }
-    body
-    {
-        width: 100%;
-        margin: 0;
-    }
-    blockquote
-    {
-        margin-left: 0;
-    }
-    table
-    {
-        max-width: 100%!;
-        padding: 0!;
-        margin: inherit 0!;
-        overflow: scroll;
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
+    padding: 0 0.25em;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
 
-    }
+#logo h1 { text-transform: uppercase; font-size: 18px; }
+#logo h2 { font-size: 100%; font-size: 14px; }
+#logo a {text-transform: lowercase; font-size: 90%; }
+#logo h1, #logo h2, #logo a
+{
+    color: #ab1c19;
+    text-align: right;
+    background-color: transparent;
+    border-style: none;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    line-height: 1.25em;
+}
 
+#logo h2 { color: black; }
+
+#class-sessions { counter-reset: week; }
+#class-sessions h2:before 
+{
+    counter-increment: week;
+    content: "Session " counter(week) ": " 
+}
+
+#class-sessions>section
+{
+    margin: 1em 0 0 0;
+    padding: 0 2em;
+}
+
+#class-sessions > h2
+{
+    padding-left: -1em;
+}
+
+
+
+#TOC.affix, #TOC.affix-top, #TOC.affix-bottom
+{
+    position: fixed;
+/*    top: 60px;
+    width:280px;*/
+}
+
+
+#TOC .nav li.active .nav 
+{
+    display: block;
+}
+
+
+
+#TOC {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#TOC .nav > li > a {
+    color: #999;
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 4px 20px;
+}
+#TOC .nav > li > a:hover, #TOC .nav > li > a:focus {
+    background-color: transparent;
+    border-left: 1px solid #563d7c;
+    color: #563d7c;
+    padding-left: 19px;
+    text-decoration: none;
+}
+#TOC .nav > .active > a, #TOC .nav > .active:hover > a, #TOC .nav > .active:focus > a {
+    background-color: transparent;
+    border-left: 2px solid #563d7c;
+    color: #563d7c;
+    font-weight: 700;
+    padding-left: 18px;
+}
+#TOC .nav .nav {
+    display: none;
+    padding-bottom: 10px;
+    line-height: 1.1em;
+}
+#TOC .nav .nav > li > a {
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    padding-top: 1px;
+}
+#TOC .nav .nav > li > a:hover, #TOC .nav .nav > li > a:focus {
+    padding-left: 29px;
+}
+#TOC .nav .nav > .active > a, #TOC .nav .nav > .active:hover > a, #TOC .nav .nav > .active:focus > a {
+    font-weight: 500;
+    padding-left: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer
+{
+    border-top: 2px dotted gray;
+    margin-top: 1.5em;
 }
 
 @media print
 {
     body
     {
-        font-size: 10pt;
-        margin: 0;
-        padding: 0;
-        width: 100% !important;
-        min-width: 100% !important;
         counter-reset: page 1;
         counter-reset: fig 0;
     }
@@ -223,132 +265,9 @@ blockquote
         @top-right { content: ''; }
     }
 
-
-
-    a {color: black; !important }
-
-    #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
-     { content:" <" attr(href) "> "; }
-
-    #TOC {display: none;}
-    body
-    {
-        font-size: 10pt;
-        width: 100%;
-    }
     .page-break {clear: both; page-break-before: always; }
 }
 
-#logo
-{
-    background-color: white;
-    border-bottom: 1px solid #D3D3DE;
-    color: #D3D3DE;
-    font-family: monospace;
-    height: 4em;
-    left: 0;
-    line-height: 1em;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    right: 0;
-    word-wrap: break-word;
-}
 
-#logo .inner
-{
-    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
-    padding: 0 0.25em;
-    position: absolute;
-    right: 10px;
-    top: 10px;
-}
-
-#logo h1 { text-transform: uppercase; }
-#logo h2 { font-size: 100%; }
-#logo a {text-transform: lowercase; font-size: 90%; }
-#logo h1, #logo h2, #logo a
-{
-    color: #ab1c19;
-    text-align: right;
-    background-color: transparent;
-    border-style: none;
-    padding: 0;
-    margin: 0;
-    font-weight: bold;
-    line-height: 1.25em;
-/*
-    text-shadow: 2px 2px black;
-*/
-}
-
-#logo h2 { color: black; }
-
-#class-sessions { counter-reset: week; }
-#class-sessions h2:before 
-{
-    counter-increment: week;
-    content: "Session " counter(week) ": " 
-}
-
-#class-sessions h2
-{
-    margin-left: -1em;    
-}
-
-
-#class-sessions>section
-{
-    border: 1px solid black;
-    margin: 1em 0 0 0;
-    padding: 0 2em;
-}
-
-
-nav#TOC
-{
-    background-color: white;
-    counter-reset: toc;
-    line-height: 1.25;
-    position: fixed;
-    right: 10px;
-    top: 60px;
-    width: 335px;
-}
-
-body {
-    font-size: 14px;
-}
-body, p, ul, ol, li, span, div {
-    font-family: "FreeSans","Helvetica",sans-serif;
-}
-body {
-    font-size: 14px;
-}
-}
-
-nav#TOC li
-{
-    margin-bottom: .25em;
-}
-
-#TOC > ul > li 
-{ 
-    list-style: upper-roman; 
-    counter-increment: toc; 
-    counter-reset: sub1;
-}
-/*#TOC>ul>li>ul>li:before { 
-    content: counter(toc) "." counter(sub1) " ";
-    counter-increment: toc; }*/
-#TOC li ul li { list-style: decimal;}
-
-#TOC ul li ul li ul { display: none; }
-
-footer
-{
-    border-top: 2px dotted gray;
-    margin-top: 1.5em;
-}
 
 </style>

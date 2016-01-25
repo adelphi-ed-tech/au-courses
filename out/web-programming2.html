@@ -16,15 +16,33 @@
 | |___| (_| |    | |  __/ (__| | | |
 |______\__,_|    |_|\___|\___|_| |_|
 
-http://education.adelphi.edu/ed-tech
+http://www.auedtech.org
 -->
 
-<title>Programming web-based educational media :: course syllabus</title>
+  <title>Programming web-based educational media :: course syllabus</title>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="date" content="Monday, 25. January 2016 04:31PM">
+
+  
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
+  
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+
+
+
+
   <meta name="author" content="Matthew X. Curinga" />
   <meta name="author" content="Antonios Saravanos" />
-  <meta name="date" content="Tuesday, 26. May 2015 11:58AM" />
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
 <!--[if lt IE 9]>
@@ -33,24 +51,42 @@ http://education.adelphi.edu/ed-tech
 
 
   <style type="text/css">
+div.sourceCode { overflow-x: auto; }
 table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
   margin: 0; padding: 0; vertical-align: baseline; border: none; }
 table.sourceCode { width: 100%; line-height: 100%; background-color: #303030; color: #cccccc; }
 td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; }
 td.sourceCode { padding-left: 5px; }
 pre, code { color: #cccccc; background-color: #303030; }
-code > span.kw { color: #f0dfaf; }
-code > span.dt { color: #dfdfbf; }
-code > span.dv { color: #dcdccc; }
-code > span.bn { color: #dca3a3; }
-code > span.fl { color: #c0bed1; }
-code > span.ch { color: #dca3a3; }
-code > span.st { color: #cc9393; }
-code > span.co { color: #7f9f7f; }
-code > span.ot { color: #efef8f; }
-code > span.al { color: #ffcfaf; }
-code > span.fu { color: #efef8f; }
-code > span.er { color: #c3bf9f; }
+code > span.kw { color: #f0dfaf; } /* Keyword */
+code > span.dt { color: #dfdfbf; } /* DataType */
+code > span.dv { color: #dcdccc; } /* DecVal */
+code > span.bn { color: #dca3a3; } /* BaseN */
+code > span.fl { color: #c0bed1; } /* Float */
+code > span.ch { color: #dca3a3; } /* Char */
+code > span.st { color: #cc9393; } /* String */
+code > span.co { color: #7f9f7f; } /* Comment */
+code > span.ot { color: #efef8f; } /* Other */
+code > span.al { color: #ffcfaf; } /* Alert */
+code > span.fu { color: #efef8f; } /* Function */
+code > span.er { color: #c3bf9f; } /* Error */
+code > span.wa { color: #7f9f7f; font-weight: bold; } /* Warning */
+code > span.cn { color: #dca3a3; font-weight: bold; } /* Constant */
+code > span.sc { color: #dca3a3; } /* SpecialChar */
+code > span.vs { color: #cc9393; } /* VerbatimString */
+code > span.ss { color: #cc9393; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { } /* Variable */
+code > span.cf { color: #f0dfaf; } /* ControlFlow */
+code > span.op { color: #f0efd0; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #ffcfaf; font-weight: bold; } /* Preprocessor */
+code > span.at { } /* Attribute */
+code > span.do { color: #7f9f7f; } /* Documentation */
+code > span.an { color: #7f9f7f; font-weight: bold; } /* Annotation */
+code > span.cv { color: #7f9f7f; font-weight: bold; } /* CommentVar */
+code > span.in { color: #7f9f7f; font-weight: bold; } /* Information */
   </style>
 
 
@@ -61,92 +97,33 @@ code > span.er { color: #c3bf9f; }
   body
   {
       background: url('sample.png') repeat white;
-      margin: 0;
-      padding: 0;
-      font-size: 14px;
   }
   
-  body, p, ul, ol, li, span, div
-  {
-       font-family: "FreeSans", "Helvetica", sans-serif; 
-  }
   
-  h1,h2,h3,h4,h5 { font-family: Ubuntu, "Gotham", "Futura", "Century Gothic", sans-serif; }
-  
-  h1{ font-size: 150%;  margin: 0px; margin-top: 2em;  text-transform: uppercase;}
-  h2{ font-size: 130%; margin:0; margin-top: 1em;}
-  h3{ font-size: 110%; font-weight: bold; }
-  h4{ font-size: 100%; font-weight: bold; }
-  h5 { padding: 0; margin: 0; font-size: 100%; font-style: italic; }
-  
-  h1.title 
-  {
-      margin:0;
-      padding:0;
-      padding-top: 80px;
-      border-style: none;
-      background-color: transparent;
-      color: black;
-      clear: both;
-      font-size: 200%;
-      font-weight: bold; 
-  }
-  
-  h1.title, .rsa-red-text { color: #ab1c19; }
+  .page-header h1, .rsa-red-text { color: #ab1c19; }
   .rsa-red-bg { background-color: #ab1c19; }
   
-  dt:after { content: ":"; }
-  dd p {padding: 0; margin: 0; }
-  dt 
-  {
+  
+  .h1, h1 {
+      font-size: 24px;
+  }
+  .h2, h2 {
+      font-size: 20px;
+  }
+  .h3, h3 {
+      font-size: 18px;
+  }
+  .h4, h4 {
+      font-size: 14px;
+  }
+  .h5, h5 {
+      font-size: 12px;
+  }
+  .h6, h6 {
+      font-size: 100%;
       font-weight: bold;
-      clear: left;
-      float: left;
-      overflow: hidden;
-      text-align: right;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-      width: 160px;
   }
   
-  
-  
-  
-  a { text-decoration: none; }
-  a img { border-style: none; }
-  
-  table
-  {
-      border-collapse:collapse;
-      margin-bottom: 20px;
-      max-width: 100%;
-      width: 100%;
-      background-color: transparent;
-      border-collapse: collapse;
-      border-spacing: 0;
-  }
-  
-  td, th
-  {
-      padding: 5px;
-      border-top: 1px solid #ddd;
-      line-height: 1.5;
-      vertical-align: top;
-  }
-  
-  th
-  {
-      border-bottom: 2px solid #ddd;
-      vertical-align: bottom;
-  }
-  
-  tr.odd { background-color: #f9f9f9; }
-  
-  p
-  {
-      margin: .5em 0;
-      line-height: 1.5em;
-  }
   
   blockquote
   {
@@ -205,52 +182,153 @@ code > span.er { color: #c3bf9f; }
   }
   
   
-  @media screen
+  #logo
   {
-      body
-      {
-          font-size: 14px;
-          max-width: 720px;
-          margin: 0 0 0 335px;
-          background-color: rgba(255,255,255,.8);
-      }
+      background-color: white;
+      border-bottom: 1px solid #D3D3DE;
+      color: #D3D3DE;
+      font-family: monospace;
+      height: 4em;
+      left: 0;
+      line-height: 1em;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      right: 0;
+      word-wrap: break-word;
   }
   
-  @media screen and (max-width: 1001px)
+  #logo .inner
   {
-      nav#TOC
-      {
-          display: none;
-      }
-      body
-      {
-          width: 100%;
-          margin: 0;
-      }
-      blockquote
-      {
-          margin-left: 0;
-      }
-      table
-      {
-          max-width: 100%!;
-          padding: 0!;
-          margin: inherit 0!;
-          overflow: scroll;
+      background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
+      padding: 0 0.25em;
+      position: absolute;
+      right: 10px;
+      top: 10px;
+  }
   
-      }
+  #logo h1 { text-transform: uppercase; font-size: 18px; }
+  #logo h2 { font-size: 100%; font-size: 14px; }
+  #logo a {text-transform: lowercase; font-size: 90%; }
+  #logo h1, #logo h2, #logo a
+  {
+      color: #ab1c19;
+      text-align: right;
+      background-color: transparent;
+      border-style: none;
+      padding: 0;
+      margin: 0;
+      font-weight: bold;
+      line-height: 1.25em;
+  }
   
+  #logo h2 { color: black; }
+  
+  #class-sessions { counter-reset: week; }
+  #class-sessions h2:before 
+  {
+      counter-increment: week;
+      content: "Session " counter(week) ": " 
+  }
+  
+  #class-sessions>section
+  {
+      margin: 1em 0 0 0;
+      padding: 0 2em;
+  }
+  
+  #class-sessions > h2
+  {
+      padding-left: -1em;
+  }
+  
+  
+  
+  #TOC.affix, #TOC.affix-top, #TOC.affix-bottom
+  {
+      position: fixed;
+  /*    top: 60px;
+      width:280px;*/
+  }
+  
+  
+  #TOC .nav li.active .nav 
+  {
+      display: block;
+  }
+  
+  
+  
+  #TOC {
+      margin-bottom: 20px;
+      margin-top: 20px;
+  }
+  #TOC .nav > li > a {
+      color: #999;
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 4px 20px;
+  }
+  #TOC .nav > li > a:hover, #TOC .nav > li > a:focus {
+      background-color: transparent;
+      border-left: 1px solid #563d7c;
+      color: #563d7c;
+      padding-left: 19px;
+      text-decoration: none;
+  }
+  #TOC .nav > .active > a, #TOC .nav > .active:hover > a, #TOC .nav > .active:focus > a {
+      background-color: transparent;
+      border-left: 2px solid #563d7c;
+      color: #563d7c;
+      font-weight: 700;
+      padding-left: 18px;
+  }
+  #TOC .nav .nav {
+      display: none;
+      padding-bottom: 10px;
+      line-height: 1.1em;
+  }
+  #TOC .nav .nav > li > a {
+      font-size: 12px;
+      font-weight: 400;
+      padding-bottom: 1px;
+      padding-left: 30px;
+      padding-top: 1px;
+  }
+  #TOC .nav .nav > li > a:hover, #TOC .nav .nav > li > a:focus {
+      padding-left: 29px;
+  }
+  #TOC .nav .nav > .active > a, #TOC .nav .nav > .active:hover > a, #TOC .nav .nav > .active:focus > a {
+      font-weight: 500;
+      padding-left: 28px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  footer
+  {
+      border-top: 2px dotted gray;
+      margin-top: 1.5em;
   }
   
   @media print
   {
       body
       {
-          font-size: 10pt;
-          margin: 0;
-          padding: 0;
-          width: 100% !important;
-          min-width: 100% !important;
           counter-reset: page 1;
           counter-reset: fig 0;
       }
@@ -279,179 +357,40 @@ code > span.er { color: #c3bf9f; }
           @top-right { content: ''; }
       }
   
-  
-  
-      a {color: black; !important }
-  
-      #required-books p a:link:after, #suggested-books p a:link:after, *[id*='reading'] p a:link:after, .ref p a:link:after, *[id*='bibliography'] p a:link:after, #required-books p a:link:after:visited, #suggested-books p a:link:after:visited, *[id*='reading'] p a:link:after:visited, .ref p a:link:after:visited, *[id*='bibliography'] p a:link:after:visited, 
-       { content:" <" attr(href) "> "; }
-  
-      #TOC {display: none;}
-      body
-      {
-          font-size: 10pt;
-          width: 100%;
-      }
       .page-break {clear: both; page-break-before: always; }
   }
   
-  #logo
-  {
-      background-color: white;
-      border-bottom: 1px solid #D3D3DE;
-      color: #D3D3DE;
-      font-family: monospace;
-      height: 4em;
-      left: 0;
-      line-height: 1em;
-      overflow: hidden;
-      padding: 0;
-      position: absolute;
-      right: 0;
-      word-wrap: break-word;
-  }
   
-  #logo .inner
-  {
-      background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
-      padding: 0 0.25em;
-      position: absolute;
-      right: 10px;
-      top: 10px;
-  }
-  
-  #logo h1 { text-transform: uppercase; }
-  #logo h2 { font-size: 100%; }
-  #logo a {text-transform: lowercase; font-size: 90%; }
-  #logo h1, #logo h2, #logo a
-  {
-      color: #ab1c19;
-      text-align: right;
-      background-color: transparent;
-      border-style: none;
-      padding: 0;
-      margin: 0;
-      font-weight: bold;
-      line-height: 1.25em;
-  /*
-      text-shadow: 2px 2px black;
-  */
-  }
-  
-  #logo h2 { color: black; }
-  
-  #class-sessions { counter-reset: week; }
-  #class-sessions h2:before 
-  {
-      counter-increment: week;
-      content: "Session " counter(week) ": " 
-  }
-  
-  #class-sessions h2
-  {
-      margin-left: -1em;    
-  }
-  
-  
-  #class-sessions>section
-  {
-      border: 1px solid black;
-      margin: 1em 0 0 0;
-      padding: 0 2em;
-  }
-  
-  
-  nav#TOC
-  {
-      background-color: white;
-      counter-reset: toc;
-      line-height: 1.25;
-      position: fixed;
-      right: 10px;
-      top: 60px;
-      width: 335px;
-  }
-  
-  body {
-      font-size: 14px;
-  }
-  body, p, ul, ol, li, span, div {
-      font-family: "FreeSans","Helvetica",sans-serif;
-  }
-  body {
-      font-size: 14px;
-  }
-  }
-  
-  nav#TOC li
-  {
-      margin-bottom: .25em;
-  }
-  
-  #TOC > ul > li 
-  { 
-      list-style: upper-roman; 
-      counter-increment: toc; 
-      counter-reset: sub1;
-  }
-  /*#TOC>ul>li>ul>li:before { 
-      content: counter(toc) "." counter(sub1) " ";
-      counter-increment: toc; }*/
-  #TOC li ul li { list-style: decimal;}
-  
-  #TOC ul li ul li ul { display: none; }
-  
-  footer
-  {
-      border-top: 2px dotted gray;
-      margin-top: 1.5em;
-  }
   
   </style>
 
 
 </head>
-<body>
+
+<body data-spy="scroll" data-target="#TOC" data-offset="20">
+
+<!-- Fixed navbar -->
 <header>
-<div id="logo">
-    <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
-    <div class="inner">
-    <h1>Program in Educational Technology</h1>
-    <h2>Adelphi University | <a href="http://www.auedtech.org">www.auedtech.org</a></h2>
+  <nav class="navbar navbar-default navbar-top" role="navigation">
+    <div id="logo">
+        <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
+        <div class="inner">
+        <h1>Program in Educational Technology</h1>
+        <h2>Adelphi University | <a href="http://www.auedtech.org">www.auedtech.org</a></h2>
+        </div>
     </div>
-</div>
+  </nav>
 </header>
 
-<h1 class="title">Programming web-based educational media</h1>
-
-<nav id="TOC">
-<h3>Course Outline</h3>
-<ul>
-<li><a href="#required-books">Required Books</a></li>
-<li><a href="#optional-books">Optional Books</a></li>
-<li><a href="#bibliography">Bibliography</a></li>
-<li><a href="#schedule">Schedule</a></li>
-<li><a href="#assignments-grading">Assignments &amp; Grading</a><ul>
-<li><a href="#single-page-website-30">Single Page Website (30%)</a></li>
-<li><a href="#single-page-website-redesign-30">Single Page Website Redesign (30%)</a></li>
-<li><a href="#interactive-web-application-40">Interactive web application (40%)</a></li>
-</ul></li>
-<li><a href="#web-digital-media-toolbox-and-resources">Web &amp; Digital Media Toolbox and Resources</a><ul>
-<li><a href="#software-tools">Software &amp; Tools</a></li>
-<li><a href="#books-and-online-resources">Books and online resources</a><ul>
-<li><a href="#documentation-reference-websites">Documentation &amp; Reference websites</a></li>
-<li><a href="#books">Books</a></li>
-<li><a href="#tutorial-websites-online-learning">Tutorial websites &amp; online learning</a></li>
-<li><a href="#design-accessibility-ux">Design, accessibility, UX</a></li>
-<li><a href="#online-tools">Online Tools</a></li>
-<li><a href="#media-resources">Media Resources</a></li>
-</ul></li>
-</ul></li>
-</ul>
-</nav>
-
-<section id="syllabus"><p><strong>EDT 603 <em>Programming web-based educational media</em>, Spring 2013</strong></p>
-<pre class="sourceCode html"><code class="sourceCode html"><span class="dt">&lt;!DOCTYPE </span>html<span class="dt">&gt;</span>
+<section id="syllabus" class="container">
+    <div class="row">
+        <div id="main" class="col-md-9 col-sm-10 col-xs-12" role="main">
+          
+                      <header class="page-header">
+              <h1 class="page-title">Programming web-based educational media</h1>
+            </header>
+                    <p><strong>EDT 603 <em>Programming web-based educational media</em>, Spring 2013</strong></p>
+<div class="sourceCode"><pre class="sourceCode html"><code class="sourceCode html"><span class="dt">&lt;!DOCTYPE </span>html<span class="dt">&gt;</span>
 <span class="kw">&lt;html&gt;</span>
   <span class="kw">&lt;body&gt;</span>
     <span class="kw">&lt;blockquote&gt;</span>
@@ -464,14 +403,14 @@ code > span.er { color: #c3bf9f; }
       <span class="kw">&lt;em&gt;</span>, inventor of the world wide web<span class="kw">&lt;/em&gt;</span>
     <span class="kw">&lt;/blockquote&gt;</span>
   <span class="kw">&lt;/body&gt;</span>
-<span class="kw">&lt;/html&gt;</span></code></pre>
+<span class="kw">&lt;/html&gt;</span></code></pre></div>
 <p><strong>Description:</strong> In this course students learn techniques of web programming to develop interactive, educational media. Using the web programming language and web development technologies (HTML5, Javascript, CSS), students gain practice in the object oriented programming and design of interactive software. For their final project, students will create their own interactive educational website.</p>
 <p><strong>Key words:</strong> computer science, web development, python, interaction design, django, html, html5, css, javascript, OOP</p>
 <section id="required-books" class="level1">
 <h1>Required Books</h1>
 <p>Duckett, J. T. (2011). <a href="http://htmlandcssbook.com/"><em>Html &amp; css: design and build websites (1st ed.)</em></a>. Indianapolis, IN: Wiley Pubishing, Inc.</p>
 <figure>
-<img src="http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG" />
+<img src="http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG" alt="" />
 </figure>
 </section>
 <section id="optional-books" class="level1">
@@ -723,9 +662,42 @@ code > span.er { color: #c3bf9f; }
 </ul>
 </section>
 </section>
-</section></section>
+</section>
+        </div>
+                  <div class="col-md-3 col-sm-2" role="complimentary">
+              <nav id="TOC" class="hidden-print hidden-xs hidden-sm"
+                   data-spy="affix" data-offset-top="20" data-offset-bottom="200">
+                   <h3>Course Outline</h3>
+                  <ul>
+                  <li><a href="#required-books">Required Books</a></li>
+                  <li><a href="#optional-books">Optional Books</a></li>
+                  <li><a href="#bibliography">Bibliography</a></li>
+                  <li><a href="#schedule">Schedule</a></li>
+                  <li><a href="#assignments-grading">Assignments &amp; Grading</a><ul>
+                  <li><a href="#single-page-website-30">Single Page Website (30%)</a></li>
+                  <li><a href="#single-page-website-redesign-30">Single Page Website Redesign (30%)</a></li>
+                  <li><a href="#interactive-web-application-40">Interactive web application (40%)</a></li>
+                  </ul></li>
+                  <li><a href="#web-digital-media-toolbox-and-resources">Web &amp; Digital Media Toolbox and Resources</a><ul>
+                  <li><a href="#software-tools">Software &amp; Tools</a></li>
+                  <li><a href="#books-and-online-resources">Books and online resources</a><ul>
+                  <li><a href="#documentation-reference-websites">Documentation &amp; Reference websites</a></li>
+                  <li><a href="#books">Books</a></li>
+                  <li><a href="#tutorial-websites-online-learning">Tutorial websites &amp; online learning</a></li>
+                  <li><a href="#design-accessibility-ux">Design, accessibility, UX</a></li>
+                  <li><a href="#online-tools">Online Tools</a></li>
+                  <li><a href="#media-resources">Media Resources</a></li>
+                  </ul></li>
+                  </ul></li>
+                  </ul>
+              </nav>
+          </div>
+        
+  </div> <!-- /row -->
 
-<footer>
+</section>
+
+<footer class="container">
 
 <h3>University Statement on Academic Assistance for Students with Disabilities</h3>
 <p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
@@ -750,7 +722,8 @@ code > span.er { color: #c3bf9f; }
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Tuesday, 26. May 2015 11:58AM</tt></p>
+<p><tt>Last modified: Monday, 25. January 2016 04:31PM</tt></p>
+</footer>
 
 <!-- Piwik -->
 <script type="text/javascript">
@@ -764,7 +737,17 @@ try {
 } catch( err ) {}
 </script><noscript><p><img src="http://stats.curinga.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
 <!-- End Piwik Tracking Code -->
+<script type="text/javascript">
+$( document ).ready(function() {
 
-</footer>
+    //add some classes for bootstrap
+    //fix up the side nav links
+    $("#TOC ul").addClass("nav")
+    $("table").addClass("table table-compact table-striped")
+
+});
+
+</script>
+
 </body>
 </html>

@@ -16,10 +16,10 @@
 | |___| (_| |    | |  __/ (__| | | |
 |______\__,_|    |_|\___|\___|_| |_|
 
-http://education.adelphi.edu/ed-tech
+http://www.auedtech.org
 -->
 
-<title>$title$ :: course syllabus</title>
+  <title>$title$ :: course syllabus</title>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta charset="utf-8">
@@ -27,10 +27,7 @@ http://education.adelphi.edu/ed-tech
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   
   <meta name="date" content="$date$">
-  
 
-  <title>Curinga::$title$</title>
-  
   
   <link rel="shortcut icon" type="image/png" href="favicon.png">
   
@@ -38,6 +35,8 @@ http://education.adelphi.edu/ed-tech
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 
 
 
@@ -68,34 +67,48 @@ $endfor$
 
 
 </head>
-<body>
+
+<body data-spy="scroll" data-target="#TOC" data-offset="20">
+
+<!-- Fixed navbar -->
 <header>
-<div id="logo">
-    <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
-    <div class="inner">
-    <h1>Program in Educational Technology</h1>
-    <h2>Adelphi University | <a href="http://www.auedtech.org">www.auedtech.org</a></h2>
+  <nav class="navbar navbar-default navbar-top" role="navigation">
+    <div id="logo">
+        <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
+        <div class="inner">
+        <h1>Program in Educational Technology</h1>
+        <h2>Adelphi University | <a href="http://www.auedtech.org">www.auedtech.org</a></h2>
+        </div>
     </div>
-</div>
+  </nav>
 </header>
 
-$if(title)$
-<h1 class="title">$title$</h1>
-$endif$
+<section id="syllabus" class="container">
+    <div class="row">
+        <div id="main" class="col-md-9 col-sm-10 col-xs-12" role="main">
+          
+          $if(title)$
+            <header class="page-header">
+              <h1 class="page-title">$title$</h1>
+            </header>
+          $endif$
+          $body$
+        </div>
+        $if(toc)$
+          <div class="col-md-3 col-sm-2" role="complimentary">
+              <nav id="TOC" class="hidden-print hidden-xs hidden-sm"
+                   data-spy="affix" data-offset-top="20" data-offset-bottom="200">
+                   <h3>Course Outline</h3>
+                  $toc$
+              </nav>
+          </div>
+        $endif$
 
-$if(toc)$
-<nav id="TOC">
-<h3>Course Outline</h3>
-$toc$
-</nav>
-$endif$
+  </div> <!-- /row -->
 
-$for(include-before)$
-$include-before$
-$endfor$
-<section id="syllabus">$body$</section>
+</section>
 
-<footer>
+<footer class="container">
 
 <h3>University Statement on Academic Assistance for Students with Disabilities</h3>
 <p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
@@ -124,11 +137,11 @@ $endfor$
 $if(date)$
 <p><tt>Last modified: $date$</tt></p>
 $endif$
+</footer>
 
 $for(include-after)$
 $include-after$
 $endfor$
 
-</footer>
 </body>
 </html>
