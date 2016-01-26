@@ -19,13 +19,15 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 **Computer Science 0145-170, Srping 2016**
 
-**Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, Python
+**Keywords:** computer programming, CS1, python, computational thinking,
+critical computational literacy
 
-**Description:** This course introduces students to programming and 
-some core concepts of computer science, using a modern, object oriented
-programming language (currently Python). Students learn concepts of 
-variables, functions, repetition/loops, basic data structures 
-(arrays, lists, hashtables), and basic object oriented programming. They also consider the role of computation, software, and technology in our society.
+**Description:** This course introduces students to programming and  some core
+concepts of computer science, using a modern, object oriented programming
+language (currently Python). Students learn concepts of  variables, functions,
+repetition/loops, basic data structures  (arrays, lists, hashtables), and
+basic object oriented programming. They also consider the role of computation,
+software, and technology in our society.
 
 **Class meetings:** Tues. & Thurs. 12:15-1:30PM, Room 100, Swirbul Library (Garden City)
 
