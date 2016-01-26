@@ -116,14 +116,14 @@ Session Week    Topic                                  Read         Due
       6 6-Oct   Lists                                  TIP 7        Quiz 5
       7 13-Oct  Review                                 -            Quiz 6
       8 20-Oct  Midterm                                -            **In Class Midterm**
-      - 27-Oct  _No Class. Happy Thanksgiving_         -            -
-      9 3-Nov   Dictionaries, Sets, and Tuples         TIP 8 & 9    Quiz 7
+      - 27-Oct  Lists and Tuples                       TIP 7 & 8    Midterm Code Review
+      9 3-Nov   Dictionaries & Sets                    TIP 8 & 9    Quiz 7
      10 10-Nov  Content Analysis                       TIP 10 & 11  Quiz 8
      11 17-Nov  Modules & Files                        TIP 12 & 13  Quiz 9
      12 24-Nov  List Algorithms                        TIP 14       Quiz 10
      13 1-Dec   Classes and Objects                    TIP 15       Code Review
      14 8-Dec   Project Lab                            -            Code Review
-     15 15-Dec  Final Project Presentation             _            **Final Project**
+     15 15-Dec  Final Project Presentation             -            **Final Project**
 
 * TIP: [_Thinking in Python_](http://www.auedtech.org/think-python)
 * _For the "code reviews", we will check in on the progress of students final projects._
