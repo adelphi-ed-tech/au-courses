@@ -17,7 +17,7 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 -->
 
 
-**Computer Science 0145-170, Srping 2016**
+**Computer Science 0145-160, Srping 2016**
 
 **Keywords:** computer programming, CS1, python, computational thinking,
 critical computational literacy

@@ -20,8 +20,8 @@ http://www.auedtech.org
 -->
 
   <title>$title$ :: course syllabus</title>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -37,9 +37,6 @@ http://www.auedtech.org
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
-
-
-
 
 $for(author)$
   <meta name="author" content="$author$" />
@@ -76,7 +73,7 @@ $endfor$
     <div id="logo">
         <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
         <div class="inner">
-        <h1>Program in Educational Technology</h1>
+        <h1>Math &amp; Computer Science</h1>
         <h2>Adelphi University | <a href="http://www.auedtech.org">www.auedtech.org</a></h2>
         </div>
     </div>
@@ -93,23 +90,7 @@ $endfor$
             </header>
           $endif$
           $body$
-        </div>
-        $if(toc)$
-          <div class="col-md-3 col-sm-2" role="complimentary">
-              <nav id="TOC" class="hidden-print hidden-xs hidden-sm"
-                   data-spy="affix" data-offset-top="20" data-offset-bottom="200">
-                   <h3>Course Outline</h3>
-                  $toc$
-              </nav>
-          </div>
-        $endif$
-
-  </div> <!-- /row -->
-
-</section>
-
-<footer class="container">
-
+<footer>
 <h3>University Statement on Academic Assistance for Students with Disabilities</h3>
 <p>If you are a qualified student with a disability seeking accommodations under the Americans with Disability Act, you are required to self-identify with the Office of Disability Services, 3rd floor, University Center (516) 877-3145. Please see me at the soonest possible time for special arrangements, seating and other accommodations if necessary. At any point during the semester if you encounter difficulty with the course or feel you could be performing at a higher level, please feel free to see me.</p>
 
@@ -120,9 +101,9 @@ $endfor$
 
 <h3>Use of Candidate Work</h3>
 <p>All teacher education programs in New York State undergo periodic reviews by accreditation agencies and the state education department. For these purposes samples of students’ work are made available to those professionals conducting the review. Student anonymity is assured under these circumstances. If you do not wish to have your work made available for these purposes, please let the professor know before the start of the second class. Your cooperation is greatly appreciated.</p>
-<img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/adelphi-logo-soe_thumb.jpg" alt="rsa school of education adelphi university logo" />
+<img id="soe-logo" src="http://www.adelphi.edu/marketing/images/logos/AU_HORZ.jpg" alt="adelphi university logo">
 
-<hr class="clear-all" />
+<hr>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />
     <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" 
     property="dct:title" rel="dct:type"><strong>$title$</strong></span> was created by:
@@ -138,6 +119,22 @@ $if(date)$
 <p><tt>Last modified: $date$</tt></p>
 $endif$
 </footer>
+
+        </div>
+        $if(toc)$
+          <div class="col-md-3 col-sm-2" role="complimentary">
+              <nav id="TOC" class="hidden-print hidden-xs hidden-sm"
+                   data-spy="affix" data-offset-top="20" data-offset-bottom="200">
+                   <h3>Course Outline</h3>
+                  $toc$
+              </nav>
+          </div>
+        $endif$
+
+  </div> <!-- /row -->
+
+</section>
+
 
 $for(include-after)$
 $include-after$
