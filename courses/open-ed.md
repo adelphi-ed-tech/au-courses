@@ -86,7 +86,7 @@ Benkler, Y. (2002). [Coase's Penguin, or, Linux and "The Nature of the Firm"](ht
 
 Benkler, Y. (2006). [_The Wealth of Networks: How Social Production Transforms Markets and Freedom_](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf). New Haven and London: Yale University Press.
 
-Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+Bollier, D. (2003). Silent Theft: The Private Plunder of Our Common Wealth. Routledge. [Introduction](http://www.schoolofcommoning.com/sites/default/files/Week2_Bollier_SilentTheft_Introduction.pdf)
 
 Brown, J. S. (2008). [Minds on Fire: Open Education, the Long Tail, and Learning 2.0](http://net.educause.edu/ir/library/pdf/ERM0811.pdf). _Educause Review_, _43(1)_, 16-32.
 
@@ -112,7 +112,7 @@ Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/
 
 Illich, I. (1971). [_Deschooling Society_]("http://www.preservenet.com/theory/Illich/Deschooling/intro.html"). Harper & Row. New York.
 
-Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http://twobits.net/read/). Duke University Press. Durham, N.C.
+Kelty, C. (2008). [_Two Bits: The Cultural Significance of Free Software_](http://twobits.net/pub/Kelty-TwoBits.pdf). Duke University Press. Durham, N.C.
 
 Kamenetz, A. (2011). the [Edupunks’ Guide to a DIY Education!](http://www.edupunksguide.org/) Bill and Melinda Gates Foundation.
 [website and ebook].
@@ -123,7 +123,7 @@ Mandiberg, M. (Ed.). (2012). [_The social media reader_](http://archive.org/deta
 
 Moglen, E. (2003). ["The dotCommunist Manifesto"](http://emoglen.law.columbia.edu/my_pubs/dcm.html).
 
-Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
+Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://thebaffler.com/salvos/the-meme-hustler). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
 
 Norvig, P. (2012). [The 100,000-student classroom](http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom.html) [video 06:12]. TED2012.
 
@@ -153,7 +153,7 @@ Vygotsky, L. S. (1978). _Mind in Society: Development of Higher Psychological Pr
 
 Wiley, D. (n.d.). [The Extended Argument for Openness in Education: Introduction to Openness in Education.](from https://learn.canvas.net/courses/4/pages/the-extended-argument-for-openness-in-education?module_item_id=52578). [in Course] [_Introduction to Openness in Education_](https://learn.canvas.net/courses/4)
 
-Class Topics
+Class Sessions
 ===========================
 
 Sep 15: Foundations of Open Education & Connected Learning
@@ -178,7 +178,7 @@ Turkle, S. (2011) [Alone Together](http://youtu.be/MtLVCpZIiNs?hd=1) [video 16:2
 
 Wiley, D., Bliss, T. J., & McEwen, M. (2013). [Open Educational Resources: A Review of the Literature.](http://www.opencontent.org/docs/oer_literature_preprint.pdf) In J. M. Spector (Ed.), [_Handbook of research on educational communications and technology_](http://www.worldcat.org/title/handbook-of-research-on-educational-communications-and-technology/oclc/852681273) (pp. 781–190). New York, NY: Springer.
 
-Sep 22: Deschooling, Unschooling, and Ignorance
+Sep 29: Deschooling, Unschooling, and Ignorance
 ----------------------------------------------
 
 #### Readings due:
@@ -189,7 +189,7 @@ Illich, I. (1970, July 2). [Why We Must Abolish Schooling](http://ournature.org/
 Rancière, J. 1991. _The Ignorant Schoolmaster: Five Lessons in 
 Intellectual Emancipation_. Stanford University Press. USA. _Chapters 1 & 2_
 
-Oct 6: Free Software & Free Culture
+Oct 13: Free Software & Free Culture
 ----------------------------------------------
 
 #### Readings due:
@@ -218,7 +218,7 @@ Lessig, L. [Collection of Lessig Videos](http://blip.tv/lessig) Blip.tv
 
 [Lessig on Stephen Colbert](http://www.lessig.org/blog/2009/01/let_the_remixes_begin.html) [video]
 
-Oct 20: Peer production
+Oct 27: Peer production
 ----------------------------------------------
 
 #### Readings due:
@@ -237,7 +237,7 @@ Nov 10: The Commons
 ----------------------------------------------
 
 #### Readings due:
-Bollier, D. (2003). _Silent Theft: The Private Plunder of Our Common Wealth_. Routledge. [Introduction](http://community-wealth.org/_pdfs/articles-publications/commons/book-bollier-intro.pdf)
+Bollier, D. (2003). _Silent Theft: The Private Plunder of Our Common Wealth_. Routledge. [Introduction](http://www.schoolofcommoning.com/sites/default/files/Week2_Bollier_SilentTheft_Introduction.pdf)
 
 Elinor Ostrom. (2010). [Defining “the commons.”](http://youtu.be/aXzbcgj9F54) [Video 00:01:07]
 
@@ -266,20 +266,15 @@ Vollmer, Timothy. (2012, November 1). [Keep MOOCs Open](http://creativecommons.o
 
 Exoo, C., & Exoo, C. F. (2013, October 28). [MOOCs: Corporate welfare for credit](http://www.salon.com/2013/10/28/moocs_corporate_welfare_for_credit/). _Salon._
 
-Dec 1: Resisting Open Education
+Dec 8: Resisting Open Education
 ----------------------------------------------
 
 #### Readings due:
-Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://www.mitpressjournals.org/doi/pdf/10.1162/BFLR_a_00133). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
+Morozov, E. (2013). [The Meme Hustler: Tim O’Reilly’s crazy talk](http://thebaffler.com/salvos/the-meme-hustler). _The Baffler_, 22, 66–67, 125–147. doi:10.1162/BFLR_a_00133
 
-Caffentzis, G., & Federici, S. (2009). Notes on the Edu-Factory and cognitive capitalism. In Edu-factory Collective (Ed.), [Toward a global autonomous university](https://www.gold.ac.uk/media/Towards_A_Global_Autonomous_University.pdf). New York: Autonomedia.
+Caffentzis, G., & Federici, S. (2009). Notes on the Edu-Factory and cognitive capitalism. In Edu-factory Collective (Ed.), [Toward a global autonomous university](http://www.auedtech.org/wp-content/uploads/2015/01/edufactory-2009-toward-a-global-autonomous-university.pdf). New York: Autonomedia.
 
 Taylor, A. (2015). _People’s platform: taking back power and culture in the digital age._ New York: Picador, Henry Holt and Company. [Selections]
-
-Dec 8: Writing workshop
-----------------------------------------------
-
-_Everyone will bring drafts of their paper and will will do some writing/editing exercises._
 
 Dec 15: Papers due
 ----------------------------------------------
@@ -294,7 +289,7 @@ Assignments
 Assignment                   Due             % of final grade
 ---------------------------  --------------  -----------------
 Participation                ongoing         30%
-Open Education Report        Oct 20          30%
+Open Education Report        Oct 27          30%
 Critical Essay               Dec 15          40%
 
 Participation
