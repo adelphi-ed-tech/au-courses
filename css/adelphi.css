@@ -57,7 +57,7 @@ blockquote
 .single, .single p { line-height: 1.25; }
 
 /* hanging indents for references/citations */
-#required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p
+#required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p, *[id*='texts'] p
 {
     margin-bottom: 1em;
     margin-left: 2em;

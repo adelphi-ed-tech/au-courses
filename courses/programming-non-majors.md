@@ -17,7 +17,6 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 -->
 
 
-
 **Computer Science 0145-170, Srping 2016**
 
 **Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, Python
@@ -54,18 +53,20 @@ Learning Goals
 * develop step-by-step problem solving and debugging practices
 
 
-Required Text
+Required Texts
 ==========================================================================================
-_We are using a free, open text for this class._
+[_Think Python: How to think like a computer scientist._](http://openbookproject.net/thinkcs/python/english3e/) by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers. [Free online]
 
-[_Think Python: How to think like a computer scientist. (Adelphi 2015 Edition)_](http://openbookproject.net/thinkcs/python/english3e/) by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers.
+Poitras, L. (2014). _Citizenfour_. [Watch online](https://thoughtmaybe.com/citizenfour/) or HBO Go
 
-Readings & Bibliography
+Taylor, A. (2015). _People’s platform: taking back power and culture in the digital age._ New York: Picador, Henry Holt and Company. [Selections on Moodle]
+
+
+Bibliography
 ==========================================================================================
 
-_This is a selected bibliography of computer science and Python texts and other materials
-that you may explore as references or further reading. Many weekly readings will come
-from these materials. Specific readings will be posted on Moodle for each week._
+_This is a selected bibliography of computer science and Python texts and
+other materials that you may explore as references or further reading._
  
 Alvarado, C., Dodds, Z., Kuenning, G., & Libeskind-Hadas, R. (2013). [_CS for All_](http://www.cs.hmc.edu/csforall/).
 Claremont, CA: Harvey Mudd College.
@@ -99,27 +100,27 @@ Class meetings
 
 We will have 2 class meetings each week. You should complete the 
 
-Week    Date (Tues)  Topic                             Reading      Lab (Thurs)
-----    -----------  --------------------------------  -----------  -----------
-   1    1/26/16      Variables & Statements            TIP 1 & 2    Quiz 1
-   2    2/02/16      Functions                         TIP 3 & 4    Quiz 2
-   3    2/09/16      Conditionals                      TIP 5        Quiz 3
-   4    2/16/16      More Function                     TIP 6        Quiz 4
-   5    2/23/16      Iteration/Loops                   TIP 7        Quiz 5
-   6    3/01/16      Strings                           TIP 8        Quiz 6
-   7    3/08/16      Review                            -            Practice Exam
-   -    3/15/16      _No Class. Spring Break_          -            -
-   8    3/22/16      Midterm                           -            **In Class Midterm**
-   9    3/29/16      Midterm Review/Catch-up           _Citizen 4_  Discussion of Citizen 4
-  10    4/05/16      Tuples & Lists                    TIP 9 & 11   Quiz 7
-  11    4/12/16      Modules & Files                   TIP 12 & 13  Quiz 8
-  12    4/19/16†     List Algorithms                   TIP 14       (no quiz)
-  13    4/26/16      Classes and Objects               TIP 15 & 16  Quiz 9
-  14    5/03/16      Recursion                         TIP 18       Quiz 10      
-  15    5/10/16      Exceptions and Dictionaries       TIP 19 & 20  -
-  16    5/17/16      Final Review                      -            Review
-  17    5/24/16      **Final Exam **
-
+Week    Date (Tues)  Topic                       Reading             Lab (Thurs)
+----    -----------  ------------------------    ------------        -----------
+   1    1/26/16      Variables & Statements      TIP 1 & 2           Quiz 1
+   2    2/02/16      Functions                   TIP 3 & 4           Quiz 2
+   3    2/09/16      Conditionals                TIP 5               Quiz 3
+   4    2/16/16      More Function               TIP 6               Quiz 4
+   5    2/23/16      Iteration/Loops             TIP 7               Quiz 5
+   6    3/01/16      Strings                     TIP 8               Quiz 6
+   9    3/08/16      _Citizenfour_               _Citizenfour_       (no quiz)
+   -    3/15/16      _No Class. Spring Break_    -                   -
+   7    3/22/16      Review                      -                   Practice Exam
+   8    3/29/16      Midterm                     -                   **In Class Midterm**
+  10    4/05/16      Tuples & Lists              TIP 9 & 11          Quiz 7
+  11    4/12/16      Modules & Files             TIP 12 & 13         Quiz 8
+  12    4/19/16†     Internet & Society          _People’s platform_ (no quiz)
+  13    4/26/16      Classes & Objects           TIP 15 & 16         Quiz 9
+  14    5/03/16      Recursion                   TIP 18              Quiz 10      
+  15    5/10/16      Exceptions & Dicts          TIP 19 & 20         -
+  16    5/17/16      Final Review                -                   Review
+  17    5/24/16      Final Exam                  -                   **Final Exam**
+     
 _† No class on Tuesday in week 12._
 
 * TIP: _Thinking in Python_
@@ -141,7 +142,7 @@ Final Exam              40%
 Participation
 -------------
 Students are expected to attend every class session, to come prepared having
-done the reading and practice exercise, and to participate fully working
+done the reading and practice exercises, and to participate fully: working
 individually, in pairs, and in teams during in-class lab activities.
 
 Quizzes 
