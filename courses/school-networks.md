@@ -129,7 +129,10 @@ database servers. They will install MySql as well as the tools for managing
 the database. They will be given a basic introduction to SQL, as well as the
 tools for copying, backing-up, and moving databases.
 
-### Thurs 6/18: Web Applications (pt 1)
+### Thurs 6/18: Web Servers
+
+
+### Thurs 6/23: Web Applications
 
 During this session students will install and configure full web applications,
 typically running on the Linux Apache MySQL PHP (LAMP) stack. Possible
@@ -141,9 +144,6 @@ applications include:
 - MediaWiki
 - edX
 
-### Thurs 6/23: Web Applications
-
-Students continue configuring and adding demo content to their web application.
 
 ### Tues 6/25: Do-it-yourself
 
