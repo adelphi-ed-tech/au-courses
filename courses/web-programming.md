@@ -134,24 +134,6 @@ science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
 Schedule 
 ========================================================================
 
- Week     Date Topic
------ -------- ----------------------------------------------------------
-1     28-Jan   How the web works
-2     4-Feb    Document Structure, Text, and Lists
-3     11-Feb   Links and Style
-4     18-Feb   Media and Usability
-5     25-Feb   Layout and Responsive design
-6     4-Mar    Dynamic website and Django, **Single Page Website Due**
-7     11-Mar   URL Dispatching and Templates
--     18-Mar   _Spring break_
-8     25-Mar   Defining Objects
-9     1-Apr    Saving Objects
-10    8-Apr    Customizing and Validating Forms
-11    15-Apr   Object composition and inheritance
-12    22-Apr   Searching Django models
-13    29-Apr   Users and Authentication
-14    6-May    Advanced Topics, Project Lab
-15    13-May   Wrap-up and Reflection
 
 Week    Date     Topic                              Due
 ----    -------  ----------------------------       ------------------------
