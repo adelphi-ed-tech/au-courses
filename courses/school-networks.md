@@ -42,7 +42,7 @@ Required Books
 --------------
 _None_
 
-BIBLIOGRAPHY
+Bibliography
 ------------
 
 Adelstein, Tom. 2007. *Linux System Administration.* O'Reilly Media. ISBN
