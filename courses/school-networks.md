@@ -1,46 +1,74 @@
 % Educational information systems and networks
 % Matthew X. Curinga
+  Tom Jennings
   David Frackman
 
+**0858-606, Summer 2016**
 
 **Description:** From a foundation of computer networks and systems, this
 course expands to cover instructional technology infrastructure: file systems,
 users, wired and wireless networks, email, web servers, computer labs, and
 common educational software services. This course focuses on Free Software;
-where the source code is free to use, study, or modify. Students will work
-through a series of systems challenges, using their own (virtual) Linux
-installation
+where the source code is free to use, study, or modify. To explore these topics
+in this hands on class all students will be configuring their own Raspberry Pi
+computers and using them to complete a software/hardware project.
 
-**Keywords:** linux, bash, systems, networks, lamp, free software, trouble shooting, technical project management
+**Keywords:** linux, bash, systems, networks, lamp, free software, trouble shooting, technical project management, rasberry pi, physical computing, debian, ubuntu
 
 GOALS & OBJECTIVES
 ------------------
 
-The Educational Technology Specialist certification track must prepare
-graduates to be school-based technology leaders. One of their main
-duties will be to install and maintain local computer networks,
-workstations, and school servers. Other graduates will be developing
-networked learning solutions, requiring the fundamental knowledge and
-skills covered in this course.
-
-Students in this course develop a basic understanding of computer
-operating systems and digital networks. Upon completing this course they
+This course introduces students to the key concepts in current networked
+computing in order to develop a conceptual framework for configuring
+and troubleshooting computing systems. Upon completing this course they
 will be able to:
 
--   set up a secure, network computing environment
--   effectively use the basic tools of Unix/Linux computing environments
--   implement techniques for administering group and user permissions
--   install and troubleshoot hardware and software infrastructure for
-    networked and internet computing
--   configure various server-side applications to support teaching and
-    learning
--   identify the ethical and legal concerns surrounding school
-    information systems
+- set up a secure, network computing environment
+- effectively use the basic tools of Unix/Linux computing environments
+- implement techniques for administering group and user permissions
+- install and troubleshoot hardware and software infrastructure for
+  networked and internet computing
+- configure and client/user computers for specific purposes
+- configure various server-side applications to support teaching and
+  learning
+- identify the ethical and legal concerns surrounding educational
+  information systems
 
 
 Required Books
 --------------
 _None_
+
+Required Materials
+------------------
+
+Every student _must_ purchase a Rasberry Pi computer and accessories
+for use in this course. They will keep their own hardware.
+
+The core setup **required** for all students (~$50):
+
+- Raspberry Pi model 2
+- 16GB Micro SD Card (2 recommended)
+
+_You must bring your Raspberry Pi and SD Card to our first class meeting._
+
+--------------------------------------------------------
+
+In the spirit of Raspberry Pi and DIY, we encourage you to re-use any of these
+items that you might already have or might be able to buy second hand. You
+will need these items, but don't need to buy them new. If you are unsure, you
+can wait until after the first class to make your purchase.
+
+- USB Keyboard and Mouse
+- Micro USB charger (you can use a phone charger)
+- HDMI Cable
+- Computer Monitor or TV with HDMI input (or you may need an HDMI to VGA adapter)
+- USB Card reader for your MicroSD card
+
+If you purchased everything except the monitor it would cost another $35-$50.
+
+In addition to these core materials, you will also need to purchase/acquire materials to complete your final project ([see assignments](#assignments)). Costs may range from $20-$50.
+
 
 Bibliography
 ------------
@@ -67,145 +95,51 @@ Tanenbaum, Andrew S. 2002. *Computer Networks.* Prentice Hall. ISBN
 Class sessions
 --------------
 
-Session   Date         Topic
--------   -----------  ------
-1         Tue May 26   Computers and Operating Systems
-2         Thu May 28   File System and Unix Basic
-3         Tue Jun 2    Media Files
-4         Thu Jun 4    Networks
-5         Tue Jun 9    Ethics & Security
-6         Thu Jun 11   Midpoint Exam
-7         Tue Jun 16   Database Servers
-8         Thu Jun 18   Web Servers
-9         Tue Jun 23   Web Applications
-10        Thu Jun 25   DIY
-
-### Tues. 5/26: Computers and Operating Systems
-
-In this session, students will set up their own installation of [Ubuntu
-GNU/Linux](http://www.ubuntu.com) and will learn about the basic operations of
-computer hardware and operating system software.
-
-### Thurs 5/28: File System and Unix Basic
-
-Students will learn about how information is stored on a computer, and learn
-the basics of file permissions, backups, managing data, and working with linux
-users and groups.
-
-### Tues 6/2: Media Files
-
-In this session students will learn the basic principles of representing and
-working with digital images, audio, and video. They will learn the relative
-advantages and uses of different media formats and codecs, and work with a
-variety of tools for managing and working with media files.
-
-### Thurs 6/4: Networks & Web Servers
-
-During this session, students will be introduced to the principles of computer
-networks, including the network protocols of the internet (IP/TCP, DNS, HTTP,
-HTTPS). They will also install and configure the Apache HTTP Server to run
-static web sites.
-
-### Tues 6/9: Ethics & Security
-
-Reviewing several cases of controversies in school systems, students
-will consider the ethical and legal considerations of administering
-computer systems in a school setting, including maintaining the privacy
-of sensitive data, equitable distribution of computing resources, design
-for universal access, and more.
-
-In addition, they will gain proficiency and understanding of computer and
-network security practices, protocols, and tools.
-
-### Thurs 6/11: Midpoint Exam
-
-This session will not meet in person. Students will individually complete a
-timed exam on Moodle.
-
-### Thurs 6/16: Database Servers
-
-Students will gain a basic understanding of the uses and operations of
-database servers. They will install MySql as well as the tools for managing
-the database. They will be given a basic introduction to SQL, as well as the
-tools for copying, backing-up, and moving databases.
-
-### Thurs 6/18: Web Servers
-
-
-### Thurs 6/23: Web Applications
-
-During this session students will install and configure full web applications,
-typically running on the Linux Apache MySQL PHP (LAMP) stack. Possible
-applications include:
-
-- Moodle
-- WordPress
-- Canvas
-- MediaWiki
-- edX
-
-
-### Tues 6/25: Do-it-yourself
-
-For our last class we will run a DIY fix-it workshop where students will
-propose and complete their own projects.
-
-Example project might include:
-
-- jailbreaking an iPhone or rooting an Android device
-- creating a dual boot linux laptop
-- setting up an AWS server on Amazon for a public web application
-- replacing the screen on a cracked phone
-- backing up and re-installing Windows to remove viruses
-
-
+Session   Date         Workshop                    Lecture
+-------   -----------  -------------               ------
+1         Thu May 26   Installing the OS           Computers and Operating Systems
+2         Tue May 31   3D Printing Cases                            
+3         Thu Jun 2    RPI as a server             File System, Users, Groups, & Permissions
+4         Tue Jun 7    Pi Project                            
+5         Thu Jun 9    Programming Pi (1)          Networks
+6         Tue Jun 14   Programming Pi (2)                           
+7         Thu Jun 16   Networked Data              Media Files
+8         Tue Jun 21   Using Sensors              
+9         Thu Jun 23   Controlling Motors          Ethics
+10        Tue Jun 28   Project Showcase
 
 Grades & Assignments
 --------------------
 
 
-Assignment       Pct      Due
----------------  ------   ----
-Systems Game     40%      ongoing
-Flash Cards      20%      6/7 (end of day on Sunday)
-Midpoint Exam    30%      6/11
-DIY Project      10%      6/25
+Assignment                  Pct      Due
+---------------             ------   ----
+Participation               10%      ongoing
+RPI Client or Server Setup  30%      6/9 (Session 5)
+Final RPI Project           40%      6/28 (Final Session)
 
-### Systems Game
 
-During the hands-on portion of each class meeting, students will be paired
-with a random classmate. The class will be presented with a list of tasks
-related to the topic, and each task will have an associated point value. Pairs
-will work together to complete as many tasks as possible, earning points for
-each task they complete. Pairs will receive the same number of points for the
-session they work together. Points are cumulative for the duration of the
-course, and the final grade will be calculated on the total points you earn.
-The grade for this assignment will be on a curve, from A+ to B. If you miss
-class you will not be able to earn points for that session.
+### Participation
 
-### Flash Cards
+Because this is a short summer course (3 credits in 5 weeks), we expect
+everyone to make every effort to attend every class meeting. If you cannot
+make it to class in-person, you will be able to join us via our FlexEd video
+conferencing. Because of the hands-on nature of the course, we recommend
+that you make your best effort to attend at least one weekly session in person.
+Your participation grade will be based on your ability to work in group projects,
+positive attitude in class, and preparedness for class meetings.
 
-Each student will be responsible for creating a deck of study flash cards to
-be shared by everyone for the midpoint exam. Students must choose one of the
-following topics:
+### RPI Client or Server Setup
 
-1. Computer hardware
-2. Operating Systems (and bootloaders)
-3. Computer laws, privacy, and educational policies
-4. File systems
-5. Media files
-6. Computer Networks (wired, wifi, cellular, etc)
-7. Computer Security
-8. Mobile computing (hardware, networks, software/OSs)
+For this mid-point project you will configure your Raspberry Pi for a specific
+educational scenario: a general computer for 4th grade classroom computer
+station, a setup to teach computer programming for kids, a development server
+for the Canvas LMS, a managed computer lab setup, etc.
 
-### Midpoint exam
+Your report must include:
 
-The midpoint exam will be a multiple choice and short answer exam on the 8
-topics listed above under "flashcards". Students will be responsible for
-logging into Moodle to complete the timed exam individually. The exam will be
-"open book", but students must not work together, share information regarding
-the exam, or consult other people outside of the class for help during the
-exam.
+- the audience for the 
+
 
 ### DIY Project
 Students will be given a grade for their DIY project:

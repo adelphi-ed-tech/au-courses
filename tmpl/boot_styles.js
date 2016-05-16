@@ -5,6 +5,7 @@ $( document ).ready(function() {
     //fix up the side nav links
     $("#TOC ul").addClass("nav")
     $("table").addClass("table table-compact table-striped")
+    $("dl").addClass("dl-horizontal")
 
 });
 
