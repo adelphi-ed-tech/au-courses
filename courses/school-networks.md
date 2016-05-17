@@ -32,7 +32,7 @@ will be able to:
 - implement techniques for administering group and user permissions
 - install and troubleshoot hardware and software infrastructure for
   networked and internet computing
-- configure and client/user computers for specific purposes
+- configure a client/user computer for specific purposes
 - configure various server-side applications to support teaching and
   learning
 - identify the ethical and legal concerns surrounding educational
@@ -49,7 +49,7 @@ Class Information
 
 **Class meetings:**
   ~ Tuesday & Thursday, 5pm-8pm
-  ~ Adelphi Swirbul Library, Gallagher Lab (2<sup>cnd</sup> fl)
+  ~ Adelphi Swirbul Library, Gallagher Lab (2<sup>cnd</sup> floor)
   
 
 Required Books
@@ -59,12 +59,12 @@ _None_
 Required Materials
 ------------------
 
-Every student _must_ purchase a Rasberry Pi computer and accessories
+Every student _must_ purchase a Raspberry Pi (RPI) computer and accessories
 for use in this course. They will keep their own hardware.
 
 The core setup **required** for all students (~$50):
 
-- Raspberry Pi model 2
+- Raspberry Pi model 3
 - 16GB Micro SD Card (2 recommended)
 
 _You must bring your Raspberry Pi and SD Card to our first class meeting._
@@ -84,7 +84,12 @@ can wait until after the first class to make your purchase.
 
 If you purchased everything except the monitor it would cost another $35-$50.
 
-In addition to these core materials, you will also need to purchase/acquire materials to complete your final project ([see assignments](#assignments)). Costs may range from $20-$50.
+In addition to these core materials, you will also need to purchase/acquire
+materials to complete your final project ([see assignments](#assignments)).
+Costs may range from $20-$50.
+
+We have a list of RPI components here on Amazon. <http://amzn.com/w/L2DZRVG7BQ0M
+>
 
 
 Bibliography
@@ -112,17 +117,17 @@ Tanenbaum, Andrew S. 2002. *Computer Networks.* Prentice Hall. ISBN
 Class sessions
 --------------
 
-Session   Date         Workshop                    Lecture
--------   -----------  -------------               ------
-1         Thu May 26   Installing the OS           Computers and Operating Systems
-2         Tue May 31   3D Printing Cases                            
-3         Thu Jun 2    RPI as a server             File System, Users, Groups, & Permissions
-4         Tue Jun 7    Pi Project                            
-5         Thu Jun 9    Programming Pi (1)          Networks
-6         Tue Jun 14   Programming Pi (2)                           
-7         Thu Jun 16   Networked Data              Media Files
-8         Tue Jun 21   Using Sensors              
-9         Thu Jun 23   Controlling Motors          Ethics
+Session   Date         Workshop              Lecture
+-------   -----------  -------------         ------
+1         Thu May 26   Installing the OS     Computers and Operating Systems
+2         Tue May 31   3D Printing Cases                      
+3         Thu Jun 2    RPI as a server       File System, Users, Groups, & Permissions
+4         Tue Jun 7    Pi Project                      
+5         Thu Jun 9    Programming Pi (1)    Networks
+6         Tue Jun 14   Programming Pi (2)                     
+7         Thu Jun 16   Networked Data        Media Files
+8         Tue Jun 21   Using Sensors        
+9         Thu Jun 23   Controlling Motors    Ethics
 10        Tue Jun 28   Project Showcase
 
 Grades & Assignments
