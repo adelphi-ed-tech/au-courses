@@ -50,7 +50,21 @@ Class Information
 **Class meetings:**
   ~ Tuesday & Thursday, 5pm-8pm
   ~ Adelphi Swirbul Library, Gallagher Lab (2<sup>cnd</sup> floor)
-  
+
+**Online tools:**
+  ~ **Moodle** will be used lightly to post this syllabus and share other file resources, links, etc.
+  ~ **Slack** will be our main channel for online communications. 
+    Please [Join our Slack team with your Adelphi email](https://auedtech.slack.com/signup).
+    If you run into trouble or have a question, post it here to our channel, `#raspberrypi`, 
+    or send a message to `@mxc` or `@tomjennings`. During the weeks of the class, we recommend running
+    the Slack app for you pnone.
+  ~ **Flex Ed:** This course (and all Ed Tech courses going forward), will be available via _Flex_ where you
+    can join via video conference if you can't meet us in person. I will also post any class lectures
+    (there will be some mini-lectures) to Moodle after class. Because of the hands-on nature of the 
+    class, we recommend that you make an effort to attend at least one session a week in person.
+  ~ **mail.adelphi.edu email:** we will use your official adelphi student email for class email
+    communications as well as the associated google account for video/audio chats and calendar events.
+    Please check this email regularly.
 
 Required Books
 --------------
@@ -85,11 +99,10 @@ can wait until after the first class to make your purchase.
 If you purchased everything except the monitor it would cost another $35-$50.
 
 In addition to these core materials, you will also need to purchase/acquire
-materials to complete your final project ([see assignments](#assignments)).
+materials to complete your final project (see below).
 Costs may range from $20-$50.
 
-We have a list of RPI components here on Amazon. <http://amzn.com/w/L2DZRVG7BQ0M
->
+We have a list of RPI components here on Amazon. <http://amzn.com/w/L2DZRVG7BQ0M>
 
 
 Bibliography
@@ -117,27 +130,26 @@ Tanenbaum, Andrew S. 2002. *Computer Networks.* Prentice Hall. ISBN
 Class sessions
 --------------
 
-Session   Date         Workshop              Lecture
--------   -----------  -------------         ------
-1         Thu May 26   Installing the OS     Computers and Operating Systems
-2         Tue May 31   3D Printing Cases                      
-3         Thu Jun 2    RPI as a server       File System, Users, Groups, & Permissions
-4         Tue Jun 7    Pi Project                      
-5         Thu Jun 9    Programming Pi (1)    Networks
-6         Tue Jun 14   Programming Pi (2)                     
-7         Thu Jun 16   Networked Data        Media Files
-8         Tue Jun 21   Using Sensors        
-9         Thu Jun 23   Controlling Motors    Ethics
-10        Tue Jun 28   Project Showcase
+Session   Date         Workshop            Lecture/Discussion
+-------   -----------  -------------       ------------------
+1         Thu May 26   Installing the OS   Computers and Operating Systems
+2         Tue May 31   3D Printing Cases                    
+3         Thu Jun 2    RPI as a server     File System, Users, Groups, & Permissions
+4         Tue Jun 7    Pi Project                    
+5         Thu Jun 9    Programming Pi (1)  Networks
+6         Tue Jun 14   Programming Pi (2)                   
+7         Thu Jun 16   Networked Data      Media Files
+8         Tue Jun 21   Using Sensors      
+9         Thu Jun 23   Controlling Motors  Ethics
+10        Tue Jun 28   Project Showcase   
 
 Grades & Assignments
 --------------------
 
-
 Assignment                  Pct      Due
 ---------------             ------   ----
 Participation               10%      ongoing
-RPI Client or Server Setup  30%      6/9 (Session 5)
+RPI Client or Server Setup  30%      6/7 (Session 4)
 Final RPI Project           40%      6/28 (Final Session)
 
 
@@ -153,12 +165,13 @@ positive attitude in class, and preparedness for class meetings.
 
 ### RPI Client or Server Setup
 
-For this mid-point project you will configure your Raspberry Pi for a specific
+For our first project you will configure your Raspberry Pi for a specific
 educational scenario: a general computer for 4th grade classroom computer
 station, a setup to teach computer programming for kids, a development server
 for the Canvas LMS, a managed computer lab setup, etc.
 
-You will present your configuration in class. In addition to demonstrating the software, you should report on:
+You will present your configuration in class. In addition to demonstrating the software,
+you should report on:
 
 - a description of the target audience and how you envision they would use the RPI
 - the process you used to find, test, and configure the RPI
