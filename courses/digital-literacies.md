@@ -83,21 +83,21 @@ Class sessions
 Week    Start    End         Topic                       Due
 ----    -----    ------      -----------------           -------
    1    Aug 29   Sep 04      Critical literacy    
-   2    Sep 05   Sep 11      What is Literacy?    
-   3    Sep 12   Sep 18      Multiliteracies             Web portfolio      
+   2    Sep 05   Sep 11      What is Literacy?           Web portfolio
+   3    Sep 12   Sep 18      Multiliteracies                   
    4    Sep 19   Sep 25      New Media       
-   5    Sep 26   Oct 02      Media Literacy              
+   5    Sep 26   Oct 02      Media Literacy              Collage
    6    Oct 03   Oct 09      Remix      
-   7    Oct 10   Oct 16      Images & Visuality          Collage
+   7    Oct 10   Oct 16      Images & Visuality          
    8    Oct 17   Oct 23      Power, Media, & Race      
-   9    Oct 24   Oct 30      Power, Media, & Gender     
-  10    Oct 31   Nov 06      Privacy & Security          Initial Critique
-  11    Nov 07   Nov 13      Data workshop                     
-  12    Nov 14   Nov 20      Visualizing Data     
-  13    Nov 21   Nov 27      Teaching CS                 Video
-  14    Nov 28   Dec 04      Writing workshop 
+   9    Oct 24   Oct 30      Power, Media, & Gender      Video
+  10    Oct 31   Nov 06      Privacy & Security          Media critique (draft)
+  11    Nov 07   Nov 13      Writing Workshop            
+  12    Nov 14   Nov 20      Visualizing data            Media critique
+  13    Nov 21   Nov 27      Data Workshop                 
+  14    Nov 28   Dec 04      Coding culture
   15    Dec 05   Dec 11      Computational Thinking   
-  16    Dec 12   Dec 18      Visual programming          Revised Critique
+  16    Dec 12   Dec 18      Visual programming          
 
 
 Week 0: Getting ready for Digital Literacies
