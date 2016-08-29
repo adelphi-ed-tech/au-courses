@@ -16,8 +16,6 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-
-
 **Computer Science 0145-602, Fall 2015**
 
 **Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, Python
