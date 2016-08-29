@@ -23,14 +23,11 @@
 
 **Description:** In this course students learn techniques of web
 programming to develop interactive, educational media. Using the
-Python programming language and web development technologies (HTML5,
-Javascript, CSS), students gain practice in the object oriented
-programming and design of interactive software. For their final
-project, students will create their own educational website.
+Javascript programming language and related web development technologies (HTML5, CSS, SVG),
+students gain practice in the object oriented
+programming and design of interactive software.
 
-**Key words:** computer science, web development, python, interaction design,
-django, html, html5, css, javascript, OOP, data visualization, data science,
-d3
+**Key words:** computer science, web development, interaction design, html, html5, css, javascript, OOP, mobile first
 
 Office Hours
 ========================================================================
