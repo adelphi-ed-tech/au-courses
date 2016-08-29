@@ -50,11 +50,6 @@ This is an [_asynchronous_ online class](https://en.wikipedia.org/wiki/Asynchron
 - Thursday 12-2pm, online
 - _office hours by appointment_
 
-
-
-
-
-
 Goals & objectives
 ====================
 
@@ -80,24 +75,24 @@ Class sessions
 ====================
 
 ### Dates and Schedule
-Week    Start    End         Topic                       Due
-----    -----    ------      -----------------           -------
-   1    Aug 29   Sep 04      Critical literacy    
-   2    Sep 05   Sep 11      What is Literacy?           Web portfolio
-   3    Sep 12   Sep 18      Multiliteracies                   
-   4    Sep 19   Sep 25      New Media       
-   5    Sep 26   Oct 02      Media Literacy              Collage
-   6    Oct 03   Oct 09      Remix      
-   7    Oct 10   Oct 16      Images & Visuality          
-   8    Oct 17   Oct 23      Power, Media, & Race      
-   9    Oct 24   Oct 30      Power, Media, & Gender      Video
-  10    Oct 31   Nov 06      Privacy & Security          Media critique (draft)
-  11    Nov 07   Nov 13      Writing Workshop            
-  12    Nov 14   Nov 20      Visualizing data            Media critique
-  13    Nov 21   Nov 27      Data Workshop                 
-  14    Nov 28   Dec 04      Coding culture
-  15    Dec 05   Dec 11      Computational Thinking   
-  16    Dec 12   Dec 18      Visual programming          
+Week    Start   End     Topic                   Due
+----    -----   ------  -----------------       -------
+   1    Aug 29  Sep 04  Critical literacy    
+   2    Sep 05  Sep 11  What is Literacy?       Web portfolio
+   3    Sep 12  Sep 18  Multiliteracies               
+   4    Sep 19  Sep 25  New Media       
+   5    Sep 26  Oct 02  Media Literacy          Collage
+   6    Oct 03  Oct 09  Remix      
+   7    Oct 10  Oct 16  Images & Visuality      
+   8    Oct 17  Oct 23  Power, Media, & Race    
+   9    Oct 24  Oct 30  Power, Media, & Gender  Video critique
+  10    Oct 31  Nov 06  Privacy & Security      
+  11    Nov 07  Nov 13  Writing Workshop        Media analysis (draft)
+  12    Nov 14  Nov 20  Visualizing data        Media analysis
+  13    Nov 21  Nov 27  Data Workshop             
+  14    Nov 28  Dec 04  Coding culture
+  15    Dec 05  Dec 11  Computational Thinking  Data report
+  16    Dec 12  Dec 18  Visual programming          
 
 
 Week 0: Getting ready for Digital Literacies
@@ -137,7 +132,7 @@ Week 1: Critical literacy
 -------------------------
 
 ### Readings due:
-Freire, P. (1971). Chapter 2 from _Pedagogy of the Oppressed_. (M. B. RAMOS, Trans.). New York: Herder and Herder.
+Freire, P. (1971). Chapter 2 from _Pedagogy of the Oppressed_. (M. B. Ramos, Trans.). New York: Herder and Herder.
 
 Week 2: What is Literacy
 -------------------------
@@ -160,13 +155,14 @@ Manovich, L. (2007). "What is new media?" from _The language of new media_. MIT 
 
 Week 5: Media Literacy
 ------------------------------
+### Readings due:
 Baker, F. W. (2012) Teaching Media Literacy from _Media literacy in the K-12 classroom_. International Society for Technology in Education.
 
 Watch: "Fifteen Million Merits" _Black Mirror_ Season 1, Episode 2.
 
 Week 6: Copyright, Copyleft, & Remix
 --------------------------------------
-_No readings, only video this week_
+_No readings, only videos this week_
 
 Open Source Cinema. (2006). [Lessig Remix.](http://www.youtube.com/watch?v=TFdcPc-4Ris) YouTube. [Video 00:04:34]
 
@@ -181,7 +177,7 @@ Question Copyright. (2011). [Copying Is Not Theft](http://youtu.be/IeTybKL1pM4?h
 
 Week 7: Images & Visuality
 ------------------------------
-
+### Readings due:
 Debord, G. (1967). The Commodity as Spectacle from _The society of the spectacle_. New York.
 
 Mitchell, W. J. (2005). There are no visual media. _Journal of Visual Culture_, 4(2), 257–266.
@@ -206,21 +202,23 @@ _No readings, just video_
 
 Watch [_Citizenfour_](https://thoughtmaybe.com/citizenfour/)
 
-Week 11: Data workshop
-----------------------------
-_No readings, just data workshop._
+Week 11: Writing workshop
+-------------------------
+No readings—we'll edit and revise our papers.
 
 Week 12: Visualizing Data
 ----------------------------
 ### Readings due:
 Tufte, E. (2001) The cognitive style of PowerPoint.
 
-Week 13: Writing workshop
--------------------------
-No readings—we'll edit and revise our papers.
+Week 13: Data workshop
+----------------------------
+_No readings, just data workshop._
 
 Week 14: Coding culture
 -----------------------
+### Readings due:
+
 Ford, P. (2015). [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) _Bloomberg Businessweek_, 11. (read online)
 
 Week 15: Computational thinking and CS4All
@@ -232,7 +230,7 @@ Deleuze, G. (1992). Postscript on the Societies of Control. _October_, _59_, 3�
 
 Week 16: Visual programming
 ---------------------------
-_No readings, just some code._
+_No readings, just some coding._
 
 Assignments
 ===========
@@ -240,22 +238,39 @@ Assignments
 Digital portfolio
 ------------------------------
 
-
 ### Item 1: Web Portfolio
 
 For this course you will be setting up and creating your own website that will 
-showcase you work in this class. You will use the hosted [Wordpress](http://wordpress.com) content management system for your site.
+showcase you work in this class. You will use the hosted [Wordpress](http://wordpress.com) content management system for your site. Your portfolio will be assessed on its logical structure/organization, its usability, and its use of design and other digital media elements to enhance its appeal and message. In short, your portfolio should demonstrate your mastery of the specific tools made available by Wordpress, and of the general techniques of expressing ideas through a multimedia website.
 
 ### Item 2: Digital Collage
 
-We live in a visual culture, and the ability to communicate using images is essential. The verb, "to photoshop" something has become common place in our society. Everyone's portfolio must contain a **collage** where they exhibit their skills in digital image editing: cropping, scaling, selecting, composting, using layers, combining text and images. In addition to these _technical_ requirements, your collage must also strive for expressive content, common in our study of new media: playfulness, non-linearity and multiplicity, irony/paradox, etc.
+We live in a visual culture, and the ability to communicate using images is essential. The verb, "to photoshop" something has become common place in our society. You will create a **collage** where you exhibit your skills in digital image editing: cropping, scaling, selecting, composting, using layers, combining text and images. In addition to these _technical_ requirements, your collage must also strive for expressive content, common in our study of new media: playfulness, non-linearity and multiplicity, irony/paradox, etc. You are free to choose the subject and style of your collage.
 
-### Item 3: Digital Video
+**Links:**
 
-[100 hours of video are uploaded to YouTube every minute](http://www.youtube.com/t/press_statistics/). Online video for teaching and learning have exploded, popularized by sites like [TED](http://ted.com) and [Khan Academy](http://www.khanacademy.org/) and video lectures in MOOCs. Your portfolio must include a 5 minute video, where you analyze a youth media artifact. The video can be made with footage that you shoot (with your phone, tablet, etc), find online and remix, create from still images, or "screencast" on your computer. Upload your video to YouTube and embed it in your portfolio.
+- [Wikipedia Collage](https://en.wikipedia.org/wiki/Collage)
+- [Flickr Collage Tag](https://www.flickr.com/photos/tags/collage/)
+- [Pinterest Collage Search](https://www.pinterest.com/search/pins/?rs=ac&len=2&q=collage&term_meta[]=collage|autocomplete|0)
+- [DeviantArt Collage Search](http://www.deviantart.com/browse/all/?section=&global=1&q=collage)
+- [Quick Start to Making a Collage in Gimp](http://www.ehow.com/how_8416142_make-collage-gimp.html)
 
-### Item 4: Media critique
-While we will be writing short reading response posts on most weeks, during this course you will also write a more formal paper where you analyze a piece of digital media, using the frameworks discussed in our readings. The paper must be between 1,000-1,500 words.
+### Item 3: Youth Media Video Critique
+
+This is a group project. All group members will receive the same grade. Working with your group, you will produce one video critique of a youth media topic.
+
+The main _point_ of the video is to practice and display your critical media analysis skills. To do so, though, you will also need to produce a high quality amateur video.
+
+Technically, your video must have:
+
+- clips from each person on your team (either voice over or on-screen)
+- still images or video clips to illustrate your points
+- multiple cuts with simple transitions (e.g. fades)
+- an opening title screen with text
+
+
+### Item 4: Media analysis
+While we will be writing short reading response posts on most weeks, during this course you will also write a more formal paper where you analyze a piece of digital media, using the frameworks discussed in our readings. The paper must be between 1,000-1,500 words. For this paper we will practice peer editing and the drafting/revising process that is essential to writing high quality scholarly work. You should select a new media work (website, software/app, film, tv show, etc) and offer an original analysis of it. To complete your analysis you should refer to the various analytic frameworks we have studied in this course. Your analsysis is not a summary or description of the work, but a pointed critique that uses the work you are analyzing to offer new insight and new ideas.
 
 ### Item 5: Data report
 
@@ -268,7 +283,6 @@ The networked society is characterized by the problem of overabundance rather th
 
 Participation
 --------------
-
 Your participation in the class is crucial for the class to succeed for all of us. You are expected to post your work on time. You should treat your peers professionally and with respect. Your participation grade will be based on your efforts in Wordpress reading responses and comments, and in participation in Slack.
 
 
@@ -277,10 +291,10 @@ Grading
 
 Item             % of grade 
 ---------------  ---------- 
-Web Portfolio        10%
+Web portfolio        10%
 Collage              20%
-Digital Video        20%
-Media critique       20%
+Video critique       20%
+Media analysis       20%
 Data report          20%
 Participation        10%
 
@@ -323,5 +337,3 @@ Books and online resources
 - [Open Clip Art](https://openclipart.org/), free vector graphics
 - [Creative Commons Music](http://creativecommons.org/music-communities)
 - [Fossil Bank](http://fossilbank.wikidot.com/)
-- [Colour Lovers Palettes](http://www.colourlovers.com/)
-- [DaFonts](http://www.dafont.com/)
