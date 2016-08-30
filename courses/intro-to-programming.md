@@ -26,6 +26,10 @@ programming language. Students learn concepts of
 variables, functions, repetition/loops, basic data structures 
 (arrays, lists, hashtables), and basic object oriented programming.
 
+> We are looking at a society increasingly dependent on machines, yet
+> decreasingly capable of making or even using them effectively.<br>
+> ― Douglas Rushkoff, _Program or Be Programmed: Ten Commands for a Digital Age_
+
 **Class meetings:** Tues. 5-7PM, Manhattan Center
 
 **Instructor:** [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
@@ -56,15 +60,13 @@ Required Software/Online Accounts
 =================================
 
 - Software
-    - [Python 3](https://www.python.org/downloads/)
     - [Sublime Text 3](http://www.sublimetext.com/3)
-    - [Git Client](https://desktop.github.com/)
+    - Git Client [windows](https://git-scm.com/downloads) _for mac insall via xcode_
     - [Slack Client](http://slack.com) (recommend desktop and mobile clients)
+    - Firefox or Chrome web browser
 - Accounts
     - [Github](https://github.com)
     - [AU Ed Tech Slack channel #code](https://auedtech.slack.com/signup)
-
-
 
 Assignments and Grading
 =======================
@@ -72,8 +74,8 @@ Assignments and Grading
 Assignment              Pct   Due date
 -------------------     ----  --------
 Single Page Site        30%   Sep 13
-Web app                 30%   Oct 18
-Multimedia work         40%   Dec 19
+Slideshow               30%   Oct 18
+Web appplication        40%   Dec 19
 
 
 Single Page Website (30%)
@@ -88,21 +90,27 @@ content of the website is entirely up to the student. They are
 encouraged to create a website on something they are already
 familiar with and interested in. This is an individual project.
 
-Interactive web application (35%)
-----------------------------------------
+Photo slideshow (30%)
+--------------------------------
 
-Using Javascript, HTML, and CSS students will design and develop an
-interactive website. For this project, students will go through the full
-design process. Their code will demonstrate their understanding
-of core programming and computer science concepts.
+For this second project students will be asked to re-imagine a common web
+application--the photo/media slideshow. Students will study existing solutions
+and then develop and implement their own design. The task will be simplified
+because this will be a client-side only application. We will not develop
+components to upload photos, merely to play a set of photos on our website. In
+this individual project students will work through key programming concepts,
+including writing their own GUI, custom JS functions, and standard and custom
+data structures.
 
-Multimedia presentation (35%)
+Web appplication (40%)
 -----------------------------
 
-For the final project students will continue to develop their programming
-skills while turning their efforts towards more artistic and creative work.
-This project will combine audio, video, animation etc. Unlike the first two
-projects, this will be a group project.
+Using Javascript, HTML, and CSS students will design and develop an
+interactive web application. For this project, students will go through the
+full design process. These apps will enable users to store and modify data
+through a range of interface elements. The code will demonstrate their
+understanding of core programming and computer science concepts. Unlike the
+first two projects, this will be a group project.
 
 
 
