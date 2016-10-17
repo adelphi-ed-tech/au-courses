@@ -81,13 +81,13 @@ Week    Start   End     Topic                   Due
    2    Sep 05  Sep 11  What is Literacy?       Web portfolio
    3    Sep 12  Sep 18  Multiliteracies               
    4    Sep 19  Sep 25  New Media       
-   5    Sep 26  Oct 02  Media Literacy          Collage
-   6    Oct 03  Oct 09  Remix      
-   7    Oct 10  Oct 16  Images & Visuality      
-   8    Oct 17  Oct 23  Power, Media, & Race    
-   9    Oct 24  Oct 30  Power, Media, & Gender  Video critique
-  10    Oct 31  Nov 06  Privacy & Security      
-  11    Nov 07  Nov 13  Writing Workshop        Media analysis (draft)
+   5    Sep 26  Oct 02  Studio workshop         Collage
+   6    Oct 03  Oct 09  Media Literacy      
+   7    Oct 10  Oct 16  Remix      
+   8    Oct 17  Oct 23  Images & Visuality    
+   9    Oct 24  Oct 30  Power, Media, & Race    Video critique
+  10    Oct 31  Nov 06  Power, Media, & Gender      
+  11    Nov 07  Nov 13  Privacy & Security      Media analysis (draft)
   12    Nov 14  Nov 20  Visualizing data        Media analysis
   13    Nov 21  Nov 27  Data Workshop             
   14    Nov 28  Dec 04  Coding culture
@@ -153,14 +153,14 @@ Week 4: New Media
 Manovich, L. (2007). "What is new media?" from _The language of new media_. MIT Press.
 
 
-Week 5: Media Literacy
+Week 6: Media Literacy
 ------------------------------
 ### Readings due:
 Baker, F. W. (2012) Teaching Media Literacy from _Media literacy in the K-12 classroom_. International Society for Technology in Education.
 
 Watch: "Fifteen Million Merits" _Black Mirror_ Season 1, Episode 2.
 
-Week 6: Copyright, Copyleft, & Remix
+Week 7: Copyright, Copyleft, & Remix
 --------------------------------------
 _No readings, only videos this week_
 
@@ -175,14 +175,14 @@ Leadbeater, C. (2005). [The era of open innovation.](http://www.ted.com/talks/ch
 Question Copyright. (2011). [Copying Is Not Theft](http://youtu.be/IeTybKL1pM4?hd=1) [Video 00:01:00]
 
 
-Week 7: Images & Visuality
+Week 8: Images & Visuality
 ------------------------------
 ### Readings due:
 Debord, G. (1967). The Commodity as Spectacle from _The society of the spectacle_. New York.
 
 Mitchell, W. J. (2005). There are no visual media. _Journal of Visual Culture_, 4(2), 257–266.
 
-Week 8: Power, Media, & Race
+Week 9: Power, Media, & Race
 ------------------------------
 
 ### Readings due:
@@ -190,21 +190,17 @@ Fanon, F. (2000). The fact of blackness. In L. Back & J. Solomos (Eds.), _Theori
 
 Mirzoeff, N. (2015). [#BlackLivesLooking: A Year After Ferguson](http://tidalmag.org/blog/intensify/blackliveslooking-a-year-after-ferguson/). _Tidal_. (read online)
 
-Week 9: Power, Media, & Gender
+Week 10: Power, Media, & Gender
 ------------------------------
 
 ### Readings due:
 Mulvey, L. (1975). Visual pleasure and narrative cinema. _Media and Cultural Studies: Keyworks_, 393–404.
 
-Week 10: Privacy & Security
+Week 11: Privacy & Security
 ---------------------------
 _No readings, just video_
 
 Watch [_Citizenfour_](https://thoughtmaybe.com/citizenfour/)
-
-Week 11: Writing workshop
--------------------------
-No readings—we'll edit and revise our papers.
 
 Week 12: Visualizing Data
 ----------------------------
