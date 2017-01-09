@@ -36,36 +36,26 @@ original educational resources.
 > community of peers.\
 > — Robbie McClintock, [StudyPlace](http://www.studyplace.org/wiki/The_Studio_for)
 
-> "Cancel all student loan debt? But that would be unfair to all those
-> people who struggled for years to pay back their student loans!"
-> Let me assure the reader that, as someone who struggled for years to
-> pay back his student loans and finally did so, this argument makes
-> about as much sense as saying it would be "unfair" to a mugging
-> victim not to mug their neighbors too.\
-> David Graeber, _Debt: the first 5,000 years_
+> Governments of the Industrial World, you weary giants of flesh and steel, I
+> come from Cyberspace, the new home of Mind. On behalf of the future, I ask you
+> of the past to leave us alone. You are not welcome among us. You have no
+> sovereignty where we gather.
+> — John Perry Barlow, [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)
 
-## Spring 2013 Studio: Debt
+## Spring 2017 Studio: Hackers
 ![The Spring 2013 Studio Topic is "Debt".](http://matt.curinga.com/wp-content/uploads/2012/11/debt-222x300.png)
 
 Each semester will feature a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
 long multimedia project that teaches some aspect of this challenge. The
-semester will culminate with a student show, which will be refereed by a
+semester will culminate with a student show, which will be judged by a
 panel of experts in the field of educational technology.
 
-Debt is one of the defining characteristics of our times. Student
-debt in the U.S. has passed the one trillion dollar mark.
-[According to BusinessWeek](http://www.businessweek.com/ap/2012-09-12/underwater-mortgages-declined-in-2nd-quarter)
-“underwater” mortgages (where the value of a home is lower than
-mortgage) account for about “10.8 million properties — about 22 of
-all U.S. homes with a mortgage.” Cities are cutting community and
-social services while increasing spending on debt services.
-Americans are almost [$20 billion behind in paying back their
-credit card debt](http://dealbook.nytimes.com/2012/08/12/problems-riddle-moves-to-collect-credit-card-debt).
+By the end of 2016, cybersecurity and computer "hacking" have become topics
+that can no longer be easily ignored:
 
-This studio challenges students to create multimedia learning
-artifacts that explore the history and contemporary issues
-surrounding debt.
+- State sponsored Russian hacks aiming to influence the 2016 U.S. presidential election
+- 
 
 ## Goals
 This course is designed to challenge students to develop their abilities
@@ -215,3 +205,8 @@ for the cognitive, social, pragmatic, ethical, and aesthetic
 implications of their design, as it impacts learning.
 
 
+
+- [Wired::ThreadLevel](https://www.wired.com/category/threatlevel)
+- [Wired::Security](https://www.wired.com/category/security/)
+- [The Atlantic](https://www.theatlantic.com/technology/)
+- [DefenseOne::Tech](http://www.defenseone.com/technology/)

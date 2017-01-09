@@ -2,7 +2,7 @@
 % Matthew X. Curinga
   Antonios Saravanos
 
-**EDT 603 _Programming web-based educational media_, Spring 2016**
+**EDT 603 _Programming web-based educational media_, Spring 2017**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~{.html}
 <!DOCTYPE html>
@@ -43,11 +43,11 @@ Goals and Objectives
 
 This course builds on CSC 602 to move beyond basic programming
 concepts; students will gain expertise in building more complex
-computer programs, over many iterations. At the end of the course,
+computer programs, over several iterations. At the end of the course,
 students will be able to design educationally sound web-based
-learning media, solve moderately complex problems using OOP,
-collaborate on programming projects, and identify methods for
-teaching programming and web development.
+learning media, solve moderately complex problems using OOP and functional programming paradigms,
+collaborate on team programming projects, and identify methods for
+_teaching_ programming and web development.
 
 Specific teaching and learning goals include:
 
@@ -60,18 +60,18 @@ Specific teaching and learning goals include:
 Specific software development goals include:
 
 -   modeling real world problems with software
--   planning iterations of a project
+-   iterative software development
 -   testing and debugging
 -   Object oriented programming concepts:
--   Abstraction
--   Encapsulation
--   Objects & Classes
--   Composition
--   Inheritance
--   Polymorphism
+  -   Abstraction
+  -   Encapsulation
+  -   Objects & Classes
+  -   Composition
+  -   Inheritance
+  -   Polymorphism
 
 
-Required Books
+Recommended Books
 ========================================================================
 
 Duckett, J. T. (2011). [_Html & css: design and
@@ -84,10 +84,11 @@ Required Software/Online Accounts
 ========================================================================
 
 - Software
-    - [Python 3](https://www.python.org/downloads/)
+    - [Nodejs](https://nodejs.org/en/)
     - [Sublime Text 3](http://www.sublimetext.com/3)
-    - [Github Client](https://desktop.github.com/)
     - [Slack](http://slack.com) (recommend desktop and mobile clients)
+    - [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/)
+    - Chrome or [Chromium](https://www.chromium.org/Home) web browser
 - Accounts
     - [Github](https://github.com)
     - [Python Anywhere](https://www.pythonanywhere.com/)
@@ -132,25 +133,24 @@ Schedule
 ========================================================================
 
 
-Week    Date     Topic                              Due
-----    -------  ----------------------------       ------------------------
-   1    1/26/16  Structured Content with HTML       
-   2    2/02/16  Design Thinking                    
-   3    2/09/16  Dynamic websites with Flask        Pitch
-   4    2/16/16  Studio (online)
-   5    2/23/16  Data visualization
-   6    3/01/16  Data in Python
-   9    3/08/16  Introduction to Javascript & JSON
-   -    3/15/16  _Spring Break_
-   7    3/22/16  Introduction to D3                 
-   8    3/29/16  Midpoint critique                  Midpoint critique
-  10    4/05/16  Studio
-  11    4/12/16  Studio
-  12    4/19/16  Studio (online)
-  13    4/26/16  Studio
-  14    5/03/16  Studio
-  15    5/10/16  Studio
-  16    5/17/16  Final Presentations                Final Project Due
+Week    Topic                              Homework/Due
+----    ----------------------------       ------------------------
+   1    Finding primes   
+   2    Encryptions and encoding                   function homework 
+   3    ASCII                          rotation cipher
+   4    Cracking passwords
+   5    
+   6    Data in Python
+   9    Introduction to Javascript & JSON
+   7    Introduction to D3                 
+   8    Midpoint critique                  Midpoint critique
+  10    Studio
+  11    Studio
+  12    Studio (online)
+  13    Studio
+  14    Studio
+  15    Studio
+  16    Final Presentations                Final Project Due
 
 
 Assignments & Grading
