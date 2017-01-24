@@ -85,14 +85,14 @@ Week    Start   End     Topic                   Due
    6    Oct 03  Oct 09  Media Literacy      
    7    Oct 10  Oct 16  Remix      
    8    Oct 17  Oct 23  Images & Visuality    
-   9    Oct 24  Oct 30  Power, Media, & Race    Video critique
-  10    Oct 31  Nov 06  Power, Media, & Gender      
-  11    Nov 07  Nov 13  Privacy & Security      Media analysis (draft)
-  12    Nov 14  Nov 20  Visualizing data        Media analysis
-  13    Nov 21  Nov 27  Data Workshop             
+   9    Oct 24  Oct 30  Power, Media, & Race    
+  10    Oct 31  Nov 06  Power, Media, & Gender  Video critique    
+  11    Nov 07  Nov 13  Privacy & Security      
+  12    Nov 14  Nov 20  Visualizing data        
+  13    Nov 21  Nov 27  Data Workshop           Media analysis  
   14    Nov 28  Dec 04  Coding culture
-  15    Dec 05  Dec 11  Computational Thinking  Data report
-  16    Dec 12  Dec 18  Visual programming          
+  15    Dec 05  Dec 11  Computational Thinking  
+  16    Dec 12  Dec 18  Visual programming      Data report    
 
 
 Week 0: Getting ready for Digital Literacies
@@ -211,18 +211,25 @@ Week 13: Data workshop
 ----------------------------
 _No readings, just data workshop._
 
-Week 14: Coding culture
+
+Week 15: Coding culture
 -----------------------
 ### Readings due:
 
 Ford, P. (2015). [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) _Bloomberg Businessweek_, 11. (read online)
 
-Week 15: Computational thinking and CS4All
+Kang, C., & Frankel, T. C. (2015). Silicon Valley struggles to hack its diversity problem. The Washington Post.
+
+Kang, C., & Frankel, T. C. (2015, July 16). [Silicon Valley struggles to hack its diversity problem.](https://www.washingtonpost.com/business/economy/silicon-valley-struggles-to-hack-its-diversity-problem/2015/07/16/0b0144be-2053-11e5-84d5-eb37ee8eaa61_story.html
+) _The Washington Post._
+
+Week 14: Computational thinking and CS4All
 ------------------------------------------
 ### Readings Due:
 Grover, S., & Pea, R. (2013). Computational Thinking in K–12: A Review of the State of the Field. _Educational Researcher_, _42_(1), 38–43.
 
 Deleuze, G. (1992). Postscript on the Societies of Control. _October_, _59_, 3–7.
+
 
 Week 16: Visual programming
 ---------------------------
@@ -266,7 +273,7 @@ Technically, your video must have:
 
 
 ### Item 4: Media analysis
-While we will be writing short reading response posts on most weeks, during this course you will also write a more formal paper where you analyze a piece of digital media, using the frameworks discussed in our readings. The paper must be between 1,000-1,500 words. For this paper we will practice peer editing and the drafting/revising process that is essential to writing high quality scholarly work. You should select a new media work (website, software/app, film, tv show, etc) and offer an original analysis of it. To complete your analysis you should refer to the various analytic frameworks we have studied in this course. Your analsysis is not a summary or description of the work, but a pointed critique that uses the work you are analyzing to offer new insight and new ideas.
+While we will be writing short reading response posts on most weeks, during this course you will also write a more formal paper where you analyze a piece of digital media, using the frameworks discussed in our readings. The paper must ~1,000 words in length. For this paper we will practice peer editing and the drafting/revising process that is essential to writing high quality scholarly work. You should select a new media work (website, software/app, film, tv show, etc) and offer an original analysis of it. To complete your analysis you should refer to the various analytic frameworks we have studied in this course. Your analysis is not a summary or description of the work, but a pointed critique that uses the work you are analyzing to offer new insight and new ideas.
 
 ### Item 5: Data report
 

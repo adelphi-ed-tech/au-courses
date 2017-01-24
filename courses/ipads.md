@@ -31,15 +31,19 @@ iPad to our in-person session. If you do not have access to an android or iOS
 mobile device, please let the instructors know.
 
 Moodle
-  ~ Moodle is the center for our online and in-person interaction. [Check out the course Moodle here.](https://moodle.adelphi.edu/course/view.php?id=85636)
+:    Moodle is the center for our online and in-person interaction. [Check out the course Moodle here.](https://moodle.adelphi.edu/course/view.php?id=85636)
+
 Email
-  ~ We will send out important course information via email—you must check your adelphi.edu email account regularly.
+:    We will send out important course information via email—you must check your adelphi.edu email account regularly.
+
 Slack
-  ~ [Slack](http://auedtech.slack.com) is team communication software. You should install the mobile client for your phone and/or iPad. Slack conversations are organized into "channels." The channel for this class is #mlearning. If your run into trouble or have questions about the course, **Slack is the best place to ask for help.** Either in the #mlearning channel or with a private message to one of the instructors.
+:    [Slack](http://auedtech.slack.com) is team communication software. You should install the mobile client for your phone and/or iPad. Slack conversations are organized into "channels." The channel for this class is #mlearning. If your run into trouble or have questions about the course, **Slack is the best place to ask for help.** Either in the #mlearning channel or with a private message to one of the instructors.
+
 Podcast manager
-  ~ During the course we will release a series of short audio podcasts. As part of our experimentation with mobile learning, we ask that everyone find a podcast client app and install it on their phone or iPad (search for `podcast manager` or `podcast client` in your app store). Once the app is installed, subscribe to our podcast via the RSS link: <http://feeds.soundcloud.com/users/soundcloud:users:214661076/sounds.rss>
+:    During the course we will release a series of short audio podcasts. As part of our experimentation with mobile learning, we ask that everyone find a podcast client app and install it on their phone or iPad (search for `podcast manager` or `podcast client` in your app store). Once the app is installed, subscribe to our podcast via the RSS link: <http://feeds.soundcloud.com/users/soundcloud:users:214661076/sounds.rss>
+
 Padlet
-  ~ The padlet web and mobile (iOS) apps make it easy to share resources and collaborate on projects. Where Slack let's us hash out ideas, Padlet will allow us to create more organized and permanent work that we can refer back to once our course is over. [Sign up for a padlet account here.](https://padlet.com/auth/signup)
+:    The padlet web and mobile (iOS) apps make it easy to share resources and collaborate on projects. Where Slack let's us hash out ideas, Padlet will allow us to create more organized and permanent work that we can refer back to once our course is over. [Sign up for a padlet account here.](https://padlet.com/auth/signup)
 
 Assignments & grading
 ----------------------------------------------------

@@ -15,7 +15,7 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
-**Educational Technology 0850-620, Spring 2013**
+**Educational Technology 0850-620, Spring 2017**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
 learning, digital studio, ed tech capstone, instructional design
@@ -43,7 +43,6 @@ original educational resources.
 > — John Perry Barlow, [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)
 
 ## Spring 2017 Studio: Hackers
-![The Spring 2013 Studio Topic is "Debt".](http://matt.curinga.com/wp-content/uploads/2012/11/debt-222x300.png)
 
 Each semester will feature a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
@@ -51,11 +50,22 @@ long multimedia project that teaches some aspect of this challenge. The
 semester will culminate with a student show, which will be judged by a
 panel of experts in the field of educational technology.
 
-By the end of 2016, cybersecurity and computer "hacking" have become topics
-that can no longer be easily ignored:
+In Spring 2017 we will focus on information security, hackers, and digital
+privacy. We believe that cyber-security is an increasingly important area of
+digital literacies, and that a broad understanding of issues in this arena are
+necessary for robust public discourse and democratic processes. By the end of
+2016, cyber-security and computer "hacking" have become topics that can no
+longer be easily ignored:
 
 - State sponsored Russian hacks aiming to influence the 2016 U.S. presidential election
-- 
+- Major security breaches, such as Yahoo Mail's disclosure that half a billion emails were compromised
+- Debates over widespread use of encryption and government "back doors"
+  (such as the Apple/FBI showdown over unlocking the San Bernadino shooter's iPhone)
+
+Each student will study an aspect of information security in depth, and then
+complete a multimedia educational project that aims to explain and enrich our
+understanding of the topic.
+
 
 ## Goals
 This course is designed to challenge students to develop their abilities
@@ -73,45 +83,15 @@ for learning. Specifically, they should learn to:
 -   think creatively about far-reaching challenges in teaching and
     learning
 
-At the end of the studio, every student will have a high quality, published multimedia artefact that will be part of their portfolio.
+At the end of the studio, every student will have a high quality, published multimedia artifact that will be part of their portfolio.
 
-## Required text
-Graeber, D. (2011). _Debt: the first 5,000 years_. Brooklyn, NY: Melville House.
+## Books
 
-## Debt readings
+- [Wired::ThreadLevel](https://www.wired.com/category/threatlevel)
+- [Wired::Security](https://www.wired.com/category/security/)
+- [The Atlantic](https://www.theatlantic.com/technology/)
+- [DefenseOne::Tech](http://www.defenseone.com/technology/)
 
-Amin, S., Rai, A. S., & Topa, G. (2003). Does microcredit reach the poor and vulnerable? Evidence from northern Bangladesh. _Journal of Development Economics_, _70_(1), 59–82. doi:10.1016/S0304-3878(02)00087-1
-
-[BEYOND GOOD AND EVIL COMMONS: A seminar Silvia Federici, George Caffentzis, & David Graeber](http://www.16beavergroup.org/silvia_george_david/).
-
-Graeber, D. (2012). [Video] [DEBT: The First 5,000 Years](http://www.youtube.com/watch?v=CZIINXhGDcs). Authors@Google.
-
-Kamenetz, A. (2006). _Generation Debt: How Our Future Was Sold Out for Student Loans, Bad Jobs, NoBenefits, and Tax Cuts for Rich Geezers—And How to Fight Back_. Riverhead Trade.
-
-Navajas, S., Schreiner, M., Meyer, R. L., Gonzalez-vega, C., & Rodriguez-meza, J. (2000). Microcredit and the Poorest of the Poor: Theory and Evidence from Bolivia. _World Development_, _28_(2), 333–346. doi:10.1016/S0305-750X(99)00121-7
-
-Rahman, A. (1999). Micro-credit initiatives for equitable and sustainable development: Who pays? _World Development_, _27_(1), 67–82. doi:10.1016/S0305-750X(98)00105-3
-
-Rankin, K. N. (2001). Governing development: neoliberalism, microcredit, and rational economic woman. _Economy and Society_, _30_(1), 18–37. doi:10.1080/03085140020019070
-
-[Strike Debt! Debt Resistance for the 99%](http://strikedebt.org/)
-
-## Multimedia & design readings
-Collins, A. 2004. Design research: Theoretical and methodological issues. *Journal of the learning Sciences*, *13* (*1*)15–42.
-
-Jewitt, C. 2008. Multimodality and Literacy in School Classrooms. *Review of Research in Education*, *32* (*1*)241-267.
-
-Kuhn, S. 2001. Learning from the architecture studio: Implications for project-based pedagogy. *International Journal of Engineering Education*, *17* (*4/5*)349–352.
-
-Kvan, T. (2001) [The pedagogy of virtual design studios](http://www.sciencedirect.com/science/article/B6V20-41KP556-K/2/1ad23074f36031dadda5bd8e49e80986). *Automation in Construction*, *10* (*3*)345-353.
-
-Löwgren, J. & Stolterman, E. (2007). _Thoughtful interaction design: a design perspective on information technology._ MIT Press. Cambridge Mass.; London. ISBN 9780262622097.
-
-Moggridge, B. 2007. *Designing interactions.* MIT Press. Cambridge Mass. ISBN 9780262134743
-
-Moreno, R. 2007. Interactive multimodal learning environments. *Educational Psychology Review*, *19* (*3*)309–326.
-
-Wilson, B. G. 1997. Constructivist learning environments: Case studies in instructional design. *IEEE Transactions on Professional Communication*.
 
 ## Schedule
 Session    Date    Topic                                    Workshop Leader
@@ -203,10 +183,3 @@ category are awarded for exhibiting a thorough understanding of how
 people learn with digital artifacts. Successful projects will account
 for the cognitive, social, pragmatic, ethical, and aesthetic
 implications of their design, as it impacts learning.
-
-
-
-- [Wired::ThreadLevel](https://www.wired.com/category/threatlevel)
-- [Wired::Security](https://www.wired.com/category/security/)
-- [The Atlantic](https://www.theatlantic.com/technology/)
-- [DefenseOne::Tech](http://www.defenseone.com/technology/)
