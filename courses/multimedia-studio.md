@@ -18,7 +18,8 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 **Educational Technology 0850-620, Spring 2017**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
-learning, digital studio, ed tech capstone, instructional design
+learning, digital studio, ed tech capstone, instructional design, 
+infosec, hackers, cybersecurity, privacy
 
 **Description:** How can digital media best support learning?
 Working on semester-long projects, students learn about interaction
@@ -46,16 +47,14 @@ original educational resources.
 
 Each semester will feature a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
-long multimedia project that teaches some aspect of this challenge. The
-semester will culminate with a student show, which will be judged by a
-panel of experts in the field of educational technology.
+long multimedia project that teaches some aspect of this challenge.
 
-In Spring 2017 we will focus on information security, hackers, and digital
-privacy. We believe that cyber-security is an increasingly important area of
-digital literacies, and that a broad understanding of issues in this arena are
+The Spring 2017 Studio theme is information security, hackers, and digital
+privacy. We believe that cyber-security is an increasingly important
+digital literacy, and that a broad understanding of issues in this arena are
 necessary for robust public discourse and democratic processes. By the end of
-2016, cyber-security and computer "hacking" have become topics that can no
-longer be easily ignored:
+2016, cyber-security and computer "hacking" had become topics that can no
+longer be easily ignored, with high profile issues such as:
 
 - State sponsored Russian hacks aiming to influence the 2016 U.S. presidential election
 - Major security breaches, such as Yahoo Mail's disclosure that half a billion emails were compromised
@@ -85,37 +84,41 @@ for learning. Specifically, they should learn to:
 
 At the end of the studio, every student will have a high quality, published multimedia artifact that will be part of their portfolio.
 
-## Books
+## Suggested Books
 
+Browne, Simone. 2015. _Dark Matters: On the Surveillance of Blackness_. Durham: Duke University Press Books.
+
+Coleman, Gabriella. 2015. _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous._  Verso.
+
+Doctorow, Cory. 2010. _Little Brother_. New York: Tor Teen.
+
+Harris, Shane. 2015. _@War: The Rise of the Military-Internet Complex_. Boston: Eamon Dolan/Mariner Books.
+
+Krebs, Brian. 2015. _Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door_. Sourcebooks.
+
+Levy, Steven. 2010. Hackers: _Heroes of the Computer Revolution_. Sebastopol, CA: O’Reilly Media.
+
+McCahill, Michael, and Rachel L. Finn. 2015. Surveillance, Capital and Resistance: Theorizing the Surveillance Subject. Place of publication not identified: Routledge.
+
+Mitnick, Kevin, Steve Wozniak, and William L. Simon. 2012. Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker. New York: Back Bay Books.
+
+Poulsen, Kevin. 2012. Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground. Reprint edition. Broadway Books.
+
+Russinovich, Mark, and Howard Schmidt. 2012. _Zero Day: A Jeff Aiken Novel_. New York: St. Martin’s Griffin.
+
+Smith, Sean, and John Marchesini. 2007. _The Craft of System Security_. Upper Saddle River, NJ: Addison-Wesley Professional.
+
+
+
+## Online resources for information security
 - [Wired::ThreadLevel](https://www.wired.com/category/threatlevel)
 - [Wired::Security](https://www.wired.com/category/security/)
 - [The Atlantic](https://www.theatlantic.com/technology/)
 - [DefenseOne::Tech](http://www.defenseone.com/technology/)
+- [Electronic Frontier Foundation](https://www.eff.org/)
 
 
-## Schedule
-Session    Date    Topic                                    Workshop Leader
-------- ------     --------------------------------------  ----------------
-1        Jan 25    Studio Pedagogy & Multimedia Learning    Curinga
-2        Feb 1     Multimedia Learning/SMARTBoards          Curinga
-3        Feb 8     Interaction design                       Curinga
-4        Feb 15    Games, Play, & Learning                  Vikaros
-5        Feb 22    Building Websites with WordPress         Curinga
-6        Feb 29    Digital Art                              Fleurimond
-7        Mar 7     Social media                             Curinga
--        Mar 14    _Spring Break_                              -
-8        Mar 21    Going Mobile with PhoneGap               Saravanos
-9        Mar 28    Midpoint Critique                        Curinga
-10       Apr 4     Teaching with Video                      Kase & Jennings
-11       Apr 11    User Experience                          Curinga
-12       Apr 18    Sound & Audio                            Gregory
-13       Apr 25    Data-driven multimedia                   Curinga
-14       May 2     GIS: Maps & Location                     TBD
-15       May 9     Working session                          Curinga
-16       May 16    Final Show                              _Jury_
 
-_This is a tentative list and schedule of workshops. The actual
-studio will be organized to be responsive to the needs of the students._
 
 ## Assignments
 The studio format allows for frequent and ongoing evaluation of the
@@ -128,11 +131,11 @@ Adelphi University and outside organizations.
 
 ### Grading & due dates
 
-Session   Assignment due       % of final grade
+Due   Assignment due           % of final grade
 --------  -----------------    ----------------
- 3        initial proposal        15%
+ 3        initial proposal        10%
  9        mid-term critique       20%
-16        final project           65%
+16        final project           40%
 
 ## Evaluation Criteria
 
