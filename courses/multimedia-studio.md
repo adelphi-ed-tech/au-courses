@@ -84,7 +84,7 @@ for learning. Specifically, they should learn to:
 
 At the end of the studio, every student will have a high quality, published multimedia artifact that will be part of their portfolio.
 
-## Suggested Books
+## Recommended Books
 
 Browne, Simone. 2015. _Dark Matters: On the Surveillance of Blackness_. Durham: Duke University Press Books.
 
@@ -118,6 +118,27 @@ Smith, Sean, and John Marchesini. 2007. _The Craft of System Security_. Upper Sa
 - [Electronic Frontier Foundation](https://www.eff.org/)
 
 
+## Class meetings
+
+Session     Date  Due
+----------  ----  --------------------------
+1           1/24  
+2           1/31  briefing
+3           2/07  
+4           2/14  talks
+5           2/21  pitch
+6           2/28  
+7           3/07  
+_no class_  3/14  Spring Break
+8           3/21  
+9           3/28  midpoint critique
+10          4/04  
+11          4/11  
+12          4/18  
+_no class_  4/25  Research Day
+13          5/02  
+14          5/09  
+15          5/16  final project
 
 
 ## Assignments
@@ -131,13 +152,15 @@ Adelphi University and outside organizations.
 
 ### Grading & due dates
 
-Due   Assignment due           % of final grade
---------  -----------------    ----------------
- 3        initial proposal        10%
- 9        mid-term critique       20%
-16        final project           40%
+Assignment due      % of final grade
+-----------------   ----------------
+briefting               10%
+book report             10%
+initial proposal        10%
+mid-term critique       20%
+final project           50%
 
-## Evaluation Criteria
+### Evaluation Criteria
 
 ### Design
 The design of the project encompasses the information, interaction, and
