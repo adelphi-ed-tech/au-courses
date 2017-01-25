@@ -125,7 +125,7 @@ Session     Date  Due
 1           1/24  
 2           1/31  briefing
 3           2/07  
-4           2/14  talks
+4           2/14  book talk
 5           2/21  pitch
 6           2/28  
 7           3/07  
@@ -154,15 +154,24 @@ Adelphi University and outside organizations.
 
 Assignment due      % of final grade
 -----------------   ----------------
-briefting               10%
-book report             10%
+briefing                10%
+book talk               10%
 initial proposal        10%
 mid-term critique       20%
 final project           50%
 
-### Evaluation Criteria
+### Briefing
+You will choose a specific topic of your choice related to information security and then write a short (300 word)
+information report and create a bibliography of sources on the topic. We will discuss reports in class, but no
+formal presentation is required.
 
-### Design
+### Book talk
+Choose one of the books from the suggested books list (above). Read the book and prepare an 8 minute (exactly) presentation on the book. Make your presentation _targeted_ and _interesting_. You _must_ have a multimedia presentation to go along iwth your 
+
+
+### Midpoint and Final Evaluation Criteria
+
+#### Design
 The design of the project encompasses the information, interaction, and
 media design. Points to consider when evaluating the design:
 
@@ -182,7 +191,7 @@ media design. Points to consider when evaluating the design:
     -   can it be accessed by users with disabilities, where
         appropriate?
 
-### Technique
+#### Technique
 The project's technique reflects the proficiency of the teams with the
 tools of the digital studio. All aspects of the project should be well
 tested for smooth operation. Users should not easily "break" the system.
@@ -195,7 +204,7 @@ practice of expert practitioners.
     expect?
 -   etc.
 
-### Originality & innovation
+#### Originality & innovation
 Teams will gain points based on the originality of their project. Does
 the project take a novel approach to teaching with digital media? Does
 it combine existing practices in new ways, for a new effect?
@@ -203,7 +212,7 @@ it combine existing practices in new ways, for a new effect?
 Students will lose points in originality for verbatim translating of
 existing learning solutions to the new problem space.
 
-### Learning science
+#### Learning science
 At the end, this studio challenge is about learning. Points in this
 category are awarded for exhibiting a thorough understanding of how
 people learn with digital artifacts. Successful projects will account
