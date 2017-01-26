@@ -40,7 +40,7 @@ original educational resources.
 > Governments of the Industrial World, you weary giants of flesh and steel, I
 > come from Cyberspace, the new home of Mind. On behalf of the future, I ask you
 > of the past to leave us alone. You are not welcome among us. You have no
-> sovereignty where we gather.
+> sovereignty where we gather.\
 > — John Perry Barlow, [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)
 
 ## Spring 2017 Studio: Hackers
@@ -116,19 +116,20 @@ Smith, Sean, and John Marchesini. 2007. _The Craft of System Security_. Upper Sa
 - [The Atlantic](https://www.theatlantic.com/technology/)
 - [DefenseOne::Tech](http://www.defenseone.com/technology/)
 - [Electronic Frontier Foundation](https://www.eff.org/)
-
+- [Crypto Party](https://www.cryptoparty.in/index)
+- [Security in a Box](https://securityinabox.org/en/)
 
 ## Class meetings
 
 Session     Date  Due
 ----------  ----  --------------------------
 1           1/24  
-2           1/31  briefing
+2           1/31  briefing 1
 3           2/07  
 4           2/14  book talk
 5           2/21  pitch
 6           2/28  
-7           3/07  
+7           3/07  briefing 2
 _no class_  3/14  Spring Break
 8           3/21  
 9           3/28  midpoint critique
@@ -145,31 +146,66 @@ _no class_  4/25  Research Day
 The studio format allows for frequent and ongoing evaluation of the
 student work. An important aspect will be invited guests who will also
 come into the studio to consult with students and to offer informal
-feedback. There will be formal mid-point and final critiques. The
-mid-point critique will be conducted by the instructor and a guest; the
-final assessment will consist of a panel of distinguished judges from
-Adelphi University and outside organizations.
+feedback. There will be formal mid-point and final critiques.
+
+The main, semester long project for this course is the development of a multimedia
+learning work related to our topic of information security. Your project should
+_teach_ something worth learning and _effectively use multimedia_ to do so. Past Studio projects include
+
+- instructional videos
+- animations
+- data visualizations
+- infographics
+- (analog) learning games
+- documentary videos
+- captivate courses
+- self-paced online courses
+- simulations
 
 ### Grading & due dates
 
 Assignment due      % of final grade
 -----------------   ----------------
-briefing                10%
+briefings               10%
 book talk               10%
-initial proposal        10%
+pitch                   10%
 mid-term critique       20%
 final project           50%
 
-### Briefing
+### Briefings
 You will choose a specific topic of your choice related to information security and then write a short (300 word)
 information report and create a bibliography of sources on the topic. We will discuss reports in class, but no
-formal presentation is required.
+formal presentation is required. Post your report before the class session when it's due.
 
 ### Book talk
-Choose one of the books from the suggested books list (above). Read the book and prepare an 8 minute (exactly) presentation on the book. Make your presentation _targeted_ and _interesting_. You _must_ have a multimedia presentation to go along iwth your 
+Choose one of the books from the suggested books list (above). Read the book and prepare an 8 minute (exactly) presentation on the book. Make your presentation _targeted_ and _interesting_. You _must_ have a multimedia presentation to go along with your talk. Some tips for giving a great presentation:
 
+1. Write out your talk and practice it.
+2. Look at your audience, not the screen or your notes.
+3. Don't repeat what's on the screen.
+4. Have a **point**: like a good essay, a good talk should deliver an original, targeted point of view that you will logically and rhetorically convey.
+
+### Pitch
+In this class session you will formally pitch your idea for your idea for your final project. The purpose of the
+pitch is to propose your project in a way that makes it sound exciting, worthwhile, and feasible. The most important
+part is that you can tell a good story about what you plan to develop. You should also have some
+sketches, mockups, sample art, etc. that may be required to make your point.
+
+Plan for a 5 minute presentation and 3 minute Q&A session after.
 
 ### Midpoint and Final Evaluation Criteria
+_Refer to these criteria for the evaluation of your multimedia project._
+
+#### Originality & innovation
+Teams will gain points based on the originality of their project. Does
+the project take a novel approach to teaching with digital media? Does
+it combine existing practices in new ways, for a new effect? Does it
+address an important topic, or hard to teach concept that is relevant
+to the topic of the studio? In other words, how _important_ is the learning
+goal for the project?
+
+Students will lose points in originality for verbatim translating of
+existing learning solutions to the new problem space.
 
 #### Design
 The design of the project encompasses the information, interaction, and
@@ -203,14 +239,6 @@ practice of expert practitioners.
 -   does software meet the speed and reliability that an expert would
     expect?
 -   etc.
-
-#### Originality & innovation
-Teams will gain points based on the originality of their project. Does
-the project take a novel approach to teaching with digital media? Does
-it combine existing practices in new ways, for a new effect?
-
-Students will lose points in originality for verbatim translating of
-existing learning solutions to the new problem space.
 
 #### Learning science
 At the end, this studio challenge is about learning. Points in this
