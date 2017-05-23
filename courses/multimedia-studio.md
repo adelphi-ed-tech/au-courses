@@ -126,9 +126,9 @@ Session     Date  Due
 1           1/24  
 2           1/31  briefing 1
 3           2/07  
-4           2/14  book talk
-5           2/21  pitch
-6           2/28  
+4           2/14  
+5           2/21  book talk
+6           2/28  pitch
 7           3/07  briefing 2
 _no class_  3/14  Spring Break
 8           3/21  
