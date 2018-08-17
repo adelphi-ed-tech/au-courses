@@ -23,21 +23,21 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 **Description:** This course introduces students to programming and 
 some core concepts of computer science, using a modern, object oriented
 programming language. Students learn concepts of 
-variables, functions, repetition/loops, basic data structures 
+variables, functions, selection, repetition/loops, basic data structures 
 (arrays, lists, hashtables), and basic object oriented programming.
 
 > We are looking at a society increasingly dependent on machines, yet
 > decreasingly capable of making or even using them effectively.<br>
 > ― Douglas Rushkoff, _Program or Be Programmed: Ten Commands for a Digital Age_
 
-**Class meetings:** Tues. 5-7PM, Manhattan Center
+**Class meetings:** Wed. 4:30-6:20 SCB 233, Manhattan Center
 
-**Instructor:** [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
+**Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
 
 **Office hours:**
 
-- Tuesday 3pm-5pm, Manhattan Center
-- Thursday 12-2pm, online
+- Wednesday 2pm-4pm, Manhattan Center
+- Monday 12-2pm, online
 - _office hours by appointment_
 
 Learning Goals
@@ -60,117 +60,100 @@ Required Software/Online Accounts
 =================================
 
 - Software
-    - [Sublime Text 3](http://www.sublimetext.com/3)
-    - Git Client [windows](https://git-scm.com/downloads) _for mac insall via xcode_
     - [Slack Client](http://slack.com) (recommend desktop and mobile clients)
     - Firefox or Chrome web browser
 - Accounts
-    - [Github](https://github.com)
+    - [repl.it](https://repl.it)
     - [AU Ed Tech Slack channel #code](https://auedtech.slack.com/signup)
+
+Class Meetings
+==============
+
+Week 1: Algorithms and coding
+-----------------------------
+
+https://www.lynda.com/C-tutorials/Algorithms/167922/181556-4.html
+
+Week 2: Variables and data
+--------------------------
+
+Week 3: Functions
+------------------
+
+Week 4: Conditions
+-------------------
+
+Week 5: 
 
 Assignments and Grading
 =======================
 
 Assignment              Pct   Due date
 -------------------     ----  --------
-Single Page Site        30%   Sep 13
-Slideshow               30%   Oct 18
-Web appplication        40%   Dec 19
+Labs (10 total)         50%   Sep 13
+Midterm exam            25%   Oct 18
+Final project           25%   Dec 19
 
 
-Single Page Website (30%)
+Labs (50%)
 -------------------------
 
-Students will build a single-page,
-informational website on a topic of their choice. Their website
-will be composed of HTML, CSS, and (optionally) Javascript. It
-will display their fluency with the HTML elements, styling
-with CSS, and enhancing user experience with Javascript. The
-content of the website is entirely up to the student. They are
-encouraged to create a website on something they are already
-familiar with and interested in. This is an individual project.
+Most weeks there will be a programming lab due. Labs will consist of a single exercise
+that focuses on using the computer programming concepts we're learning to solve
+a problem. Each lab will be worth 0-5 points. Roughly:
 
-Photo slideshow (30%)
+- _0 points_: for not turning in any work
+- _1-2 points_: for a basic attempt, but code isn't working or has fundamental flaws
+- _4-5 points_ (mostly) solution demonstrates mastery of relevant concepts
+- _5 points_: solution works, demonstrates mastery of concepts, and is well formatted and clearly written
+
+Everyone's lowest grade will be thrown out (so your lab score will be the average of your 9 highest lab grades).
+
+Midterm (25%)
 --------------------------------
 
-For this second project students will be asked to re-imagine a common web
-application--the photo/media slideshow. Students will study existing solutions
-and then develop and implement their own design. The task will be simplified
-because this will be a client-side only application. We will not develop
-components to upload photos, merely to play a set of photos on our website. In
-this individual project students will work through key programming concepts,
-including writing their own GUI, custom JS functions, and standard and custom
-data structures.
+For the midterm, you will choose to write a program to solve 1 of 3 problems. Each problem will require demonstration
+of all of the concepts covered so far in the course, as well as a demonstration of the computer
+science problem solving approaches that we have been studying and practicing. The exam problems
+will be similar to the lab exercises.
 
-Web appplication (40%)
+Computer program scoring guide:
+
+- _5 points,_ **solution**: How well and correctly does the code solve the given problem?
+- _5 points,_ **elegance**: Does the program make efficient use of programming concepts? 
+  Are variables and functions used to create _abstractions_?
+  Are the algorithms clear, straightforward, and concise?
+- _5 points,_ **robustness**: Does the program handle different conditions/states? Would it be easy to adapt if the specification changed?
+- _5 points,_ **style**: Is the code properly formatted? Do variable and function names follow our conventions? Is it written so that it can be easily read by a human?
+
+Final project (25%)
 -----------------------------
 
-Using Javascript, HTML, and CSS students will design and develop an
-interactive web application. For this project, students will go through the
-full design process. These apps will enable users to store and modify data
-through a range of interface elements. The code will demonstrate their
-understanding of core programming and computer science concepts. Unlike the
-first two projects, this will be a group project.
+Students will work in teams of 2 or 3 to develop a final, group project. The project will be of the students
+own design, but it will involve:
+
+- accessing a data set (such as real-time data feed) 
+- analyzing the data
+- displaying results using text and graphical displays
+
+The computer program scoring guide from the midterm will be used for the final project as well. All project members will receive the same grade.
 
 
 
-Books and online resources
-==========================
+Javascript Documentation and References
+----------------------------------------
 
-Documentation & Reference websites
-----------------------------------
-- [World Wide Web Consortium](http://w3.org)
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-- [jQuery](http://jquery.com/)
-- [W3 Schools](http://www.w3schools.com/)
-- [Regular Expressions](http://www.regexr.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [W3 Schools](https://www.w3schools.com/js/default.asp)
+- [OverAPI](http://overapi.com/javascript)
+- [ES6 Lang Spec](https://www.ecma-international.org/ecma-262/6.0/index.html)
 
-Books
--------------------------------------------------
-- [HTML and CSS: Design and Build Websites](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118008189.html), our textbook
-- [JavaScript & jQuery: Interactive Front-End Web Development Hardcover](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118871650.html), also J. Duckett, same series
-- [Dive into HTML 5](http://diveintohtml5.info/) [free online]
-- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/) [free online]
+Books & Tutorials
+-----------------
+- [Understanding Programming through JavaScript](https://cs.stanford.edu/people/eroberts/CS106AJ-Reader.pdf)
+- [Javascript the Right Way](http://jstherightway.org/)
+- [You Don't know JS (book series online)](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do)
-
-Tutorial websites & online learning
--------------------------------------------------
-- [Code Academcy](http://www.codecademy.com/)
-- [P2PU School of webcraft](https://p2pu.org/en/schools/school-of-webcraft/)
-- [Treehouse](http://teamtreehouse.com/) [paid]
-- [Thinkful](http://www.thinkful.com/)
-- [GeekCamp::HTML5 Tutorial](http://www.geekchamp.com/html5-tutorials/1-html5-overview)
-- [SkilledUp::Learn Web Design](http://www.skilledup.com/learn-web-design-guide/)
-
-Design, accessibility, UX
--------------------------------------------------
-- [A List Apart](http://alistapart.com/topic/html)
-- [Smashing Magazine](http://www.smashingmagazine.com/)
-- [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
-- [Nielsen/Norman Group](http://www.nngroup.com/articles/)
-- [United States Section 508](http://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973)
-  - [https://www.section508.gov/](https://www.section508.gov/)
-  - [http://webaim.org/standards/508/checklist](http://webaim.org/standards/508/checklist)
-- [Usability.gov](http://www.usability.gov/index.html)
-- [Research-Based Web Design & Usability Guidelines](http://www.usability.gov/guidelines/guidelines_book.pdf)
-- [hex/html color chart](http://www.december.com/html/spec/color.html)
-
-Online Tools
--------------------------------------------------
-- [w3c HTML Validation Service](http://validator.w3.org/#validate_by_uri+with_options)
-- [w3c CSS Validation Service](http://jigsaw.w3.org/css-validator/)
-- [Pastebin](http://pastebin.com/)
-- [HTML Formatter](http://www.freeformatter.com/html-formatter.html)
-
-Media Resources
--------------------------------------------------
-- [Creative Commons Search](http://search.creativecommons.org/), for images, music, etc
-- [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page), images and other media (including stuff from Wikipedia), curated
-- [Open Clip Art](https://openclipart.org/), free vector graphics
-- [Creative Commons Music](http://creativecommons.org/music-communities)
-- [Fossil Bank](http://fossilbank.wikidot.com/)
-- [Adobe Color](https://color.adobe.com/create/color-wheel/)
-- [Colour Lovers Palettes](http://www.colourlovers.com/)
-- [DaFonts](http://www.dafont.com/)
-
+- [JavaScript & jQuery: Interactive Front-End Web Development Hardcover](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118871650.html), also J. Duckett, same series
 
