@@ -116,6 +116,20 @@ Week 10: Arrays
 Week 11: Objects & Sets
 -----------------------
 
+Week 12: JSON Data
+------------------
+
+Week 13: Network Connections & Files
+------------------------------------
+
+
+Week 14: Graphs & Charts
+------------------------
+
+
+Week 15: Final Project Lab
+--------------------------
+
 
 Assignments and Grading
 =======================
