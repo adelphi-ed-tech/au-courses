@@ -45,7 +45,7 @@ original educational resources.
 
 ## Spring 2017 Studio: Hackers
 
-Each semester will feature a different challenge, dealing with an
+Each semester the multimedia studio features a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
 long multimedia project that teaches some aspect of this challenge.
 
@@ -65,7 +65,6 @@ Each student will study an aspect of information security in depth, and then
 complete a multimedia educational project that aims to explain and enrich our
 understanding of the topic.
 
-
 ## Goals
 This course is designed to challenge students to develop their abilities
 as instructional designers and as authors and producers of digital media
@@ -77,8 +76,8 @@ for learning. Specifically, they should learn to:
     editing, graphic design, game design, computer programming, web
     design, etc.
 -   understand key concepts of instructional design, including meeting
-    the needs of the target audience and following sound and ethical
-    pedagogical principles
+    the needs of the target audience, assessing learning outcomes,
+    and following sound and ethical pedagogical principles
 -   think creatively about far-reaching challenges in teaching and
     learning
 
@@ -143,7 +142,7 @@ _no class_  4/25  Research Day
 
 
 ## Assignments
-The studio format allows for frequent and ongoing evaluation of the
+The studio format allows for frequent and ongoing evaluation of
 student work. An important aspect will be invited guests who will also
 come into the studio to consult with students and to offer informal
 feedback. There will be formal mid-point and final critiques.
@@ -173,12 +172,12 @@ mid-term critique       20%
 final project           50%
 
 ### Briefings
-You will choose a specific topic of your choice related to information security and then write a short (300 word)
-information report and create a bibliography of sources on the topic. We will discuss reports in class, but no
-formal presentation is required. Post your report before the class session when it's due.
+The two "briefing" sessions will help us develop our domain knowledge of cyber security. You will choose a specific topic of your choice related to information security and then write a short (300 word)
+report and create a bibliography of sources on the topic. We will discuss reports in class, but no
+formal presentation is required. Post your report to Slack before the class session when it's due.
 
 ### Book talk
-Choose one of the books from the suggested books list (above). Read the book and prepare an 8 minute (exactly) presentation on the book. Make your presentation _targeted_ and _interesting_. You _must_ have a multimedia presentation to go along with your talk. Some tips for giving a great presentation:
+Choose one of the books from the recommended books list (above). Read the book and prepare an 8 minute (exactly) presentation on the book. Make your presentation _targeted_ and _interesting_. Unlike the briefings, for this assignment you _must_ have a multimedia presentation to go along with your talk. Some tips for giving a great presentation:
 
 1. Write out your talk and practice it.
 2. Look at your audience, not the screen or your notes.
@@ -186,9 +185,8 @@ Choose one of the books from the suggested books list (above). Read the book and
 4. Have a **point**: like a good essay, a good talk should deliver an original, targeted point of view that you will logically and rhetorically convey.
 
 ### Pitch
-In this class session you will formally pitch your idea for your idea for your final project. The purpose of the
-pitch is to propose your project in a way that makes it sound exciting, worthwhile, and feasible. The most important
-part is that you can tell a good story about what you plan to develop. You should also have some
+In this class session you will formally pitch your idea for your your final project. The purpose of the
+pitch is to propose your project in a way that makes it sound exciting, worthwhile, and feasible. You want to tell a good story about what you plan to develop. You should also have some
 sketches, mockups, sample art, etc. that may be required to make your point.
 
 Plan for a 5 minute presentation and 3 minute Q&A session after.
@@ -197,8 +195,7 @@ Plan for a 5 minute presentation and 3 minute Q&A session after.
 _Refer to these criteria for the evaluation of your multimedia project._
 
 #### Originality & innovation
-Teams will gain points based on the originality of their project. Does
-the project take a novel approach to teaching with digital media? Does
+Does the project take a novel approach to teaching with digital media? Does
 it combine existing practices in new ways, for a new effect? Does it
 address an important topic, or hard to teach concept that is relevant
 to the topic of the studio? In other words, how _important_ is the learning
@@ -209,7 +206,7 @@ existing learning solutions to the new problem space.
 
 #### Design
 The design of the project encompasses the information, interaction, and
-media design. Points to consider when evaluating the design:
+visual design. Points to consider when evaluating the design:
 
 -   is the navigation consistent, logical, and easily understood?
 -   does the graphic design engage users?
@@ -228,7 +225,7 @@ media design. Points to consider when evaluating the design:
         appropriate?
 
 #### Technique
-The project's technique reflects the proficiency of the teams with the
+The project's technique reflects the proficiency of the producer with the
 tools of the digital studio. All aspects of the project should be well
 tested for smooth operation. Users should not easily "break" the system.
 The specifics of development depend on the media. So, each of the

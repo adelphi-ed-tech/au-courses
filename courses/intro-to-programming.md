@@ -6,19 +6,19 @@ This syllabus was created for
 the Educational Technology Program
 at Adelphi University:
 http://education.adelphi.edu
-copyright 2012-2016 Matthew X. Curinga
+copyright 2012-2018 Matthew X. Curinga
 http://matt.curinga.com
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
 a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 We ask, but do not require, that attribution includes a link to our websites (above).
-version: 2.1
+version: 3.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Computer Science 0145-602, Fall 2016**
+**Computer Science 0145-602, Fall 2018**
 
-**Keywords:**  computer programming, CS1, javascript, computational thinking, critical computational literacy
+**Keywords:**  computer programming, CS1, javascript, computational thinking, critical computational literacy, problem solving
 
 **Description:** This course introduces students to programming and 
 some core concepts of computer science, using a modern, object oriented
@@ -36,20 +36,20 @@ variables, functions, selection, repetition/loops, basic data structures
 
 **Office hours:**
 
-- Wednesday 2pm-4pm, Manhattan Center
 - Monday 12-2pm, online
+- Wednesday 2pm-4pm, Alumnae Hall Room 226A (Garden City campus)
 - _office hours by appointment_
 
 Learning Goals
 ==============
 
-* understand the types of problems that can be solved using computational techniques
-* understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections) 
-* learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion) 
-* think algorithmically to design and test computer programs 
-* master the basic syntax and idioms of the Javascript programming language 
-* use technical documentation, APIs, and the internet to learn new technical concepts 
-* develop step-by-step problem solving and debugging practices
+- understand the types of problems that can be solved using computational techniques
+- understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections) 
+- learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion) 
+- think algorithmically to design and test computer programs 
+- master the basic syntax and idioms of the Javascript programming language 
+- use technical documentation, APIs, and the internet to learn new technical concepts 
+- develop step-by-step problem solving and debugging practices
 
 
 Required Books
@@ -60,30 +60,62 @@ Required Software/Online Accounts
 =================================
 
 - Software
-    - [Slack Client](http://slack.com) (recommend desktop and mobile clients)
-    - Firefox or Chrome web browser
+  - [Slack Client](http://slack.com) (recommend desktop and mobile clients)
+  - Firefox or Chrome web browser
 - Accounts
-    - [repl.it](https://repl.it)
-    - [AU Ed Tech Slack channel #code](https://auedtech.slack.com/signup)
+  - [repl.it](https://repl.it)
+  - [AU Ed Tech Slack channel #code](https://auedtech.slack.com/signup)
 
 Class Meetings
 ==============
 
-Week 1: Algorithms and coding
+Week 1: Coding and algorithms
 -----------------------------
 
 https://www.lynda.com/C-tutorials/Algorithms/167922/181556-4.html
+_Homework:_ Lab 1
 
-Week 2: Variables and data
+Week 2: Problem solving in computer programming
+-----------------------------------------------
+
+_Homework:_ Lab 2
+
+Week 3: Variables and data
 --------------------------
 
-Week 3: Functions
+_Homework:_ Lab 3
+
+Week 4: Functions
 ------------------
 
-Week 4: Conditions
+_Homework:_ Lab 4
+
+Week 5: Conditions
 -------------------
 
-Week 5: 
+_Homework:_ Lab 5
+
+Week 6: Repetition with `while` 
+-------------------------------
+
+_Homework:_ Lab 6
+
+Week 7: Repetition with `for` 
+-----------------------------
+_Review for midterm_
+
+Week 8: Midterm
+-----------------------------
+
+Week 9: Strings
+---------------
+
+Week 10: Arrays
+---------------
+
+Week 11: Objects & Sets
+-----------------------
+
 
 Assignments and Grading
 =======================
@@ -150,10 +182,10 @@ Javascript Documentation and References
 
 Books & Tutorials
 -----------------
-- [Understanding Programming through JavaScript](https://cs.stanford.edu/people/eroberts/CS106AJ-Reader.pdf)
 - [Javascript the Right Way](http://jstherightway.org/)
 - [You Don't know JS (book series online)](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Understanding Programming through JavaScript](https://cs.stanford.edu/people/eroberts/CS106AJ-Reader.pdf)
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do)
 - [JavaScript & jQuery: Interactive Front-End Web Development Hardcover](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118871650.html), also J. Duckett, same series
 
