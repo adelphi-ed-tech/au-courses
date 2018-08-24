@@ -66,69 +66,28 @@ Required Software/Online Accounts
   - [repl.it](https://repl.it)
   - [AU Ed Tech Slack channel #code](https://auedtech.slack.com/signup)
 
-Class Meetings
+Class Sessions
 ==============
-
-Week 1: Coding and algorithms
------------------------------
-
 https://www.lynda.com/C-tutorials/Algorithms/167922/181556-4.html
-_Homework:_ Lab 1
 
-Week 2: Problem solving in computer programming
------------------------------------------------
-
-_Homework:_ Lab 2
-
-Week 3: Variables and data
---------------------------
-
-_Homework:_ Lab 3
-
-Week 4: Functions
-------------------
-
-_Homework:_ Lab 4
-
-Week 5: Conditions
--------------------
-
-_Homework:_ Lab 5
-
-Week 6: Repetition with `while` 
--------------------------------
-
-_Homework:_ Lab 6
-
-Week 7: Repetition with `for` 
------------------------------
-_Review for midterm_
-
-Week 8: Midterm
------------------------------
-
-Week 9: Strings
----------------
-
-Week 10: Arrays
----------------
-
-Week 11: Objects & Sets
------------------------
-
-Week 12: JSON Data
-------------------
-
-Week 13: Network Connections & Files
-------------------------------------
-
-
-Week 14: Graphs & Charts
-------------------------
-
-
-Week 15: Final Project Lab
---------------------------
+Week    Date       Topic                                     Due
+----    ------     ---------------------------------------   ---------------
+   1    Aug 27     Turtle: Coding and algorithms             -
+   2    Sep 3      Problem solving in computer programming   Lab 1
+   3    Sep 10     Variables and data                        Lab 2
+   4    Sep 17     Functions and testing                     Lab 3
+   5    Sep 24     Conditions                                Lab 4
+   6    Oct 1      Repetition with `while`                   Lab 5
+   7    Oct 8      Strings and repetition with `for`         _study!_
+   8    Oct 15     Midterm                                   -
+   9    Oct 22     Arrays                                    -
+  10    Oct 29     Objects & Sets                            Lab 6
+  11    Nov 5      JSON data                                 Lab 7
+  12    Nov 12     Networks and files                        Lab 8
+  13    Nov 19     Open Data                                 Lab 9
+  14    Nov 26     Graphs & Charts                           Lab 10
+  15    Dec 3      Final project workshops                   -
+  16    Dec 10     Finals                                    Final project
 
 
 Assignments and Grading
