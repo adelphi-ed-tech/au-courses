@@ -16,7 +16,7 @@ version: 3.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Computer Science 0145-602 Section 002 (online), Fall 2018**
+**Computer Science 0145-602 Section, Fall 2018**
 
 **Keywords:**  computer programming, CS1, javascript, computational thinking, critical computational literacy, problem solving
 
@@ -30,7 +30,7 @@ variables, functions, selection, repetition/loops, basic data structures
 > decreasingly capable of making or even using them effectively.<br>
 > ― Douglas Rushkoff, _Program or Be Programmed: Ten Commands for a Digital Age_
 
-**Class meetings:** _fully online_
+**Class meetings:** Wed. 4:30-6:20, SCB 227
 
 **Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
 
@@ -72,22 +72,22 @@ https://www.lynda.com/C-tutorials/Algorithms/167922/181556-4.html
 
 Week    Date       Topic                                     Due
 ----    ------     ---------------------------------------   ---------------
-   1    Aug 27     Turtle: Coding and algorithms             -
-   2    Sep 3      Problem solving in computer programming   Lab 1
-   3    Sep 10     Variables and data                        Lab 2
-   4    Sep 17     Functions and testing                     Lab 3
-   5    Sep 24     Conditions                                Lab 4
-   6    Oct 1      Repetition with `while`                   Lab 5
-   7    Oct 8      Strings and repetition with `for`         _study!_
-   8    Oct 15     Midterm                                   -
-   9    Oct 22     Arrays                                    -
-  10    Oct 29     Objects & Sets                            Lab 6
-  11    Nov 5      JSON data                                 Lab 7
-  12    Nov 12     Networks and files                        Lab 8
-  13    Nov 19     Open Data                                 Lab 9
-  14    Nov 26     Graphs & Charts                           Lab 10
-  15    Dec 3      Final project workshops                   -
-  16    Dec 10     Finals                                    Final project
+   1    Aug 29     Turtle: Coding and algorithms             -
+   2    Sep 5      Problem solving in computer programming   Lab 1
+   3    Sep 12     Variables and data                        Lab 2
+   4    Sep 19     Functions and testing                     Lab 3
+   5    Sep 26     Conditions                                Lab 4
+   6    Oct 3      Repetition with `while`                   Lab 5
+   7    Oct 10     Strings and repetition with `for`         _study!_
+   8    Oct 17     Midterm                                   -
+   9    Oct 24     Arrays                                    -
+  10    Oct 31     Objects & Sets                            Lab 6
+  11    Nov 7      JSON data                                 Lab 7
+  12    Nov 14     Networks and files                        Lab 8
+  13    Nov 21     _no classes_                              -
+  13    Nov 28     Open Data                                 Lab 9
+  14    Dec 5      Graphs & Charts                           Lab 10
+  15    Dec 12     Finals                                    Final project
 
 
 Assignments and Grading
