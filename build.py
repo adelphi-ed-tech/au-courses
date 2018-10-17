@@ -10,47 +10,10 @@ def GenerateAllCourses(html, raw, word):
     courses = [f[:-3] for f in os.listdir("courses") if f.endswith(".md")]
     pagesToBuild = []
     for c in courses:
-        if(IsModified(c)):
-            print("rebuilding course: %s" % (c,))
-            GenerateCourse(html, raw, word, c)
-            pagesToBuild.append(c)
+        print("rebuilding course: %s" % (c,))
+        GenerateCourse(html, raw, word, c)
+        pagesToBuild.append(c)
 
-def ModTimeIfExists(path):
-    if os.path.exists(path):
-        return os.path.getmtime(path)
-    return 0
-
-def IsModified(course):
-    """check to see if any relevant course materials have been modified
-       since this course was last built."""
-    rawMod = ModTimeIfExists("raw/{}.html".format(course))
-    outMod = ModTimeIfExists("out/{}.html".format(course))
-    wordMod = ModTimeIfExists("word/{}.docx".format(course))
-
-    lastBuilt = min(rawMod, outMod, wordMod)
-
-    if(lastBuilt == 0):
-        return True
-
-    # if any of these have changed since the last build, rebuild
-    srcMod = ModTimeIfExists("courses/%s.md" % (course,))
-    cssMod = ModTimeIfExists("css/adelphi.css")
-    customCssMod = ModTimeIfExists("css/%s.css" % (course,))
-    tmplMod = ModTimeIfExists("tmpl/%s.html" % ("adelphi",))
-    rawTmplMod = ModTimeIfExists("tmpl/%s.html" % ("raw",))
-    footerMod = ModTimeIfExists("tmpl/%s.html" % ("footer",))
-    
-    assert srcMod > 0
-    assert tmplMod > 0
-    assert rawTmplMod > 0
-    
-    #if the source files are 0, then we don't have them
-    changes = [d for d in [srcMod,cssMod,customCssMod,tmplMod,rawTmplMod,footerMod] if d > 0]
-    
-    mostRecentChange = max(changes)
-
-    return mostRecentChange > lastBuilt
-    
 def GenerateCourse(html, raw, word, course):
     pwd = os.getcwd()
     args = {}
@@ -63,7 +26,7 @@ def GenerateCourse(html, raw, word, course):
     args["footer"] = IncludeIfExists(footer, "-A")
 
     # build standalone HTML versions
-    args["out"] = "out"
+    args["out"] = "docs"
     cmd = html.substitute(args)
     subprocess.check_call(cmd,shell=True)
 
@@ -90,13 +53,13 @@ def IncludeIfExists(path, arg):
 
 def GetTemplate(tmpl):
     dt = datetime.datetime.now()
-    return Template("pandoc --email-obfuscation=none -S --toc --highlight-style zenburn -t html5 --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --include-after $$(pwd)/tmpl/boot_styles.js --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
+    return Template("pandoc --email-obfuscation=none --toc --highlight-style zenburn -t html5 --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --include-after $$(pwd)/tmpl/boot_styles.js --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
 
 def GetWordTemplate():
     dt = datetime.datetime.now()
-    return Template("pandoc -S --toc --highlight-style zenburn -t docx -V date='%s' $$(pwd)/courses/$course.md -o word/$course.docx" % (dt.strftime("%A, %d. %B %Y %I:%M%p")))
+    return Template("pandoc --toc --highlight-style zenburn -t docx -V date='%s' $$(pwd)/courses/$course.md -o word/$course.docx" % (dt.strftime("%A, %d. %B %Y %I:%M%p")))
 
-    
+
 def main():
     html = GetTemplate("adelphi")
     raw = GetTemplate("raw")
