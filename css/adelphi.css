@@ -5,10 +5,18 @@ thats why it has a style tag... -->
 body
 {
     background: url('sample.png') repeat white;
+    /* margin-top: 24px; */
 }
 
+.container {
+  padding-top: 90px;
+}
 
-.page-header h1, .rsa-red-text { color: #ab1c19; }
+.page-header h1, .rsa-red-text {
+  color: #ab1c19; 
+  font-size: 2.5rem;
+  font-weight: bold;
+}
 .rsa-red-bg { background-color: #ab1c19; }
 
 
@@ -41,7 +49,7 @@ blockquote
     padding-left: 1em;
 }
 
-.img-right 
+.img-right
 {
     float: right;
     background-color: #d3d3d3;
@@ -133,10 +141,10 @@ blockquote
 #logo h2 { color: black; }
 
 #class-sessions { counter-reset: week; }
-#class-sessions h2:before 
+#class-sessions h2:before
 {
     counter-increment: week;
-    content: "Session " counter(week) ": " 
+    content: "Session " counter(week) ": "
 }
 
 #class-sessions>section
@@ -160,7 +168,7 @@ blockquote
 }
 
 
-#TOC .nav li.active .nav 
+#TOC .nav li.active .nav
 {
     display: block;
 }
@@ -253,7 +261,7 @@ footer
 
         @top-right
         {
-            font-family: "FreeSans", "Helvetica", sans-serif; 
+            font-family: "FreeSans", "Helvetica", sans-serif;
             position: absolute;
             top: .25in;
             right: 1in;

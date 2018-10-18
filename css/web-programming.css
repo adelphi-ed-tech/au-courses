@@ -1,20 +1,20 @@
 <style type="text/css">
-pre.sourceCode
+/* pre.sourceCode
 {
   width: 50%;
   padding: 1em;
-}
+} */
 
 
 #class-sessions { counter-reset: week; }
 #class-sessions h2:before {
     counter-increment: week;
-    content: "Week " counter(week) ": " 
+    content: "Week " counter(week) ": "
 }
 
 #class-sessions h2
 {
-    margin-left: -1em;    
+    margin-left: -1em;
 }
 
 #class-sessions>section

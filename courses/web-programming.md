@@ -2,9 +2,9 @@
 % Matthew X. Curinga
   Antonios Saravanos
 
-**EDT 603 _Programming web-based educational media_, Spring 2017**
+**EDT 603 _Programming web-based educational media_, Spring 2019**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~{.html}
+~~~~~~~~~~~~~~~~~~~~~~~~~~{.html .numberLines}
 <!DOCTYPE html>
 <html>
   <body>
@@ -19,24 +19,25 @@
     </blockquote>
   </body>
 </html>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Description:** In this course students learn techniques of web
-programming to develop interactive, educational media. Using the
-Javascript programming language and related web development technologies (HTML5, CSS, SVG),
-students gain practice in the object oriented
-programming and design of interactive software.
+**Description:** In this course students learn techniques of web programming to
+develop interactive, educational media. Using the Javascript programming
+language and related web development technologies (HTML5, CSS, SVG), students
+gain practice in the programming and design of interactive software.
 
-**Key words:** computer science, web development, interaction design, html, html5, css, javascript, OOP, mobile first
+**Key words:** computer science, web development, mobile web, interaction design,
+html, html5, css, javascript, OOP, mobile first
 
 Office Hours
 ========================================================================
 
-Matt Curinga, Post Annex, Room 1
-  ~ Monday, 11-1:00PM
-  ~ Tuesday, 2:30-4:30PM
-  ~ Thursday, 3-5PM
-  ~ _office hours by appointment_
+**Matt Curinga, Alumnae Hall, Room 226A**
+
+- Monday, 11-1:00PM
+- Tuesday, 2:30-4:30PM
+- Thursday, 3-5PM
+- _office hours by appointment_
 
 Goals and Objectives
 ========================================================================
@@ -51,25 +52,41 @@ _teaching_ programming and web development.
 
 Specific teaching and learning goals include:
 
--   designing web-based interactions and multimedia to support learning
--   coding effective user interfaces for learning
--   implementing Universal Design goals for accessible web sites
--   identifying effective methods for teaching more advanced programming
-    concepts and web design skills
+- designing web-based interactions and multimedia to support learning
+- coding effective user interfaces for learning
+- implementing Universal Design goals for accessible web sites
+- identifying effective methods for teaching more advanced programming concepts and web design skills
 
 Specific software development goals include:
 
--   modeling real world problems with software
--   iterative software development
--   testing and debugging
--   Object oriented programming concepts:
-  -   Abstraction
-  -   Encapsulation
-  -   Objects & Classes
-  -   Composition
-  -   Inheritance
-  -   Polymorphism
+- modeling real world problems with software
+- iterative software development
+- testing and debugging
+- Object oriented programming concepts:
+  - Abstraction
+  - Encapsulation
+  - Objects & Classes
+  - Composition
+  - Inheritance
+  - Polymorphism
 
+
+Course textbook
+===============
+
+Curinga, M. Peter Wentworth, P., Elkner, J., Downey, A, and Meyers, C.
+(2018). [Think Javascript](https://mcuringa.github.io/think-js/). [free open textbook]
+
+Required Software/Online Accounts
+========================================================================
+
+- Software
+  - [Slack](http://slack.com) (recommend desktop and mobile clients)
+  - [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/)
+  - Chrome or [Chromium](https://www.chromium.org/Home) web browser
+- Accounts
+  - [Repl.it](https://repl.it)
+  - [AU Ed Tech #code](https://auedtech.slack.com/signup)
 
 Recommended Books
 ========================================================================
@@ -80,98 +97,47 @@ Indianapolis, IN: Wiley Pubishing, Inc.
 
 ![](http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG)
 
-Required Software/Online Accounts
-========================================================================
-
-- Software
-    - [Nodejs](https://nodejs.org/en/)
-    - [Sublime Text 3](http://www.sublimetext.com/3)
-    - [Slack](http://slack.com) (recommend desktop and mobile clients)
-    - [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/)
-    - Chrome or [Chromium](https://www.chromium.org/Home) web browser
-- Accounts
-    - [Github](https://github.com)
-    - [Python Anywhere](https://www.pythonanywhere.com/)
-    - [AU Ed Tech #code](https://auedtech.slack.com/signup)
-
-Bibliography
-========================================================================
-
-Castro, Elizabeth. 2010. *Html 5 Visual Quickstart Guide.* Peachpit
-Press. ISBN 9780321719614.
-
-Hayward, J. (2011). *Django JavaScript Integration: AJAX and jQuery*.
-Packet Publishing. ISBN 1849510342
-
-Gamma, E., Helm, R., Johnson, R., & Vlissides, J. M. (1994). *Design
-Patterns: Elements of Reusable Object-Oriented Software* (1st ed.).
-Reading Mass.: Addison-Wesley Professional. ISBN 0201633612.
-
-Knuth, Donald. 1997. *The art of computer programming.* Addison-Wesley
-Pub. Co. Reading Mass. ISBN 9780201896831.
-
-Moreno, R., & Mayer, R. (2007). Interactive multimodal learning
-environments. *Educational Psychology Review*, *19*(3), 309–326.
-
-Moreno, R. (2006). Learning in High-Tech and Multimedia Environments.
-*Current Directions in Psychological Science*, *15*(2), 63 -67.
-
-Shneiderman, B. (2000). Universal usability. *Communications of the
-ACM*, *43*(5), 84–91.
-
-Shneiderman, B. (2002). Promoting universal usability with multi-layer
-interface design. *ACM SIGCAPH Computers and the Physically
-Handicapped*, (73-74), 8.
-
-Teague, Jason. 2011. *CSS3: Visual QuickStart Guide.* Peachpit Press.
-Berkeley CA. ISBN 9780321719638.
-
-Zelle, John. 2004. *Python programming: an introduction to computer
-science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
-
-Schedule 
+Schedule
 ========================================================================
 
 
 Week    Topic                              Homework/Due
 ----    ----------------------------       ------------------------
-   1    Finding primes   
-   2    Encryptions and encoding                   function homework 
-   3    ASCII                          rotation cipher
-   4    Cracking passwords
-   5    
-   6    Data in Python
-   9    Introduction to Javascript & JSON
-   7    Introduction to D3                 
-   8    Midpoint critique                  Midpoint critique
-  10    Studio
-  11    Studio
-  12    Studio (online)
-  13    Studio
-  14    Studio
-  15    Studio
-  16    Final Presentations                Final Project Due
+   1    How the web works
+   2    Structure, data, style, logic      HTML mock-up of _Resume_
+   3    Mobile First, Styles, & Bootstrap  _Resume_
+   4    Usability, UL, forms               _Mini App_ Pitch
+   5    Unit testing
+   6    Files, objects, & storage
+   7    _Studio_
+   8    Mini App UX Testing                _Mini App_ Due
+   9    1:1 meetings
+  10    Node & Express                     _App_ Pitch
+  11    Routes & Navigation
+  12    Async calls & remote data
+  13    Searching, sorting, filtering
+  14    _Studio_
+  15    App Reviews                        _Final App_ & Presentation
 
 
 Assignments & Grading
 ========================================================================
 
-Assignment        Points
-----------        ----------
-Self Evaluation   10
-Group Evaluation  0-3 extra credit
-Pitch             10
-Mid-point         30
-Final             40
+Assignment            Points
+----------            ----------
+Self Evaluation       10
+Multimedia Resume     20
+Mini App              30
+Web Application       40
+Group Evaluation      0-3 extra credit
 
 Books and online resources
 ========================================================================
 
 Documentation & Reference websites
 -------------------------------------------------
-- [World Wide Web Consortium](http://w3.org)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-- [jQuery](http://jquery.com/)
+- [World Wide Web Consortium](http://w3.org)
 - [W3 Schools](http://www.w3schools.com/)
 - [Regular Expressions](http://www.regexr.com/)
 
@@ -209,8 +175,6 @@ Online Tools
 -------------------------------------------------
 - [w3c HTML Validation Service](http://validator.w3.org/#validate_by_uri+with_options)
 - [w3c CSS Validation Service](http://jigsaw.w3.org/css-validator/)
-- [Pastebin](http://pastebin.com/)
-- [HTML Formatter](http://www.freeformatter.com/html-formatter.html)
 
 Media Resources
 -------------------------------------------------
@@ -220,5 +184,39 @@ Media Resources
 - [Creative Commons Music](http://creativecommons.org/music-communities)
 - [Fossil Bank](http://fossilbank.wikidot.com/)
 - [Colour Lovers Palettes](http://www.colourlovers.com/)
-- [DaFonts](http://www.dafont.com/)
+- [Google Fonts](https://fonts.google.com/)
 
+Bibliography
+========================================================================
+
+Castro, Elizabeth. 2010. *Html 5 Visual Quickstart Guide.* Peachpit
+Press. ISBN 9780321719614.
+
+Hayward, J. (2011). *Django JavaScript Integration: AJAX and jQuery*.
+Packet Publishing. ISBN 1849510342
+
+Gamma, E., Helm, R., Johnson, R., & Vlissides, J. M. (1994). *Design
+Patterns: Elements of Reusable Object-Oriented Software* (1st ed.).
+Reading Mass.: Addison-Wesley Professional. ISBN 0201633612.
+
+Knuth, Donald. 1997. *The art of computer programming.* Addison-Wesley
+Pub. Co. Reading Mass. ISBN 9780201896831.
+
+Moreno, R., & Mayer, R. (2007). Interactive multimodal learning
+environments. *Educational Psychology Review*, *19*(3), 309–326.
+
+Moreno, R. (2006). Learning in High-Tech and Multimedia Environments.
+*Current Directions in Psychological Science*, *15*(2), 63 -67.
+
+Shneiderman, B. (2000). Universal usability. *Communications of the
+ACM*, *43*(5), 84–91.
+
+Shneiderman, B. (2002). Promoting universal usability with multi-layer
+interface design. *ACM SIGCAPH Computers and the Physically
+Handicapped*, (73-74), 8.
+
+Teague, Jason. 2011. *CSS3: Visual QuickStart Guide.* Peachpit Press.
+Berkeley CA. ISBN 9780321719638.
+
+Zelle, John. 2004. *Python programming: an introduction to computer
+science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
