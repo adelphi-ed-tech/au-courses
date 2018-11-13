@@ -123,13 +123,20 @@ Week    Topic                              Homework/Due
 Assignments & Grading
 ========================================================================
 
-Assignment            Points
-----------            ----------
-Self Evaluation       10
-Multimedia Resume     20
-Mini App              30
-Web Application       40
-Group Evaluation      0-3 extra credit
+
+Assignment            Points                
+----------            ----------                
+Multimedia Resume     20                
+Mini App              30                
+Web Application       40                
+Self Evaluation       10                
+Group Evaluation      0-3 extra credit                
+
+
+
+
+
+
 
 Books and online resources
 ========================================================================
