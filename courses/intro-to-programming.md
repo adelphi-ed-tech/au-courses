@@ -20,10 +20,10 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 **Keywords:**  computer programming, CS1, javascript, computational thinking, critical computational literacy, problem solving
 
-**Description:** This course introduces students to programming and 
+**Description:** This course introduces students to programming and
 some core concepts of computer science, using a modern, object oriented
-programming language. Students learn concepts of 
-variables, functions, selection, repetition/loops, basic data structures 
+programming language. Students learn concepts of
+variables, functions, selection, repetition/loops, basic data structures
 (arrays, lists, hashtables), and basic object oriented programming.
 
 > We are looking at a society increasingly dependent on machines, yet
@@ -44,11 +44,11 @@ Learning Goals
 ==============
 
 - understand the types of problems that can be solved using computational techniques
-- understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections) 
-- learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion) 
-- think algorithmically to design and test computer programs 
-- master the basic syntax and idioms of the Javascript programming language 
-- use technical documentation, APIs, and the internet to learn new technical concepts 
+- understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections)
+- learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion)
+- think algorithmically to design and test computer programs
+- master the basic syntax and idioms of the Javascript programming language
+- use technical documentation, APIs, and the internet to learn new technical concepts
 - develop step-by-step problem solving and debugging practices
 
 
@@ -97,7 +97,7 @@ Assignment              Pct   Due date
 -------------------     ----  --------
 Labs (10 total)         50%   Sep 13
 Midterm exam            25%   Oct 18
-Final project           25%   Dec 19
+Final project           25%   Dec 14
 
 
 Labs (50%)
@@ -112,36 +112,95 @@ a problem. Each lab will be worth 0-5 points. Roughly:
 - _4-5 points_ (mostly) solution demonstrates mastery of relevant concepts
 - _5 points_: solution works, demonstrates mastery of concepts, and is well formatted and clearly written
 
-Everyone's lowest grade will be thrown out (so your lab score will be the average of your 9 highest lab grades).
+Everyone's lowest grade will be thrown out (so your lab score will be the
+average of your 9 highest lab grades).
 
 Midterm (25%)
 --------------------------------
 
-For the midterm, you will choose to write a program to solve 1 of 3 problems. Each problem will require demonstration
-of all of the concepts covered so far in the course, as well as a demonstration of the computer
-science problem solving approaches that we have been studying and practicing. The exam problems
-will be similar to the lab exercises.
+The midterm will consist of 5 "short answer" styled problems where you write
+a function for each prompt to solve a specific problem. The short answer prompts
+will be very similar to the textbook exercises from _Think JS_. This section
+is worth 10 points.
 
-Computer program scoring guide:
-
-- _5 points,_ **solution**: How well and correctly does the code solve the given problem?
-- _5 points,_ **elegance**: Does the program make efficient use of programming concepts? 
-  Are variables and functions used to create _abstractions_?
-  Are the algorithms clear, straightforward, and concise?
-- _5 points,_ **robustness**: Does the program handle different conditions/states? Would it be easy to adapt if the specification changed?
-- _5 points,_ **style**: Is the code properly formatted? Do variable and function names follow our conventions? Is it written so that it can be easily read by a human?
+Part 2 of the exam will require writing a longer program that consists of several
+functions. Students will choose to answer 1 of 3 possible problems. The
+program should demonstrate the students ability to break down a problem and
+write a working computer program that provides a solution.
 
 Final project (25%)
 -----------------------------
 
-Students will work in teams of 2 or 3 to develop a final, group project. The project will be of the students
-own design, but it will involve:
+For the final project you will work in a team of 2-3 people to create your own
+data analysis and visualization of the data available for the New York City
+(NYC) school system.
 
-- accessing a data set (such as real-time data feed) 
-- analyzing the data
-- displaying results using text and graphical displays
+NYC publishes a wealth of information regarding their schools on the schools
+website and the open data portal. Data includes student demographic and
+geographic information, test results, attendance, survey data, building and
+physical information, employee data, and more.
 
-The computer program scoring guide from the midterm will be used for the final project as well. All project members will receive the same grade.
+Your team must decide what interesting insights this data might afford, and then
+present your results through a series of tables and graphs.
+
+To submit your work, please copy the link to your repl and the names of each
+team member. Your team only needs to submit their work one time.
+
+You can work from the data sets that we have been using, however you may
+want to incorporate new data that you gather directly. You can explore the
+data released at:
+
+- [NYC DOE Test Results](https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/test-results)
+- [NYC Open Data](https://opendata.cityofnewyork.us/)
+- [New York State Education Data Portal](https://data.nysed.gov/)
+
+Of course, you may incorporate other data sets as you see fit.
+
+
+The final solution will be scored using the following guide:
+
+**Solution (7 points)**
+
+How well does the program written solve the problem? Does the project seriously
+engage with the data? Does it use computer analysis to provide interesting
+insights? Is the data presented in a meaningful and usable way?
+
+Your team's ability to design a solution to the problem is evaluated by this measure.
+
+
+**Elegance & Robustness (8 points)**
+
+This area evaluates the quality of the computer code produced by the team. An
+elegant program provides a parsimonious solution that is both efficient and
+clear. A robust program is flexible and able to change. In the case of data
+analysis, it would be easy to modify if the input data changed or the output
+requirements are updated. It wouldn't "break" if it encountered unexpected data,
+and would continue to operate even if the amount of data were increased
+dramatically. Often, both elegance and robustness are achieved through
+refactoring: the process of reflecting on code and revising it after an initial
+working solution is achieved.
+
+**Risk Taking (5 points)**
+
+Learning should be an adventure. One of the most exciting things about writing
+software is the sense of new possibilities and discovery. The "risk taking"
+aspect of your team's grade will reflect the chances that you take with your
+project. Even if your solution isn't quite what you hoped for, or your code
+isn't as elegant as you'd like, it's important that you take chances and try new
+things. To do well in this section, you might want to shoot for an ambitious, or
+complex analysis; or integrate some Javascript analysis that hasn't been
+explicitly covered in the course.
+
+**Code Style (5 points)**
+
+Your code should be well formatted and easy to read. Your functions and
+variables (aka "identifiers") should have clear, meaningful names. Comments
+should be used sparingly, but appropriately to guide the human reader through
+your code.
+
+
+
+All project members will receive the same grade.
 
 
 
@@ -161,4 +220,3 @@ Books & Tutorials
 - [Understanding Programming through JavaScript](https://cs.stanford.edu/people/eroberts/CS106AJ-Reader.pdf)
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do)
 - [JavaScript & jQuery: Interactive Front-End Web Development Hardcover](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118871650.html), also J. Duckett, same series
-
