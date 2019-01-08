@@ -128,10 +128,9 @@ Assignment            Points
 ----------            ----------                
 Multimedia Resume     20                
 Mini App              30                
+Self Evaluation       10
 Web Application       40                
-Self Evaluation       10                
 Group Evaluation      0-3 extra credit                
-
 
 
 ### Online Resume (30 points)
@@ -151,6 +150,40 @@ For this project, you will:
 
 The portfolio site will be hosted on repl.it and the link to your final project will be submitted
 through the course website.
+
+Your project will be assessed both on the quality of your code and the success of the project,
+using the following criteria:
+
+1. **React/Javascript (10 points)**
+   - 1-3 points: the code runs with errors, is incomplete, or a very close copy of the example project
+   - 4-7 points: code is organized into functions and uses parameters, code is well organized and well styled, 
+     can be improved by writing more general/reusable functions and parameters, being more flexible, or using
+     Javascript idioms efficiently and correctly
+   - 8-10 points: code is well thought out and reusable functions create core parts of the site, functions are
+     organized so that changes and new features can be easily implemented, code meets our style guides and
+     clear/accurate names are given to all identifiers (variables, functions). It is clear that the program
+     goes beyond the example project.
+2. **Data modeling (5 points)**
+   - 1-2 points: most content is hard-coded in the Javascript code, model is an exact copy of example, and/or model
+     does not support the goals of the site
+   - 3-4 points: data model supports the goals of the specific site, but may not be flexible enough for a 
+     different presentation or to handle new data
+   - 5 points: data model supports the site, an can support other uses without modification to the model, new content
+     can be easily accomodated
+3. **HTML (5 points)**
+   - 1-2 points: content is presented with little structure, or different HTML tags would better describe the content
+   - 3-4 points: there is a good fit between the tags used and the data they contain
+   - 5 points: there is a good fit between the tags used and the data they contain _and_ the code correctly
+     and appropriately uses tags that were not part of the example code
+4. **CSS (5 points)**
+   - 1-2 points: little or no styles, styles are defined that are not used or do not take effect because of errors
+   - 3-4 points: code demonstrates understanding of box-model, color, typography, and/or images
+   - 5 points: advanced layout are used to interesting effect (flex, grids, etc)
+5. **User Experience (5 points)**
+   - 1-2 points: site is hard to read or understand, copy is not well edited, items are not clearly organized,
+     essential information is missing, and/or the design significantly impedes the usability of the site
+   - 3-4 points: site is easy to read and information is well organized, presentation is clear and clean
+   - 5 points: code, layout, and css combine to create an ineresting effect, site has a high quality, professional feel
 
 
 
