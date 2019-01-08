@@ -185,7 +185,16 @@ using the following criteria:
    - 3-4 points: site is easy to read and information is well organized, presentation is clear and clean
    - 5 points: code, layout, and css combine to create an ineresting effect, site has a high quality, professional feel
 
+_The resume is an individual project_
 
+### Mini-app (30 points)
+The mini app is a data driven web application. It is "mini" because it has a constrained, singular focus. Also, this
+application stands alone -- it does not need any networked resources. It goes beyond the resume project, though, in
+that it's _interactive_. Buttons, text boxes, and other form elements enable the user to alter data and the way the
+app functions.
+
+
+_This mini-app is an individual project_
 
 Books and online resources
 ========================================================================
