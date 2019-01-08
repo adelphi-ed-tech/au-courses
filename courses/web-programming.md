@@ -134,7 +134,23 @@ Group Evaluation      0-3 extra credit
 
 
 
+### Online Resume (30 points)
 
+This first assignment is designed to get you up and running with
+the key technologies we will use this semester. You will create
+a data-driven web page as your own online resume or portfolio.
+
+For this project, you will:
+
+1. Keep all of the _data_ for your resume in .json data files. These files will contain
+   the lists of your work experience, education background, technical skills, and other
+   relevant information.
+2. Code Javascript source files using the React framework and HTML5 to structure your web page.
+3. Create or find any media assets (images, audio, video, etc) necessary for your resume.
+4. Code CSS files to achieve your desired aesthetic and usability goals
+
+The portfolio site will be hosted on repl.it and the link to your final project will be submitted
+through the course website.
 
 
 
