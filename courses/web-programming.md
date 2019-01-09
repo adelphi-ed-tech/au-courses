@@ -77,6 +77,15 @@ Course textbook
 Curinga, M. Peter Wentworth, P., Elkner, J., Downey, A, and Meyers, C.
 (2018). [Think Javascript](https://mcuringa.github.io/think-js/). [free open textbook]
 
+Online Documentation
+====================
+
+- [Mozilla Developer Network Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [Mozilla Developer Network HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Mozilla Developer Network CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [React Framework](https://reactjs.org/docs/getting-started.html)
+- [Bootstrap](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
+
 Required Software/Online Accounts
 ========================================================================
 
@@ -90,9 +99,10 @@ Required Software/Online Accounts
 
 Recommended Books
 ========================================================================
+_Not required, but a good book for the basics of HTML and CSS_
 
 Duckett, J. T. (2011). [_Html & css: design and
-build websites (1st ed.)_](http://htmlandcssbook.com/).
+build websites_](http://htmlandcssbook.com/).
 Indianapolis, IN: Wiley Pubishing, Inc.
 
 ![](http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG)
@@ -101,23 +111,73 @@ Schedule
 ========================================================================
 
 
-Week    Topic                              Homework/Due
-----    ----------------------------       ------------------------
-   1    How the web works
-   2    Structure, data, style, logic      HTML mock-up of _Resume_
-   3    Mobile First, Styles, & Bootstrap  _Resume_
-   4    Usability, UL, forms               _Mini App_ Pitch
-   5    Unit testing
-   6    Files, objects, & storage
-   7    _Studio_
-   8    Mini App UX Testing                _Mini App_ Due
-   9    1:1 meetings
-  10    Node & Express                     _App_ Pitch
-  11    Routes & Navigation
-  12    Async calls & remote data
-  13    Searching, sorting, filtering
-  14    _Studio_
-  15    App Reviews                        _Final App_ & Presentation
+ Module  Topic                              Homework/Due
+-------  ----------------------------       ------------------------
+      0  Preparing for the class
+      1  How the web works
+      2  Structure, data, style, logic      HTML mock-up of _Resume_
+      3  Mobile First, Styles, & Bootstrap  _Resume_
+      4  Usability, UL, forms               _Mini App_ Pitch
+      5  Unit testing (no)
+      6  Files, objects, & storage
+      7  _Studio_
+      8  Mini App UX Testing                _Mini App_ Due
+      9  1:1 meetings
+     10  Node & Express                     _App_ Pitch
+     11  Routes & Navigation
+     12  Async calls & remote data
+     13  Searching, sorting, filtering
+     14  _Studio_
+     15  App Reviews                        _Final App_ & Presentation
+
+
+
+### Preparing for the class
+
+It's time to get ready for class. In this module you will take care of
+everything necessary to start the semester running and ensure you get the most
+out of your studies. There are a few things _everyone must do_ before class
+starts, and I also list a few things you might want to review.
+
+_Learning goals:_
+
+- review basic skills for participating in an online class
+- review prerequisite programming concepts
+- learn to code static web pages with HTML and CSS
+
+_To do:_
+
+- [Join the AU Ed Tech Slack](https://auedtech.slack.com/signup)
+- [Create an account on repl.it](https://repl.it)
+- Complete the basic skills for online study:
+  - record and upload a video (with decent lighting and audio)
+  - record and upload an audio recording
+  - take a screenshot (and post it)
+  - take a screencast (and post it)
+  - start a Google Hangout/Meeting (and be able to share your desktop, i.e. "present")
+
+_To review:_
+
+- Examples and exercises in _[Think Javascript](https://mcuringa.github.io/think-js/)_, especially arrays and objects/maps
+- Self-study how to make basic web sites. I recommend [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) on Khan Academy as a good place to start.
+
+
+### How the web works
+### Structure, data, style, logic
+### Mobile First, Styles, & Bootstrap
+### Usability, UL, forms
+### Unit testing
+### Files, objects, & storage
+### _Studio_
+### Mini App UX Testing
+### 1:1 meetings
+### Node & Express
+### Routes & Navigation
+### Async calls & remote data
+### Searching, sorting, filtering
+### _Studio_
+### App Reviews
+
 
 
 Assignments & Grading
@@ -126,9 +186,9 @@ Assignments & Grading
 
 Assignment            Points                
 ----------            ----------                
-Multimedia Resume     20                
+Multimedia Resume     30                
 Mini App              30                
-Web Application       40                
+Web Application       30                
 Self Evaluation       10                
 Group Evaluation      0-3 extra credit                
 
@@ -141,23 +201,20 @@ Group Evaluation      0-3 extra credit
 Books and online resources
 ========================================================================
 
-Documentation & Reference websites
--------------------------------------------------
+### Documentation & Reference websites
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 - [World Wide Web Consortium](http://w3.org)
 - [W3 Schools](http://www.w3schools.com/)
 - [Regular Expressions](http://www.regexr.com/)
 
-Books
--------------------------------------------------
+### Books
 - [HTML and CSS: Design and Build Websites](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118008189.html), our textbook
 - [JavaScript & jQuery: Interactive Front-End Web Development Hardcover](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118871650.html), also J. Duckett, same series
 - [Dive into HTML 5](http://diveintohtml5.info/) [free online]
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/) [free online]
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do)
 
-Tutorial websites & online learning
--------------------------------------------------
+### Tutorial websites & online learning
 - [Code Academcy](http://www.codecademy.com/)
 - [P2PU School of webcraft](https://p2pu.org/en/schools/school-of-webcraft/)
 - [Treehouse](http://teamtreehouse.com/) [paid]
@@ -165,8 +222,7 @@ Tutorial websites & online learning
 - [GeekCamp::HTML5 Tutorial](http://www.geekchamp.com/html5-tutorials/1-html5-overview)
 - [SkilledUp::Learn Web Design](http://www.skilledup.com/learn-web-design-guide/)
 
-Design, accessibility, UX
--------------------------------------------------
+### Design, accessibility, UX
 - [A List Apart](http://alistapart.com/topic/html)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
@@ -178,13 +234,11 @@ Design, accessibility, UX
 - [Research-Based Web Design & Usability Guidelines](http://www.usability.gov/guidelines/guidelines_book.pdf)
 - [hex/html color chart](http://www.december.com/html/spec/color.html)
 
-Online Tools
--------------------------------------------------
+### Online Tools
 - [w3c HTML Validation Service](http://validator.w3.org/#validate_by_uri+with_options)
 - [w3c CSS Validation Service](http://jigsaw.w3.org/css-validator/)
 
-Media Resources
--------------------------------------------------
+### Media Resources
 - [Creative Commons Search](http://search.creativecommons.org/), for images, music, etc
 - [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page), images and other media (including stuff from Wikipedia), curated
 - [Open Clip Art](https://openclipart.org/), free vector graphics
