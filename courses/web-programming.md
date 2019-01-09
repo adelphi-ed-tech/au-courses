@@ -42,13 +42,12 @@ Office Hours
 Goals and Objectives
 ========================================================================
 
-This course builds on CSC 602 to move beyond basic programming
-concepts; students will gain expertise in building more complex
-computer programs, over several iterations. At the end of the course,
-students will be able to design educationally sound web-based
-learning media, solve moderately complex problems using OOP and functional programming paradigms,
-collaborate on team programming projects, and identify methods for
-_teaching_ programming and web development.
+This course builds on CSC 602 to move beyond basic programming concepts;
+students will gain expertise in building more complex computer programs, over
+several iterations. At the end of the course, students will be able to design
+educationally sound web-based learning media, solve moderately complex problems
+using object oriented and functional programming paradigms, and collaborate on team
+programming projects.
 
 Specific teaching and learning goals include:
 
@@ -69,7 +68,6 @@ Specific software development goals include:
   - Composition
   - Inheritance
   - Polymorphism
-
 
 Course textbook
 ===============
@@ -111,74 +109,24 @@ Schedule
 ========================================================================
 
 
- Module  Topic                              Homework/Due
+ Module  Topic                              Due
 -------  ----------------------------       ------------------------
       0  Preparing for the class
-      1  How the web works
-      2  Structure, data, style, logic      HTML mock-up of _Resume_
-      3  Mobile First, Styles, & Bootstrap  _Resume_
-      4  Usability, UL, forms               _Mini App_ Pitch
-      5  Unit testing (no)
-      6  Files, objects, & storage
-      7  _Studio_
+      1  Structure, data, style, logic
+      2  Mobile First, Styles, & Bootstrap      
+      3  Advanced CSS                       _Resume_ Due
+      4  Objects and React State            _Mini App_ Pitch
+      5  Forms and storage
+      6  Routes & Navigation
+      7  _Studio_                           
       8  Mini App UX Testing                _Mini App_ Due
-      9  1:1 meetings
-     10  Node & Express                     _App_ Pitch
-     11  Routes & Navigation
-     12  Async calls & remote data
-     13  Searching, sorting, filtering
+      9  1:1 meetings                       _self-eval due_
+     10  Async calls & remote data          _App_ Pitch
+     11  REST APIs and CRUD
+     12  User authorization
+     13  Client-side interaction
      14  _Studio_
      15  App Reviews                        _Final App_ & Presentation
-
-
-
-### Preparing for the class
-
-It's time to get ready for class. In this module you will take care of
-everything necessary to start the semester running and ensure you get the most
-out of your studies. There are a few things _everyone must do_ before class
-starts, and I also list a few things you might want to review.
-
-_Learning goals:_
-
-- review basic skills for participating in an online class
-- review prerequisite programming concepts
-- learn to code static web pages with HTML and CSS
-
-_To do:_
-
-- [Join the AU Ed Tech Slack](https://auedtech.slack.com/signup)
-- [Create an account on repl.it](https://repl.it)
-- Complete the basic skills for online study:
-  - record and upload a video (with decent lighting and audio)
-  - record and upload an audio recording
-  - take a screenshot (and post it)
-  - take a screencast (and post it)
-  - start a Google Hangout/Meeting (and be able to share your desktop, i.e. "present")
-
-_To review:_
-
-- Examples and exercises in _[Think Javascript](https://mcuringa.github.io/think-js/)_, especially arrays and objects/maps
-- Self-study how to make basic web sites. I recommend [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) on Khan Academy as a good place to start.
-
-
-### How the web works
-### Structure, data, style, logic
-### Mobile First, Styles, & Bootstrap
-### Usability, UL, forms
-### Unit testing
-### Files, objects, & storage
-### _Studio_
-### Mini App UX Testing
-### 1:1 meetings
-### Node & Express
-### Routes & Navigation
-### Async calls & remote data
-### Searching, sorting, filtering
-### _Studio_
-### App Reviews
-
-
 
 Assignments & Grading
 ========================================================================
@@ -190,8 +138,47 @@ Multimedia Resume     30
 Mini App              30                
 Self Evaluation       10                
 Web Application       30                
-Group Evaluation      0-3 extra credit                
 
+### Self-evaluation (10 points)
+At the beginning of module 9, you will complete a self-evaluation. During
+your one-on-one meeting with the instructor, you will discuss your self-evaluation
+in order to make sure you get the most out of the remainder of the class.
+
+### Software Project Evaluation Rubric
+
+_This marking guide will be used to evaluate the three software project_
+_assignments required for this course._
+
+1. **React/Javascript (10 points)**
+   - 1-3 points: the code runs with errors, is incomplete, or a very close copy of the example project
+   - 4-7 points: code is organized into functions and uses parameters, code is well organized and well styled,
+     can be improved by writing more general/reusable functions and parameters, being more flexible, or using
+     Javascript idioms efficiently and correctly
+   - 8-10 points: code is well thought out and reusable functions create core parts of the site, functions are
+     organized so that changes and new features can be easily implemented, code meets our style guides and
+     clear/accurate names are given to all identifiers (variables, functions). It is clear that the program
+     goes beyond the example project.
+2. **Data modeling (5 points)**
+   - 1-2 points: most content is hard-coded in the Javascript code, model is an exact copy of example, and/or model
+     does not support the goals of the site
+   - 3-4 points: data model supports the goals of the specific site, but may not be flexible enough for a
+     different presentation or to handle new data
+   - 5 points: data model supports the site, and can support other uses without modification to the model, new content
+     can be easily accommodated
+3. **HTML (5 points)**
+   - 1-2 points: content is presented with little structure, or different HTML tags would better describe the content
+   - 3-4 points: there is a good fit between the tags used and the data they contain
+   - 5 points: there is a good fit between the tags used and the data they contain _and_ the code correctly
+     and appropriately uses tags that were not part of the example code
+4. **CSS (5 points)**
+   - 1-2 points: little or no styles, styles are defined that are not used or do not take effect because of errors
+   - 3-4 points: code demonstrates understanding of box-model, color, typography, and/or images
+   - 5 points: advanced layout are used to interesting effect (flex, grids, etc), code exceeds example projects
+5. **User Experience (5 points)**
+   - 1-2 points: site is hard to read, understand, and use; labels and text are not well edited, items are not clearly organized,
+     essential information is missing, and/or the design significantly impedes the usability of the site
+   - 3-4 points: site is easy to use and information is well organized, presentation is clear and clean
+   - 5 points: code, layout, and css combine to create an interesting effect, site has a high quality, professional feel
 
 ### Online Resume (30 points)
 
@@ -214,47 +201,30 @@ through the course website.
 Your project will be assessed both on the quality of your code and the success of the project,
 using the following criteria:
 
-1. **React/Javascript (10 points)**
-   - 1-3 points: the code runs with errors, is incomplete, or a very close copy of the example project
-   - 4-7 points: code is organized into functions and uses parameters, code is well organized and well styled,
-     can be improved by writing more general/reusable functions and parameters, being more flexible, or using
-     Javascript idioms efficiently and correctly
-   - 8-10 points: code is well thought out and reusable functions create core parts of the site, functions are
-     organized so that changes and new features can be easily implemented, code meets our style guides and
-     clear/accurate names are given to all identifiers (variables, functions). It is clear that the program
-     goes beyond the example project.
-2. **Data modeling (5 points)**
-   - 1-2 points: most content is hard-coded in the Javascript code, model is an exact copy of example, and/or model
-     does not support the goals of the site
-   - 3-4 points: data model supports the goals of the specific site, but may not be flexible enough for a
-     different presentation or to handle new data
-   - 5 points: data model supports the site, an can support other uses without modification to the model, new content
-     can be easily accomodated
-3. **HTML (5 points)**
-   - 1-2 points: content is presented with little structure, or different HTML tags would better describe the content
-   - 3-4 points: there is a good fit between the tags used and the data they contain
-   - 5 points: there is a good fit between the tags used and the data they contain _and_ the code correctly
-     and appropriately uses tags that were not part of the example code
-4. **CSS (5 points)**
-   - 1-2 points: little or no styles, styles are defined that are not used or do not take effect because of errors
-   - 3-4 points: code demonstrates understanding of box-model, color, typography, and/or images
-   - 5 points: advanced layout are used to interesting effect (flex, grids, etc)
-5. **User Experience (5 points)**
-   - 1-2 points: site is hard to read or understand, copy is not well edited, items are not clearly organized,
-     essential information is missing, and/or the design significantly impedes the usability of the site
-   - 3-4 points: site is easy to read and information is well organized, presentation is clear and clean
-   - 5 points: code, layout, and css combine to create an ineresting effect, site has a high quality, professional feel
-
 _The resume is an individual project_
 
 ### Mini-app (30 points)
-The mini app is a data driven web application. It is "mini" because it has a constrained, singular focus. Also, this
-application stands alone -- it does not need any networked resources. It goes beyond the resume project, though, in
-that it's _interactive_. Buttons, text boxes, and other form elements enable the user to alter data and the way the
-app functions.
 
+The mini app is a data driven web application. It is "mini" because it has a
+constrained, singular focus. This application stands alone -- it does not
+need any networked resources. It goes beyond the resume project, though, in that
+it's _interactive_. Buttons, text boxes, and other form elements enable the user
+to alter data and the way the app functions. Data created is either stored
+locally (in the user's client) or only exists during the session.
+
+Successful projects will use React _state_ and React _life cycle functions_
+to achieve their results.
 
 _This mini-app is an individual project_
+
+### Web application (30 points)
+
+For the final project, you will work in a team to create a fully functional
+web application. You will learn how to save data in a remote data store
+and how to handle user authentication and authorization to create a secure,
+multi-user app.
+
+_This web application is a group project. All team members will receive the same grade._
 
 Books and online resources
 ========================================================================
@@ -304,38 +274,3 @@ Books and online resources
 - [Fossil Bank](http://fossilbank.wikidot.com/)
 - [Colour Lovers Palettes](http://www.colourlovers.com/)
 - [Google Fonts](https://fonts.google.com/)
-
-Bibliography
-========================================================================
-
-Castro, Elizabeth. 2010. *Html 5 Visual Quickstart Guide.* Peachpit
-Press. ISBN 9780321719614.
-
-Hayward, J. (2011). *Django JavaScript Integration: AJAX and jQuery*.
-Packet Publishing. ISBN 1849510342
-
-Gamma, E., Helm, R., Johnson, R., & Vlissides, J. M. (1994). *Design
-Patterns: Elements of Reusable Object-Oriented Software* (1st ed.).
-Reading Mass.: Addison-Wesley Professional. ISBN 0201633612.
-
-Knuth, Donald. 1997. *The art of computer programming.* Addison-Wesley
-Pub. Co. Reading Mass. ISBN 9780201896831.
-
-Moreno, R., & Mayer, R. (2007). Interactive multimodal learning
-environments. *Educational Psychology Review*, *19*(3), 309–326.
-
-Moreno, R. (2006). Learning in High-Tech and Multimedia Environments.
-*Current Directions in Psychological Science*, *15*(2), 63 -67.
-
-Shneiderman, B. (2000). Universal usability. *Communications of the
-ACM*, *43*(5), 84–91.
-
-Shneiderman, B. (2002). Promoting universal usability with multi-layer
-interface design. *ACM SIGCAPH Computers and the Physically
-Handicapped*, (73-74), 8.
-
-Teague, Jason. 2011. *CSS3: Visual QuickStart Guide.* Peachpit Press.
-Berkeley CA. ISBN 9780321719638.
-
-Zelle, John. 2004. *Python programming: an introduction to computer
-science.*Franklin Beedle. Wilsonville, OR. ISBN 9781887902991.
