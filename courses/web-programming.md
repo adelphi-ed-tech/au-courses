@@ -29,6 +29,8 @@ gain practice in the programming and design of interactive software.
 **Key words:** computer science, web development, mobile web, interaction design,
 html, html5, css, javascript, OOP, mobile first
 
+**Course website:** <https://idesignedu.instructure.com/courses/378/pages/supplemental-resources>
+
 Office Hours
 ========================================================================
 
@@ -114,19 +116,19 @@ Schedule
       0  Preparing for the class
       1  Structure, data, style, logic
       2  Mobile First, Styles, & Bootstrap      
-      3  Advanced CSS                       _Resume_ Due
-      4  Objects and React State            _Mini App_ Pitch
+      3  Advanced CSS                       _Multimedia Resume_ Due
+      4  Objects and React State            
       5  Forms and storage
       6  Routes & Navigation
       7  _Studio_                           
       8  Mini App UX Testing                _Mini App_ Due
-      9  1:1 meetings                       _self-eval due_
-     10  Async calls & remote data          _App_ Pitch
+      9  1:1 meetings                       _Self-eval_ Due
+     10  Async calls & remote data          
      11  REST APIs and CRUD
-     12  User authorization
+     12  Authentication & Authorization
      13  Client-side interaction
      14  _Studio_
-     15  App Reviews                        _Final App_ & Presentation
+     15  App Reviews                        _Web Application_ Due
 
 Assignments & Grading
 ========================================================================
@@ -180,7 +182,7 @@ _assignments required for this course._
    - 3-4 points: site is easy to use and information is well organized, presentation is clear and clean
    - 5 points: code, layout, and css combine to create an interesting effect, site has a high quality, professional feel
 
-### Online Resume (30 points)
+### Multimedia Resume (30 points)
 
 This first assignment is designed to get you up and running with
 the key technologies we will use this semester. You will create
