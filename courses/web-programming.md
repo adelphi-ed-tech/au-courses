@@ -113,20 +113,20 @@ Schedule
 
  Module  Topic                              Due
 -------  ----------------------------       ------------------------
-      0  Preparing for the class
-      1  Structure, data, style, logic
+      0  Getting Ready for Web Programming
+      1  Structure, Data, Style, and Logic
       2  Mobile First, Styles, & Bootstrap      
       3  Advanced CSS                       _Multimedia Resume_ Due
-      4  Objects and React State            
-      5  Forms and storage
-      6  Routes & Navigation
+      4  Routes & Navigation            
+      5  Forms & storage
+      6  Objects & React State
       7  _Studio_                           
       8  Mini App UX Testing                _Mini App_ Due
       9  1:1 meetings                       _Self-eval_ Due
-     10  Async calls & remote data          
-     11  REST APIs and CRUD
-     12  Authentication & Authorization
-     13  Client-side interaction
+     10  Design Thinking         
+     11  Async Calls & Remote Data
+     12  REST APIs & CRUD
+     13  Authentication & Authorization
      14  _Studio_
      15  App Reviews                        _Web Application_ Due
 
