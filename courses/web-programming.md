@@ -14,8 +14,8 @@
       to dream, the urge to make dreams come
       true and the tendency to miss
       lunch.<br>
-      <strong>Tim Berners-Lee</strong>
-      <em>, inventor of the world wide web</em>
+      <strong>Tim Berners-Lee,</strong>
+      <em> inventor of the world wide web</em>
     </blockquote>
   </body>
 </html>
@@ -27,19 +27,38 @@ language and related web development technologies (HTML5, CSS, SVG), students
 gain practice in the programming and design of interactive software.
 
 **Key words:** computer science, web development, mobile web, interaction design,
-html, html5, css, javascript, OOP, mobile first
+html, html5, css, javascript, OOP, mobile first, React, Bootstrap
 
-**Course website:** <https://idesignedu.instructure.com/courses/378/pages/supplemental-resources>
+**Course website:** <https://canvas.instructure.com/courses/1519530>
 
 Office Hours
 ========================================================================
 
-**Matt Curinga, Alumnae Hall, Room 226A**
+**Matt Curinga, online & Alumnae Hall, Room 226A**
 
 - Monday, 11-1:00PM
 - Tuesday, 2:30-4:30PM
 - Thursday, 3-5PM
 - _office hours by appointment_
+
+Course Communications
+========================================================================
+
+Participants in this course must actively participate in our suite of online
+communications tools, including Slack (<https://auedtech.slack.com>),
+Adelphi email, and the course website.
+
+You _must_ check your Adelphi email and the `#code` channel on Slack at least
+once a day. It is highly recommended that you install the Slack mobile client
+and an email client on your mobile phone so that you receive "push notifications"
+of course announcements.
+
+The best place to post general course questions and any content-related questions
+is the `#code` Slack channel. The instructor and course assistant, as well
+as other students and alums monitor this channel and often provide immediate support.
+You are encouraged to contact the instructor at any time via email (<mcuringa@adelphi.edu>)
+or direct message on Slack to `@mxc`.
+
 
 Goals and Objectives
 ========================================================================
@@ -132,7 +151,8 @@ Schedule
 
 Assignments & Grading
 ========================================================================
-
+There are 4 graded assignments for this course. From week to week there
+may be other required, non-graded assignments posted on the course website.
 
 Assignment            Points                
 ----------            ----------                
