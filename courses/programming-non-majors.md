@@ -1,4 +1,4 @@
-% Introduction to Programming
+% Computer Programming for Non-Majors
 % Matthew X. Curinga
 
 <!--
@@ -47,11 +47,11 @@ Learning Goals
 ===========================
 
 * understand the types of problems that can be solved using computational techniques
-* understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections) 
-* learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion) 
-* think algorithmically to design and test computer programs 
-* master the basic syntax and idioms of the Python programming language 
-* use technical documentation, APIs, and the internet to learn new technical concepts 
+* understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections)
+* learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion)
+* think algorithmically to design and test computer programs
+* master the basic syntax and idioms of the Python programming language
+* use technical documentation, APIs, and the internet to learn new technical concepts
 * develop step-by-step problem solving and debugging practices
 
 
@@ -69,7 +69,7 @@ Bibliography
 
 _This is a selected bibliography of computer science and Python texts and
 other materials that you may explore as references or further reading._
- 
+
 Alvarado, C., Dodds, Z., Kuenning, G., & Libeskind-Hadas, R. (2013). [_CS for All_](http://www.cs.hmc.edu/csforall/).
 Claremont, CA: Harvey Mudd College.
 
@@ -77,7 +77,7 @@ Barry, P. (2009). _Head first programming: [a learner’s guide to
 programming using the Python language]_. Beijing ; Sebastopol,
 CA: O’Reilly.
 
-Downey, A. (2012). _Think Python_. Sebastopol, CA: O’Reilly. 
+Downey, A. (2012). _Think Python_. Sebastopol, CA: O’Reilly.
 [free](http://www.greenteapress.com/thinkpython/html/index.html)
 [py v3](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf)
 
@@ -100,7 +100,7 @@ the homework and project assignments. We will be using the following core tools 
 Class meetings
 ==========================================================================================
 
-We will have 2 class meetings each week. You should complete the 
+We will have 2 class meetings each week. You should complete the
 
 Week    Date (Tues)  Topic                       Reading             Lab (Thurs)
 ----    -----------  ------------------------    ------------        -----------
@@ -122,7 +122,7 @@ Week    Date (Tues)  Topic                       Reading             Lab (Thurs)
   15    5/10/16      Exceptions & Dicts          TIP 19 & 20         -
   16    5/17/16      Final Review                -                   Review
   17    5/24/16      Final Exam                  -                   **Final Exam**
-     
+
 _† No class on Tuesday in week 12._
 
 * TIP: _Thinking in Python_
@@ -147,7 +147,7 @@ Students are expected to attend every class session, to come prepared having
 done the reading and practice exercises, and to participate fully: working
 individually, in pairs, and in teams during in-class lab activities.
 
-Quizzes 
+Quizzes
 --------------------------------------------------------
 There will be 10 quizzes which will be completed  individually at the start of
 class. Quizzes consist of 2 short  answer programming questions drawn directly
@@ -189,5 +189,3 @@ will be evaluated on the following criteria:
 * **10 points, solution:** how well does the program solve the problem? does it work in all cases? to what degree is it bug free?
 * **10 points, creativity and risk:** does the program offer a creative solution to the problem? does the student demonstrate that they have studied programming outside of class? are they able to read documentation to incorporate new ideas into their work?
 * **5 points, style:** is the code well formatted with white space? are functions and variables named clearly and concisely? are comments used where needed and omitted when not?
-
-
