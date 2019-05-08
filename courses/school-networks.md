@@ -239,7 +239,7 @@ While you are free to pursue your own project, you are welcome to choose a proje
 from this list:
 
 1. **MyCroft Open Source personal assistant** <https://mycroft.ai>
-   MyCroft is a Free Software, open alternative to systems such as Alexa and Google Assistant.
+   MyCroft is a Free Software alternative to systems such as Alexa and Google Assistant.
    While it runs on a regular desktop computer, it was designed to work on a RPI.
    You can download a pre-configured SD Card image to get started with "PiCroft".
    For this project, you will download and configure MyCroft for your Pi; create
@@ -247,16 +247,37 @@ from this list:
    output, and customize the features and functionality of your RPI assistant.
    Start at the [mycroft site](https://mycroft.ai) for all of the information you need to get started.
 2. **RetroPi Arcade Console** <https://retropie.org.uk/>
+   <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" class="img-fluid float-right">
+   Do you think that Fortnite has nothing on the original Streetfighter? That
+   Assassin's Creed pales in the glow of Golden Eye? Or do you just want to play
+   the Super Mario Bros, the greatest video game of all time? Turn your RPI into
+   a video game emulator that can play the classics made for Artari, Nintendo NES, Sega,
+   and more. Once you've got the general system up and running, you can add some
+   custom controllers and make it an upright arcade.  
+3. Christmas light or other light project: https://www.raspberrypi.org/blog/christmas-lights/
+4. Bug habitat (would certainly be fun to take it to a school and let them enjoy it as well): https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/
+5. Garage door monitoring: https://www.richlynch.com/2013/07/27/pi_garage_alert_1/
+6. Digital puppet: https://www.monkmakes.com/puppet/
+7. Talkie Pi: http://projectable.me/i-built-a-wifi-walkie-talkie-for-my-kids-now-you-can-too/
 
 Weekly Sessions
 ===============
+
+Week 0: Before Class Begins
+---------------------------
+**To Do:**
+
+1. Order your Raspberry Pi and related equipment
+2. Join Slack and install the desktop and mobile apps
+3. Create an account on Trello and install the mobile app
 
 Week 1: Computers & Operating Systems
 -------------------------------------
 This week we will learn about core computer hardware, and the key software
 (Operating Systems) that drive computers. We'll also learn about the specific
 hardware of our RPIs and install an operating system so we can take them out
-for a test drive.
+for a test drive. By the end of the week you should have a bootable Raspberry Pi
+that is housed in a homemade case of your design.
 
 **Watch & Read:**
 
@@ -275,11 +296,38 @@ for a test drive.
 3. Make a case for your RPI and post a picture on Slack (see _Unofficial Manual_ Section 3.1)
 
 Week 2: The Command Line
--------------------------------------
+------------------------
+This week we will learn how to interact with our computer using the command line
+(aka terminal). The command line interface (CLI) offers and alternative to
+the graphical user interface (GUI) we are more familiar with. Wile the terminal
+hearkens back to the early days of computing, its still very much alive for
+systems administrators, software developers, and others. In particular, complex
+tasks can be accomplished with a few lines of text, remote computers can be
+easily accessed, and all manner of tasks can be automated (and scheduled). Specifically,
+after gaining fluency with the command line, you will be able to log into your
+RPI from your regular laptop or desktop computer in order to configure and control it.
+To get started on the command line we'll check out Terminus, a game developed at
+MIT to introduce the players to the command line.
 
-**Watch & Read:**
+In addition to jumping into the command line, by the end of the week you will have
+customized your RPI by installing software packages through `apt`. You will
+also choose your topic for the first project and set up a Trello with a Board
+for your project and milestones for each week until it's due.
+
+
+**Watch, Play, & Read:**
+
+1. Read [What is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)
+2. Play [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) for at least an hour. Post on Slack how far you get.
+3. Read [Chapter 5 in _Unofficial Tutorial_](https://www.makeuseof.com/tag/great-things-small-package-your-unofficial-raspberry-pi-manual/#chapter-5)
 
 **To Do:**
+
+1. Update the software on your RPI with `apt` (hint `sudo apt update` then `sudo apt dist-upgrade`)
+3. Install at least 2 programs on your RPI using `apt` or the graphical software package manager.
+   See [5 Ways To Install Software On Raspberry Pi ](https://www.makeuseof.com/tag/three-ways-to-install-software-on-raspberry-pi/)
+ 2. Create a Trello Board for your project and invite the course instructors as
+      collaborators.
 
 Week 3: Users, Groups, Files, & Permissions
 -------------------------------------------
