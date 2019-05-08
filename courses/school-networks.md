@@ -204,7 +204,7 @@ You will be evaluated on:
 - risk/complexity of the task undertaken
 - reflection on the process
 
-This is an individual project.
+_This is an individual project._
 
 DIY Project
 -----------
@@ -235,6 +235,19 @@ that arise during the course of the project.
 
 With the instructors' permission, you may work on this project individually.
 
+While you are free to pursue your own project, you are welcome to choose a project
+from this list:
+
+1. **MyCroft Open Source personal assistant** <https://mycroft.ai>
+   MyCroft is a Free Software, open alternative to systems such as Alexa and Google Assistant.
+   While it runs on a regular desktop computer, it was designed to work on a RPI.
+   You can download a pre-configured SD Card image to get started with "PiCroft".
+   For this project, you will download and configure MyCroft for your Pi; create
+   and connect to your online account, configure and test the microphone and audio
+   output, and customize the features and functionality of your RPI assistant.
+   Start at the [mycroft site](https://mycroft.ai) for all of the information you need to get started.
+2. **RetroPi Arcade Console** <https://retropie.org.uk/>
+
 Weekly Sessions
 ===============
 
@@ -250,7 +263,7 @@ for a test drive.
 1. [Computer Hardware](https://www.youtube.com/watch?v=ExxFxD4OSZ0) (Computer parts Explained) [7:48]
 2. [RPI Hardware](https://www.youtube.com/watch?v=SgR_5Ai64nM) (Urban Penguin) [2:01]
 3. [_Unofficial Raspberry Pi Manual_](https://www.makeuseof.com/tag/great-things-small-package-your-unofficial-raspberry-pi-manual/)
-  [[pdf](http://cdn.makeuseof.com/wp-content/uploads/2017/07/Raspberry-Pi-The-Unofficial-Tutorial.pdf)] §1, §2, & §3
+  [ [pdf](http://cdn.makeuseof.com/wp-content/uploads/2017/07/Raspberry-Pi-The-Unofficial-Tutorial.pdf) ] Sections 1-3
 4. [What is an OS?](https://www.youtube.com/watch?v=26QPDBe-NB8) (Crash Course Computer Science) [13:35]
 5. [What is Free Software?](https://www.fsf.org/about/what-is-free-software) (The Free Software Foundation)
 6. Klint Finley. (April 24, 2019) [The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software/). _WIRED_.
@@ -259,7 +272,7 @@ for a test drive.
 
 1. Post in the "Introductions" forum on Moodle.
 2. Install Raspbian on your RPI. [[instructions](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)]
-3. Make a case for your RPI and post a picture on Slack (see _Unofficial Manual_ §3.1)
+3. Make a case for your RPI and post a picture on Slack (see _Unofficial Manual_ Section 3.1)
 
 Week 2: The Command Line
 -------------------------------------
