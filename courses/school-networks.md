@@ -277,7 +277,9 @@ This week we will learn about core computer hardware, and the key software
 (Operating Systems) that drive computers. We'll also learn about the specific
 hardware of our RPIs and install an operating system so we can take them out
 for a test drive. By the end of the week you should have a bootable Raspberry Pi
-that is housed in a homemade case of your design.
+that is housed in a homemade case of your design. You should be able to log into
+your computer with a working display (monitor) and keyboard/mouse. You will
+also make sure that it connects to the internet.
 
 **Watch & Read:**
 
@@ -298,21 +300,21 @@ that is housed in a homemade case of your design.
 Week 2: The Command Line
 ------------------------
 This week we will learn how to interact with our computer using the command line
-(aka terminal). The command line interface (CLI) offers and alternative to
-the graphical user interface (GUI) we are more familiar with. Wile the terminal
+(aka terminal). The command line interface (CLI) offers and alternative to the
+graphical user interface (GUI) we are more familiar with. Wile the terminal
 hearkens back to the early days of computing, its still very much alive for
 systems administrators, software developers, and others. In particular, complex
 tasks can be accomplished with a few lines of text, remote computers can be
-easily accessed, and all manner of tasks can be automated (and scheduled). Specifically,
-after gaining fluency with the command line, you will be able to log into your
-RPI from your regular laptop or desktop computer in order to configure and control it.
-To get started on the command line we'll check out Terminus, a game developed at
-MIT to introduce the players to the command line.
+easily accessed, and all manner of tasks can be automated (and scheduled).
+Specifically, after gaining fluency with the command line, you will be able to
+log into your RPI from your regular laptop or desktop computer in order to
+configure and control it. To get started on the command line we'll check out
+Terminus, a game developed at MIT to introduce the players to the command line.
 
-In addition to jumping into the command line, by the end of the week you will have
-customized your RPI by installing software packages through `apt`. You will
-also choose your topic for the first project and set up a Trello with a Board
-for your project and milestones for each week until it's due.
+In addition to jumping into the command line, by the end of the week you will
+have customized your RPI by installing software packages through `apt` and the
+GUI. You will also choose your topic for the first project and set up a Trello
+with a Board for your project and milestones for each week until it's due.
 
 
 **Watch, Play, & Read:**
@@ -331,13 +333,26 @@ for your project and milestones for each week until it's due.
 
 Week 3: Users, Groups, Files, & Permissions
 -------------------------------------------
+As you're working on finishing up your first RPI project, we'll take a deeper
+look at how permissions and security works on RPI and in linux/unix operating
+systems generally. We'll work to understand security principles of least
+privileges and learn the basic linux commands for configuring permissions.
+
 
 **Watch & Read:**
 
 **To Do:**
 
+- finish Project 1 by the end of the week
+
 Week 4: Networks
 ----------------
+How does the internet work? What happens after you hit enter on a search term
+on [Duck Duck Go](https://duckduckgo.com/spread)? How does Spotify get music
+to your phone to your wireless earbuds? A deeper understanding of different
+networking hardware, software, and protocols will help us better understand
+the networked software we're installing, configuring, and troubleshooting.
+
 
 **Watch & Read:**
 
@@ -345,6 +360,13 @@ Week 4: Networks
 
 Week 5: Ethics
 -------------------------------------
+[As Spider-Man learned](https://www.marvel.com/comics/issue/17610/spider-man_with_great_power._2008_1),
+with great power comes great responsibility. We trust the people who run our
+networks to keep our information safe, and to not violate our trust while they
+do it. Along the way, they may face some hard choices, usually weighing the benefits
+of individuals versus the group. We'll take a look at some of the ethical concerns
+in "big tech", and also investigate how these same concerns appear in the context
+of schools and other educational institutions.
 
 **Watch & Read:**
 
@@ -352,3 +374,9 @@ Week 5: Ethics
 
 Week 6: Final Project Due
 -------------------------
+This is a working week where our full attention is focused on producing great
+final projects.
+
+**To Do:**
+
+- turn in your final project and have a great summer!
