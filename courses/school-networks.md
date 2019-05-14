@@ -75,17 +75,17 @@ You are encouraged to contact the instructors at any time via email or direct
 message on Slack.
 
 **Online tools:**
-  ~ **Moodle:** will be used to post the syllabus and links to weekly readings, videos, and discussions.
-  ~ **Slack:** will be our main channel for online communications.
+  - **Moodle:** will be used to post the syllabus and links to weekly readings, videos, and discussions.
+  - **Slack:** will be our main channel for online communications.
     Please [Join our Slack team with your Adelphi email](https://auedtech.slack.com/signup).
     If you run into trouble or have a question, post it here to our channel, `#raspberrypi`,
     or send a message to `@tomjennings`. During the weeks of the class, we recommend running
     the Slack app for you phone.
-  ~ **Trello:** is project management software that you will use to track/plan
+  - **Trello:** is project management software that you will use to track/plan
     your two projects, and to share your progress with the course instructors.
     Create a [Trello Account](https://trello.com/signup) before the first week of
     class, and (optionally) [install the mobile app](https://trello.com/platforms).        
-  ~ **mail.adelphi.edu email:** we will use your official adelphi student email
+  - **mail.adelphi.edu email:** we will use your official adelphi student email
     for class email communications as well as the associated google account for
     video/audio chats and calendar events. Please check this email regularly.
 
