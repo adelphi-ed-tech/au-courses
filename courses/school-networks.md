@@ -70,17 +70,17 @@ You are encouraged to contact the instructors at any time via email or direct
 message on Slack.
 
 **Online tools:**
-  ~ **Moodle:** will be used to post the syllabus and links to weekly readings, videos, and discussions.
-  ~ **Slack:** will be our main channel for online communications.
+  - **Moodle:** will be used to post the syllabus and links to weekly readings, videos, and discussions.
+  - **Slack:** will be our main channel for online communications.
     Please [Join our Slack team with your Adelphi email](https://auedtech.slack.com/signup).
     If you run into trouble or have a question, post it here to our channel, `#raspberrypi`,
     or send a message to `@tomjennings`. During the weeks of the class, we recommend running
     the Slack app for you phone.
-  ~ **Trello:** is project management software that you will use to track/plan
+  - **Trello:** is project management software that you will use to track/plan
     your two projects, and to share your progress with the course instructors.
     Create a [Trello Account](https://trello.com/signup) before the first week of
     class, and (optionally) [install the mobile app](https://trello.com/platforms).        
-  ~ **mail.adelphi.edu email:** we will use your official adelphi student email
+  - **mail.adelphi.edu email:** we will use your official adelphi student email
     for class email communications as well as the associated google account for
     video/audio chats and calendar events. Please check this email regularly.
 
@@ -174,7 +174,8 @@ with projects and will demonstrate over video and screensharing some of the key
 techniques of the week. We recommend that you join at least one live lab each
 week. Your participation grade will consider your participation in class, timely
 management of your Trello projects, and participation in Slack and Moodle
-discussions.
+discussions. Smaller weekly assignments (like the networking mini-report) will
+inform your participation grade.
 
 RPI Client or Server Setup
 --------------------------
@@ -242,7 +243,7 @@ from this list:
    output, and customize the features and functionality of your RPI assistant.
    Start at the [mycroft site](https://mycroft.ai) for all of the information you need to get started.
 2. **RetroPi Arcade Console** <https://retropie.org.uk/>
-   <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" class="img-fluid float-right">
+   <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" class="img-fluid d-block">
    Do you think that Fortnite has nothing on the original Streetfighter? That
    Assassin's Creed pales in the glow of Golden Eye? Or do you just want to play
    the Super Mario Bros, the greatest video game of all time? Turn your RPI into
@@ -251,9 +252,9 @@ from this list:
    custom controllers and make it an upright arcade.  
 3. Christmas light or other light project: https://www.raspberrypi.org/blog/christmas-lights/
 4. Bug habitat (would certainly be fun to take it to a school and let them enjoy it as well): https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/
-5. Garage door monitoring: https://www.richlynch.com/2013/07/27/pi_garage_alert_1/
-6. Digital puppet: https://www.monkmakes.com/puppet/
-7. Talkie Pi: http://projectable.me/i-built-a-wifi-walkie-talkie-for-my-kids-now-you-can-too/
+5. Garage door monitoring: <https://www.richlynch.com/2013/07/27/pi_garage_alert_1/>
+6. Digital puppet: <https://www.monkmakes.com/puppet/>
+7. Talkie Pi: <http://projectable.me/i-built-a-wifi-walkie-talkie-for-my-kids-now-you-can-too/>
 
 Weekly Sessions
 ===============
@@ -272,7 +273,9 @@ This week we will learn about core computer hardware, and the key software
 (Operating Systems) that drive computers. We'll also learn about the specific
 hardware of our RPIs and install an operating system so we can take them out
 for a test drive. By the end of the week you should have a bootable Raspberry Pi
-that is housed in a homemade case of your design.
+that is housed in a homemade case of your design. You should be able to log into
+your computer with a working display (monitor) and keyboard/mouse. You will
+also make sure that it connects to the internet.
 
 **Watch & Read:**
 
@@ -293,57 +296,132 @@ that is housed in a homemade case of your design.
 Week 2: The Command Line
 ------------------------
 This week we will learn how to interact with our computer using the command line
-(aka terminal). The command line interface (CLI) offers and alternative to
-the graphical user interface (GUI) we are more familiar with. Wile the terminal
+(aka terminal). The command line interface (CLI) offers and alternative to the
+graphical user interface (GUI) we are more familiar with. Wile the terminal
 hearkens back to the early days of computing, its still very much alive for
 systems administrators, software developers, and others. In particular, complex
 tasks can be accomplished with a few lines of text, remote computers can be
-easily accessed, and all manner of tasks can be automated (and scheduled). Specifically,
-after gaining fluency with the command line, you will be able to log into your
-RPI from your regular laptop or desktop computer in order to configure and control it.
-To get started on the command line we'll check out Terminus, a game developed at
-MIT to introduce the players to the command line.
+easily accessed, and all manner of tasks can be automated (and scheduled).
+Specifically, after gaining fluency with the command line, you will be able to
+log into your RPI from your regular laptop or desktop computer in order to
+configure and control it. To get started on the command line we'll check out
+Terminus, a game developed at MIT to introduce the players to the command line.
 
-In addition to jumping into the command line, by the end of the week you will have
-customized your RPI by installing software packages through `apt`. You will
-also choose your topic for the first project and set up a Trello with a Board
-for your project and milestones for each week until it's due.
+In addition to jumping into the command line, by the end of the week you will
+have customized your RPI by installing software packages through `apt` and the
+GUI. You will also choose your topic for the first project and set up a Trello
+with a Board for your project and milestones for each week until it's due.
 
 
 **Watch, Play, & Read:**
 
 1. Read [What is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)
+2. Watch [Keyboards & Command Line Interfaces: Crash Course Computer Science #22](https://www.youtube.com/watch?v=4RPtJ9UyHS0)[11:23] Hackers are fast typists.
 2. Play [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) for at least an hour. Post on Slack how far you get.
 3. Read [Chapter 5 in _Unofficial Tutorial_](https://www.makeuseof.com/tag/great-things-small-package-your-unofficial-raspberry-pi-manual/#chapter-5)
 
 **To Do:**
 
 1. Update the software on your RPI with `apt` (hint `sudo apt update` then `sudo apt dist-upgrade`)
-3. Install at least 2 programs on your RPI using `apt` or the graphical software package manager.
+2. Install at least 2 programs on your RPI using `apt` or the graphical software package manager.
    See [5 Ways To Install Software On Raspberry Pi ](https://www.makeuseof.com/tag/three-ways-to-install-software-on-raspberry-pi/)
- 2. Create a Trello Board for your project and invite the course instructors as
-      collaborators.
+3. Post in the FOSS Apps Discussion which apps you installed and a brief review of them.
+4. Create a Trello Board for your project and invite the course instructors as
+    collaborators.
 
 Week 3: Users, Groups, Files, & Permissions
 -------------------------------------------
+As you're working on finishing up your first RPI project, we'll take a deeper
+look at how permissions and security works on RPI and in linux/unix operating
+systems generally. We'll work to understand security principles of least
+privileges and learn the basic linux commands for configuring permissions.
+
 
 **Watch & Read:**
 
 **To Do:**
+
+- finish Project 1 by the end of the week
 
 Week 4: Networks
 ----------------
+How does the internet work? What happens after you hit enter on a search term
+on [Duck Duck Go](https://duckduckgo.com/spread)? How does Spotify get music
+to your phone to your wireless earbuds? A deeper understanding of different
+networking hardware, software, and protocols will help us better understand
+the networked software we're installing, configuring, and troubleshooting.
 
-**Watch & Read:**
+
+**Watch:**
+
+1. [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)[4:48]
+2. [The Internet: IP Addresses & DNS](https://www.youtube.com/watch?v=5o8CwafCxnU)[6:44]
+3. [The Internet: Wires, Cables & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=2)[6:41]
+4. [The Internet: Packets, Routing & Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=4)[6:25]
+5. [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4)[12:47]
+   _this is good, but gets fairly technical, but without compression, it would be impossible to send media files over the internet_
+
 
 **To Do:**
+
+1. For a more in-depth look at a networking, you will work with a partner to write
+   a mini report on related topics. Please: a) choose a partner, and b) choose a
+   topic from the list below. If you have an idea for a different topic, you may
+   write about that with approval from the instructors. By the end of the week,
+   please post your report directly into our _Networking Topics_ forum. Your report
+   should be roughly 500-800 words. It should give an overview of the topic,
+   summary of how it works, and discussion of how it's used and why it is (or
+   isn't) important. Read through the other posts, and ask any follow-up questions.
+   The instructors and topic authors will do their best to answer your questions.
+
+   Possible topics:
+
+     1. Bluetooth
+     2. Mesh network
+     3. Near Field Communication (NFC)
+     4. HTTPS/SSL
+     5. 4g/5g/6g
+     6. BitTorrent
+     7. Dark Web
+     8. Radio-frequency identification (RFID)
+     9. Bluetooth Beacons
+
+2. Choose a topic and a partner for your final project. Create a Trello board
+   for it and share it with your partner and the instructors.
+
 
 Week 5: Ethics
 -------------------------------------
+[As Spider-Man learned](https://www.marvel.com/comics/issue/17610/spider-man_with_great_power._2008_1),
+with great power comes great responsibility. We trust the people who run our
+networks to keep our information safe, and to not violate our trust while they
+do it. Along the way, they may face some hard choices, usually weighing the benefits
+of individuals versus the group. We'll take a look at some of the ethical concerns
+in "big tech", and also investigate how these same concerns appear in the context
+of schools and other educational institutions.
 
-**Watch & Read:**
+**Read:**
+
+1. **Monitoring Student Social Media**
+   1. Karen Turner. April 22, 2016. [Schools are helping police spy on kids’ social media activity](https://www.washingtonpost.com/news/the-switch/wp/2016/04/22/   schools-are-helping-police-spy-on-kids-social-media-activity/). _The Washington Post_. [alternate link](https://adelphi.summon.serialssolutions.com/#!/   search?bookMark=ePnHCXMw42JgAfZbUzkZbCHHSBYrJBalKmSk5oC2_yiAbh5ITlUoLqhUyM9TyM5MKVZXgAwOK4B3SiiAVvODLk3gYWApKSpN5YVQ3Awabq4hzh66sOIyHhgIoJHtxLxUYAc53hC0F8EUdJye   MQlKAdaHN6s)
+   2. Aaron Leibowitz. September 6, 2018. [Could Monitoring Students on Social Media Stop the Next School Shooting?](https://www.nytimes.com/2018/09/06/us/social-   media-monitoring-school-shootings.html). _The New York Times_.
+   3. Tom Simonite. August 20, 2018. [Schools Are Mining Students' Social Media Posts for Signs of Trouble](https://www.wired.com/story/algorithms-monitor-student-   social-media-posts/). _Wired_.
+2. **Student Data**
+   1. [Student Privacy](https://www.eff.org/issues/student-privacy). _Electronic Frontier Foundation_.
+   3. Natasha Singer. May 13, 2017. [How Google Took Over the Classroom](https://www.nytimes.com/2017/05/13/technology/google-education-chromebooks- schools.html). _The New York Times_.
+   2. Gennie Gebhart. March 28, 2017. [Privacy By Practice, Not Just By Policy: A System Administrator Advocating for Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy). _Electronic Frontier Foundation_.
 
 **To Do:**
 
+1. Post a reaction in the Ethics Discussion (by end of day Wed).
+2. Comment on at least 2 reaction posts (end of week). Respond to comments on your own post.
+3. Update your Trello project with the work you've completed this week. Identify any issues and get help as needed.
+
 Week 6: Final Project Due
 -------------------------
+This is a working week where our full attention is focused on producing great
+final projects.
+
+**To Do:**
+
+- turn in your final project and have a great summer!
