@@ -26,7 +26,7 @@ https://www.auedtech.org
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <meta name="date" content="Wednesday, 15. May 2019 01:24PM">
+  <meta name="date" content="Wednesday, 15. May 2019 06:50PM">
 
 
   <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -379,8 +379,15 @@ https://www.auedtech.org
                       <header class="page-header">
               <h1 class="page-title">Educational information systems and networks</h1>
             </header>
-                    <p><strong>0858-606, Summer 2019</strong></p>
+                    <div class="row">
+<div class="col-6">
+<p><strong>0858-606, Summer 2019</strong></p>
 <p><strong>Description:</strong> From a foundation of computer networks and systems, this course expands to cover instructional technology infrastructure: file systems, users, wired and wireless networks, email, web servers, computer labs, and common educational software services. This course focuses on Free Software; where the source code is free to use, study, or modify. To explore these topics in this hands on class all students will be configuring their own Raspberry Pi computers and using them to complete a software/hardware project.</p>
+</div>
+<div class="col">
+<img class="img-fluid" src="https://static.makeuseof.com/wp-content/uploads/2016/09/smart-mirror-raspberry-pi-illustration.png" alt="drawing of a raspberry pi">
+</div>
+</div>
 <p><strong>Keywords:</strong> linux, bash, systems, networks, lamp, free software, trouble shooting, technical project management, rasberry pi, physical computing, debian, ubuntu</p>
 <section id="goals-objectives" class="level1">
 <h1>Goals &amp; Objectives</h1>
@@ -424,6 +431,16 @@ https://www.auedtech.org
 <li><strong>Trello:</strong> is project management software that you will use to track/plan your two projects, and to share your progress with the course instructors. Create a <a href="https://trello.com/signup">Trello Account</a> before the first week of class, and (optionally) <a href="https://trello.com/platforms">install the mobile app</a>.<br />
 </li>
 <li><strong>mail.adelphi.edu email:</strong> we will use your official adelphi student email for class email communications as well as the associated google account for video/audio chats and calendar events. Please check this email regularly.</li>
+</ul>
+<p><strong>Getting remote help:</strong></p>
+<p>Because of the hands on nature of working with computers and Raspberry Pi, you will have to use a variety of tools to get help. Your first stop for help should be #raspberrypi on Slack. You are most likely to get quick help if you post here because anyone in the channel (instructors, other students, other faculty, ed tech alums) can lend a hand.</p>
+<p>For more complicated problems, you will need to be able to:</p>
+<ul>
+<li><a href="https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages">post formatted code in slack</a></li>
+<li><a href="https://wiki.debian.org/ScreenShots#Using_Gnome">take a screenshot from your RPI</a></li>
+<li><a href="https://support.google.com/meet/answer/7290345?co=GENIE.Platform%3DDesktop&amp;hl=en">create a google hangout/meeting with screensharing</a></li>
+<li>enable remote access to instructors to your RPI via <code>ssh</code> – at the end of the first week, you should have <code>ssh</code> enabled on your Pi. To enable remote access you will probably have to <a href="">enable Network Address Translation on your wifi router</a>. If you are on public wifi (e.g. school, library, coffee shop), you probably won’t be able to enable remote access. NAT is not hard to configure, but it’s specific to the wifi router that you’re using. You will have to search “configure network address translation” along with your router make and model.</li>
+<li><a href="https://www.raspberrypi.org/documentation/remote-access/vnc/">connect to your RPI with VNC</a> (once you’re comfortable with NAT, you can also configure NAT for VNC if needed)</li>
 </ul>
 </section>
 <section id="required-books" class="level1">
@@ -579,13 +596,13 @@ https://www.auedtech.org
 <p>With the instructors’ permission, you may work on this project individually.</p>
 <p>While you are free to pursue your own project, you are welcome to choose a project from this list:</p>
 <ol type="1">
-<li><strong>MyCroft Open Source personal assistant</strong> <a href="https://mycroft.ai" class="uri">https://mycroft.ai</a> MyCroft is a Free Software alternative to systems such as Alexa and Google Assistant. While it runs on a regular desktop computer, it was designed to work on a RPI. You can download a pre-configured SD Card image to get started with “PiCroft”. For this project, you will download and configure MyCroft for your Pi; create and connect to your online account, configure and test the microphone and audio output, and customize the features and functionality of your RPI assistant. Start at the <a href="https://mycroft.ai">mycroft site</a> for all of the information you need to get started.</li>
-<li><strong>RetroPi Arcade Console</strong> <a href="https://retropie.org.uk/" class="uri">https://retropie.org.uk/</a> <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" alt="old school arcade games made with retropi" class="img-fluid d-block"> Do you think that Fortnite has nothing on the original Streetfighter? That Assassin’s Creed pales in the glow of Golden Eye? Or do you just want to play the Super Mario Bros, the greatest video game of all time? Turn your RPI into a video game emulator that can play the classics made for Artari, Nintendo NES, Sega, and more. Once you’ve got the general system up and running, you can add some custom controllers and make it an upright arcade.<br />
+<li><strong>MyCroft Open Source personal assistant</strong><br> <a href="https://mycroft.ai" class="uri">https://mycroft.ai</a><br> MyCroft is a Free Software alternative to systems such as Alexa and Google Assistant. While it runs on a regular desktop computer, it was designed to work on a RPI. You can download a pre-configured SD Card image to get started with “PiCroft”. For this project, you will download and configure MyCroft for your Pi; create and connect to your online account, configure and test the microphone and audio output, and customize the features and functionality of your RPI assistant. Start at the <a href="https://mycroft.ai">mycroft site</a> for all of the information you need to get started.</li>
+<li><strong>RetroPi Arcade Console</strong><br> <a href="https://retropie.org.uk/" class="uri">https://retropie.org.uk/</a><br> <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" alt="old school arcade games made with retropi" class="img-fluid d-block"> Do you think that Fortnite has nothing on the original Streetfighter? That Assassin’s Creed pales in the glow of Golden Eye? Or do you just want to play the Super Mario Bros, the greatest video game of all time? Turn your RPI into a video game emulator that can play the classics made for Artari, Nintendo NES, Sega, and more. Once you’ve got the general system up and running, you can add some custom controllers and make it an upright arcade.<br />
 </li>
 <li><strong>Raspberry Pi Light Show</strong><br> <a href="https://www.raspberrypi.org/blog/christmas-lights/" class="uri">https://www.raspberrypi.org/blog/christmas-lights/</a> &amp; <a href="https://opensource.com/life/15/2/music-light-show-with-raspberry-pi" class="uri">https://opensource.com/life/15/2/music-light-show-with-raspberry-pi</a><br> <img src="https://media.giphy.com/media/Kci9K2E4fsvaqymZvO/giphy.gif" alt="very flash xmas light show" class="img-fluid d-block"> Want to turn your classroom into a disco or put your neighbors to shame this Halloween or Christmas? Even if you don’t, you should <a href="https://youtu.be/90oZ52M4IC0">check out this sick RPI Christmas display</a>.</li>
-<li><strong>Mini Creature Home</strong> <a href="https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/" class="uri">https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/</a> Create an ant or snail home, complete with a live webcam. This project might should give you lots of ideas if your looking for STEAM projects for younger kids.</li>
-<li>Digital puppet: <a href="https://www.monkmakes.com/puppet/" class="uri">https://www.monkmakes.com/puppet/</a></li>
-<li>Talkie Pi: <a href="http://projectable.me/i-built-a-wifi-walkie-talkie-for-my-kids-now-you-can-too/" class="uri">http://projectable.me/i-built-a-wifi-walkie-talkie-for-my-kids-now-you-can-too/</a></li>
+<li><strong>Mini Creature Home</strong><br> <a href="https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/" class="uri">https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/</a><br> Create an ant or snail home, complete with a live webcam. This project might should give you lots of ideas if your looking for STEAM projects for younger kids.</li>
+<li><strong>MagicMirror</strong><br> <a href="https://www.makeuseof.com/tag/6-best-raspberry-pi-smart-mirror-projects-weve-seen-far/" class="uri">https://www.makeuseof.com/tag/6-best-raspberry-pi-smart-mirror-projects-weve-seen-far/</a><br> The magic mirror or smart mirror is an RPI favorite: put a reflective coating or 2-way mirrored plexiglass over an old monitor, hook it up to your Pi, and the possibilities abound.</li>
+<li><strong>Digital (Pi)cture Frame</strong><br> <a href="https://www.makeuseof.com/tag/showerthoughts-earthporn-make-inspiring-raspberry-pi-photo-frame/" class="uri">https://www.makeuseof.com/tag/showerthoughts-earthporn-make-inspiring-raspberry-pi-photo-frame/</a><br> If the <em>mirror</em> seems like it might be too much, how about a digital picture frame?</li>
 </ol>
 </section>
 </section>
@@ -617,6 +634,7 @@ https://www.auedtech.org
 <li>Post in the “Introductions” forum on Moodle.</li>
 <li>Install Raspbian on your RPI. [<a href="https://www.raspberrypi.org/documentation/installation/installing-images/README.md">instructions</a>]</li>
 <li>Make a case for your RPI and post a picture on Slack (see <em>Unofficial Manual</em> Section 3.1)</li>
+<li>After your Pi is up and running, the first thing you want to enable is a remote connection via <code>ssh</code>. <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/">Follow this guide to enabling <code>ssh</code></a>.</li>
 </ol>
 </section>
 <section id="week-2-the-command-line" class="level2">
@@ -633,6 +651,7 @@ https://www.auedtech.org
 <p><strong>To Do:</strong></p>
 <ol type="1">
 <li>Update the software on your RPI with <code>apt</code> (hint <code>sudo apt update</code> then <code>sudo apt dist-upgrade</code>)</li>
+<li>Install VNC and <a href="https://www.raspberrypi.org/documentation/remote-access/vnc/">connect to your RPI from your computer</a></li>
 <li>Install at least 2 programs on your RPI using <code>apt</code> or the graphical software package manager. See <a href="https://www.makeuseof.com/tag/three-ways-to-install-software-on-raspberry-pi/">5 Ways To Install Software On Raspberry Pi</a></li>
 <li>Post in the FOSS Apps Discussion which apps you installed and a brief review of them.</li>
 <li>Create a Trello Board for your project and invite the course instructors as collaborators.</li>
@@ -640,8 +659,8 @@ https://www.auedtech.org
 </section>
 <section id="week-3-users-groups-files-permissions" class="level2">
 <h2>Week 3: Users, Groups, Files, &amp; Permissions</h2>
-<p>As you’re working on finishing up your first RPI project, we’ll take a deeper look at how permissions and security works on RPI and in linux/unix operating systems generally. We’ll work to understand security principles of least privileges and learn the basic linux commands for configuring permissions.</p>
-<p><strong>Watch &amp; Read:</strong></p>
+<p>As you’re working on finishing up your first RPI project, we’ll take a deeper look at how files, permissions and security works on RPI and in linux/unix operating systems generally. To better understand how to work with files, we’ll take a look at file archives (multiple files and directories combined in a single file) and compression (reducing the size of a file). Because your programs all run as a “user” (either root or their own user), it’s important to understand files and permissions to troubleshoot problems.</p>
+<p><strong>Watch &amp; Read:</strong> 1. Watch <a href="https://www.youtube.com/watch?v=KN8YgJnShPM">Files &amp; File Systems: Crash Course Computer Science #20</a> [12:02] 2. Watch <a href="https://www.youtube.com/watch?v=OtDxDvCpPL4">Compression: Crash Course Computer Science #21</a>[12:47] 3. Read <a href="https://www.thegeekdiary.com/understanding-basic-file-permissions-and-ownership-in-linux/">Understanding Basic File Permissions and ownership in Linux</a> 4. Watch <a href="https://www.youtube.com/watch?v=f8-7lhs4ky0">Linux Terminal 201: How To Use tar, gzip, bzip2, and zip - HakTip 156</a> [11:32] 5. Docs <a href="https://www.raspberrypi.org/documentation/linux/usage/users.md">Linux users</a> 4. Docs <a href="https://tecadmin.net/extract-archive-file-linux/">How To Extract Zip, Gz, Tar, Bz2, 7z, Xz and Rar File in Linux</a></p>
 <p><strong>To Do:</strong></p>
 <ul>
 <li>finish Project 1 by the end of the week</li>
@@ -656,7 +675,6 @@ https://www.auedtech.org
 <li><a href="https://www.youtube.com/watch?v=5o8CwafCxnU">The Internet: IP Addresses &amp; DNS</a>[6:44]</li>
 <li><a href="https://www.youtube.com/watch?v=ZhEf7e4kopM&amp;list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&amp;index=2">The Internet: Wires, Cables &amp; Wifi</a>[6:41]</li>
 <li><a href="https://www.youtube.com/watch?v=AYdF7b3nMto&amp;list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&amp;index=4">The Internet: Packets, Routing &amp; Reliability</a>[6:25]</li>
-<li><a href="https://www.youtube.com/watch?v=OtDxDvCpPL4">Compression: Crash Course Computer Science #21</a>[12:47] <em>this is good, but gets fairly technical, but without compression, it would be impossible to send media files over the internet</em></li>
 </ol>
 <p><strong>To Do:</strong></p>
 <ol type="1">
@@ -747,7 +765,7 @@ https://www.auedtech.org
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Wednesday, 15. May 2019 01:24PM</tt></p>
+<p><tt>Last modified: Wednesday, 15. May 2019 06:50PM</tt></p>
 </footer>
 
         </div>
@@ -787,6 +805,7 @@ https://www.auedtech.org
   </div> <!-- /row -->
 
 </section>
+
 
 
 <script type="text/javascript">

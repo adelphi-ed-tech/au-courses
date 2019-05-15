@@ -4,6 +4,10 @@
   Christian Correa
   David Frackman
 
+
+<div class="row">
+<div class="col-6">
+
 **0858-606, Summer 2019**
 
 **Description:** From a foundation of computer networks and systems, this course
@@ -13,6 +17,10 @@ software services. This course focuses on Free Software; where the source code
 is free to use, study, or modify. To explore these topics in this hands on class
 all students will be configuring their own Raspberry Pi computers and using them
 to complete a software/hardware project.
+
+</div>
+<div class="col"><img class="img-fluid" src="https://static.makeuseof.com/wp-content/uploads/2016/09/smart-mirror-raspberry-pi-illustration.png" alt="drawing of a raspberry pi"></div>
+</div>
 
 **Keywords:** linux, bash, systems, networks, lamp, free software, trouble shooting,
 technical project management, rasberry pi, physical computing, debian, ubuntu
@@ -87,6 +95,30 @@ message on Slack.
 - **mail.adelphi.edu email:** we will use your official adelphi student email
   for class email communications as well as the associated google account for
   video/audio chats and calendar events. Please check this email regularly.
+
+**Getting remote help:**
+
+Because of the hands on nature of working with computers and Raspberry Pi, you
+will have to use a variety of tools to get help. Your first stop for help should
+be #raspberrypi on Slack. You are most likely to get quick help if you post here
+because anyone in the channel (instructors, other students, other faculty, ed tech alums)
+can lend a hand.
+
+For more complicated problems, you will need to be able to:
+
+- [post formatted code in slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
+- [take a screenshot from your RPI](https://wiki.debian.org/ScreenShots#Using_Gnome)
+- [create a google hangout/meeting with screensharing](https://support.google.com/meet/answer/7290345?co=GENIE.Platform%3DDesktop&hl=en)
+- enable remote access to instructors to your RPI via `ssh` -- at the end of the
+  first week, you should have `ssh` enabled on your Pi. To enable remote access
+  you will probably have to [enable Network Address Translation on your wifi router]().
+  If you are on public wifi (e.g. school, library, coffee shop), you probably won't
+  be able to enable remote access. NAT is not hard to configure, but it's specific
+  to the wifi router that you're using. You will have to search
+  "configure network address translation" along with your router make and model.
+- [connect to your RPI with VNC](https://www.raspberrypi.org/documentation/remote-access/vnc/)
+  (once you're comfortable with NAT, you can also configure NAT for VNC if needed)
+
 
 Required Books
 ==============
@@ -238,7 +270,8 @@ With the instructors' permission, you may work on this project individually.
 While you are free to pursue your own project, you are welcome to choose a project
 from this list:
 
-1. **MyCroft Open Source personal assistant** <https://mycroft.ai>
+1. **MyCroft Open Source personal assistant**<br>
+   <https://mycroft.ai><br>
    MyCroft is a Free Software alternative to systems such as Alexa and Google Assistant.
    While it runs on a regular desktop computer, it was designed to work on a RPI.
    You can download a pre-configured SD Card image to get started with "PiCroft".
@@ -246,7 +279,8 @@ from this list:
    and connect to your online account, configure and test the microphone and audio
    output, and customize the features and functionality of your RPI assistant.
    Start at the [mycroft site](https://mycroft.ai) for all of the information you need to get started.
-2. **RetroPi Arcade Console** <https://retropie.org.uk/>
+2. **RetroPi Arcade Console**<br>
+   <https://retropie.org.uk/><br>
    <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" alt="old school arcade games made with retropi" class="img-fluid d-block">
    Do you think that Fortnite has nothing on the original Streetfighter? That
    Assassin's Creed pales in the glow of Golden Eye? Or do you just want to play
@@ -260,11 +294,18 @@ from this list:
    Want to turn your classroom into a disco or put your neighbors to shame this
    Halloween or Christmas? Even if you don't, you should
    [check out this sick RPI Christmas display](https://youtu.be/90oZ52M4IC0).
-4. **Mini Creature Home** <https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/>
+4. **Mini Creature Home**<br>
+   <https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/><br>
    Create an ant or snail home, complete with a live webcam. This project might should
    give you lots of ideas if your looking for STEAM projects for younger kids.
-6. Digital puppet: <https://www.monkmakes.com/puppet/>
-7. Talkie Pi: <http://projectable.me/i-built-a-wifi-walkie-talkie-for-my-kids-now-you-can-too/>
+5. **MagicMirror**<br>
+   <https://www.makeuseof.com/tag/6-best-raspberry-pi-smart-mirror-projects-weve-seen-far/><br>
+   The magic mirror or smart mirror is an RPI favorite: put a reflective coating
+   or 2-way mirrored plexiglass over an old monitor, hook it up to your Pi, and
+   the possibilities abound.
+6. **Digital (Pi)cture Frame**<br>
+   <https://www.makeuseof.com/tag/showerthoughts-earthporn-make-inspiring-raspberry-pi-photo-frame/><br>
+   If the _mirror_ seems like it might be too much, how about a digital picture frame?
 
 Weekly Sessions
 ===============
@@ -302,6 +343,8 @@ also make sure that it connects to the internet.
 1. Post in the "Introductions" forum on Moodle.
 2. Install Raspbian on your RPI. [[instructions](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)]
 3. Make a case for your RPI and post a picture on Slack (see _Unofficial Manual_ Section 3.1)
+4. After your Pi is up and running, the first thing you want to enable is a remote connection via `ssh`.
+   [Follow this guide to enabling `ssh`](https://www.raspberrypi.org/documentation/remote-access/ssh/).
 
 Week 2: The Command Line
 ------------------------
@@ -333,21 +376,30 @@ with a Board for your project and milestones for each week until it's due.
 **To Do:**
 
 1. Update the software on your RPI with `apt` (hint `sudo apt update` then `sudo apt dist-upgrade`)
-2. Install at least 2 programs on your RPI using `apt` or the graphical software package manager.
+2. Install VNC and [connect to your RPI from your computer](https://www.raspberrypi.org/documentation/remote-access/vnc/)
+3. Install at least 2 programs on your RPI using `apt` or the graphical software package manager.
    See [5 Ways To Install Software On Raspberry Pi ](https://www.makeuseof.com/tag/three-ways-to-install-software-on-raspberry-pi/)
-3. Post in the FOSS Apps Discussion which apps you installed and a brief review of them.
-4. Create a Trello Board for your project and invite the course instructors as
-    collaborators.
+4. Post in the FOSS Apps Discussion which apps you installed and a brief review of them.
+5. Create a Trello Board for your project and invite the course instructors as
+   collaborators.
 
 Week 3: Users, Groups, Files, & Permissions
 -------------------------------------------
 As you're working on finishing up your first RPI project, we'll take a deeper
-look at how permissions and security works on RPI and in linux/unix operating
-systems generally. We'll work to understand security principles of least
-privileges and learn the basic linux commands for configuring permissions.
-
+look at how files, permissions and security works on RPI and in linux/unix operating
+systems generally. To better understand how to work with files, we'll take a look
+at file archives (multiple files and directories combined in a single file) and
+compression (reducing the size of a file). Because your programs all run as a
+"user" (either root or their own user), it's important to understand files and
+permissions to troubleshoot problems.
 
 **Watch & Read:**
+1. Watch [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) [12:02]
+2. Watch [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4)[12:47]
+3. Read [Understanding Basic File Permissions and ownership in Linux](https://www.thegeekdiary.com/understanding-basic-file-permissions-and-ownership-in-linux/)
+4. Watch [Linux Terminal 201: How To Use tar, gzip, bzip2, and zip - HakTip 156](https://www.youtube.com/watch?v=f8-7lhs4ky0) [11:32]
+5. Docs [Linux users](https://www.raspberrypi.org/documentation/linux/usage/users.md)
+4. Docs [How To Extract Zip, Gz, Tar, Bz2, 7z, Xz and Rar File in Linux](https://tecadmin.net/extract-archive-file-linux/)
 
 **To Do:**
 
@@ -361,16 +413,12 @@ to your phone to your wireless earbuds? A deeper understanding of different
 networking hardware, software, and protocols will help us better understand
 the networked software we're installing, configuring, and troubleshooting.
 
-
 **Watch:**
 
 1. [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)[4:48]
 2. [The Internet: IP Addresses & DNS](https://www.youtube.com/watch?v=5o8CwafCxnU)[6:44]
 3. [The Internet: Wires, Cables & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=2)[6:41]
 4. [The Internet: Packets, Routing & Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=4)[6:25]
-5. [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4)[12:47]
-   _this is good, but gets fairly technical, but without compression, it would be impossible to send media files over the internet_
-
 
 **To Do:**
 
