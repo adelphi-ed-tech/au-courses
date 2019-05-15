@@ -46,6 +46,9 @@ Class Information
 **Class dates:**
   ~ Tuesday, May 28 - Monday, July 1
 
+**Lab sessions:**
+  ~ weekly lab sessions TBA
+
 Course Communications
 =====================
 
