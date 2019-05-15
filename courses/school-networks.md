@@ -46,11 +46,6 @@ Class Information
 **Class dates:**
   ~ Tuesday, May 28 - Monday, July 1
 
-**Class meetings:**
-  ~ Tuesday & Thursday, 5pm-8pm
-  ~ Adelphi Swirbul Library, Gallagher Lab (2<sup>cnd</sup> floor)
-
-
 Course Communications
 =====================
 
