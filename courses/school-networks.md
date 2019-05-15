@@ -247,16 +247,22 @@ from this list:
    output, and customize the features and functionality of your RPI assistant.
    Start at the [mycroft site](https://mycroft.ai) for all of the information you need to get started.
 2. **RetroPi Arcade Console** <https://retropie.org.uk/>
-   <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" class="img-fluid d-block">
+   <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" alt="old school arcade games made with retropi" class="img-fluid d-block">
    Do you think that Fortnite has nothing on the original Streetfighter? That
    Assassin's Creed pales in the glow of Golden Eye? Or do you just want to play
    the Super Mario Bros, the greatest video game of all time? Turn your RPI into
    a video game emulator that can play the classics made for Artari, Nintendo NES, Sega,
    and more. Once you've got the general system up and running, you can add some
    custom controllers and make it an upright arcade.  
-3. Christmas light or other light project: https://www.raspberrypi.org/blog/christmas-lights/
-4. Bug habitat (would certainly be fun to take it to a school and let them enjoy it as well): https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/
-5. Garage door monitoring: <https://www.richlynch.com/2013/07/27/pi_garage_alert_1/>
+3. **Raspberry Pi Light Show**<br>
+   <https://www.raspberrypi.org/blog/christmas-lights/> & <https://opensource.com/life/15/2/music-light-show-with-raspberry-pi><br>
+   <img src="https://media.giphy.com/media/Kci9K2E4fsvaqymZvO/giphy.gif" alt="very flash xmas light show" class="img-fluid d-block">
+   Want to turn your classroom into a disco or put your neighbors to shame this
+   Halloween or Christmas? Even if you don't, you should
+   [check out this sick RPI Christmas display](https://youtu.be/90oZ52M4IC0).
+4. **Mini Creature Home** <https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/>
+   Create an ant or snail home, complete with a live webcam. This project might should
+   give you lots of ideas if your looking for STEAM projects for younger kids.
 6. Digital puppet: <https://www.monkmakes.com/puppet/>
 7. Talkie Pi: <http://projectable.me/i-built-a-wifi-walkie-talkie-for-my-kids-now-you-can-too/>
 
