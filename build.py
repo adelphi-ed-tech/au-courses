@@ -8,11 +8,15 @@ import datetime
 
 def GenerateAllCourses(html, raw, word):
     courses = [f[:-3] for f in os.listdir("courses") if f.endswith(".md")]
+    plain = GetTemplate("plain")
     pagesToBuild = []
     for c in courses:
         if(IsModified(c)):
             print("rebuilding course: %s" % (c,))
-            GenerateCourse(html, raw, word, c)
+            if c == "index":
+                GenerateCourse(plain, raw, word, c)
+            else:
+                GenerateCourse(html, raw, word, c)
             pagesToBuild.append(c)
 
 def ModTimeIfExists(path):
