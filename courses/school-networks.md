@@ -188,7 +188,7 @@ Session   Date         Topic
    3	    Tue, Jun 11	 Users, Groups, Files, & Permissions
    4	    Tue, Jun 18	 Networks
    5	    Tue, Jun 25	 Ethics
-   6	    Mon, Jul 1	 Projects Due
+   6	    Mon, Jul 1	 DIY Project Due
 
 
 Grades & Assignments
@@ -198,7 +198,7 @@ Assignment                  Pct      Due
 ---------------             ------   ----
 Participation               20%      ongoing
 RPI Client or Server Setup  40%      6/17
-Final RPI Project           40%      7/1
+DIY Project                 40%      7/1
 
 
 Participation
