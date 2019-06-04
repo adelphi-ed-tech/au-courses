@@ -55,7 +55,9 @@ Class Information
   ~ Tuesday, May 28 - Monday, July 1
 
 **Lab sessions:**
-  ~ weekly lab sessions TBA
+  ~ Mondays: 6:30pm - 8:30pm EST
+  ~ Wednesdays: 6:30pm - 8:30pm EST
+  ~ Also available by appointment
 
 Course Communications
 =====================
