@@ -397,8 +397,9 @@ compression (reducing the size of a file). Because your programs all run as a
 permissions to troubleshoot problems.
 
 **Watch & Read:**
+
 1. Watch [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) [12:02]
-2. Watch [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4)[12:47]
+2. Watch [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4) [12:47]
 3. Read [Understanding Basic File Permissions and ownership in Linux](https://www.thegeekdiary.com/understanding-basic-file-permissions-and-ownership-in-linux/)
 4. Watch [Linux Terminal 201: How To Use tar, gzip, bzip2, and zip - HakTip 156](https://www.youtube.com/watch?v=f8-7lhs4ky0) [11:32]
 5. Docs [Linux users](https://www.raspberrypi.org/documentation/linux/usage/users.md)
@@ -406,7 +407,7 @@ permissions to troubleshoot problems.
 
 **To Do:**
 
-- finish Project 1 by the end of the week
+- finish RPI Client or Server Setup project by the end of the week
 
 Week 4: Networks
 ----------------
@@ -418,10 +419,10 @@ the networked software we're installing, configuring, and troubleshooting.
 
 **Watch:**
 
-1. [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)[4:48]
-2. [The Internet: IP Addresses & DNS](https://www.youtube.com/watch?v=5o8CwafCxnU)[6:44]
-3. [The Internet: Wires, Cables & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=2)[6:41]
-4. [The Internet: Packets, Routing & Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=4)[6:25]
+1. [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc) [4:48]
+2. [The Internet: IP Addresses & DNS](https://www.youtube.com/watch?v=5o8CwafCxnU) [6:44]
+3. [The Internet: Wires, Cables & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=2) [6:41]
+4. [The Internet: Packets, Routing & Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=4) [6:25]
 
 **To Do:**
 
