@@ -331,6 +331,12 @@ that is housed in a homemade case of your design. You should be able to log into
 your computer with a working display (monitor) and keyboard/mouse. You will
 also make sure that it connects to the internet.
 
+**Week 1 Guiding Questions:**
+
+1. How does a modern computer work?
+2. What makes a computer a _computer_?
+3. How is a computer an abstraction of many parts and processes?
+
 **Watch & Read:**
 
 1. [Computer Hardware](https://www.youtube.com/watch?v=ExxFxD4OSZ0) (Computer parts Explained) [7:48]
@@ -368,6 +374,10 @@ have customized your RPI by installing software packages through `apt` and the
 GUI. You will also choose your topic for the first project and set up a Trello
 with a Board for your project and milestones for each week until it's due.
 
+**Week 2 Guiding Questions:**
+
+1. How is a command line interface different from the more familiar graphical user interface?
+2. What is gained from a CLI? What is lost?
 
 **Watch, Play, & Read:**
 
@@ -396,6 +406,11 @@ compression (reducing the size of a file). Because your programs all run as a
 "user" (either root or their own user), it's important to understand files and
 permissions to troubleshoot problems.
 
+**Week 3 Guiding Questions:**
+
+1. How do you secure digital resources?
+2. Is the unix approach of users and groups sufficient for all security needs?
+
 **Watch & Read:**
 
 1. Watch [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) [12:02]
@@ -416,6 +431,11 @@ on [Duck Duck Go](https://duckduckgo.com/spread)? How does Spotify get music
 to your phone to your wireless earbuds? A deeper understanding of different
 networking hardware, software, and protocols will help us better understand
 the networked software we're installing, configuring, and troubleshooting.
+
+**Week 4 Guiding Questions:**
+
+1. How does the internet work as a collection of networks?
+2. How does a multi-layered model allow for abstraction between different layers?
 
 **Watch:**
 
@@ -461,6 +481,11 @@ do it. Along the way, they may face some hard choices, usually weighing the bene
 of individuals versus the group. We'll take a look at some of the ethical concerns
 in "big tech", and also investigate how these same concerns appear in the context
 of schools and other educational institutions.
+
+**Week 5 Guiding Questions:**
+
+1. How do school systems balance student privacy and autonomy, with safety and learning efficiency?
+2. What are the key ethical concerns of embedding corporate interests (and technology) into public spaces like schools?
 
 **Read:**
 
