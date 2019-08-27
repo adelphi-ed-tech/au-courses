@@ -6,7 +6,7 @@ This syllabus was created for
 the Educational Technology Program
 at Adelphi University:
 http://education.adelphi.edu
-copyright 2012-2018 Matthew X. Curinga
+copyright 2012-2019 Matthew X. Curinga
 http://matt.curinga.com
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
@@ -16,7 +16,7 @@ version: 3.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Computer Science 0145-602 Section 002 (online), Fall 2018**
+**Computer Science 0145-602 Section 002 (online), Fall 2019**
 
 **Keywords:**  computer programming, CS1, javascript, computational thinking, critical computational literacy, problem solving
 
@@ -36,8 +36,9 @@ variables, functions, selection, repetition/loops, basic data structures
 
 **Office hours:**
 
-- Monday 12-2pm, online
-- Wednesday 2pm-4pm, Alumnae Hall Room 226A (Garden City campus)
+- Monday 1-2pm, Alumnae Hall Room 226A (Garden City campus)
+- Wednesday 4:30-5:30pm, online
+- Thursday 2:30-4:30pm, Alumnae Hall Room 226A (Garden City campus)
 - _office hours by appointment_
 
 Learning Goals
@@ -54,7 +55,7 @@ Learning Goals
 
 Required Books
 ==============
-None
+- [Think Javascript](https://mcuringa.github.io/think-js/) (free online)
 
 Required Software/Online Accounts
 =================================
@@ -68,27 +69,25 @@ Required Software/Online Accounts
 
 Class Sessions
 ==============
-https://www.lynda.com/C-tutorials/Algorithms/167922/181556-4.html
 
-Week    Date       Topic                                     Due
-----    ------     ---------------------------------------   ---------------
-   1    Aug 27     Turtle: Coding and algorithms             -
-   2    Sep 3      Problem solving in computer programming   Lab 1
-   3    Sep 10     Variables and data                        Lab 2
-   4    Sep 17     Functions and testing                     Lab 3
-   5    Sep 24     Conditions                                Lab 4
-   6    Oct 1      Repetition with `while`                   Lab 5
-   7    Oct 8      Strings and repetition with `for`         _study!_
-   8    Oct 15     Midterm                                   -
-   9    Oct 22     Arrays                                    -
-  10    Oct 29     Objects & Sets                            Lab 6
-  11    Nov 5      JSON data                                 Lab 7
-  12    Nov 12     Networks and files                        Lab 8
-  13    Nov 19     Open Data                                 Lab 9
-  14    Nov 26     Graphs & Charts                           Lab 10
-  15    Dec 3      Final project workshops                   -
-  16    Dec 10     Finals                                    Final project
-
+Week   Date    Topic                                     Due
+-----  ------  ----------------------------------------  --------   
+ 1     Aug 29  The way of the program                    -
+ 2     Sep 05  Problem solving in computer programming   Lab 1
+ 3     Sep 12  Variables and data                        Lab 2
+ 4     Sep 19  Functions and testing                     Lab 3
+ 5     Sep 26  Conditions                                Lab 4
+ 6     Oct 03  Repetition with `while`                   Lab 5
+ 7     Oct 10  Strings and repetition with `for`         _study!_
+ 8     Oct 17  Midterm                                   -
+ 9     Oct 24  Arrays                                    -
+10     Oct 31  Objects & Sets                            Lab 6
+11     Nov 07  JSON data                                 Lab 7
+12     Nov 14  Networks and files                        Lab 8
+13     Nov 21  Graphs & Charts                           Lab 9
+14     Nov 28  Final project design (Happy Thanksgiving) Lab 10
+15     Dec 05  Final project workshops                   -
+16     Dec 12  Finals                                    Final project
 
 Assignments and Grading
 =======================
@@ -125,44 +124,29 @@ is worth 10 points.
 
 Part 2 of the exam will require writing a longer program that consists of several
 functions. Students will choose to answer 1 of 3 possible problems. The
-program should demonstrate the students ability to break down a problem and
+program should demonstrate the student's ability to break down a problem and
 write a working computer program that provides a solution.
 
 Final project (25%)
 -----------------------------
 
 For the final project you will work in a team of 2-3 people to create your own
-data analysis and visualization of the data available for the New York City
-(NYC) school system.
+data analysis and visualization using a data set that is available for
+download or as a live open data set such as the [NYC Open Data](https://opendata.cityofnewyork.us/).
 
-NYC publishes a wealth of information regarding their schools on the schools
-website and the open data portal. Data includes student demographic and
-geographic information, test results, attendance, survey data, building and
-physical information, employee data, and more.
 
-Your team must decide what interesting insights this data might afford, and then
-present your results through a series of tables and graphs.
-
-To submit your work, please copy the link to your repl and the names of each
-team member. Your team only needs to submit their work one time.
-
-You can work from the data sets that we have been using, however you may
-want to incorporate new data that you gather directly. You can explore the
-data released at:
-
-- [NYC DOE Test Results](https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/test-results)
-- [NYC Open Data](https://opendata.cityofnewyork.us/)
-- [New York State Education Data Portal](https://data.nysed.gov/)
 
 Of course, you may incorporate other data sets as you see fit.
 
 
-The final solution will be scored using the following guide:
+**The final solution will be scored using the following guide:
+
+<div class="pl-2">
 
 **Solution (7 points)**
 
 How well does the program written solve the problem? Does the project seriously
-engage with the data? Does it use computer analysis to provide interesting
+engage with the data? Does it use compute analysis to provide interesting
 insights? Is the data presented in a meaningful and usable way?
 
 Your team's ability to design a solution to the problem is evaluated by this measure.
@@ -171,13 +155,13 @@ Your team's ability to design a solution to the problem is evaluated by this mea
 **Elegance & Robustness (8 points)**
 
 This area evaluates the quality of the computer code produced by the team. An
-elegant program provides a parsimonious solution that is both efficient and
-clear. A robust program is flexible and able to change. In the case of data
+_elegant_ program provides a parsimonious solution that is both efficient and
+clear. A _robust_ program is flexible and able to change. In the case of data
 analysis, it would be easy to modify if the input data changed or the output
 requirements are updated. It wouldn't "break" if it encountered unexpected data,
 and would continue to operate even if the amount of data were increased
 dramatically. Often, both elegance and robustness are achieved through
-refactoring: the process of reflecting on code and revising it after an initial
+_refactoring_: the process of reflecting on code and revising it after an initial
 working solution is achieved.
 
 **Risk Taking (5 points)**
@@ -188,7 +172,7 @@ aspect of your team's grade will reflect the chances that you take with your
 project. Even if your solution isn't quite what you hoped for, or your code
 isn't as elegant as you'd like, it's important that you take chances and try new
 things. To do well in this section, you might want to shoot for an ambitious, or
-complex analysis; or integrate some Javascript analysis that hasn't been
+complex analysis; or integrate some Javascript libraries or techniques that haven't been
 explicitly covered in the course.
 
 **Code Style (5 points)**
@@ -198,11 +182,9 @@ variables (aka "identifiers") should have clear, meaningful names. Comments
 should be used sparingly, but appropriately to guide the human reader through
 your code.
 
+_All project members will receive the same grade._
 
-
-All project members will receive the same grade.
-
-
+</div>
 
 Javascript Documentation and References
 ----------------------------------------
