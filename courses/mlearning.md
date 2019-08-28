@@ -7,10 +7,10 @@
     * the Educational Technology Program
     * at Adelphi University:
     * http://education.adelphi.edu
-    * copyright 2013 Matthew X. Curinga
+    * copyright 2013-2019 Matthew X. Curinga
     * http://matt.curinga.com
     * This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
-    * To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send 
+    * To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
     * a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
     * We ask, but do not require, that attribution includes a link to our websites (above).
     * version: 2.1
@@ -20,28 +20,19 @@
 **Educational Technology 0858-612**
 
 **Course description.**
-Most of the world connects to the Internet from mobile phones. Android
+Most of the world connects to the Internet from mobile phones, most of the time. Android
 tablets and iPads are filtering into schools — and the hands of
-children. Students carry significant computing power in their pockets.
+children. Augmented reality and location based software offer new opportunities for
+context aware learning. Students carry significant computing power in their pockets.
 This course considers how mobile computing forces us to reconsider the
 time and place of learning.
 
-**Keywords:** mlearning, mobile learning, android, ipad, tablet computing, one-to-one computing, 1:1, olpc
-    
-**Previous Course website:** [http://mlearnau.tumblr.com](http://mlearnau.tumblr.com)
+**Keywords:** mlearning, mobile learning, android, ipad, tablet computing, AR, augmented reality
 
 <div class="img-right">
 ![http://www.internationalhero.co.uk/d/diktracy.htm](http://www.internationalhero.co.uk/d/dicktracy.jpg "go to the originating site, thanks for the art")
 1951, Dick Tracy's wearable computer
 </div>
-
-As mobile networks become faster and more ubiquitous, devices more
-powerful, and the Internet spreading to all corners of the world,
-mobile computing is becoming one of the main channels for teaching and
-learning. In this course, students will learn about mobile computing in schools,
-from 1:1 laptop programs to handheld computers. They will also look
-at how mobile computing supports learning outside of schools, both
-in K-12, higher ed, and informal settings.
 
 Goals & objectives
 ----------------------------------------
@@ -62,13 +53,14 @@ Students will:
         “Apps"
     -   GIS and location services, and how they can be used to augment
         learning
+    -   augmented reality technologies
 -   understand the specific strengths and constraints of mobile
     interactivity & design
 -   implement best-practices of teaching with wireless mobile technology
 -   reflect on how mobile computing challenges the traditional time and
     places of learning
 
-    
+
 Course expectations
 ----------------------------------------
 
@@ -124,6 +116,25 @@ week  date      topic                              reading                      
  9    1/12/14   Mobile interfaces & design/        Nielsen, van der Merwe, Apple Inc.      Final Project (Response #9)
                 Final Projects                                                             
 
+Session	Date	Topic	Format
+1	09/05/19	Going Mobile	classroom
+2	09/12/19	Mobile First	online
+3	09/19/19	Situated cognition & embodiment	classroom
+4	09/26/19	Mobile and the world	online
+5	10/03/19	Tech workshop 1	classroom
+6	10/10/19	1:1 Computing	online
+7	10/17/19	AR	classroom
+8	10/24/19	Games	online
+9	10/31/19	Scavenger Hunt(s)	classroom
+10	11/07/19	Tech workshop 2	online
+11	11/14/19	Triangle Fire Design	classroom
+12	11/21/19		online
+13	11/28/19	Thanksgiving	no class
+14	12/05/19		online
+15	12/12/19	Final project presentation	classroom
+
+
+
 Note: Reading response posts are due every Sunday at midnight and
 your 2 comments on your classmates' response posts are due every
 Wednesday at midnight.
@@ -143,7 +154,7 @@ Podcast                        10%
 Final Project/Paper            20%
 
 Grades for assignments will be posted on the offical Moodle course
-website. 
+website.
 
 ### Reading Responses
 
@@ -162,7 +173,7 @@ A good reading response:
 6. _is_ intended for this course and your classmates so it should be **professional** in substance and tone, and
 7. **is posted before the end of day on Sunday (e.g. midnight), every week**
 
-In addition to your own response, you should check Tumblr and Disqus 
+In addition to your own response, you should check Tumblr and Disqus
 every day. You are required to comment on at least two of your
 peer's responses each week. Usually you will want to respond to
 people who engage with you.
@@ -171,7 +182,7 @@ There are a total of 9 responses due for this course. You will get
 either 2, 1, or 0 points for your post. Late responses will
 be accepted (but highly discouraged) up until midnight Wednesday. If you post
 on time every week, you will get an extra 2 points for the Reading Response
-assignment. 
+assignment.
 
 ### Mobile Blog
 
@@ -193,15 +204,15 @@ Evaluation criteria:
 Using your mobile device, create a _multimedia poem_, "Where I'm
 from", describing where you are from. The poem will consist of your
 written text and at least 5 images that you record with your phone
-(or tablet). 
+(or tablet).
 
 ### Tech Report
 
 Working in groups, students will present a "Tech Report" on an
 aspect of mobile technology. Groups will prepare 7-8 slides for a
-slidecast which they will post on their blog (teammates will link 
-to/cross-post it). They will also post an annotated list of resources 
-(e.g. websites, press, and scholarly articles) related to their topic. 
+slidecast which they will post on their blog (teammates will link
+to/cross-post it). They will also post an annotated list of resources
+(e.g. websites, press, and scholarly articles) related to their topic.
 Annotations should only be a few sentences.
 
 Example topics:
@@ -241,7 +252,7 @@ Videos will be evaluated on the following scale:
 
 ***** SESSIONS 5 & 7? *****
 
-### Podcasts 
+### Podcasts
 Podcasts show up in much of the recent literature on mobile learning as an easy way for teachers to communicate to their students and families and as a way for learners to express their ideas. During this semester, you will create a podcast &mdash; an audio recording that you will upload to your Tumblr. The podcast is due for session 8. If you choose to work as part of a team on these topics (which is encouraged but not required), you can submit a group podcast (where everyone in the group speaks). Group podcasts will receive the same grade, one grade for the group. Alternatively, you can work individually. Whether you work individually or as part of a team, upload individual podcasts. When you upload your individual podcast, identify your team members so we know who they are and that you have produced the same content.
 
 Your podcast must be between 8-10 minutes in length. You can record it on a mobile device but are not required to. I usually use a laptop computer, USB headset, and [Audacity](http://audacity.sourceforge.net/) for my audio recordings. The target audience for this podcast is members of our class. You should assume a base level of subject matter understanding of both mobile technology and mobile learning. Do not assume more than a general understanding of your topic (e.g. if your topic is specialized). It is strongly advised that you write a script and practice before creating your final recording.
@@ -286,7 +297,7 @@ _Choose one type of project as your final project. Projects can be completed ind
 
 **Mobile learning unit**
 
-You will design a mobile learning unit. Specify your target 
+You will design a mobile learning unit. Specify your target
 audience and setting (museum, K-12, corporate training,
 online/informal). Explain the technology you will use in terms of learning goals and pedagogy;
 explaining why mobile technologies are a good match for your
@@ -354,7 +365,7 @@ Carr, D. (2010, January 1). Why Twitter will endure. *The New York Times*.
 
 Castells, M. (2007). [Communication, power and counter-power in the network society.](http://ijoc.org/ojs/index.php/ijoc/article/download/46/35) _International Journal of Communication_, _1_(1), 238–266.
 
-Castells, M., Fernandez-Ardevol, M., LinchuanQiu, J., & Sey, A. (2006). *Mobile communication and society: A global perspective.* Cambridge, MA: The MIT Press. 
+Castells, M., Fernandez-Ardevol, M., LinchuanQiu, J., & Sey, A. (2006). *Mobile communication and society: A global perspective.* Cambridge, MA: The MIT Press.
 
 Chaiprasurt, C., Esichaikul, V., & Wishart, J. (2011). [Designing mobile communication tools: A framework to enhance motivation in online learning environments.](http://mlearn.bnu.edu.cn/source/ten_outstanding_papers/Designing%20Mobile%20Communication%20Tools%20A%20Framework%20to%20Enhance%20Motivation%20in%20Online%20Learning%20Environment.pdf) Presented at _mLearn 2011_, Beijing, China.
 
