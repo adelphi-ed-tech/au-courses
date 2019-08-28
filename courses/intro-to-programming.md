@@ -139,7 +139,7 @@ download or as a live open data set such as the [NYC Open Data](https://opendata
 Of course, you may incorporate other data sets as you see fit.
 
 
-**The final solution will be scored using the following guide:
+**The final solution will be scored using the following guide:**
 
 <div class="pl-2">
 
