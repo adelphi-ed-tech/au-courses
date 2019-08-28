@@ -16,7 +16,7 @@ version: 3.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Computer Science 0145-602 Section 002 (online), Fall 2019**
+**Computer Science 0145-602, Fall 2019**
 
 **Keywords:**  computer programming, CS1, javascript, computational thinking, critical computational literacy, problem solving
 
