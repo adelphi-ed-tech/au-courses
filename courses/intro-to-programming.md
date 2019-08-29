@@ -97,9 +97,9 @@ Assignments and Grading
 
 Assignment              Pct   Due date
 -------------------     ----  --------
-Labs (10 total)         50%   Sep 13
-Midterm exam            25%   Oct 18
-Final project           25%   Dec 14
+Labs (10 total)         50%   ongoing
+Midterm exam            25%   Oct 17
+Final project           25%   Dec 12
 
 
 Labs (50%)
@@ -111,7 +111,7 @@ a problem. Each lab will be worth 0-5 points. Roughly:
 
 - _0 points_: for not turning in any work
 - _1-2 points_: for a basic attempt, but code isn't working or has fundamental flaws
-- _4-5 points_ (mostly) solution demonstrates mastery of relevant concepts
+- _3-4 points_ (mostly) solution demonstrates mastery of relevant concepts
 - _5 points_: solution works, demonstrates mastery of concepts, and is well formatted and clearly written
 
 Everyone's lowest grade will be thrown out (so your lab score will be the
