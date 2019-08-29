@@ -83,11 +83,11 @@ Session  Date    Topic                                        Format
    3     Sep 12  Tech reports                                 classroom
    4     Sep 19  Mobile computing and society                 online
    5     Sep 26  Mobile cognition                             classroom
-   6     Oct 03  Situated cognition & embodiment              online
-   7     Oct 10  1:1 Computing                                classroom
-   8     Oct 17  Reading screens                              online
+   6     Oct 03  1:1 Computing                                online
+   7     Oct 10  Reading screens                              classroom
+   8     Oct 17  Augmented Reality                            online
    9     Oct 24  Workshop: App Inventor                       classroom
-  10     Oct 31  Augmented Reality                            online
+  10     Oct 31  Mobile games for learning                    online
   11     Nov 07  Workshop: ARIS                               classroom
   12     Nov 14  Internet of Things (IoT)                     online
   13     Nov 21  Mobile Instr Design (Triangle Fire)          classroom
