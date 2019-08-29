@@ -94,79 +94,67 @@ week  date      topic                              reading                      
  9    1/12/14   Mobile interfaces & design/        Nielsen, van der Merwe, Apple Inc.      Final Project (Response #9)
                 Final Projects                                                             
 
-Session     Date        Topic                                Format
--------     --------    -------------------------------      ----------
- 1          09/05/19    Going Mobile                         classroom
- 2          09/12/19    Mobile First                         online
- 3          09/19/19    Situated cognition & embodiment      classroom
- 4          09/26/19    Mobile and the world                 online
- 5          10/03/19    Tech workshops                       classroom
- 6          10/10/19    1:1 Computing                        online
- 7          10/17/19    Augmented Reality                    classroom
- 8          10/24/19    Games                                online
- 9          10/31/19    Scavenger Hunt(s)                    classroom
-10          11/07/19    App Reviews                          online
-11          11/14/19    Triangle Fire Design                 classroom
-12          11/21/19                                         online
-13          11/28/19    Thanksgiving                         _no class_
-14          12/05/19    Final project drafts                 online
-15          12/12/19    Final project presentation           classroom
+  Session  Date    Topic                                        Format
+  -------  -----   -------------------------------              ----------
+     1     Aug 29  Going Mobile                                 classroom
+     2     Sep 05  Mobile First                                 online
+     3     Sep 12  Tech reports                                 classroom
+     4     Sep 19  Mobile computing and society                 online
+     5     Sep 26  Mobile cognition                             classroom
+     6     Oct 03  Situated cognition & embodiment              online
+     7     Oct 10  1:1 Computing                                classroom
+     8     Oct 17  Reading screens                              online
+     9     Oct 24  Workshop: App Inventor                       classroom
+    10     Oct 31  Augmented Reality                            online
+    11     Nov 07  Workshop: ARIS                               classroom
+    12     Nov 14  Internet of Things (IoT)                     online
+    13     Nov 21  Mobile Instr Design (Triangle Fire)          classroom
+     -     Nov 28  Thanksgiving                                 _no class_
+    14     Dec 05  Final project drafts                         online
+    15     Dec 12  Final project presentation                   classroom
 
 
 
 Assignments & grading
 ----------------------------------------------------
 
-Assignment                     pct
------------------------        ---
-Reading response posts         20%
-Tech report                    20%
-App Review                     20%
-Podcast/Discussion leader      20%
-Final Project/Paper            20%
+Assignment              Pct  Due
+----------------------- ---  --------
+Reading responses       20%  ongoing
+Session leader          20%  ongoing
+Tech report             20%  Sep 12
+App Review              20%  Oct 24
+Draft Final Project      -   Dec 5
+Final Project           20%  Dec 12
 
 ### Reading Responses
 
-Every week you will be asked to post a _reading response_ on your
-Tumblr. This is the main online interaction for this course. Your
+For most online weeks you will be asked to post a _reading response_ on Moodle.
+This is the main online interaction for the online portion of this course. Your
 reading response should be approximately 500 words, but occasionally
 may call for more or less.
 
 A good reading response:
 
-1. refers to the readings and other online activities (like video or mobile assignments) due that week,
-2. is not a _summary_, you should have a point of view and express your own synthesis, understanding, and opinion about the topic under discussion,
-3. sometimes will relate to courses you are taking now, your work, or your personal life,
-4. sometimes will relate to other things you have read or studied (this is okay, just give us a little bit of reference and a way to find more information),
-5. is not a formal, academic post (you don't need APA style references),
-6. _is_ intended for this course and your classmates so it should be **professional** in substance and tone, and
-7. **is posted before the end of day on Sunday (e.g. midnight), every week**
+1. specifically refers to the readings and other activities due that week: you will usually want to quote the texts and refer to specific passages,
+2. your post will start a new thread in our discussion forum, it should have its own unique (and clever) title,
+3. is not a _summary_, you should have a point of view and express your own synthesis, understanding, and opinion about the topic under discussion,
+4. sometimes this will relate to courses you are taking now, your work, or your personal life,
+5. sometimes this will relate to other things you have read or studied (this is okay, just give us a little bit of reference and a way to find more information),
+6. is not a formal, academic post (you don't need APA style references), but you should include links, titles, authors names, etc for outside readings/videos/works,
+7. _is_ intended for this course and your classmates so it should be **professional** in substance and tone, and
+8. **is posted before the end of day on Tuesday (e.g. midnight), the week it's due**
 
-In addition to your own response, you should check Tumblr and Disqus
-every day. You are required to comment on at least two of your
-peer's responses each week. Usually you will want to respond to
+The general workflow for these online weeks follows:
+
+1. (Thurs-Sun) Do course readings (including podcast)
+2. (Sun-Tues) Write & post a reading response
+3. (Tues - Thurs) Read all of the responses and post comments/discuss
+
+In addition to your own response, you should check the discussion board daily.
+You are required to comment on at least two of your
+peer's responses each week and you should respond to
 people who engage with you.
-
-There are a total of 9 responses due for this course. You will get
-either 2, 1, or 0 points for your post. Late responses will
-be accepted (but highly discouraged) up until midnight Wednesday. If you post
-on time every week, you will get an extra 2 points for the Reading Response
-assignment.
-
-### Mobile Blog
-
-- every student needs one on Tumblr
-- post link to Celly
-- set up comments
-- make at least one post that has an image and text
-- write at least one post from your phone
-- test the site on a desktop computer and a mobile phone (needs to look good on both)
-
-Evaluation criteria:
-
-- looks good
-- readability/usability
-- organization
 
 ### Where I'm from
 
@@ -186,40 +174,20 @@ Annotations should only be a few sentences.
 
 Example topics:
 
-* wireless networks
+* wireless networks (wimax, mesh networks, p2p networks, 5G/6G)
 * near field communications (NFC)
-* device hardware
+* device hardware (chips screens, etc)
+* mobile payments (Google Wallet, Apple Pay, etc)
 * GIS/GPS & location
+* beacons, RFID, etc
 * iOS and Android Platforms
 * mobile media (video, audio, animations, web/html/css, etc.)
 * speech recognition, text-to-speech, voice interfaces
 * facial recognition & computer vision
+* AR technologies (Goggles, biometrics, development platforms, etc)
+* IoT (microboards, dev platforms, uses, sensors, etc)
 * mobile computing and assistive technology
 * wireless/mobile security
-
-### Mobile Video Interview
-
-Video-capable phones and tablets have made it very easy to record
-video. For this assignment you are going to shoot a 5 minute video
-(keep it within 30 seconds of 5 minutes). In the video you will
-interview somebody (at least one person, more than one if you choose
-to go that way). The **theme** for the interview is: _The effect of
-mobile computing on our society._ You should write your interview
-questions beforehand, but also feel free to improvise during the
-interview. Some interviewers edit out their own voice and questions
-(more of a documentary style), others leave them in (more
-conversational). This is entirely up to you. While you are
-encouraged to work with other students on the this project, everyone
-must individually upload their own interview.
-
-Videos will be evaluated on the following scale:
-
-* Editing (2 points): You need to edit it enough so that it is smooth (e.g. no dead time, gaps or repeated questions, etc.) and fits into the 5 minute time frame. Any additional features are bonus.
-* Questions (4 points): Do your questions elicit interesting response from the speaker? Are they thoughtful?
-* Appeal (2 points): Was the video entertaining? Would you watch another video again by this producer? Did it maintain your interest throughout?
-* Production (2 points): Could you hear the audio? Was there enough light to see what was going on? Was the camera steady, if meant to be steady? Shaky if meant to be shaky? Did you keep the subject in frame? We're not looking for an award-winning film, but we do want something doesn't make us strain or feel queasy.
-
-***** SESSIONS 5 & 7? *****
 
 ### Podcasts
 Podcasts show up in much of the recent literature on mobile learning as an easy way for teachers to communicate to their students and families and as a way for learners to express their ideas. During this semester, you will create a podcast &mdash; an audio recording that you will upload to your Tumblr. The podcast is due for session 8. If you choose to work as part of a team on these topics (which is encouraged but not required), you can submit a group podcast (where everyone in the group speaks). Group podcasts will receive the same grade, one grade for the group. Alternatively, you can work individually. Whether you work individually or as part of a team, upload individual podcasts. When you upload your individual podcast, identify your team members so we know who they are and that you have produced the same content.
@@ -237,8 +205,18 @@ This podcast assignment is worth 10 points total, allotted according to the foll
 
 _You will lose 2 points for not uploading your podcasts on time (e.g. Sunday at midnight)._ You will receive zero points for this assignment if it's more than 1 day late (e.g. Monday at midnight).
 
-### Educational App Review
-"Apps" are down-loadable applications that run locally on a phone or tablet. You will write a review of a mobile app from an educational perspective. Your review should be 500-800 words long. It should include the following elements:
+### mLearning Topic Report
+For this project you will write a report about how mobile technologies are used in
+a specific domain of learning. Broadly, your report should focus on a subject area
+(e.g. mathematics, language learning, teacher professional development)
+or target group/setting (e.g. students with disabilities, higher education, museum education). Your report will include a written portion and then a visual presentation
+video where you demonstrate and discuss apps/mobile software related to your topic.
+
+The written report should:
+
+- describe the domain your researching, including an understanding of best pedagogical practices in general (without tech or mobile tech)
+- include a literature review of relevant research in mobile learning (if you can't find at least 3 good academic articles, you should choose a different topic)
+- the lit review provides both a summary and a synthesis of the research
 
 1. Introduction
 2. Description
