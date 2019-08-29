@@ -30,7 +30,10 @@ variables, functions, selection, repetition/loops, basic data structures
 > decreasingly capable of making or even using them effectively.<br>
 > ― Douglas Rushkoff, _Program or Be Programmed: Ten Commands for a Digital Age_
 
-**Class meetings:** _fully online_
+**Class meetings:**
+
+- Section 001: Science 227, Thursday 4:30-6:20
+- Section 002: _fully online_
 
 **Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
 
