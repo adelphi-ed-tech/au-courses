@@ -17,7 +17,7 @@
     * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
 
-**Educational Technology 0858-612**
+**Educational Technology 0858-612, Fall 2019**
 
 **Course description.**
 Most of the world connects to the Internet from mobile phones, most of the time. Android
@@ -60,72 +60,60 @@ Students will:
 -   reflect on how mobile computing challenges the traditional time and
     places of learning
 
-
-Course expectations
-----------------------------------------
-Mobile Learning is a blended course: we will have some in-person class meetings
-on Thursdays, and we will conduct other sessions entirely online.
-
-* **post once, comment twice**, this will be the main online interaction
-  for the course
-    * every week you are required to post a **~500 word**
-    [reading response](#reading-responses), by the **end of day on Sunday (e.g. midnight)**
-    * for your reading response
-        - refer closely to the reading
-        - you _must_ use the tags #reading response #sessionXX where XX refers to the class session/week
-    * comments due by **end of day on Wednesday (e.g. midnight)**
-
 Weekly topics
 ----------------------------------------------------
-
-_Readings, prompts for posts, and other assignments are
-available on the course website's post for the week._
-
-week  date      topic                              reading                                 assignment due
------ --------- ---------------------------------- -----------------------------           -------------
- 1    11/3/13   Going mobile                       Weiser, Traxler                         (Reading Response #1)
- 2    11/10/13  Situated cognition & embodiment    Brown, Wenger, Naismith (2009, Billings mobile blog (Response #2)
- 3    11/17/13  Constructionism and 1:1 computing  Papert, Penuel, OLPC, Negroponte        Where I'm From poem (Response #3)
- 4    11/24/13  Supporting the classroom           Pasnik, Wishart, Chaiprasurt            tech report (Response #4)
- 5    12/1/13   Mobile tech/political dissent      Castells, Mirzoeff, Morozov, Doctorow   mobile video interview (Response #5)
- 6    12/8/13   Mobile games for learning          Facer, Squire (2010)                    podcast (Response #6)   
- 7    12/15/13  Tablets & ereaders                 Hillesund, Hu                           (Response #7)
- 8    1/5/14    Apps4Ed                            Mayer, Ritter                           app Review (Response #8)
- 9    1/12/14   Mobile interfaces & design/        Nielsen, van der Merwe, Apple Inc.      Final Project (Response #9)
-                Final Projects                                                             
-
-  Session  Date    Topic                                        Format
-  -------  -----   -------------------------------              ----------
-     1     Aug 29  Going Mobile                                 classroom
-     2     Sep 05  Mobile First                                 online
-     3     Sep 12  Tech reports                                 classroom
-     4     Sep 19  Mobile computing and society                 online
-     5     Sep 26  Mobile cognition                             classroom
-     6     Oct 03  Situated cognition & embodiment              online
-     7     Oct 10  1:1 Computing                                classroom
-     8     Oct 17  Reading screens                              online
-     9     Oct 24  Workshop: App Inventor                       classroom
-    10     Oct 31  Augmented Reality                            online
-    11     Nov 07  Workshop: ARIS                               classroom
-    12     Nov 14  Internet of Things (IoT)                     online
-    13     Nov 21  Mobile Instr Design (Triangle Fire)          classroom
-     -     Nov 28  Thanksgiving                                 _no class_
-    14     Dec 05  Final project drafts                         online
-    15     Dec 12  Final project presentation                   classroom
+_Readings, discussion forums, and other assignments are
+available on the course website under the weekly topic._
 
 
+Session  Date    Topic                                        Format
+-------  -----   -------------------------------              ----------
+   1     Aug 29  Going Mobile                                 classroom
+   2     Sep 05  Mobile First                                 online
+   3     Sep 12  Tech reports                                 classroom
+   4     Sep 19  Mobile computing and society                 online
+   5     Sep 26  Mobile cognition                             classroom
+   6     Oct 03  Situated cognition & embodiment              online
+   7     Oct 10  1:1 Computing                                classroom
+   8     Oct 17  Reading screens                              online
+   9     Oct 24  Workshop: App Inventor                       classroom
+  10     Oct 31  Augmented Reality                            online
+  11     Nov 07  Workshop: ARIS                               classroom
+  12     Nov 14  Internet of Things (IoT)                     online
+  13     Nov 21  Mobile Instr Design (Triangle Fire)          classroom
+   -     Nov 28  Thanksgiving                                 _no class_
+  14     Dec 05  Final project drafts                         online
+  15     Dec 12  Final project presentation                   classroom
 
 Assignments & grading
 ----------------------------------------------------
 
 Assignment              Pct  Due
 ----------------------- ---  --------
-Reading responses       20%  ongoing
 Session leader          20%  ongoing
+Reading responses       20%  ongoing
 Tech report             20%  Sep 12
 App Review              20%  Oct 24
 Draft Final Project      -   Dec 5
 Final Project           20%  Dec 12
+
+### Session leader
+You or you and a partner will be responsible for leading a class session this semester.
+If it is an online session, you will create an audio podcast and deliver it as an .mp3
+audio file on the Thursday that your session starts (probably 10-20 minutes in length). In the podcast you should reflect
+on the readings and offer some guiding questions that you think are important. You will
+not submit your own reading response this week, but will play the role of moderator
+in our online discussion. You will ask follow up questions to posts and comments,
+connect students who address the same subjects but may not have seen each other,
+post to keep discussions on track (and civil if needed), and prompt/nudge your
+peers who seem to be falling behind.
+
+If you are leading an in-person class, you will essentially be the seminar or
+workshop leader for that week. You should be very familiar with the readings and
+come to class with interesting questions and/or quotations from the texts that
+you believe will lead to fruitful discussions. If you are leading a workshop,
+you will work with the instructor to design activities for the rest of the class
+and you will present the tools and facilitate the activities.
 
 ### Reading Responses
 
@@ -156,13 +144,6 @@ You are required to comment on at least two of your
 peer's responses each week and you should respond to
 people who engage with you.
 
-### Where I'm from
-
-Using your mobile device, create a _multimedia poem_, "Where I'm
-from", describing where you are from. The poem will consist of your
-written text and at least 5 images that you record with your phone
-(or tablet).
-
 ### Tech Report
 
 Working in groups, students will present a "Tech Report" on an
@@ -189,22 +170,6 @@ Example topics:
 * mobile computing and assistive technology
 * wireless/mobile security
 
-### Podcasts
-Podcasts show up in much of the recent literature on mobile learning as an easy way for teachers to communicate to their students and families and as a way for learners to express their ideas. During this semester, you will create a podcast &mdash; an audio recording that you will upload to your Tumblr. The podcast is due for session 8. If you choose to work as part of a team on these topics (which is encouraged but not required), you can submit a group podcast (where everyone in the group speaks). Group podcasts will receive the same grade, one grade for the group. Alternatively, you can work individually. Whether you work individually or as part of a team, upload individual podcasts. When you upload your individual podcast, identify your team members so we know who they are and that you have produced the same content.
-
-Your podcast must be between 8-10 minutes in length. You can record it on a mobile device but are not required to. I usually use a laptop computer, USB headset, and [Audacity](http://audacity.sourceforge.net/) for my audio recordings. The target audience for this podcast is members of our class. You should assume a base level of subject matter understanding of both mobile technology and mobile learning. Do not assume more than a general understanding of your topic (e.g. if your topic is specialized). It is strongly advised that you write a script and practice before creating your final recording.
-
-Save your recording as an mp3 and upload it to your tumblr as an audio post.
-
-This podcast assignment is worth 10 points total, allotted according to the following scale:
-
-* Content (4 points): Is the content _important_? Is the listener likely to learn _new information_ from this recording?
-* Appeal (2 points): Is the podcast enjoyable and engaging? Would you like to listen to another recording by the same host/group? Consider how things like pace, humor, voice inflection, etc. contribute to the appeal of your podcast.
-* Organization (2 points): Is the podcast easy to follow? Does it build in tension and details? Are there important questions left unanswered? Is irrelevant information included? Does the host properly introduce and summarize the topic?
-* Clarity (2 points): Make sure that recording is loud enough to hear easily, that you speak clearly, etc. Practice enough that you avoid "um" and "like", either edit out slacktime (dead air) or re-record your podcast so that it is tight.
-
-_You will lose 2 points for not uploading your podcasts on time (e.g. Sunday at midnight)._ You will receive zero points for this assignment if it's more than 1 day late (e.g. Monday at midnight).
-
 ### mLearning Topic Report
 For this project you will write a report about how mobile technologies are used in
 a specific domain of learning. Broadly, your report should focus on a subject area
@@ -217,85 +182,36 @@ The written report should:
 - describe the domain your researching, including an understanding of best pedagogical practices in general (without tech or mobile tech)
 - include a literature review of relevant research in mobile learning (if you can't find at least 3 good academic articles, you should choose a different topic)
 - the lit review provides both a summary and a synthesis of the research
+- describe the software that you will demo and discuss in your video (links to developer, brief summary, etc)
 
-1. Introduction
-2. Description
-    - how it works
-    - the intended audience
-    - who publishes it
-    - supporting screenshots or video
-    - any other relevant information
-3. Review the design
-    - does it follow good design principles?
-    - are there any obvious limitations?
-    - does it support Universal Design, accessibility, and Universal Design for Learning (UDL)?
-4. Discuss the educational value
-    - how is it/could it be used for learning?
-    - what would someone learn from using this app?
-    - what implicit/explicit theories of learning does it embody?
-        - refer to concepts from the readings: communities of practice, situated cognition, constructionism, cognitive apprenticeship, etc.
-    - how does it compare to other mlearning technologies you are familiar with? again, refer to the readings and your own self-selected research
-5. Conclusion
+Your video should be uploaded to YouTube and posted on Moodle as a single video,
+no more than 6 minutes in length where you demonstrate and discuss mobile websites
+and apps related to your topic. You will need to capture a mobile screencast in
+order to do this (see tools for your platform(s)), and will have to edit them
+into a single video. You can narrate the screencast as you go, or you can
+add it later.
 
-Use the tag [#app-review](http://tumblr.com/tagged/app-review)
 
 ### Final project
-_Choose one type of project as your final project. Projects can be completed individually or in teams._
+We have a special opportunity this semester to engage in a service learning project
+to design mobile learning experiences for a new monument being developed
+in Manhattan to commemorate the [Triangle Shirtwaist Factory fire](https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire). The "Triangle Fire" was
+a terrible tragedy in New York City where 146 garment workers (mostly immigrant
+women and girls) were killed. It was also an historic turning points for workers
+rights and led to many victories for the working class in the United States.
 
-**Mobile learning unit**
+For our final project, you will work individually or with a partner to design
+a mobile learning experience related to the monument, the event, and the
+historic location in Greenwich Village. You can specific the target audience
+for your work. Consider questions such as: Will it be for a school trip? What age? Is it informal learning
+for tourists? For families? Adults? Will you offer more in-depth learning for older
+students and amateur scholars?
 
-You will design a mobile learning unit. Specify your target
-audience and setting (museum, K-12, corporate training,
-online/informal). Explain the technology you will use in terms of learning goals and pedagogy;
-explaining why mobile technologies are a good match for your
-instructional design.
-
-_Deliverables:_
-
-1. Unit description
-2. Learning goals
-3. Lesson plans (3-5 different lessons). Lesson plans should include:
-    a. materials needed for the lesson
-    b. technology requirements
-    c. procedures (i.e. if there's a teacher, what does the teacher do? if it's self-paced, what do the students do?)
-    d. assessment/evaluation: how does the learner know that he or she has mastered the material?
-4. Materials: any materials needed to complete the lesson
-
-**App for learning design document**
-
-Identify learning goals and design an app to help teach them. Consider how/when the app will be used and what technologies it will need (and if they are feasible). You will turn in a complete design for the app that includes:
-
-1. Overview
-2. "User stories" (short, 2-3 sentence narrative descriptions) illustrating how your app would be used
-2. Mock-ups/sketches of user interface screens
-3. Diagrams showing different information flows
-4. Technology report indicating the necessary technologies and considerations for implementing your app
-5. A test report, from at least one test session, where you ask potential users (a.k.a. friends or family) to try out your app -- even if they are just trying out pen and paper prototypes, you can still get useful feedback
-5. (optional) Any digital prototypes, artwork/design, etc.
-
-**Mobile learning literature review**
-
-A scholarly literature review offers a complete picture of the current published research on a topic. A _good_ literature review is not just a summary of work done; it has its own thesis and synthesizes the existing body of research to formulate new hypotheses, point out discrepancies, and shed more light on the field of study, etc.
-
-If you choose to write a literature review, you should expect to write a 15-25 page paper in APA format. In this field, you will probably need to analyze 15-20 different academic papers and reports to create your review. While the topic of the review is up to you, you should choose a narrow focus (e.g. touch interfaces with children) rather than a general focus (e.g. mobile learning as a field).
-
-**Original research**
-
-Rather than reviewing the existing literature (above), you may choose to conduct your own research. To do this for your Final project, you will conceive of, and execute, your own research study. You will turn in a report as your final project. For your report, you should follow the standard research paper format: introduction, astatement of hypothesis, review of previous work, methods, results/analysis, and conclusions.
-
-You can research a topic of your choice, but to give you a sense consider these possible research topics/titles:
-
-* Comprehension of physics concepts after adolescent learners play Angry Birds
-* Mobile phone use in study collaboration among U.S. undergraduate students
-* An ethnographic case study of middle school students using e-textbooks
-
-**(unofficial) fieldwork**
-
-If you would like to work with students using mobile devices, please discuss your project idea with the instructor. There may be some schools in Brooklyn and/or Long Island we can work with, either during the school day or after school. You could possibly teach a lesson and write up a report (or create a video portfolio) or do a series of observations, etc.
-
-**Reflective journal**
-
-Finally, you can write a reflective journal regarding your personal experiences with mobile learning during this course. Due to the fact that mobile learning can occur informally, this journal can include both your formal reflections about this course or any other ones you may be taking that include a mobile learning component as well as any informal, out-of-school learning that may occur. This should be a regular weekly journal. Each week should include 250-500 words of writing for that week (e.g. it may be one long reflection or a couple of shorter ones for that week). The final journal should have a least 10 entries for this ten week course (e.g. at least one entry per week). It should be approximately 2,500 to 5,000 words in length (e.g. 10-20 double-spaced pages).    
+You will deliver a design document that specifically describes your learning goals,
+target audience, necessary technology, and includes all of the materials needed for it.
+It should also specify necessary technologies and include prototypes and user stories
+(scenarios) of how it will be used. If it requires new technology or mobile websites,
+you must provide wireframes and paper prototypes.
 
 Course Readings & Bibliography
 ----------------------------------------
