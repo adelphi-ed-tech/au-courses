@@ -34,6 +34,15 @@ time and place of learning.
 1951, Dick Tracy's wearable computer
 </div>
 
+**Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
+
+**Office hours:**
+
+- Monday 1-2pm, Alumnae Hall Room 226A (Garden City campus)
+- Wednesday 4:30-5:30pm, online
+- Thursday 2:30-4:30pm, Alumnae Hall Room 226A (Garden City campus)
+- _office hours by appointment_
+
 Goals & objectives
 ----------------------------------------
 
@@ -65,6 +74,7 @@ Weekly topics
 _Readings, discussion forums, and other assignments are
 available on the course website under the weekly topic._
 
+**Classroom meetings: Harvey 104, Thursday 6:30-8:20**
 
 Session  Date    Topic                                        Format
 -------  -----   -------------------------------              ----------
