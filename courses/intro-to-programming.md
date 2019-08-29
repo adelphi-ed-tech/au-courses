@@ -32,7 +32,7 @@ variables, functions, selection, repetition/loops, basic data structures
 
 **Class meetings:**
 
-- Section 001: Science 227, Thursday 4:30-6:20
+- Section 001: Harvey 104, Thursday 4:30-6:20
 - Section 002: _fully online_
 
 **Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
