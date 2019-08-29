@@ -63,23 +63,9 @@ Students will:
 
 Course expectations
 ----------------------------------------
+Mobile Learning is a blended course: we will have some in-person class meetings
+on Thursdays, and we will conduct other sessions entirely online.
 
-- no lawyering
-- considerate posts
-- consistently excellent work
-
-We are going to use the social blogging software/website
-[Tumblr](http://www.tumblr.com) as our main course website this
-semester. Here are the basics of how we will use it:
-
-* assignments, writing prompts, and other useful information will be
-  posted at [mLearn AU](http://mlearnau.tumblr.com) &oumdash; the main
-  course website
-* each class member will have their own Tumblr
-    - you do not have to use your own name or personally identifying
-      information -- we will know who you are
-    - you must "follow" mlearnau and all of the other members of the class
-* you must check Tumblr at least once a day
 * **post once, comment twice**, this will be the main online interaction
   for the course
     * every week you are required to post a **~500 word**
@@ -88,14 +74,6 @@ semester. Here are the basics of how we will use it:
         - refer closely to the reading
         - you _must_ use the tags #reading response #sessionXX where XX refers to the class session/week
     * comments due by **end of day on Wednesday (e.g. midnight)**
-* you should try to read/post using your mobile phone and other mobile
-  devices; some work, though, is better suited to using larger computers
-* other than reading responses, you should use your blog to post links,
-  quotes, jokes, and other mLearning related resources
-* for questions about the course and support:
-    - post a question on your blog, you never know who may help you out
-    - for "official" support, post your question to the course site: [http://mlearnau.tumblr.com/ask](http://mlearnau.tumblr.com/ask)
-      or contact the instructor
 
 Weekly topics
 ----------------------------------------------------
@@ -116,28 +94,25 @@ week  date      topic                              reading                      
  9    1/12/14   Mobile interfaces & design/        Nielsen, van der Merwe, Apple Inc.      Final Project (Response #9)
                 Final Projects                                                             
 
-Session	Date	Topic	Format
-1	09/05/19	Going Mobile	classroom
-2	09/12/19	Mobile First	online
-3	09/19/19	Situated cognition & embodiment	classroom
-4	09/26/19	Mobile and the world	online
-5	10/03/19	Tech workshop 1	classroom
-6	10/10/19	1:1 Computing	online
-7	10/17/19	AR	classroom
-8	10/24/19	Games	online
-9	10/31/19	Scavenger Hunt(s)	classroom
-10	11/07/19	Tech workshop 2	online
-11	11/14/19	Triangle Fire Design	classroom
-12	11/21/19		online
-13	11/28/19	Thanksgiving	no class
-14	12/05/19		online
-15	12/12/19	Final project presentation	classroom
+Session     Date        Topic                                Format
+-------     --------    -------------------------------      ----------
+ 1          09/05/19    Going Mobile                         classroom
+ 2          09/12/19    Mobile First                         online
+ 3          09/19/19    Situated cognition & embodiment      classroom
+ 4          09/26/19    Mobile and the world                 online
+ 5          10/03/19    Tech workshops                       classroom
+ 6          10/10/19    1:1 Computing                        online
+ 7          10/17/19    Augmented Reality                    classroom
+ 8          10/24/19    Games                                online
+ 9          10/31/19    Scavenger Hunt(s)                    classroom
+10          11/07/19    App Reviews                          online
+11          11/14/19    Triangle Fire Design                 classroom
+12          11/21/19                                         online
+13          11/28/19    Thanksgiving                         _no class_
+14          12/05/19    Final project drafts                 online
+15          12/12/19    Final project presentation           classroom
 
 
-
-Note: Reading response posts are due every Sunday at midnight and
-your 2 comments on your classmates' response posts are due every
-Wednesday at midnight.
 
 Assignments & grading
 ----------------------------------------------------
@@ -145,16 +120,10 @@ Assignments & grading
 Assignment                     pct
 -----------------------        ---
 Reading response posts         20%
-Mobile blog                    10%
-Where I'm from poem            10%
-Tech report                    10%
-Mobile video interview         10%
-App Review                     10%
-Podcast                        10%
+Tech report                    20%
+App Review                     20%
+Podcast/Discussion leader      20%
 Final Project/Paper            20%
-
-Grades for assignments will be posted on the offical Moodle course
-website.
 
 ### Reading Responses
 

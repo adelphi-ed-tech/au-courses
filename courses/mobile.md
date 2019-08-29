@@ -1,3 +1,0 @@
-Title: Apps4Ed Programming Workshop
-
-Description: Students will design and create mobile educational apps using industry-standard tools: Balsamiq for wireframes; Github for project management; and jQuery, Backbone/Underscore, and Bootstrap for Javascript programming. We will convert our code to native mobile apps using Cordova, targeting Android and iOS. Some web development and CS experience required.
