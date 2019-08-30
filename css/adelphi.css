@@ -13,7 +13,7 @@ body
 }
 
 .page-header h1, .rsa-red-text {
-  color: #ab1c19; 
+  color: #ab1c19;
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -228,7 +228,10 @@ table
 }
 
 
-
+.card-text {
+  display: none;
+  font-size: 12px;
+}
 
 
 
