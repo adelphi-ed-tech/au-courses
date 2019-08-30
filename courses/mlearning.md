@@ -156,12 +156,12 @@ people who engage with you.
 
 ### Tech Report
 
-Working in groups, students will present a "Tech Report" on an
-aspect of mobile technology. Groups will prepare 7-8 slides for a
-slidecast which they will post on their blog (teammates will link
-to/cross-post it). They will also post an annotated list of resources
+Working in pairs, students will present a "Tech Report" on an
+aspect of mobile technology. Teams will prepare 7-8 slides for a
+slidecast which they will post on the Moodle along with an annotated list of resources
 (e.g. websites, press, and scholarly articles) related to their topic.
-Annotations should only be a few sentences.
+Annotations should only be a few sentences. Each team will present their
+report in class.
 
 Example topics:
 
@@ -179,6 +179,8 @@ Example topics:
 * IoT (microboards, dev platforms, uses, sensors, etc)
 * mobile computing and assistive technology
 * wireless/mobile security
+* virtual assistants (Alexa, Google Home, etc)
+* gesture interfaces
 
 ### mLearning Topic Report
 For this project you will write a report about how mobile technologies are used in
