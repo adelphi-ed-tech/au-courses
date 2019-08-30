@@ -1,4 +1,6 @@
 % Adelphi Ed Tech Courses
+% Matthew X. Curinga
+
 <small class="d-block text-justify" style="max-width: 600px; hyphens: auto;">
 The Adelphi _Master's of Arts in Educational Technology_ is a 32-credit
 graduate degree offered as a fully online program, as well as a blended
