@@ -156,12 +156,14 @@ people who engage with you.
 
 ### Tech Report
 
-Working in pairs, students will present a "Tech Report" on an
-aspect of mobile technology. Teams will prepare 7-8 slides for a
-slidecast which they will post on the Moodle along with an annotated list of resources
-(e.g. websites, press, and scholarly articles) related to their topic.
-Annotations should only be a few sentences. Each team will present their
-report in class.
+Working in pairs, you will present a “Tech Report” on an aspect of mobile technology. Teams will prepare 5 minute presentation they will present in class. In this discussion, each team will post a 1-paragraph abstract of their presentation and an annotated list of resources (e.g. websites, press, and scholarly articles) related to their topic. Annotations should only be a few sentences.
+
+Grading for this assignment will take into account:
+
+- written report on Moodle
+- quality and importance of the subject matter
+- quality of the presentation
+- peer evaluations
 
 Example topics:
 
