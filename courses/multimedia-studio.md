@@ -15,11 +15,11 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
-**Educational Technology 0850-620, Spring 2017**
+**Educational Technology 0850-620, Spring 2020**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
-learning, digital studio, ed tech capstone, instructional design, 
-infosec, hackers, cybersecurity, privacy
+learning, digital studio, ed tech capstone, instructional design,
+smart cities, IoT
 
 **Description:** How can digital media best support learning?
 Working on semester-long projects, students learn about interaction
@@ -37,19 +37,19 @@ original educational resources.
 > community of peers.\
 > — Robbie McClintock, [StudyPlace](http://www.studyplace.org/wiki/The_Studio_for)
 
-> Governments of the Industrial World, you weary giants of flesh and steel, I
-> come from Cyberspace, the new home of Mind. On behalf of the future, I ask you
-> of the past to leave us alone. You are not welcome among us. You have no
-> sovereignty where we gather.\
-> — John Perry Barlow, [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)
 
-## Spring 2017 Studio: Hackers
+
+## Spring 202 Studio: Smart Cities
 
 Each semester the multimedia studio features a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
 long multimedia project that teaches some aspect of this challenge.
 
-The Spring 2017 Studio theme is information security, hackers, and digital
+The Spring 2020 Studio theme is **smart cities**. A smart cities wants to use embedded
+digital technologies and data flows improve the lives of the people in the city.
+
+
+information security, hackers, and digital
 privacy. We believe that cyber-security is an increasingly important
 digital literacy, and that a broad understanding of issues in this arena are
 necessary for robust public discourse and democratic processes. By the end of
@@ -83,40 +83,6 @@ for learning. Specifically, they should learn to:
 
 At the end of the studio, every student will have a high quality, published multimedia artifact that will be part of their portfolio.
 
-## Recommended Books
-
-Browne, Simone. 2015. _Dark Matters: On the Surveillance of Blackness_. Durham: Duke University Press Books.
-
-Coleman, Gabriella. 2015. _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous._  Verso.
-
-Doctorow, Cory. 2010. _Little Brother_. New York: Tor Teen.
-
-Harris, Shane. 2015. _@War: The Rise of the Military-Internet Complex_. Boston: Eamon Dolan/Mariner Books.
-
-Krebs, Brian. 2015. _Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door_. Sourcebooks.
-
-Levy, Steven. 2010. Hackers: _Heroes of the Computer Revolution_. Sebastopol, CA: O’Reilly Media.
-
-McCahill, Michael, and Rachel L. Finn. 2015. Surveillance, Capital and Resistance: Theorizing the Surveillance Subject. Place of publication not identified: Routledge.
-
-Mitnick, Kevin, Steve Wozniak, and William L. Simon. 2012. Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker. New York: Back Bay Books.
-
-Poulsen, Kevin. 2012. Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground. Reprint edition. Broadway Books.
-
-Russinovich, Mark, and Howard Schmidt. 2012. _Zero Day: A Jeff Aiken Novel_. New York: St. Martin’s Griffin.
-
-Smith, Sean, and John Marchesini. 2007. _The Craft of System Security_. Upper Saddle River, NJ: Addison-Wesley Professional.
-
-
-
-## Online resources for information security
-- [Wired::ThreadLevel](https://www.wired.com/category/threatlevel)
-- [Wired::Security](https://www.wired.com/category/security/)
-- [The Atlantic](https://www.theatlantic.com/technology/)
-- [DefenseOne::Tech](http://www.defenseone.com/technology/)
-- [Electronic Frontier Foundation](https://www.eff.org/)
-- [Crypto Party](https://www.cryptoparty.in/index)
-- [Security in a Box](https://securityinabox.org/en/)
 
 ## Class meetings
 
@@ -139,6 +105,8 @@ _no class_  4/25  Research Day
 13          5/02  
 14          5/09  
 15          5/16  final project
+
+
 
 
 ## Assignments
@@ -165,18 +133,21 @@ _teach_ something worth learning and _effectively use multimedia_ to do so. Past
 
 Assignment due      % of final grade
 -----------------   ----------------
+participation           10%
 briefings               10%
-book talk               10%
+workshop                10%
+session leader          10%
 pitch                   10%
 mid-term critique       20%
-final project           50%
+final project           30%
 
 ### Briefings
-The two "briefing" sessions will help us develop our domain knowledge of cyber security. You will choose a specific topic of your choice related to information security and then write a short (300 word)
+The two "briefing" sessions will help us develop our domain knowledge of smart cities. You will choose a specific topic of your choice related to smart cities and then create a 3-minute briefing report -- a narrated slide show on your topic. Your report should represent your best understanding of multimedia learning. The last slide should be the bibliography used to create your briefing. You should have at least 3 sources, one of them being an academic source.
+ () and then write a short (300 word)
 report and create a bibliography of sources on the topic. We will discuss reports in class, but no
 formal presentation is required. Post your report to Slack before the class session when it's due.
 
-### Book talk
+### Workshops
 Choose one of the books from the recommended books list (above). Read the book and prepare an 8 minute (exactly) presentation on the book. Make your presentation _targeted_ and _interesting_. Unlike the briefings, for this assignment you _must_ have a multimedia presentation to go along with your talk. Some tips for giving a great presentation:
 
 1. Write out your talk and practice it.
