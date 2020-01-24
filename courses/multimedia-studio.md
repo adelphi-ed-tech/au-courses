@@ -28,42 +28,41 @@ extend skills in multimedia authoring: digital images/audio/video,
 and interactive web development. Apply these skills to create a
 original educational resources.
 
+**Class meetings:**
+
+- Section 001: Harvey 104, Mondays 4:30-6:20 (blended, see schedule)
+- Section 002: _fully online_
+
+**Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
+
+**Office hours:**
+
+- Monday 1-3pm, Alumnae Hall Room 226A (Garden City campus)
+- Thursday 3:30-5:30pm, online
+- _office hours by appointment_
+
 ------------------------------------------------------------------------
+## Spring 2020 Studio: Smart Cities
 
-> A studio is a place where people gather to exercise and develop
-> skill and interest, an art, a techne. A studio provides the tools of
-> a techne and opportunities for their use, invitations for their
-> development, a challenge to accomplished performance within a
-> community of peers.\
-> — Robbie McClintock, [StudyPlace](http://www.studyplace.org/wiki/The_Studio_for)
-
-
-
-## Spring 202 Studio: Smart Cities
+<div class="img-right" style="max-width:400px">
+<img src="https://resize.pubpub.org/fit-in/600x0/gg1qmkps/01552071556663.jpg" alt="cover from The Smart Engough City">
+</div>
 
 Each semester the multimedia studio features a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
 long multimedia project that teaches some aspect of this challenge.
 
-The Spring 2020 Studio theme is **smart cities**. A smart cities wants to use embedded
-digital technologies and data flows improve the lives of the people in the city.
-
-
-information security, hackers, and digital
-privacy. We believe that cyber-security is an increasingly important
-digital literacy, and that a broad understanding of issues in this arena are
-necessary for robust public discourse and democratic processes. By the end of
-2016, cyber-security and computer "hacking" had become topics that can no
-longer be easily ignored, with high profile issues such as:
-
-- State sponsored Russian hacks aiming to influence the 2016 U.S. presidential election
-- Major security breaches, such as Yahoo Mail's disclosure that half a billion emails were compromised
-- Debates over widespread use of encryption and government "back doors"
-  (such as the Apple/FBI showdown over unlocking the San Bernadino shooter's iPhone)
-
-Each student will study an aspect of information security in depth, and then
-complete a multimedia educational project that aims to explain and enrich our
-understanding of the topic.
+The Spring 2020 Studio theme is **smart cities**. A smart city wants to use
+embedded digital technologies and data flows improve the lives of the people in
+the city. Critics caution that smart cities might offer little advantage to the
+people, while entrenching unequal power structures and exacerbating existing
+problems stemming from inequality and poverty. The projects in this studio
+should help us -- and anyone -- to better understand the potential benefits and
+pitfalls of smart cities. Each participant in the studio will become expert in a
+particular aspect of smart cities (e.g. transportation, crime, education,
+health, tech) and design their multimedia project around that topic. Taken
+together, our studio projects should present our vision of what a smart city
+should look like.
 
 ## Goals
 This course is designed to challenge students to develop their abilities
@@ -81,88 +80,163 @@ for learning. Specifically, they should learn to:
 -   think creatively about far-reaching challenges in teaching and
     learning
 
-At the end of the studio, every student will have a high quality, published multimedia artifact that will be part of their portfolio.
+At the end of the studio, every student will have a high quality, published
+multimedia artifact that will be part of their portfolio.
+
+## Required texts
+
+Green, B. (2019). _The smart enough city: Putting technology in Its place to reclaim our urban future_. The MIT Press. [free online](https://smartenoughcity.mitpress.mit.edu/)
+
+Clark, R. C., &amp; Mayer, R. E. (2016). _E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning_. John Wiley &amp; Sons, Incorporated. [adelphi library](https://ebookcentral.proquest.com/lib/adelphi/detail.action?docID=4418752)
 
 
 ## Class meetings
 
-Session     Date  Due
-----------  ----  --------------------------
-1           1/24  
-2           1/31  briefing 1
-3           2/07  
-4           2/14  
-5           2/21  book talk
-6           2/28  pitch
-7           3/07  briefing 2
-_no class_  3/14  Spring Break
-8           3/21  
-9           3/28  midpoint critique
-10          4/04  
-11          4/11  
-12          4/18  
-_no class_  4/25  Research Day
-13          5/02  
-14          5/09  
-15          5/16  final project
+     Dates  Topic                                   Due            Meeting
+--  ------  --------------------------------------  -------------  ----------
+ 1  Jan 27  Intro; Dual Coding / Cognitive Load     -              Online
+ 2   Feb 3  Smart Enough Cities, ch 1-4             -              Harvey 104
+ 3  Feb 10  Multimedia Principle & Contiguity       Multimedia 1   Online
+ 4  Feb 17  Smart Enough Cities, ch 5-7             -              Harvey 104
+ 5  Feb 24  Modality & Redundancy                   Multimedia 2   Online
+ 6   Mar 2  Briefings                               Briefing       Harvey 104
+ 7   Mar 9  Coherence, Personalization, Segmenting  Multimedia 3   Online
+ 8  Mar 16  Pitches                                 Pitch Harvey   Harvey 104
+ 9  Mar 23  Workshops                               Wk 1 & 2       Online
+10  Mar 30  Workshops                               Wk 3 & 4       Harvey 104
+11   Apr 6  Workshops                               Wk 5 & 6       Online
+12  Apr 13  Workshops                               Critique       Harvey 104
+ -  Apr 20  Spring Break                            -              -
+13  Apr 27  Studio Session                          -              Harvey 104
+14   May 4  Studio Session                          -              Online
+15  May 11  User Testing                            -              Harvey 104
+16  May 18  _Final due_                             Final Project  Online
 
+Assignments
+--------------------------------------------------------------------------------
+### Grading
 
+Assignment due           % of final grade
+-----------------        ----------------
+participation                  10%
+briefing                       10%
+workshop                       10%
+multimedia on multimedia       10%
+pitch                          10%
+mid-term critique              20%
+final project                  30%
 
+### Participation
 
-## Assignments
-The studio format allows for frequent and ongoing evaluation of
-student work. An important aspect will be invited guests who will also
-come into the studio to consult with students and to offer informal
-feedback. There will be formal mid-point and final critiques.
+Everyone is expected to participate fully in class. This means meeting deadlines
+for online posts and, coming to class sessions prepared by having read the
+readings. During "studio" work sessions, you will be expected to post an update
+of your progress with screenshots.
 
-The main, semester long project for this course is the development of a multimedia
-learning work related to our topic of information security. Your project should
-_teach_ something worth learning and _effectively use multimedia_ to do so. Past Studio projects include
+### Briefings
+
+The "briefing" session will help us develop our domain knowledge of smart
+cities. You will choose a specific topic of your choice related to smart cities
+and then create a 3-minute briefing report -- a narrated slide show on your
+topic. Your report should represent your best understanding of multimedia
+learning. The last slide should be the bibliography used to create your
+briefing. You should have at least 3 sources, one of them being an academic
+source. The specific topic of your briefing will probably relate to the aspect
+of smart cities that you will highlight in your multimedia project.
+
+### Multimedia on multimedia
+
+Working with a partner, you will create a multimedia slideshow that demonstrates
+the key multimedia cognition concepts covered in _E-Learning and the Science of
+Instruction_. The book is available online from the Adelphi Library. The total
+presentation must be between 10-15 minutes long. You are only required to read
+the chapter for the week you are presenting, but everyone is encouraged to read
+the chapters. You should supplement your presentation with outside readings and
+examples as necessary. You should actively work to implement the multimedia
+principles you are discussing in the design of your presentation.
+
+- **multimedia 1:** chapters 4 & 5
+- **multimedia 2:** chapters 6 & 7
+- **multimedia 3:** chapters 8, 9, & 10
+
+### Workshops
+
+Choose a multimedia authoring tool that you know well or want to become expert
+in. Prepare an hour-long workshop that you will lead for your peers on using
+this tool. If it is a large or complex tool (GIMP, Tableau), then choose a specific
+feature or technique to cover.
+
+Your workshop should:
+
+1. Begin with a general discussion of the types of multimedia produced:
+   - show specific examples
+   - discuss how they match our understanding of multimedia principles
+2. Demonstrate the key techniques of the tool. In order to show the tool, you
+   might need to prepare some work in several different stages, in the interest
+   of time.
+3. Design an activity for the workshop participants to complete. The activity
+   should account for the fact that some students will not know anything about your
+   tool/methods and others will be as expert as you are. Accordingly, you might let
+   the participants choose from several topics or challenges, or you can design a
+   more open ended activity with a low floor and high ceiling. If we need to
+   install any software prior to the workshop, you must post this before class.
+4. Wrap up the workshop by re-stating the main principles and highlighting
+   examples of the work of the participants.
+
+If you are doing an online workshop, in Step 1, you will post a multimedia
+slideshow. In Step 2, you will present either a screencast or live action video
+of the demonstration. In step 3, you will support the students while they work
+on the activity over Slack and other channels (email, shared docs, etc). Your
+final comments (step 4) can be posted in writing, audio, or video.
+
+Multimedia project
+------------------
+The culminating work for this class is your _multimedia project_. Everyone will
+work on their own individual project. They will produce a multimedia work that
+demonstrates their skills as a designer and producer of multimedia, their
+knowledge of the studio topic, and their understanding of the learning sciences
+of multimedia.
+
+You should begin thinking about your project during the first week of class. Consider:
+
+- what types of multimedia do you find the most interesting and engaging?
+- what are your strengths?
+- what would you like to learn more about?
+- what skills and demos would you like to highlight as a professional educational technologist?
+
+Past Studio projects include:
 
 - instructional videos
+- documentary videos
 - animations
 - data visualizations
 - infographics
 - (analog) learning games
-- documentary videos
+- video games
 - captivate courses
 - self-paced online courses
 - simulations
-
-### Grading & due dates
-
-Assignment due      % of final grade
------------------   ----------------
-participation           10%
-briefings               10%
-workshop                10%
-session leader          10%
-pitch                   10%
-mid-term critique       20%
-final project           30%
-
-### Briefings
-The two "briefing" sessions will help us develop our domain knowledge of smart cities. You will choose a specific topic of your choice related to smart cities and then create a 3-minute briefing report -- a narrated slide show on your topic. Your report should represent your best understanding of multimedia learning. The last slide should be the bibliography used to create your briefing. You should have at least 3 sources, one of them being an academic source.
- () and then write a short (300 word)
-report and create a bibliography of sources on the topic. We will discuss reports in class, but no
-formal presentation is required. Post your report to Slack before the class session when it's due.
-
-### Workshops
-Choose one of the books from the recommended books list (above). Read the book and prepare an 8 minute (exactly) presentation on the book. Make your presentation _targeted_ and _interesting_. Unlike the briefings, for this assignment you _must_ have a multimedia presentation to go along with your talk. Some tips for giving a great presentation:
-
-1. Write out your talk and practice it.
-2. Look at your audience, not the screen or your notes.
-3. Don't repeat what's on the screen.
-4. Have a **point**: like a good essay, a good talk should deliver an original, targeted point of view that you will logically and rhetorically convey.
+- interactive websites
+- mobile/location based learning systems
+- interactive stories
+- multimedia textbooks
+- map/spatial multimedia
 
 ### Pitch
-In this class session you will formally pitch your idea for your your final project. The purpose of the
-pitch is to propose your project in a way that makes it sound exciting, worthwhile, and feasible. You want to tell a good story about what you plan to develop. You should also have some
-sketches, mockups, sample art, etc. that may be required to make your point.
 
-Plan for a 5 minute presentation and 3 minute Q&A session after.
+You will formally pitch your idea for your your final project. The purpose of
+the pitch is to propose your project in a way that makes it sound exciting,
+worthwhile, and feasible. You want to tell a good story about what you plan to
+develop. You should also have some sketches, mockups, sample art, etc. that may
+be required to make your point.
 
-### Midpoint and Final Evaluation Criteria
+Plan for a 5 minute presentation.
+
+### Midpoint critique
+You will formally present your work to date to get feedback from the instructor
+and your peers. You should have a solid plan for completing the project.
+
+**Midpoint and Final Evaluation Criteria**
 _Refer to these criteria for the evaluation of your multimedia project._
 
 #### Originality & innovation
