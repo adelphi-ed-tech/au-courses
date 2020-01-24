@@ -45,7 +45,7 @@ original educational resources.
 ## Spring 2020 Studio: Smart Cities
 
 <div class="img-right" style="max-width:400px">
-<img src="https://resize.pubpub.org/fit-in/600x0/gg1qmkps/01552071556663.jpg" alt="cover from The Smart Engough City">
+<img class="img-fluid" src="https://resize.pubpub.org/fit-in/600x0/gg1qmkps/01552071556663.jpg" alt="cover from The Smart Engough City">
 </div>
 
 Each semester the multimedia studio features a different challenge, dealing with an
@@ -92,25 +92,25 @@ Clark, R. C., &amp; Mayer, R. E. (2016). _E-Learning and the Science of Instruct
 
 ## Class meetings
 
-     Dates  Topic                                   Due            Meeting
---  ------  --------------------------------------  -------------  ----------
- 1  Jan 27  Intro; Dual Coding / Cognitive Load     -              Online
- 2   Feb 3  Smart Enough Cities, ch 1-4             -              Harvey 104
- 3  Feb 10  Multimedia Principle & Contiguity       Multimedia 1   Online
- 4  Feb 17  Smart Enough Cities, ch 5-7             -              Harvey 104
- 5  Feb 24  Modality & Redundancy                   Multimedia 2   Online
- 6   Mar 2  Briefings                               Briefing       Harvey 104
- 7   Mar 9  Coherence, Personalization, Segmenting  Multimedia 3   Online
- 8  Mar 16  Pitches                                 Pitch Harvey   Harvey 104
- 9  Mar 23  Workshops                               Wk 1 & 2       Online
-10  Mar 30  Workshops                               Wk 3 & 4       Harvey 104
-11   Apr 6  Workshops                               Wk 5 & 6       Online
-12  Apr 13  Workshops                               Critique       Harvey 104
- -  Apr 20  Spring Break                            -              -
-13  Apr 27  Studio Session                          -              Harvey 104
-14   May 4  Studio Session                          -              Online
-15  May 11  User Testing                            -              Harvey 104
-16  May 18  _Final due_                             Final Project  Online
+     Dates  Topic                                   Due                Meeting
+--  ------  --------------------------------------  -------------      ----------
+ 1  Jan 27: Intro; Dual Coding / Cognitive Load     -                  Online
+ 2   Feb 3: Smart Enough Cities, ch 1-4             -                  Harvey 104
+ 3  Feb 10: Multimedia Principle & Contiguity       Multimedia 1       Online
+ 4  Feb 17: Smart Enough Cities, ch 5-7             -                  Harvey 104
+ 5  Feb 24: Modality & Redundancy                   Multimedia 2       Online
+ 6   Mar 2: Briefings                               Briefing           Harvey 104
+ 7   Mar 9: Coherence, Personalization, Segmenting  Multimedia 3       Online
+ 8  Mar 16: Pitches                                 Pitch Harvey       Harvey 104
+ 9  Mar 23: Workshops                               Wk 1 & 2           Online
+10  Mar 30: Workshops                               Wk 3 & 4           Harvey 104
+11   Apr 6: Workshops                               Wk 5 & 6           Online
+12  Apr 13: Midpoint Critique                       Project prototype  Harvey 104
+ -  Apr 20: Spring Break                            -                  -
+13  Apr 27: Studio Session                          -                  Harvey 104
+14   May 4: Studio Session                          -                  Online
+15  May 11: User Testing                            -                  Harvey 104
+16  May 18: _Final due_                             Final Project      Online
 
 Assignments
 --------------------------------------------------------------------------------
