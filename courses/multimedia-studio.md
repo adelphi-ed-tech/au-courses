@@ -94,23 +94,23 @@ Clark, R. C., &amp; Mayer, R. E. (2016). _E-Learning and the Science of Instruct
 
      Dates  Topic                                   Due                Meeting
 --  ------  --------------------------------------  -------------      ----------
- 1  Jan 27 Intro; Dual Coding / Cognitive Load     -                  Online
- 2   Feb 3 Smart Enough Cities, ch 1-4             -                  Harvey 104
- 3  Feb 10 Multimedia Principle & Contiguity       Multimedia 1       Online
- 4  Feb 17 Smart Enough Cities, ch 5-7             -                  Harvey 104
- 5  Feb 24 Modality & Redundancy                   Multimedia 2       Online
- 6   Mar 2 Briefings                               Briefing           Harvey 104
- 7   Mar 9 Coherence, Personalization, Segmenting  Multimedia 3       Online
- -  Mar 16 _Spring Break_                            -                  -
- 8  Mar 23 Pitches                                 Pitch Harvey       Harvey 104
- 9  Mar 30 Workshops                               Wk 1 & 2           Online
-10   Apr 6 Workshops                               Wk 3 & 4           Harvey 104
-11  Apr 13 Workshops                               Wk 5 & 6           Online
-12  Apr 20 Midpoint Critique                       Project prototype  Harvey 104
-13  Apr 27 Studio Session                          -                  Online
-14   May 4 Studio Session                          -                  Harvey 104
-15  May 11 User Testing                            -                  Online
-16  May 18 _Final due_                             Final Project      Harvey 104
+ 1  Jan 27  Intro; Dual Coding / Cognitive Load     -                  Online
+ 2   Feb 3  Smart Enough Cities, ch 1-4             -                  Harvey 104
+ 3  Feb 10  Multimedia Principle & Contiguity       Multimedia 1       Online
+ 4  Feb 17  Smart Enough Cities, ch 5-7             -                  Harvey 104
+ 5  Feb 24  Modality & Redundancy                   Multimedia 2       Online
+ 6   Mar 2  Briefings                               Briefing           Harvey 104
+ 7   Mar 9  Coherence, Personalization, Segmenting  Multimedia 3       Online
+ -  Mar 16  _Spring Break_                            -                  -
+ 8  Mar 23  Pitches                                 Pitch Harvey       Harvey 104
+ 9  Mar 30  Workshops                               Wk 1 & 2           Online
+10   Apr 6  Workshops                               Wk 3 & 4           Harvey 104
+11  Apr 13  Workshops                               Wk 5 & 6           Online
+12  Apr 20  Midpoint Critique                       Project prototype  Harvey 104
+13  Apr 27  Studio Session                          -                  Online
+14   May 4  Studio Session                          -                  Harvey 104
+15  May 11  User Testing                            -                  Online
+16  May 18  _Final due_                             Final Project      Harvey 104
 
 Assignments
 --------------------------------------------------------------------------------
