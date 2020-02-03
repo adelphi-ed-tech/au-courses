@@ -97,8 +97,8 @@ Clark, R. C., &amp; Mayer, R. E. (2016). _E-Learning and the Science of Instruct
  1  Jan 27  Intro; Dual Coding / Cognitive Load     -                  Online
  2   Feb 3  Smart Enough Cities, ch 1-4             -                  Harvey 104
  3  Feb 10  Multimedia Principle & Contiguity       Multimedia 1       Online
- 4  Feb 17  Smart Enough Cities, ch 5-7             -                  Harvey 104
- 5  Feb 24  Modality & Redundancy                   Multimedia 2       Online
+ 4  Feb 17  Smart Enough Cities, ch 5-7             -                  Online
+ 5  Feb 24  Modality & Redundancy                   Multimedia 2       Harvey 104
  6   Mar 2  Briefings                               Briefing           Harvey 104
  7   Mar 9  Coherence, Personalization, Segmenting  Multimedia 3       Online
  -  Mar 16  _Spring Break_                            -                  -
