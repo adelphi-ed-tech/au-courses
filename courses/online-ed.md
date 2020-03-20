@@ -1,234 +1,349 @@
-% Distance learning, blended classes, and virtual schools
-% Matthew X. Curinga
-  Laura Martin
+% Online learning
+% Aaron Hung
 
-**0858-610 Distance learning, blended classes, and virtual schools**
+**0858-610 Online learning**
 
-**Description:** Students study online learning in distance and blended
-classes, and in “virtual” schools — in both higher education and K-12
-settings. Looking at pedagogy, best practices, interactivity and
-student-centered design, this class considers the positive and negative
-potential of online learning in terms of universal accessibility,
-teacher development, economic sustainability. Online, blended and
-web-enhanced learning is a major part of both higher education and K-12
-teaching and learning. Students must become aware of this new method of
-teaching, learning and instructional delivery. Students who desire to
-become educational professionals need to comprehend the pedagogy, best
-practices, interactivity and student-centric instructional design
-principles required for quality online, blended and web-enhanced
-learning. Students should have an understanding of the political issues
-surrounding online, blended and web-enhanced learning such as cost,
-technical infrastructure, teacher development, student and teacher
-support and profit.
+**Description:** Students will learn the foundations of instructional design
+and understand how to integrate technology in meaningful ways in K-12, higher
+education or other educational settings. Students will also learn how to
+develop and assess learning plans that are aligned to technology standards
+and/or other learning outcomes.
 
 **Keywords:** online learning, hybrid learning, blended learning, virtual schools, distance learning, distance education, MOOC, flipped classroom
 
-## Required Books
+Course Goals
+--------------------------------------------------------------------------------
+Online, blended and web-enhanced learning is a major part of both higher
+education and K-12 teaching, learning. Students need to become aware of this
+new method of teaching, learning and instructional delivery. Students who wish
+to become educational professionals need to understand the pedagogy, best
+practices, interactivity and student-centered instructional design principles
+required for quality online, blended and web-enhanced learning. Students
+should also have an understanding of the political issues surrounding online,
+blended and web-enhanced learning such as cost, technical infrastructure,
+teacher development, student and teacher support and profit. By the end of the
+course, students should be able to:
 
-Cavanaugh, C. (2007). *What works in K-12 online learning* (1st ed.).
-Eugene Or.: International Society for Technology in Education.
+- understand the basic tenets, movement and use of online, blended and web-enhanced learning in K-12 and higher education;
+- understand various technologies used for teaching and learning and course delivery in online, blended and web-enhanced environments;
+- apply principles for the development of engaging and interactive online, blended and web-enhanced curriculum;
+- design learning environments that address the challenges of creating interaction and community in online and virtual environments;
+- apply best practices for teaching in online, blended and web-enhanced environments.
 
-## Readings
+<div class="card mb-2" style="max-width: 600px; margin: 0 auto;">
+<div class="card-body text-center"><h2 class="card-title">Office Hours</h2>
 
-DiPietro, M. Virtual School Pedagogy: The Instructional Practices of
-K-12 Virtual School Teachers. Journal of Educational Computing Research
-v. 42 no. 3 (2010) p. 327-54
+Mon 12-2 PM (Alumnae Hall 234)<br>
+Tues 4-5 PM (ONLINE)<br>
+Wed 1-2 PM (ONLINE)<br>
 
-Hew, K. F., et. al., Use of three-dimensional (3-D) immersive virtual
-worlds in K-12 and higher education settings: A review of the research
-[Part of a special issue: Crossing boundaries: Learning and teaching in
-virtual worlds]. British Journal of Educational Technology v. 41 no. 1
-(January 2010) p. 33-55
+</div>
 
-iNACOL (International Association for K-12 Online Learning) National
-Standards of Quality for Online Courses. Web site for online books:
-[http://www.inacol.org/research/bookstore/index.php](http://www.inacol.org/research/bookstore/index.php)
+Bibliography
+--------------------------------------------------------------------------------
+Bender, T. (2012). _Discussion-based online teaching to enhance student learning: Theory, practice and assessment._ Stylus Publishing, LLC.
 
-iNACOL (International Association for K-12 Online Learning) National
-Standards of Quality for Online Courses. Web site:
-[http://www.inacol.org/research/nationalstandards](http://www.inacol.org/research/nationalstandards)
+Clark, R. C., &amp; Mayer, R. E. (2016). _E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning_. John Wiley &amp; Sons, Incorporated.
 
-Quality Matters Course Rubric Standards (2008-2010 edition).
-[http://qminstitute.org/home/Public Library/About
-QM/RubricStandards2008-2010.pdf](http://qminstitute.org/home/Public%20Library/About%20QM/RubricStandards2008-2010.pdf)
+Ferdig, R. E., Cavanaugh, C., & Freidhoff, J. R. (2015). Research into K-12 online and blended learning. _Online, blended, and distance education in schools: Building successful programs_, 52-58.
 
-Ragan, Larry. Best Practices for Teaching Online. Available at:
-[http://cnx.org/content/col10453/latest](http://cnx.org/content/col10453/latest).
+Lowenthal, P. R., York, C. S., Richardson, J. C., Hodge, A. M., Love, B., Grandgenett, N., & Swift, A. (2014). _Online learning: Common misconceptions, benefits and challenges._ Nova Science Publishing.
 
-## Class sessions
+Means, B., Bakia, M., & Murphy, R. (2014). _Learning online: What research tells us about whether, when and how._ Routledge.
 
-### Introduction to online, blended and web-enhanced learning
+Nilson, L. B., & Goodson, L. A. (2017). _Online teaching at its best: Merging instructional design with teaching and learning research_. John Wiley & Sons.
 
-Students will be introduced to the basic tenets of online, blended and
-web-mediated learning. They will explore the use of this type of
-learning and instructional delivery in both higher education and K-12
-environments. Students will be introduced to The Sloan Consortium
-([http://sloanconsortium.org](http://sloanconsortium.org/)) which they
-will use throughout the semester as a source to go to for data, best
-practices and general research on online learning for higher education.
+Yan, D., Von Davier, A. A., & Lewis, C. (Eds.). (2016). _Computerized multistage testing: Theory and applications._ CRC Press.
 
-*Readings due: Patrick, ch 1*
+Class Schedule
+--------------------------------------------------------------------------------
+<div class="row text-center font-weight-bold border">
+<div class="col-md-1">Week</div>
+<div class="col-md-2">Topics</div>
+<div class="col-md-7">Readings</div>
+<div class="col-md-2">Due</div>
+</div>
 
-### Evaluation of online, blended and web-enhanced models
+<div class="row border"><div class="col-md-1 text-right">1</div><div class="col-md-2"><strong>Introduction</strong></div>
+<div class="col-md-7">
 
-Students will compare and contrast the different types of learning to
-determine the pros, cons and future potentials for teaching and
-learning. Students will also evaluate what online, blended and
-web-enhanced learning means for educational institutions in terms of
-cost, technical infrastructure, faculty/teacher development,
-student/faculty/teacher support and profit.
+- Syllabus (this page)                                      
+- Moodle (this website)
+- Tutorials
+- Progress Report (shared with your Adelphi student account)
 
-*Readings due: Patrick, ch 2*
+</div>
+<div class="col-md-2">Syllabus Quiz</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">2</div><div class="col-md-2"><strong>Foundations</strong></div>
 
-### The notion of anytime and anyplace learning
+<div class="col-md-7">
 
-Students will look at and challenge the notion of where learning occurs.
-Can it take place at anytime and at anyplace or must it be within the
-confines of a brick and mortar building/classroom? What are the
-challenges of maintaining a quality education as learning is moved
-beyond the walls of the classroom? How have new mobile technologies
-allowed us to learn and teach beyond the classroom?
+- Bender (2012) Paradigm lost                               
+- **one** of these topics:
+  - K-12: Means et al (2014) Blending teacher and online
+    instruction in K-12 schools and Ferdig et al (2015)
+    Research into K-12 online and blended learning
+    (both readings)
+  - Learning theory: Bender (2012) Rethinking learning
+    theory within the online class
+  - Out-of-school learning: Means et al (2014)
+    Interest-driven learning online
+  - Higher education: Means et al (2014)
+    Online and blended learning in higher education
 
-*Readings due: iNACOL*
+</div>
+<div class="col-md-2">Register a [SnatchBot](https://snatchbot.me/) account</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">3</div><div class="col-md-2"><strong>Flipped Classrooms</strong></div>
 
-### Technology for online and blended learning
+<div class="col-md-7">
 
-Students will explore the different types of technologies used by higher
-ed and K-12 institutions to deliver courses and to connect and engage
-students. Students will look at the use of both proprietary and open
-source course/learning management systems and will review the strengths
-and weaknesses of each. Students will also look at the use of blogs,
-wikis and social networking tools for maintaining class connection and
-interactivity.
+- Flipped Classrooms
+- Lowenthal et al (2014) Benefits and challenges of flipping the learning of procedural knowledge
+- Tabert (2017) The history and theory of flipped learning
 
-*Readings due: Ragan, Part I: Getting Started*
+</div></div>
+<div class="row border"><div class="col-md-1 text-right">4</div><div class="col-md-2"><strong>Multimedia Theory</strong></div>
 
-### Technology for online and blended learning - part 2
+<div class="col-md-7">
 
-Students will explore the different types web conferencing applications
-such as Adobe Connect Pro and Skype and Second Life as well as
-videoconferencing tools for real-time meetings. Students will also
-explore the use of web-based video such as iTunesU, podcasting and
-textbook video resources.
+- Clark and Mayer (2016) Applying the Multimedia Principle
+- **one** of these chapters:
+  - Clark and Mayer (2016) Applying the Contiguity Principle
+  - Clark and Mayer (2016) Applying the Modality Principle
+  - Clark and Mayer (2016) Applying the Redundancy Principle
+  - Clark and Mayer (2016) Applying the Coherence Principle
 
-*Readings due: Ragan, Part II: During Teaching*
+</div></div>
+<div class="row border"><div class="col-md-1 text-right">5</div><div class="col-md-2"><strong>Instructional Design</strong></div>
 
-### Online, blended and web-enhanced kearning in k-12 and higher education
+<div class="col-md-7">
 
-Students will explore, compare and contrast online, blended and
-web-enhanced learning in K-12 and higher education. Why are these types
-of learning important, what are the challenges and what is the purpose.
+- Nilson and Goodson (2018) Setting significant outcomes
+- Nilson and Goodson (2018) Designing a coherent course
+- Nilson and Goodson (2018) Applying cognitive science to online teaching and learning strategies
 
-*Readings due: Patrick, ch 3*
+</div>
+<div class="col-md-2">Narrated Tutorial</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">6</div><div class="col-md-2"><strong>Universal Design</strong></div>
+<div class="col-md-7">
 
-### Virtual schools
+- Novak and Thibodeau (2016) The case for better online course design
+- Novak and Thibodeau (2016) Fewer barriers, more support: UDL guidelines in action
 
-This session looks at the movement to create "virtual schools";
-examining the process of creating an entire school experience online —
-not just some of the instructional and course components.
+</div></div>
+<div class="row border"><div class="col-md-1 text-right">7</div><div class="col-md-2"><strong>Foundations</strong></div>
+<div class="col-md-7">
 
-*Readings due: DiPietro; Hew*
+- Davidson-Shivers and Reese (2014) Are online assessments measuring student learning or something else?
+- Yan et al (2014) Overview of computerized multistage tests
 
-### Student centered learning
+</div>
+<div class="col-md-2">Adaptive Quiz</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">8</div><div class="col-md-2"><strong>Social Presence</strong></div>
 
-This session will cover how we teach students in online, blended and
-web-enhanced environments. Students will learn to design instruction for
-online, blended and web-enhanced environments that is student centered,
-interactive and incorporate active learning.
+<div class="col-md-7">
 
-*Readings due: Patrick, ch 4 & 5*
+- Bender (2012) Discussion-based online teaching to enhance student learning
+- Novak and Thibodeau (2016) Cultivating "instructor presence" to support engagement
 
-### Interactivity, communication and active learning
+</div></div>
+<div class="row border"><div class="col-md-1 text-right">9</div><div class="col-md-2"><strong>MOOCs</strong></div>
 
-Students will learn how to design curriculum for online, blended and
-web-enhance environments that incorporates interactivity, communication
-and active learning.
+<div class="col-md-7">
 
-*Readings due: Patrick, ch 9*
+- Bell (2015) The fairy tail MOOC
+- Rhoads (2015) The rise of the MOOC
 
-### Differentiation and special needs
+</div>
+<div class="col-md-2">MOOC</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">10</div><div class="col-md-2"><strong>Bots</strong></div>
+<div class="col-md-2">Chatbot</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">11</div><div class="col-md-2"><strong>Prototyping I</strong></div>
+<div class="col-md-7">Present your Prototype or participate in two of your peers' units.</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">12</div><div class="col-md-2"><strong>Prototyping II</strong></div>
+<div class="col-md-7">Present your Prototype or participate in two of your peers' units.</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">13</div><div class="col-md-2"><strong>Prototyping III</strong></div>
+<div class="col-md-7">Present your Prototype or participate in two of your peers' units.</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">14</div><div class="col-md-2"><strong>Final Run I</strong></div>
+<div class="col-md-7">Present your mini-unit or participate in two of your peers' units.</div>
+</div>
+<div class="row border"><div class="col-md-1 text-right">15</div><div class="col-md-2"><strong>Final Run II</strong></div>
+<div class="col-md-7">Present your mini-unit or participate in two of your peers' units.</div>
+</div>
+<div class="row border mb-2"><div class="col-md-1 text-right">16</div><div class="col-md-2"><strong>Final Run III</strong></div>
+<div class="col-md-7">Present your mini-unit or participate in two of your peers' units.</div>
+</div>
 
-Students will learn how to design online, blended and web-enhanced
-instruction that incorporates differentiation for multiple intelligences
-and special needs.
+Assignments
+--------------------------------------------------------------------------------
+### Narrated Tutorial
+Create a short (3-5 minute) standalone, narrated video tutorial or mini-lecture
+and upload it to YouTube. This video should be clearly narrated and thoughtfully
+designed, following the principles of Multimedia Theory and using an appropriate
+mix of multimedia (text, visual, audio, etc.) components. The video should also
+have subtitles (auto-generated captions don't count), which you can create in
+YouTube. The topic is up to you, but it should be educational and/or
+informative. You are encouraged to pick one that you might use for your
+mini-unit (see below) or in a future lesson. The video can easily be created
+using applications such as PowerPoint or Keynote, or a screencast application
+like Screencastify, Quicktime Player or similar application. While you can use
+clips from other content, most of the video should be original.
 
-*Readings due: Patrick, ch 8*
+### Adaptive Quiz
+Adaptive quizzes are quizzes that adjust its questions based on the answers
+provided, and they can be a powerful way to do pre-assessments and mid-unit
+checkpoints. For this assignment, design a quiz using Google Forms (or
+comparable application) or the quiz function in a learning management system
+(e.g., Moodle, Canvas) with a branching question structure that adapts to the
+user's abilities. The quiz should be functional and meaningfully adaptive (i.e.,
+the branching logic makes sense). Like the narrated tutorial, the topic is up to
+you but it should work as an assessment tool. Avoid "personality tests" (e.g.,
+the ones you see on Buzzfeed) that sort users into arbitrary categories. The
+quiz should be able to sort test-takers into two distinct levels. It should also
+be at least five questions deep; in other words, each test-taker should have to
+answer at least five questions. In addition to submitting the quiz, please also
+submit a map of the questions that shows all the questions and short rationale
+on why you designed the adaptive quiz in the way you did. As a class, you will
+be testing one another's adaptive quizzes to make sure they are properly
+designed.
 
-### Assessment
+### Chatbot
+Chatbots are automated bots with multiple uses, most commonly to answer
+frequently asked questions. Using SnatchBot, design a simple, functional chatbot
+that you can use in your class, mini-unit or workplace. Here's one I designed to
+show you what it can do. Your chatbot should be able to handle at least three
+questions that can be asked in any order. The interaction with the bot should be
+reasonably coherent, so the conversation should not end abruptly. You can build
+on what you did for your adaptive quiz or design a chatbot that does something
+different. We will have time during the semester to play around with SnatchBot.
+In addition to the chatbot, submit a short summary of how your chatbot can be
+used. Include the Bot scheme that you can save from the application. As a class,
+you will be testing each other's chatbot for functionality. Up to +15 Power Ups
+for chatbots that can answer more questions, that use some of its more advanced
+features (e.g., variables, operations), and particularly well-designed.
+Throughout the semester, I will provide you with walkthroughs to help you get
+started. The guides provided by Snatchbot are actually very good and easy to
+follow. As you become familiar with the tool, you should play around with it
+yourself and, if you get stuck and can't figure it out, you can let us know.
+Start by asking your fellow peers for help first!
 
-Students will learn about assessing students in online, blended and
-web-enhanced learning environments.
+### MOOC
+MOOCs stand for massive open online courses, which are online courses that you
+can often take for free, often offered by reputable institutions and
+organizations. For this assignment, audit a free course from edX on any topic
+you want; I recommend the self-paced ones. You don't have to finish the course
+but you should go through some of the activities. These courses are not as
+intense as a credit-bearing course so if you spend at least 15-30 minutes per
+week on this course, you should be fine. The purpose of this assignment is to:
+1) give you direct experience with MOOCs prior to the readings and 2) give you
+an idea of how online courses are organized (beyond this class). You will turn
+in a short (3-4 page double-spaced) paper that briefly (~1 page) discusses what
+you learned, then make connections to the readings and topics from this course
+(~2-3 pages). Include a PDF of the Progression page on EdX to show how far you
+got. It should show you completed at least two modules and passed at least one
+of them. Note: It's free to audit these courses and that's all you need to do
+for this assignment. You will lose access to the course six weeks later, though,
+so keep an eye on the date and make sure you have all you need to complete this
+assignment before you lose access. For example, if you forget to get the PDF
+from the Progress page, then there's nothing we can do about it.
 
-*Readings due: Quality Matters*
+### Mini-Unit
+The online mini-unit constitutes the biggest part of your grade and is split
+into two phases: Prototype and Final Run. Together these will take up roughly
+the last six weeks of the semester. During the Prototype phase, you will run a
+rough and/or partial version of your mini-unit, and the rest of the class will
+enroll as students. We will give you feedback that you will use to revise for
+the Final Run, which will have to be polished. You will get feedback again that
+you can use to revise it one more time. The mini-unit is a culmination of all
+the readings and assignments you did in this class. It should be a
+self-contained, complete unit that would take up roughly 3 hours of a student's
+time. This means you shouldn't have students watch a 3-hour long video or read a
+novel, as it would take up too much time; nor should it be too short. If your
+unit is intended for a younger audience, let us know and we can adjust our
+expectations. The mini-unit can be about something you might teach in class or
+it could be something fun that works well as an online unit. The unit should
+contain assessment(s) that checks for understanding. It should also contain some
+logical progression, so it shouldn’t be just a single lesson or tutorial.
+Finally, it should be designed for a minimum of 15 students. You won't have that
+many enrolled in this class but it should be designed to accommodate at least 15
+students.
 
-### Teacher professional development
+#### Prototype
 
-Students will learn about professional development for
-teachers/professors teaching in online, blended and web-enhanced
-environments. Students will learn about what core competencies
-teachers/professors should have before teaching in online or blended
-courses.
+For the three weeks starting April 6, one third of you will teach a prototype of
+your mini-unit while the read of us enroll as students. The prototype can be a
+rough version of the unit or just a partial number of lessons. It should be
+enough for us to evaluate whether it is headed in the right direction and
+whether it adequately reflects your understanding of the topics covered in the
+class. At the very least it should have activities to do and it should be built
+on a platform of your choice. As the unit designer, you will be in charge of
+running the unit as the instructor. If you are not presenting that week, then
+you should enroll in two of your peers' units that week; this should give
+everyone plenty of feedback. Don't use Edmodo: Although some of you may be
+familiar with Edmodo, the way it is designed makes it difficult to differentiate
+between different classes. Here's one done on Weebly that is quite well
+designed. Students have also used Moodle, Canvas, and Schoology in the past.
 
-*Readings due: Patrick, ch 10*
+Your Prototype will be evaluated based on whether the part you presented was
+functional and ready; whether you had sufficient interaction with your students;
+and whether it demonstrated an understanding of design principles we discussed,
+especially Multimedia Theory and Universal Design. If you are a student, your
+participation will be evaluated by the unit designer; this grade will go towards
+your participation grade that week. Participating as a student means getting
+involved in the activities, not just looking at the website.
 
-### Curriculum development
+#### Final Run
 
-Students will learn about the best practices for designing online,
-blended and web-enhanced curriculum.
+After your Prototype has run, go through the comments you received and list 3-5
+of the main, recurring themes that you want to address. As the unit designer,
+you can choose to accept or reject any comments, provided you give a rationale.
+This should be turned in as part of your Final Run. (Approximate length: 1-2
+pages double-spaced).
 
-*Readings due: Ragan, Part III: Putting It All Together*
+The Final Run will occur three weeks after you present your Prototype. That
+means if you presented your Prototype first, you will do the Final Run first as
+well. The upside of that is you will have a lot more time to polish it before
+you turn it in. It should be a fully functional mini-unit. Everything - the
+activities, the discussions, the assessments - should work. Your evaluation will
+be based on whether the mini-unit as a whole was cohesive, had a logical
+progression in topics, had meaningful assessments that let students know how
+they are doing, was thoughtfully designed and straightforward to navigate. After
+your unit has run, collect the feedback again and do any additional revisions
+you want. You will turn in the mini-unit at the end of the semester. As with the
+Final Run, it should come with a short (1-2 pages double-spaced) description of
+what feedback you used or rejected. It should also point me to any changes you
+made since the Final Run.
 
-### Politics of online and blended learning
+### Participation
 
-Students will look at the various issues surrounding online and blended
-learning. Issues such as profit, quality of education, classroom space
-issues and quality of teachers/professors will be investigated.
+This is a graduate course where you are expected to complete weekly readings and
+fully participate in discussions in class and on Moodle. In order for the
+discussion to flow smoothly online, you should respond to the forum discussion
+by the dates noted on the syllabus, and spend the remainder of the week
+responding to what your peers have posted. Your responses to your peers should
+be thoughtful, critical and substantive. Your participation grade will be based
+on the timeliness and quality of your posts, your responses to your peers, and
+any other activities that might be associated with the week. Your participation
+grade is given out on a weekly basis. You can track your participation grade
+through your Progress Report. Late or missed points cannot be made up, although
+you can earn points through Power Ups. Any participation posted two days after
+the deadline cannot be made up. Participation points can only be made up through
+doing bonus assignments through Power Ups.
 
-*Readings due: Patrick, ch 11*
+### Power Ups
 
-### Final presentations
-
-## Grading and Assessment
-
-### Class Participation (15%)
-
-Students will be assessed on the quality and depth of class discussions,
-as carried out through synchronous and asynchronous online activities.
-Class participation will be based on weekly session topics and
-collaborative work with class members.
-
-### Reflection/Response Papers (50%)
-
-Students will be asked to respond to a special topic or issues related
-to weekly topics by way of a reflection paper. The instructor will
-review these papers to evaluate student mastery of the course goals, and
-will provide written feedback to indicate how students can improve their
-reflection as the semester progresses.
-
-**Sample questions for reflective papers:**
-
--   **(session 2)** Which types of students do you think benefit the
-    most for *asynchronous* online classes, where students do not need
-    to “meet” online/virtually at any set time? Which type of learners
-    would find this format the most challenging?
--   **(Session 3)** Can students learn core content at anytime and at
-    anyplace? Do you think it is best that they learn this content
-    outside of the classroom or within the classroom? What are the
-    challenges of maintaining a quality education as learning is moved
-    beyond the physical classroom?
--   **(session 7)** Would you like to attend a fully virtual school, as
-    a student? Would you like to work in one as a teacher? Referring to
-    the cases we have read about, explain why or why not.
--   **(session 9)** As a current or future teacher, what do you think
-    are the challenges of supporting robust collaboration and
-    professional development when working in a primarily online or
-    virtual school?
-
-### Final Culminating Project (35%)
-
-Students will write a design plan for implementation of an online,
-blended or virtual program. Students will integrate all of the
-components learned in this class, including plans for program/course
-design, student interactivity and communication, student assessment,
-program assessment, technical infrastructure, learning technologies,
-cost, faculty/teacher development and student/faculty/teacher support.
+Power Ups give you a chance to earn extra credit points. Specific ways that you
+can earn (and lose!) points are described in the Progress Report. Power Ups are
+translated into levels. The higher the level, the more Power Ups you will need
+to level up (like in a video game). You can get as much as five extra points
+added to your final grade if you reach Level Five. Power Ups are given at the
+instructor's discretion.

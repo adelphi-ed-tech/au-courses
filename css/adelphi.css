@@ -82,6 +82,14 @@ blockquote
 }
 
 
+section.level2 h2, section.level3 h3 {
+  margin-left: -1.5em;
+}
+
+section.level2, section.level3 {
+  margin-left: 1.5em;
+}
+
 .figure
 {
     border-top: 2px solid black;
