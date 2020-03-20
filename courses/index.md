@@ -103,7 +103,7 @@ to complete a software/hardware project.</p>
 <div class="card col-md-3 m-1 p-0">
 <img src="img/nexus.png" class="card-img-top" alt="adelphi nexus building">
 <div class="card-body">
-<h4 class="card-title">✪ EDT 610 Online Learning</h4>
+<h4 class="card-title">✪ [EDT 610 Online Learning](online-ed.html)</h4>
 <p class="card-text">lorem</p>
 </div>
 </div>
