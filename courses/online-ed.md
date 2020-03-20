@@ -162,6 +162,7 @@ Class Schedule
 <div class="col-md-2">MOOC</div>
 </div>
 <div class="row border"><div class="col-md-1 text-right">10</div><div class="col-md-2"><strong>Bots</strong></div>
+<div class="col-md-8"></div>
 <div class="col-md-2">Chatbot</div>
 </div>
 <div class="row border"><div class="col-md-1 text-right">11</div><div class="col-md-2"><strong>Prototyping I</strong></div>
