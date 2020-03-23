@@ -174,8 +174,6 @@ Your workshop should:
 2. Demonstrate the key techniques of the tool. In order to show the tool, you
    might need to prepare some work in several different stages, in the interest
    of time.
-3. Wrap up the workshop by re-stating the main principles and highlighting
-   examples of the work of the participants.
 
 Please post your tutorial as a single multimedia video (on YouTube) and post
 the link in our "multimedia tutorial" discussion forum (with its own title).
