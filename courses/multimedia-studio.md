@@ -123,7 +123,7 @@ briefing                  10%
 workshop                  10%
 multimedia on multimedia  10%
 pitch                     10%
-mid-term critique         20%
+critique                  20%
 final project             30%
 
 ### Participation
@@ -159,11 +159,11 @@ principles you are discussing in the design of your presentation.
 - **multimedia 2:** chapters 6 & 7
 - **multimedia 3:** chapters 8, 9, & 10
 
-### Workshops
+### Workshops: multimedia tutorial
 
 Choose a multimedia authoring tool that you know well or want to become expert
-in. Prepare an hour-long workshop that you will lead for your peers on using
-this tool. If it is a large or complex tool (GIMP, Tableau), then choose a specific
+in. Design a 10-15 minute tutorial that describes how (and why/when) to use it.
+If it is a large or complex tool (GIMP, Tableau), then choose a specific
 feature or technique to cover.
 
 Your workshop should:
@@ -174,20 +174,13 @@ Your workshop should:
 2. Demonstrate the key techniques of the tool. In order to show the tool, you
    might need to prepare some work in several different stages, in the interest
    of time.
-3. Design an activity for the workshop participants to complete. The activity
-   should account for the fact that some students will not know anything about your
-   tool/methods and others will be as expert as you are. Accordingly, you might let
-   the participants choose from several topics or challenges, or you can design a
-   more open ended activity with a low floor and high ceiling. If we need to
-   install any software prior to the workshop, you must post this before class.
-4. Wrap up the workshop by re-stating the main principles and highlighting
+3. Wrap up the workshop by re-stating the main principles and highlighting
    examples of the work of the participants.
 
-If you are doing an online workshop, in Step 1, you will post a multimedia
-slideshow. In Step 2, you will present either a screencast or live action video
-of the demonstration. In step 3, you will support the students while they work
-on the activity over Slack and other channels (email, shared docs, etc). Your
-final comments (step 4) can be posted in writing, audio, or video.
+Please post your tutorial as a single multimedia video (on YouTube) and post
+the link in our "multimedia tutorial" discussion forum (with its own title).
+Monitor the forum for feedback and questions regarding your tool.
+
 
 Multimedia project
 ------------------
@@ -232,11 +225,11 @@ be required to make your point.
 
 Plan for a 5 minute presentation.
 
-### Midpoint critique
-You will formally present your work to date to get feedback from the instructor
+### Critique
+You will formally present your work in progress to get feedback from the instructor
 and your peers. You should have a solid plan for completing the project.
 
-**Midpoint and Final Evaluation Criteria**
+**Critique and Final Evaluation Criteria**
 _Refer to these criteria for the evaluation of your multimedia project._
 
 #### Originality & innovation
