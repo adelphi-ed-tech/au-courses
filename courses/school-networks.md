@@ -8,7 +8,7 @@
 <div class="row">
 <div class="col-6">
 
-**0858-606, Summer 2019**
+**0858-606, Summer 2020**
 
 **Description:** From a foundation of computer networks and systems, this course
 expands to cover instructional technology infrastructure: file systems, users,
@@ -52,7 +52,7 @@ Class Information
   ~ Christian Correa <correa@adelphi.edu>
 
 **Class dates:**
-  ~ Tuesday, May 28 - Monday, July 1
+  ~ Tuesday, May 26 - Monday, June 29
 
 **Lab sessions:**
 
@@ -148,6 +148,8 @@ Raspberry Pi
 Every student _must_ purchase a Raspberry Pi (RPI) computer and accessories
 for use in this course. You will keep your own hardware.
 
+Please review the class welcome email, which contains more comprehensive info regarding these items.
+
 The core setup **required** for all students (~$50):
 
 - Raspberry Pi model 3 B+ [Buy on Ada Fruit](https://www.adafruit.com/product/3775)
@@ -184,14 +186,24 @@ Books & Resources
 Class sessions
 ==============
 
-Session   Date         Topic            
+Week      Date         Topic            
 -------   -----------  -------------------------------------
-   1	    Tue, May 28	 Computers & Operating Systems
-   2	    Tue, Jun 4	 The Command Line
-   3	    Tue, Jun 11	 Users, Groups, Files, & Permissions
-   4	    Tue, Jun 18	 Networks
-   5	    Tue, Jun 25	 Ethics
-   6	    Mon, Jul 1	 DIY Project Due
+   1	    Tue, May 26	 Computers & Operating Systems
+          Wed, May 27    Live Session: 6:30pm - 8:30pm EST
+          Mon, Jun 1     Live Session: 6:30pm - 8:30pm EST
+   2	    Tue, Jun 2	 The Command Line
+          Wed, Jun 3    Live Session: 6:30pm - 8:30pm EST
+          Mon, Jun 8    Live Session: 6:30pm - 8:30pm EST   
+   3	    Tue, Jun 9	 Users, Groups, Files, & Permissions
+          Wed, Jun 10    Live Session: 6:30pm - 8:30pm EST
+          Mon, Jun 15    Live Session: 6:30pm - 8:30pm EST   
+   4	    Tue, Jun 16	 Networks
+          Wed, Jun 17    Live Session: 6:30pm - 8:30pm EST
+          Mon, Jun 22    Live Session: 6:30pm - 8:30pm EST   
+   5	    Tue, Jun 23	 Ethics
+          Wed, Jun 24    Live Session: 6:30pm - 8:30pm EST  
+   6	    Mon, Jun 29	 DIY Project Due
+                         Live Session: 6:30pm - 8:30pm EST
 
 
 Grades & Assignments
@@ -200,8 +212,8 @@ Grades & Assignments
 Assignment                  Pct      Due
 ---------------             ------   ----
 Participation               20%      ongoing
-RPI Client or Server Setup  40%      6/17
-DIY Project                 40%      7/1
+RPI Client or Server Setup  40%      6/15
+DIY Project                 40%      6/29
 
 
 Participation
