@@ -37,9 +37,9 @@ a [**2 credit thesis** or thesis project which they design with their thesis adv
 </div>
 
 <div class="card col-md-3 m-1 p-0">
-<img src="img/js.png" class="card-img-top" alt="JS on a yellow field">
+<img src="img/python-logo.png" class="card-img-top" alt="Python intertwined snakes and text on white field">
 <div class="card-body">
-<h4 class="card-title">✔ [CSC 602 Introduction to Computer Programming](intro-to-programming.html)</h4>
+<h4 class="card-title">✔ [CSC 602 Introduction to Computer Programming](intro-to-programming_python.html)</h4>
 <p class="card-text">This course introduces students to programming and
 some core concepts of computer science, using a modern, object oriented
 programming language. Students learn concepts of

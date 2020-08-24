@@ -48,6 +48,9 @@ Learning Goals
 * use technical documentation, APIs, and the internet to learn new technical concepts
 * develop step-by-step problem solving and debugging practices
 
+<img src="img/python-logo.png" class="d-block img-fluid" alt="Python intertwined snakes and text on white field">
+
+
 Required Text
 =============
 
