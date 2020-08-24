@@ -20,23 +20,21 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 
 **Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, Python
 
-**Description:** This course introduces students to programming and 
+**Description:** This course introduces students to programming and
 some core concepts of computer science, using a modern, object oriented
-programming language (currently Python). Students learn concepts of 
-variables, functions, repetition/loops, basic data structures 
+programming language (currently Python). Students learn concepts of
+variables, functions, repetition/loops, basic data structures
 (arrays, lists, hashtables), and basic object oriented programming.
 
-**Class meetings:** Tues. 6:30-8:20PM, Gallagher Lab, Swirbul Library (Garden City)
+**Class meetings:** Online, asynchronous (coordinated through Moodle)
 
 **Instructor**
 
 * [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
-* [Post Annex, Room 1](http://goo.gl/maps/XReYB "Where is Post Annex? click the link to see it on a map")
 
 **Dr. Curinga's Office Hours**
 
-* Monday, 3-5:00PM
-* Tuesday, 3:30-4:30PM, 8:30-9:30PM
+* Monday, 3-5PM
 * Wednesday, 3-5PM
 * by appointment
 
@@ -44,18 +42,18 @@ Learning Goals
 ===========================
 
 * understand the types of problems that can be solved using computational techniques
-* understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections) 
-* learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion) 
-* think algorithmically to design and test computer programs 
-* master the basic syntax and idioms of the Python programming language 
-* use technical documentation, APIs, and the internet to learn new technical concepts 
+* understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections)
+* learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion)
+* think algorithmically to design and test computer programs
+* master the basic syntax and idioms of the Python programming language
+* use technical documentation, APIs, and the internet to learn new technical concepts
 * develop step-by-step problem solving and debugging practices
 
 
 Required Text
 ==========================================================================================
 
-[_Think Python: How to think like a computer scientist. (Adelphi 2015 Edition)_](http://www.auedtech.org/think-python)
+Downey, A. B. (2016). [_Think Python: How to Think Like a Computer Scientist, Version 2.4.0_](http://greenteapress.com/thinkpython2/html/index.html). Green Tea Press.
 
 Readings & Bibliography
 ==========================================================================================
@@ -63,7 +61,7 @@ Readings & Bibliography
 _This is a selected bibliography of computer science and Python texts and other materials
 that you may explore as references or further reading. Many weekly readings will come
 from these materials. Specific readings will be posted on Moodle for each week._
- 
+
 Alvarado, C., Dodds, Z., Kuenning, G., & Libeskind-Hadas, R. (2013). [_CS for All_](http://www.cs.hmc.edu/csforall/).
 Claremont, CA: Harvey Mudd College.
 
@@ -71,7 +69,7 @@ Barry, P. (2009). _Head first programming: [a learner’s guide to
 programming using the Python language]_. Beijing ; Sebastopol,
 CA: O’Reilly.
 
-Downey, A. (2012). _Think Python_. Sebastopol, CA: O’Reilly. 
+Downey, A. (2012). _Think Python_. Sebastopol, CA: O’Reilly.
 [free](http://www.greenteapress.com/thinkpython/html/index.html)
 [py v3](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf)
 
@@ -82,83 +80,106 @@ Pilgrim, M. (2009). [_Dive into Python 3_](http://www.diveinto.org/python3/index
 Zelle, J. (2010). _Python Programming: An Introduction to Computer
 Science_. Franklin, Beedle & Associates Inc.
 
-Technology Requirements
-==========================================================================================
 
-Everyone will need access to a Python development environment at home in order to complete
-the homework and project assignments. We will be using the following core tools:
+Required Software/Online Accounts
+=================================
 
-- [Python 3](https://www.python.org/downloads/): the python language, you may have an earlier version installed (e.g. Python 2.7), but you will need Python 3 (Python 3.3, 3.4, etc) for this course
-    * you should be able to execute python scripts and the python interpreter from a command prompt
-- [Sublime Text 3](http://www.sublimetext.com/3): This is a programmer's text editor and we will use it to write our Python programs
-- [Slack](https://auedtech.slack.com): team communication/chat software that we will use to ask and answer questions when we get stuck, this is also the preferred way to contact me with course related questions. For private concerns, you can email me. You will have to [register on our slack team using your adelphi email](https://auedtech.slack.com). There are Windows, Mac, iOS, and Android clients, as well as the web client.
-- (optional) [iPython](http://ipython.org/install.html): a better interactive python shell
+- Software
+  - [Slack Client](http://slack.com) (recommend desktop and mobile clients)
+  - [Atom Editor](https://atom.io/)
+  - Firefox or Chrome web browser
+- Accounts
+  - [repl.it](https://repl.it)
+  - [AU Ed Tech Slack channel #code](https://auedtech.slack.com/signup)
+
+Required Hardware
+==================
+For the more in depth labs and projects, we will be designing and
+programming "skills" for the M[yCroft AI voice assistant.](https://mycroft.ai)
+MyCroft is like an open source Alexa or Siri. In order to work on your project,
+you will need a Raspberry Pi, microphone, and speakers, as well as display, keyboard, and mouse to work with the Pi. You can use any suitable
+hardware that you already have from the list below, but we also recommend
+certain items if you are purchasing new hardware.
+
+I am posting links to the items on SparkFun and Amazon. You should be able to get most or all of the items locally, at [MicroCenter](https://www.microcenter.com/) (which may be the easiest option).
+
+- Raspberry Pi model 3 or 4, recommended Raspberry Pi 4 (2GB) [SparkFun](https://www.sparkfun.com/products/15446) [Amazon](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27)
+- a microphone that works with Raspberry Pi, recommended ReSpeaker 4-Mic Array [SparkFun](https://www.sparkfun.com/products/14645) [Amazon](https://www.amazon.com/seeed-Studio-ReSpeaker-4-Mic-Raspberry/dp/B076SSR1W1/)
+- micro hdmi cable [SparkFun](https://www.sparkfun.com/products/15796) [Amazon](https://www.amazon.com/dp/B07VRCK5W1/)
+- two (2) 16GB micro SD cards [Amazon](https://www.amazon.com/Micro-Center-Class-Memory-Adapter/dp/B07K81Z6DF/) (these are 32GB, but they're a good deal)
+
+You probably have these items already:
+
+- tv or computer monitor with HDMI input
+- USB-C power cord (like a USB-C phone charger)
+- USB or Bluetooth Mouse / Keyboard
+
 
 Class meetings
 ==========================================================================================
 
-All students are expected to come on time and prepared for class. You may
-bring your own laptop to class, or use one of the lab computers for your work.
-If you need source files to work on in class, you are responsible for bringing
-them or making them available online. It is recommended that you bring a USB
-flash drive or set-up Google Drive or Dropbox to manage your files for this
-course.
+This is a fully online class, which will run on a Tuesday-Tuesday schedule,
+meaning new topics will begin each Tuesday, and assignments will be due by end
+of day on Monday. There will be a live video session lab held every-other Tuesday.
+No new topics will be covered in these labs that aren't also in course materials,
+but they will give students the chance to ask questions and receive quick feedback
+on practice problems.
 
-Session Week    Topic                                  Read         Due
-------- ------  -------------------------------------  -----------  -------------------
-      1 1-Sep   Critical Computational Thinking        -            -
-      2 8-Sep   Variables & Statements (Math)          TIP 1 & 2    Quiz 1
-      3 15-Sep  Functions                              TIP 3 & 4    Quiz 2
-      4 22-Sep  Conditionals                           TIP 5        Quiz 3
-      5 29-Sep  Iteration/Loops                        TIP 6        Quiz 4
-      6 6-Oct   Lists                                  TIP 7        Quiz 5
-      7 13-Oct  Review                                 -            Quiz 6
-      8 20-Oct  Midterm                                -            **In Class Midterm**
-      - 27-Oct  Lists and Tuples                       TIP 7 & 8    Midterm Code Review
-      9 3-Nov   Dictionaries & Sets                    TIP 8 & 9    Quiz 7
-     10 10-Nov  Content Analysis                       TIP 10 & 11  Quiz 8
-     11 17-Nov  Modules & Files                        TIP 12 & 13  Quiz 9
-     12 24-Nov  List Algorithms                        TIP 14       Quiz 10
-     13 1-Dec   Classes and Objects                    TIP 15       Code Review
-     14 8-Dec   Project Lab                            -            Code Review
-     15 15-Dec  Final Project Presentation             -            **Final Project**
+Week  Date    Topic                            Read   Due
+----  ------  -------------------------------  -----  -------------------
+   1  1-Sep   Critical Computational Thinking  TIP 1  -
+   2  8-Sep   Variables & Statements           TIP 2  -
+   3  15-Sep  Functions                        TIP 3  Quiz 1
+   4  22-Sep  Case Study 1: Hello World        -      MyCroft Thesis
+   5  29-Sep  Conditionals & Recursion         TIP 5  -
+   6  6-Oct   Fruitful Functions               TIP 6  -
+   7  13-Oct  Iteration                        TIP 7  Quiz 2
+   8  20-Oct  Strings                          TIP 8  -
+   9  27-Oct  Case Study 2: Attendance         -      MyCroft Prototype
+  10  3-Nov   Lists                            TIP 1  -
+  11  10-Nov  Dictionaries                     TIP 1  -
+  12  17-Nov  Tuples                           TIP 1  Quiz 3
+  13  24-Nov  Files                            TIP 1  -
+  14  1-Dec   Case Study 3: Random Groups      -      MyCroft Testing
+  15  8-Dec   Project Lab                      -      -
+  16  15-Dec  Final Projects Due               -      **Final Project**
 
-* TIP: [_Thinking in Python_](http://www.auedtech.org/think-python)
-* _For the "code reviews", we will check in on the progress of students final projects._
+* TIP: _Thinking in Python_
 
 Assignments and Grading
 ==========================================================================================
 
-Assignment              Pct
--------------------     -------
-Quizzes                 30%
-Midterm                 30%
-Final Project           40%
+Assignment     Pct
+-------------  -------
+Quizzes        60%
+Final Project  40%
+
+Lab Exercises
+-------------
+Most weeks there will be ungraded lab exercises where students can practice
+the new materials covered. In general, you should spend about one hour working
+on these exercises. If you understand the exercises, you will be on track with
+the course. There may be bonus problems that are a little bit more
+challenging, which are optional.
 
 Quizzes
---------------------------------------------------------
+-------
+Quizzes will consist of 5 questions, similar to the lab exercises. Each question
+is worth 4 points, with possible credit available. Roughly:
 
-There will be 10 pass/fail quizzes which will be completed 
-individually at the start of class. Quizzes consist of 1-5 short 
-answer programming questions drawn directly from the reading for the 
-week. Quizzes are designed to be passed easily by students who are 
-keeping up with the reading and the concepts in the course, and will 
-help students and the instructor maintain a good pace for the 
-development of the course.
+- 4 points for a complete working solution
+- 3 points for a solution that partially works or only doesn't work due
+  to minor bugs
+- 2 points for a partial solution that has some of the components needed for
+  the solution, but overall does not solve the problem
+- 0-1 points for non-functional code
 
-Midterm
---------------------------------------------------------
+Final Project: MyCroft Skill
+----------------------------
 
-There will be an in-class midterm for this course on session 8. The midterm will require most/all of the available class time. The exam will consist of a short answer section as well as a full program which will likely require several functions to solve. There will be no partial credit for short answers. The full program will be scored with partial credit. Students will choose from one of two possible problems for the long-answer. The exam will be "open book"—students can use their notes, online resources, the course text, code examples from class, etc. The only exception is that real-time communication between students, or between students and outside parties is prohibited during the exam (i.e. no Slack, IM, texting, IRC, posting new questions to forums, etc).
+During the course of the semester we will be learning about software design
 
-Final Project: Textual Analysis
---------------------------------------------------------
 
-For this project you will select a text or a collection of texts and write a
-program that uses computation to analyze the texts. It is up to you to both
-select the texts and to decide what type of analysis is "interesting."
-
-You should demonstrate the following in your code:
 
 #### Marking guide:
 
@@ -171,7 +192,7 @@ be evaluated on the following criteria:
    obvious, or is it worthy of analysis?
 
     - 3 points: the _question can not be easily answered without the aid of
-      software_ because it analyzes a large data set, involves 
+      software_ because it analyzes a large data set, involves
       tedious/repetitive tasks which are prone to error, or requires complex
       calculations. Further, the _question is interesting_—it tells us
       something that is not already established in research or provides
@@ -195,7 +216,7 @@ be evaluated on the following criteria:
         - data is separate from functionality
     - _functions_
         - abstraction through function parameters
-        - encapsulation through function parameters and return statements; 
+        - encapsulation through function parameters and return statements;
           use "pure functions" with zero-side effects
     - _design_
         - the program is organized through the use of functions
@@ -210,12 +231,12 @@ be evaluated on the following criteria:
           ``list``, ``dict``, ``tuple``, ``set``
         - use index/slice notation if needed
         - sort data structures
-   
+
     _Point values:_
 
     - 6-8 points: creates new functions that perform _new analysis_ not
       available in the ``content.py`` program provided by the instructor. The
-      program would easily be able to work on a different data set 
+      program would easily be able to work on a different data set
       (i.e. different input text files) to provide good results. Functions
       are consistent (in that the parameters expected and results
       returned work well with other functions in the program) and can be
@@ -234,7 +255,7 @@ be evaluated on the following criteria:
    template given to them? Is there evidence they read online docs or the course text to learn
    addition techniques to approach the problem?
 
-     - 4 points: in several places, the program use advanced features such 
+     - 4 points: in several places, the program use advanced features such
        as optional functional parameters, list comprehensions,
        advanced sorting techniques, object oriented programming, or string formatting functions; libraries
        are imported to improve code performance and clarity; content.py
@@ -262,7 +283,7 @@ be evaluated on the following criteria:
    runs, it should produce some type of report that sheds light on your
    hypothesis. It doesn't matter if your hypothesis was correct or not—after
    your program runs, the user should have more information to evaluate the
-   hypothesis. 
+   hypothesis.
 
        - 3 points: results give clear support for or against the
          hypothesis by providing relevant information and are formatted
@@ -271,7 +292,7 @@ be evaluated on the following criteria:
          hypothesis. they may not be formatted in a way that makes them
          easy to interpret or they may leave some ambiguity that could
          have been explored further in the code
-       - 1 point: some evidence is provided but it is difficult to 
+       - 1 point: some evidence is provided but it is difficult to
          interpret either due to formatting or the output achieved
        - 0 points: results do not shed any light on the question posed
 
@@ -279,7 +300,7 @@ be evaluated on the following criteria:
 
 You should turn in all files related to your project in a single
 archive (e.g., .zip, .tar, .7z). Project files _must_ contain your
-**Python program** and the data/text files you're analyzing. 
+**Python program** and the data/text files you're analyzing.
 The program must start with a comment where you identify:
 
 * the question you are investigating (i.e. your hypothesis)
@@ -292,89 +313,6 @@ will create a .zip archive of the project directory. Windows
 does not come with a compression utility by default. If you
 do not have one installed or are not sure, Adelphi IT
 recommends [7-zip, which you can download and use for free.](http://7-zip.org/)
-
-Here is an example header comment:
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{.python}
-# news.py
-# by: matt curinga
-"""
-Background:
-New York has 3 major daily newspapers:
-The New York Times, The Daily News, and The New York Post.
-
-It is commonly understood that the Times is written at
-higher level than the other dailies.
-
-Hypothesis:
-Computational analysis of articles will show that
-the Times is written at a higher level than the
-other two papers.
-
-Method:
-This program looks at four measures to compare
-the papers:
-
-1. Average sentence length
-2. Average word length
-3. Word diversity (unique words per 1k words)
-4. Average word frequency (computed against unique word frequency table)
-
-Results:
-The results of this program support the hypothesis in all
-four measures. The Times had longer sentences, longer
-words, greater word diversity, and lower frequency
-words.
-"""
-
-# the code would be here...
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-#### Text Resources
-Here are a few links to places online where you can find full texts to download.
-This list is by no means exhaustive, but with these links you can certainly
-find a suitable text for your project. If you are looking for something more
-specific, or want to work with a text that is not in the public domain
-or released under a permissive copyright license, please contact the course
-instructor.
-
-* [Project Gutenberg](http://www.gutenberg.org/) (out of copyright books, other stuff)\
-  Project Gutenberg has a very large collection of texts, mostly classic works
-  including novels, poetry, history, philosophy, etc. You can choose to download the
-  texts as a text file (UTF-8 or ASCII). You probably want to delete the Project Gutenberg
-  license and pre-amble stuff before you begin your analysis.
-* [Nexis-Lexis](http://libproxy.adelphi.edu:2048/login?url=http://www.lexisnexis.com/hottopics/lnacademic/?)\
-  Lexis-Nexis is a database of newspaper (and other news) articles, which affords a range
-  of search parameters. You can export the full text articles for more recent articles 
-  (published in the last 20 years or so). You will probably have to download
-  your articles in batches and copy-past them into one file for your analysis.
-  _You must log in to Adelphi follow this link_.
-* [JSTOR](http://libproxy.adelphi.edu:2048/login?url=http://www.jstor.org/cgi-bin/jstor/gensearch)\
-  JSTOR allows you to search a range of academic journal articles. You cannot
-  easily export the full text of the articles in one shot, but you can export
-  the titles and abstracts, which is often enough for interesting analysis.
-  Like Lexis-Nexis, _you must log in to Adelphi to follow the link_.
-  **Tips:** 
-  - use the basic search, which allows you to export abstracts and 
-    titles
-  - change the options to show 100 results at a time
-  - use the "select all" toggle to select the full page of results
-  - choose "Printer-friendly" as the export format
-  - copy-paste those results into one file
-  - repeat for next batch of 100 results 
-* [Library of Congress](http://www.loc.gov/rr/)\
-  The Library of Congress maintains a decent online
-  collection of materials, including the text of historical
-  documents and more.
-* [WikiSource](https://en.wikisource.org/wiki/Main_Page)
-  WikiSource contains the full text of documents on Wikipedia and elsewhere
-  there is a lot of overlap with Gutenberg, but it might be easier to find
-  and access the WikiSource documents.
-* [American Rhetoric Speech Bank](http://americanrhetoric.com/speechbank.htm)
-  I can't vouch for this source in particular, but they do have a collection
-  of famous speeches. Many/most of these are in the public domain, but this
-  might be a decent place to look for them, if you want to analyze speeches.
-
 
 #### Sample project ideas
 
