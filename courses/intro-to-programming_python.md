@@ -34,8 +34,8 @@ variables, functions, repetition/loops, basic data structures
 
 **Dr. Curinga's Office Hours by appointment**
 
-* Monday, 3-4PM
-* Thursday, 3-5PM
+* Wednesday, 4:30-5:30PM
+* Thursday, 4-5PM
 
 Learning Goals
 ===========================
@@ -96,33 +96,53 @@ You probably have these items already:
 Class meetings
 ==============
 
-This is a fully online class, which will run on a Tuesday-Tuesday schedule,
+This is a fully asynchronous online class, which will run on a Tuesday-Tuesday schedule,
 meaning new topics will begin each Tuesday, and assignments will be due by end
-of day on Monday. There will be a live video session lab held every-other Tuesday.
-No new topics will be covered in these labs that aren't also in course materials,
-but they will give students the chance to ask questions and receive quick feedback
-on practice problems.
+of day on Monday. There are no set meeting times, and there will not be
+Zoom or other video class sessions. You will be able to flexibly schedule your
+time within the week for each topic. Assignments will be submitted via Moodle
+and the coding website <https://repl.it>
 
-Week  Date    Topic                            Read   Due
-----  ------  -------------------------------  -----  -------------------
-   1  1-Sep   Critical Computational Thinking  TIP 1  -
-   2  8-Sep   Variables & Statements           TIP 2  -
-   3  15-Sep  Functions                        TIP 3  Quiz 1
-   4  22-Sep  Case Study 1: Hello World        -      Mycroft Concept
-   5  29-Sep  Conditionals & Recursion         TIP 5  -
-   6  6-Oct   Fruitful Functions               TIP 6  -
-   7  13-Oct  Iteration                        TIP 7  Quiz 2
-   8  20-Oct  Strings                          TIP 8  -
-   9  27-Oct  Case Study 2: Attendance         -      Mycroft Prototype
-  10  3-Nov   Lists                            TIP 10 -
-  11  10-Nov  Dictionaries                     TIP 11 -
-  12  17-Nov  Tuples                           TIP 11 Quiz 3
-  13  24-Nov  Files                            TIP 12 -
-  14  1-Dec   Case Study 3: Random Groups      -      Mycroft UX Testing
-  15  8-Dec   Working Session                  -      -
-  16  15-Dec  Final Projects Due               -      **Final Project**
+### Weekly topics
+
+Week  Date    Topic                        Read   Due
+----  ------  ---------------------------- -----  -------------------
+   1   Sep 1  The way of the program       TIP 1  -
+   2   Sep 8  Variables & Statements       TIP 2  -
+   3  Sep 15  Functions                    TIP 3  Quiz 1
+   4  Sep 22  Case Study 1: Hello World    -      Mycroft Concept
+   5  Sep 29  Conditionals & Recursion     TIP 5  -
+   6   Oct 6  Fruitful Functions           TIP 6  -
+   7  Oct 13  Iteration                    TIP 7  Quiz 2
+   8  Oct 20  Strings                      TIP 8  -
+   9  Oct 27  Case Study 2: Attendance     -      Mycroft Prototype
+  10   Nov 3  Lists                        TIP 10 -
+  11  Nov 10  Dictionaries                 TIP 11 -
+  12  Nov 17  Tuples                       TIP 11 Quiz 3
+  13  Nov 24  Files                        TIP 12 -
+  14   Dec 1  Case Study 3: Random Groups  -      Mycroft UX Testing
+  15   Dec 8  Working Session              -      -
+  16  Dec 15  Final Projects Due           -      **Final Project**
 
 TIP: _Thinking in Python_
+
+### Live labs
+In addition to the required weekly assignments, there will be several "live"
+labs schedule during office hours on Wednesdays (4:30-5:30). These live **sessions are
+optional**, but will offer additional help and hands-on demonstration of course
+concepts. Recordings of these sessions will be posted on the course website. If
+the health situation allows it, some of these later sessions may be shifted to
+flex (oline/in-person) sessions held at the Manhattan Center.
+
+The tentative schedule for live sessions:
+
+- 9/16: quiz 1 review
+- 9/30: setting up "picroft"
+- 10/14: quiz 2 review
+- 10/28: mycroft programming
+- 11/18: quiz 3 review
+- 12/9: final project work session
+
 
 Assignments and Grading
 =======================
