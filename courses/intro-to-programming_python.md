@@ -26,6 +26,8 @@ programming language (currently Python). Students learn concepts of
 variables, functions, repetition/loops, basic data structures
 (arrays, lists, dictionaries), and basic object oriented programming.
 
+<img src="img/python-logo.png" class="d-block img-fluid" alt="Python intertwined snakes and text on white field">
+
 **Class meetings:** Online, asynchronous (coordinated through Moodle)
 
 **Instructor**
@@ -48,7 +50,6 @@ Learning Goals
 * use technical documentation, APIs, and the internet to learn new technical concepts
 * develop step-by-step problem solving and debugging practices
 
-<img src="img/python-logo.png" class="d-block img-fluid" alt="Python intertwined snakes and text on white field">
 
 
 Required Text
