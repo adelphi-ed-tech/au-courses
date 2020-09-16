@@ -51,6 +51,24 @@ Learning Goals
 * develop step-by-step problem solving and debugging practices
 
 
+Computer Science Tutoring, Fall 2020
+====================================
+The Math & CS department offers student-led computer science tutoring on
+weekdays via Zoom. The tutors are experienced computer science students. They
+may not be expert in Python or the specific problems of our class, but can
+certainly help you break down problems and understand key concepts.
+
+Here's the Fall schedule. You don't need an appointment, just join the zoom
+link for the tutor during their tutoring hours.
+
+Day          Time                 Tutor    Zoom Link
+-----------  -------------------  -------  -------------------------------------------------
+Monday       4:00 to 6:00 PM      Aianne   <https://adelphiuniversity.zoom.us/j/95098505891>
+Tuesday      4:30 to 6:30 PM      Jasur    <https://adelphiuniversity.zoom.us/j/94652074966>
+Wednesday    4:00 to 6:00 PM      Matt     <https://adelphiuniversity.zoom.us/j/93998972403>
+Thursday     3:00 to 5:00 PM      Kaitlyn  <https://adelphiuniversity.zoom.us/j/97958835405>
+Friday       11:00 AM to 1:00 PM  Tia      <https://adelphiuniversity.zoom.us/j/4259506444>
+
 
 Required Text
 =============
@@ -128,21 +146,22 @@ Week  Date    Topic                        Read   Due
 TIP: _Thinking in Python_
 
 ### Live labs
+
 In addition to the required weekly assignments, there will be several "live"
-labs schedule during office hours on Wednesdays (4:30-5:30). These live **sessions are
-optional**, but will offer additional help and hands-on demonstration of course
-concepts. Recordings of these sessions will be posted on the course website. If
-the health situation allows it, some of these later sessions may be shifted to
-flex (oline/in-person) sessions held at the Manhattan Center.
+labs on Wednesdays (either at 4:30-5:30 or 6:30-7:30). Lab times and meeting
+links will be posted on Moodle. These live **sessions are optional**,  but will
+offer additional help and hands-on demonstration of course concepts. If the
+health situation allows it, some of these later sessions may be shifted to flex
+(oline/in-person) sessions held at the Manhattan Center.
 
 The tentative schedule for live sessions:
 
-- 9/16: quiz 1 review
-- 9/30: setting up "picroft"
-- 10/14: quiz 2 review
-- 10/28: mycroft programming
-- 11/18: quiz 3 review
-- 12/9: final project work session
+- 9/16: quiz 1 review*
+- 9/30: setting up "picroft"*
+- 10/14: quiz 2 review*
+- 10/28: mycroft programming*
+- 11/18: quiz 3 review*
+- 12/9: final project work session*
 
 
 Assignments and Grading
