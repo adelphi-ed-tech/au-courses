@@ -109,12 +109,14 @@ let me know as soon as possible.
 You probably have these items already:
 
 - micro SD card reader: these are built into many modern laptop and some desktops,
-  but any card reader/writer that works with your computer (USB 2, USB 3, USB-C) 
+  but any card reader/writer that works with your computer (USB 2, USB 3, USB-C)
   will work. You should be able to find one for less than $10 on Amazon or in a local store (Staples, Best Buy, Microcenter).
   [here's one on amazon](https://www.amazon.com/dp/B06ZYXR7DL)
 - USB-C power cord (like a USB-C phone charger) [SparkFun](https://www.sparkfun.com/products/15448) Amazon [[RPI official](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/)] [[AMZ Basics](https://www.amazon.com/dp/B07BDKK44S/)]
 - TV or computer monitor with HDMI input
 - USB or Bluetooth Mouse / Keyboard
+- if your monitor doesn't have speakers you will need computer speakers or headphones.
+  Bluetooth should work, but wired headphones might be easier to set up.
 
 Class meetings
 ==============
