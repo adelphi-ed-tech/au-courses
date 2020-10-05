@@ -106,17 +106,16 @@ let me know as soon as possible.
 - micro hdmi cable [SparkFun](https://www.sparkfun.com/products/15796) [Amazon](https://www.amazon.com/dp/B07VRCK5W1/)
 - two (2) 16GB micro SD cards [Amazon](https://www.amazon.com/Micro-Center-Class-Memory-Adapter/dp/B07K81Z6DF/) (these are 32GB, but they're a good deal)
 
-You probably have these items already:
+You probably have _some_ these items already. Please gather or purchase each item on the list.
 
 - micro SD card reader: these are built into many modern laptop and some desktops,
   but any card reader/writer that works with your computer (USB 2, USB 3, USB-C)
   will work. You should be able to find one for less than $10 on Amazon or in a local store (Staples, Best Buy, Microcenter).
   [here's one on amazon](https://www.amazon.com/dp/B06ZYXR7DL)
-- USB-C power cord (like a USB-C phone charger) [SparkFun](https://www.sparkfun.com/products/15448) Amazon [[RPI official](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/)] [[AMZ Basics](https://www.amazon.com/dp/B07BDKK44S/)]
-- TV or computer monitor with HDMI input
-- USB or Bluetooth Mouse / Keyboard
-- if your monitor doesn't have speakers you will need computer speakers or headphones.
-  Bluetooth should work, but wired headphones might be easier to set up.
+- USB-C power cord (like a USB-C phone charger) [SparkFun](https://www.sparkfun.com/products/15448) Amazon [[RPI official](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/)]
+- TV or computer monitor with HDMI input (you **cannot** use your laptops display for this)
+- USB Keyboard (a wireless keybaord with a dongle will work, but not a bluetooth keyboard) [[I use this one](https://www.microcenter.com/product/376891/K400_Wireless_Touch_Keyboard), but if you can just borrow a keyboard for a day, that should be fine]
+- if your monitor doesn't have speakers you will need computer speakers or (wired) headphones
 
 Class meetings
 ==============
