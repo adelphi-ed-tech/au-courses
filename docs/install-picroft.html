@@ -26,7 +26,7 @@ https://www.auedtech.org
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <meta name="date" content="Monday, 05. October 2020 07:16PM">
+  <meta name="date" content="Tuesday, 03. November 2020 12:29PM">
 
 
   <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -47,26 +47,27 @@ https://www.auedtech.org
 
 
   <style type="text/css">
-a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-a.sourceLine { text-indent: -1em; padding-left: 1em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
-pre.numberSource a.sourceLine
-  { position: relative; left: -4em; }
-pre.numberSource a.sourceLine::before
-  { content: attr(title);
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
     position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; pointer-events: all; display: inline-block;
+    border: none; display: inline-block;
     -webkit-touch-callout: none; -webkit-user-select: none;
     -khtml-user-select: none; -moz-user-select: none;
     -ms-user-select: none; user-select: none;
@@ -75,9 +76,9 @@ pre.numberSource a.sourceLine::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {  }
+  {   }
 @media screen {
-a.sourceLine::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ff0000; font-weight: bold; } /* Alert */
 code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
@@ -113,26 +114,26 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
   <!-- this css file gets inlined by the build script to make standalone html5 output
   thats why it has a style tag... -->
-  
+
   <style type="text/css">
   body
   {
       background: url('sample.png') repeat white;
       /* margin-top: 24px; */
   }
-  
+
   .container {
     padding-top: 90px;
   }
-  
+
   .page-header h1, .rsa-red-text {
     color: #ab1c19;
     font-size: 2.5rem;
     font-weight: bold;
   }
   .rsa-red-bg { background-color: #ab1c19; }
-  
-  
+
+
   .h1, h1 {
       font-size: 24px;
   }
@@ -152,8 +153,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       font-size: 100%;
       font-weight: bold;
   }
-  
-  
+
+
   blockquote
   {
       line-height: 120%;
@@ -161,7 +162,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       border-left: 3px solid gray;
       padding-left: 1em;
   }
-  
+
   .img-right
   {
       float: right;
@@ -176,7 +177,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   .warn { color: red; font-weight: bold; text-align: center; }
   .center { text-align: center; }
   .single, .single p { line-height: 1.25; }
-  
+
   /* hanging indents for references/citations */
   #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p, *[id*='texts'] p
   {
@@ -186,23 +187,23 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       text-indent: -2em;
       line-height: 1.5em;
   }
-  
+
   *[id*='books'] img, *[id*='texts'] img
   {
       max-width: 150px;
       max-height: 150px;
       display: block;
   }
-  
-  
+
+
   section.level2 h2, section.level3 h3 {
     margin-left: -1.5em;
   }
-  
+
   section.level2, section.level3 {
     margin-left: 1.5em;
   }
-  
+
   .figure
   {
       border-top: 2px solid black;
@@ -217,8 +218,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   {
       font-weight: bold; font-size: 80%;
   }
-  
-  
+
+
   #logo
   {
       background-color: white;
@@ -234,7 +235,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       right: 0;
       word-wrap: break-word;
   }
-  
+
   #logo .inner
   {
       background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
@@ -243,7 +244,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       right: 10px;
       top: 10px;
   }
-  
+
   #logo h1 { text-transform: uppercase; font-size: 18px; }
   #logo h2 { font-size: 100%; font-size: 14px; }
   #logo a {text-transform: lowercase; font-size: 90%; }
@@ -258,44 +259,44 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       font-weight: bold;
       line-height: 1.25em;
   }
-  
+
   #logo h2 { color: black; }
-  
+
   #class-sessions { counter-reset: week; }
   #class-sessions h2:before
   {
       counter-increment: week;
       content: "Session " counter(week) ": "
   }
-  
+
   #class-sessions>section
   {
       margin: 1em 0 0 0;
       padding: 0 2em;
   }
-  
+
   #class-sessions > h2
   {
       padding-left: -1em;
   }
-  
-  
-  
+
+
+
   #TOC.affix, #TOC.affix-top, #TOC.affix-bottom
   {
       position: fixed;
   /*    top: 60px;
       width:280px;*/
   }
-  
-  
+
+
   #TOC .nav li.active .nav
   {
       display: block;
   }
-  
-  
-  
+
+
+
   #TOC {
       margin-bottom: 20px;
       margin-top: 20px;
@@ -340,34 +341,34 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       font-weight: 500;
       padding-left: 28px;
   }
-  
-  
-  
+
+
+
   table
   {
       width: 100%;
   }
-  
-  
+
+
   .card-text {
     display: none;
     font-size: 12px;
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
   footer
   {
       border-top: 2px dotted gray;
       margin-top: 1.5em;
   }
-  
+
   @media print
   {
       body
@@ -382,7 +383,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           counter-increment: page;
           orphans: 3;
           widows: 3;
-  
+
           @top-right
           {
               font-family: "FreeSans", "Helvetica", sans-serif;
@@ -394,17 +395,17 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
               font-weight: bold;
           }
       }
-  
+
       @page:first
       {
           @top-right { content: ''; }
       }
-  
+
       .page-break {clear: both; page-break-before: always; }
   }
-  
-  
-  
+
+
+
   </style>
 
 
@@ -433,102 +434,109 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
               <h1 class="page-title">Intalling Picroft</h1>
             </header>
                     <style>
-.sourceCode { padding-top: 1em;padding-bottom: 1em;}
-</style>
-<section id="installing-and-configuring-mycroft" class="level1">
-<h1>Installing and Configuring Mycroft</h1>
-<p>Please find these more detailed instructions on setting up and configuring mycroft on your Raspberry Pi. To follow these instructions you will need all of the equipment from the syllabus, including a card reader.</p>
-<p><a href="https://mcuringa.github.io/adelphi-ed-tech-courses/intro-to-programming_python.html#required-hardware">See the full list here with links on where to get them.</a></p>
-<section id="step-0-before-you-start" class="level2">
-<h2>Step 0: Before you start</h2>
-<ol type="1">
-<li>Gather all of the components you will need.</li>
-<li>Create a mycroft account at <a href="https://sso.mycroft.ai/new-account" class="uri">https://sso.mycroft.ai/new-account</a>, <small>you don’t need a paid account</small></li>
-<li>Download and install Etcher on your computer (not the Pi): <a href="https://www.balena.io/etcher/" class="uri">https://www.balena.io/etcher/</a></li>
-<li>Download the Picroft OS “disk image”, and save it to your computer (Downloads, Desktop, your CSC 602 folder, or anywhere else where you can find it easily). Disk image link: <a href="https://mycroft.ai/to/picroft-image" class="uri">https://mycroft.ai/to/picroft-image</a>. <small>don’t worry about skipping the google security check.</small></li>
-</ol>
-</section>
-<section id="step-1-create-a-disk-image" class="level2">
-<h2>Step 1: Create a disk image</h2>
-<p>In this step we create a SD card that has a Operating System on it. This is equivalent to (re)installing Windows or Mac OS, except it’s actually a lot easier. <code>Picroft_Buster-Keaton_2020-01-10.zip</code> has a customized version of the linux OS built for Raspberry Pi. This version comes with a wizard to set up Mycroft.</p>
-<ol type="1">
-<li>Insert an SD card into your card reader. If it’s a removable reader, insert it into your computer.</li>
-<li>Open the Etcher program that you downloaded.</li>
-<li>Choose “flash from file” and choose the file <code>Picroft_Buster-Keaton_2020-01-10.zip</code> which you downloaded from Mycroft.</li>
-<li>Select your SD card. It will probably be the only drive, but if you have other USB flash drives plugged in, you will have to select the right drive. You can tell that you have the right drive by the size (e.g. 16GB or 8GB).</li>
-<li>Click “flash” and wait 4-10 minutes while the operating gets copied.</li>
-</ol>
-<p>For more information, watch <a href="https://www.youtube.com/watch?v=PijX8GDco-g">this step-by-step video on creating a disk image with Etcher</a>.</p>
-</section>
-<section id="step-2-boot-the-raspberry-pi" class="level2">
-<h2>Step 2: Boot the Raspberry Pi</h2>
-<p><em>We assume that you have a new Raspberry Pi Model 4.</em> If you have a Model 3, we assume that you either know what you’re doing or will reach out for help.</p>
-<p><img src="https://keytosmart.com/wp-content/uploads/2019/10/rpi-4-hardware-overview-1024x599.jpg" alt="rpi 4 schematic"></p>
-<p><strong>Do not power on your Raspberry Pi until you have completed all of the other steps!</strong></p>
-<ol type="1">
-<li>Slide the SD card out of your card reader and insert it into the SD slot on your RPI.</li>
-<li>Plug in your microphone, headphones/speakers, keyboard and mouse.</li>
-<li>Connect your RPI to your monitor with the micro HDM cable. There are two HDMI out ports on your RPI. The small end of the cable plugs in here.</li>
-<li><em>ReSpeaker “Hat”.</em> If you are using the ReSpeaker 4-mic array recommended on the syllabus, you should line it up with the pins labeled, “40 pin General-purpose input/output Header” in the diagram above. Press the hat carefully but firmly until you can’t see the pins anymore. The Hat will, basically, cover your RPI at this point. <strong>Do not remove or add the ReSpeaker while your RPI is running.</strong></li>
-<li>You are ready to boot the pi. Plug the USB-C cable into the RPI and then plug the other end into a power adapter. If at all possible, plug it into a higher powered adapter like an iPad charger, chromebook or macbook charger, or high-speed USB phone charger. Otherwise, you might not have enough power to run the RPI.</li>
-</ol>
-<p>You should now see the small LED light near the USB-C port light up. Next, you should see the RPI Boot Screen appear on your monitor. <a href="https://raspberrycoulis.files.wordpress.com/2015/10/raspi2boot.jpg?w=1400">It will look something like this</a>.</p>
-<p>After waiting a minute or so, if you don’t see anything on your monitor/TV, you should toggle through the “inputs” on your monitor to make sure it is configured for the same HDMI port that your RPI is connected to.</p>
-<p><em>If you don’t have a monitor and/or keyboard to use</em>, and are confident in your IT skills, you can follow this guide to <a href="https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/picroft#ssh-into-picroft">ssh into mycroft</a>.</p>
-</section>
-<section id="step-3-configure-mycroft" class="level2">
-<h2>Step 3: Configure Mycroft</h2>
-<p>At this point you should see the Mycroft configuration wizard. To get started, type <code>Y</code> and hit <code>enter</code> to start the wizard.</p>
-<p><a href="https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/picroft#setting-up-picroft">Follow this guide from the mycroft documentation.</a></p>
-<p>Notes: - you will need to know the <em>name</em> of your wireless netowrk (SSID) as well as the password in order to connect to the internet. if you’re not sure of the name, you can probably look at your phone or laptop to see the name of the network. - for <strong>audio output</strong>, choose <em>headphones</em> to use the headphone jack, <em>HDMI</em> to use your monitor’s speakers, or <em>USB</em> to use USB speakers <em>or</em> the headphone jack on a USB microphone. If you’re not sure, we’re probably going to have to fix this later anyway. - for <strong>microphone</strong>, choose option 5, <em>other</em>. Don’t worry if you can’t hear or record anything during the audio test at this point, just continue. - to pair your device, even if you can’t hear mycroft, you can read the pairing code on the console. - log in here to add the device <a href="https://home.mycroft.ai/devices/add" class="uri">https://home.mycroft.ai/devices/add</a></p>
-<p>There’s a chance that your Mycroft is pefectly up and running at this point. Awesome. If not, keep reading…</p>
-</section>
-<section id="step-4-respeaker-hat" class="level2">
-<h2>Step 4: ReSpeaker Hat</h2>
-<p>If you’re using the mic array hat, there is one more step you have to take. If you are using a different microphone, skip this step.</p>
-<p>You can follow the detailed installation documentation here, or you can follow these steps.</p>
-<p>To get started, hit <code>ctrl+c</code> (control-c key combination) on your keyboard in order to exit the Mycroft debugger.</p>
-<p>Type these commands one at a time and then hit enter. Read the message that appears on the console. If there’s some kind of error message, you may have mistyped the command. Do not enter the next command until the command prompt is ready. You will see something like: <code>(.venv) pi@picroft:~ $ _</code> when it’s ready for the next command.</p>
-<p><em>stop mycroft</em></p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" title="1"><span class="ex">mycroft-stop</span></a></code></pre></div>
-<p><em>get the latest linux updates</em></p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb2-1" title="1"><span class="fu">sudo</span> apt update</a></code></pre></div>
-<p>enter your password when prompted. the password is <code>mycroft</code>. you won’t see any output while typing, just type it and hit enter.</p>
-<p><em>install linux updates</em></p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb3-1" title="1"><span class="fu">sudo</span> apt upgrade</a></code></pre></div>
-<p><em>get the latest respeaker code</em>. note that there are 3 es in <code>seeed</code> (it took me 4 tries to figure this out)</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb4-1" title="1"><span class="fu">git</span> clone https://github.com/respeaker/seeed-voicecard.git</a></code></pre></div>
-<p><em>open the files you just downloaded</em></p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb5-1" title="1"><span class="bu">cd</span> seeed-voicecard</a></code></pre></div>
-<p><em>run the respeaker installer</em>. This took a long time for me (15-20 minutes).</p>
-<div class="sourceCode" id="cb6"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb6-1" title="1"><span class="fu">sudo</span> ./install.sh  --compat-kernel</a></code></pre></div>
-<p><em>reboot your RPI with this command</em></p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb7-1" title="1"><span class="fu">sudo</span> reboot</a></code></pre></div>
-</section>
-<section id="step-5-fix-the-audio" class="level2">
-<h2>Step 5: Fix the audio</h2>
-<p>There’s a good chance that you followed all of these steps and your audio still isn’t working. You can take a look at the troubleshooting techniques offered on <a href="https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/troubleshooting/audio-troubleshooting">this page by the mycroft team</a>.</p>
-<p><strong>fixing a USB mic</strong></p>
-<p>For me, with my USB microphone, I solved the problem with these steps by editing the file <code>/etc/mycroft/mycroft.conf</code>.</p>
-<p>Launch the text editor with this command (enter your password, <code>mycroft</code>, when prompted): <code>sudo nano /etc/mycroft/mycroft.conf</code></p>
-<p>Use the arrow keys to navigate the file, and then change the two lines to match this:</p>
-<div class="sourceCode" id="cb8"><pre class="sourceCode json"><code class="sourceCode json"><a class="sourceLine" id="cb8-1" title="1"><span class="fu">{</span></a>
-<a class="sourceLine" id="cb8-2" title="2">  <span class="dt">&quot;play_wav_cmdline&quot;</span><span class="fu">:</span> <span class="st">&quot;aplay %1&quot;</span><span class="fu">,</span></a>
-<a class="sourceLine" id="cb8-3" title="3">  <span class="dt">&quot;play_mp3_cmdline&quot;</span><span class="fu">:</span> <span class="st">&quot;mpg123 %1&quot;</span><span class="fu">,</span></a>
-<a class="sourceLine" id="cb8-4" title="4">  <span class="er">[...]</span></a>
-<a class="sourceLine" id="cb8-5" title="5"><span class="fu">}</span></a></code></pre></div>
-<p>The stuff in the square brackets <code>[...]</code> just means the rest of the text in the file. Leave that alone. Once you make the changes, hit ctrl-o to save and ctrl-x to quit. Run the <code>mycroft-stop</code> command to shutdown mycroft. Run <code>mycroft-start debug</code> to start it again in debug mode.</p>
-<p><strong>fixing respeaker mic</strong></p>
-<p>I fixed the respeaker issues with the same procedure, excpet with different settings in the file <code>/etc/mycroft/mycroft.conf</code>. Make the file match this:</p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode json"><code class="sourceCode json"><a class="sourceLine" id="cb9-1" title="1"><span class="fu">{</span></a>
-<a class="sourceLine" id="cb9-2" title="2">  <span class="dt">&quot;play_wav_cmdline&quot;</span><span class="fu">:</span> <span class="st">&quot;aplay -Dhw:1,0 %1&quot;</span><span class="fu">,</span></a>
-<a class="sourceLine" id="cb9-3" title="3">  <span class="dt">&quot;play_mp3_cmdline&quot;</span><span class="fu">:</span> <span class="st">&quot;mpg123 -a hw:1,0 %1&quot;</span><span class="fu">,</span></a>
-<a class="sourceLine" id="cb9-4" title="4">  <span class="er">[...]</span></a>
-<a class="sourceLine" id="cb9-5" title="5"><span class="fu">}</span></a></code></pre></div>
-<p>Since we don’t all have the exact same hardware, these settings might not work for you, or there might be other changes needed. For example, you may also need to <a href="https://www.raspberrypi.org/documentation/configuration/audio-config.md">change the audio output with these instructions</a>.</p>
-<p>In general, if you’re stuck on this step, post a message in <code>#code</code> and Daniel and I will find a time to work with you to straighten out the problem.</p>
-</section>
-</section>
+                    .sourceCode { padding-top: 1em;padding-bottom: 1em;}
+                    </style>
+                    <section id="installing-and-configuring-mycroft" class="level1">
+                    <h1>Installing and Configuring Mycroft</h1>
+                    <p>Please find these more detailed instructions on setting up and configuring mycroft on your Raspberry Pi. To follow these instructions you will need all of the equipment from the syllabus, including a card reader.</p>
+                    <p><a href="https://mcuringa.github.io/adelphi-ed-tech-courses/intro-to-programming_python.html#required-hardware">See the full list here with links on where to get them.</a></p>
+                    <section id="step-0-before-you-start" class="level2">
+                    <h2>Step 0: Before you start</h2>
+                    <ol type="1">
+                    <li>Gather all of the components you will need.</li>
+                    <li>Create a mycroft account at <a href="https://sso.mycroft.ai/new-account" class="uri">https://sso.mycroft.ai/new-account</a>, <small>you don’t need a paid account</small></li>
+                    <li>Download and install Etcher on your computer (not the Pi): <a href="https://www.balena.io/etcher/" class="uri">https://www.balena.io/etcher/</a></li>
+                    <li>Download the Picroft OS “disk image”, and save it to your computer (Downloads, Desktop, your CSC 602 folder, or anywhere else where you can find it easily). Disk image link: <a href="https://mycroft.ai/to/picroft-image" class="uri">https://mycroft.ai/to/picroft-image</a>. <small>don’t worry about skipping the google security check.</small></li>
+                    </ol>
+                    </section>
+                    <section id="step-1-create-a-disk-image" class="level2">
+                    <h2>Step 1: Create a disk image</h2>
+                    <p>In this step we create a SD card that has a Operating System on it. This is equivalent to (re)installing Windows or Mac OS, except it’s actually a lot easier. <code>Picroft_Buster-Keaton_2020-01-10.zip</code> has a customized version of the linux OS built for Raspberry Pi. This version comes with a wizard to set up Mycroft.</p>
+                    <ol type="1">
+                    <li>Insert an SD card into your card reader. If it’s a removable reader, insert it into your computer.</li>
+                    <li>Open the Etcher program that you downloaded.</li>
+                    <li>Choose “flash from file” and choose the file <code>Picroft_Buster-Keaton_2020-01-10.zip</code> which you downloaded from Mycroft.</li>
+                    <li>Select your SD card. It will probably be the only drive, but if you have other USB flash drives plugged in, you will have to select the right drive. You can tell that you have the right drive by the size (e.g. 16GB or 8GB).</li>
+                    <li>Click “flash” and wait 4-10 minutes while the operating gets copied.</li>
+                    </ol>
+                    <p>For more information, watch <a href="https://www.youtube.com/watch?v=PijX8GDco-g">this step-by-step video on creating a disk image with Etcher</a>.</p>
+                    </section>
+                    <section id="step-2-boot-the-raspberry-pi" class="level2">
+                    <h2>Step 2: Boot the Raspberry Pi</h2>
+                    <p><em>We assume that you have a new Raspberry Pi Model 4.</em> If you have a Model 3, we assume that you either know what you’re doing or will reach out for help.</p>
+                    <p><img src="https://keytosmart.com/wp-content/uploads/2019/10/rpi-4-hardware-overview-1024x599.jpg" alt="rpi 4 schematic"></p>
+                    <p><strong>Do not power on your Raspberry Pi until you have completed all of the other steps!</strong></p>
+                    <ol type="1">
+                    <li>Slide the SD card out of your card reader and insert it into the SD slot on your RPI.</li>
+                    <li>Plug in your microphone, headphones/speakers, keyboard and mouse.</li>
+                    <li>Connect your RPI to your monitor with the micro HDM cable. There are two HDMI out ports on your RPI. The small end of the cable plugs in here.</li>
+                    <li><em>ReSpeaker “Hat”.</em> If you are using the ReSpeaker 4-mic array recommended on the syllabus, you should line it up with the pins labeled, “40 pin General-purpose input/output Header” in the diagram above. Press the hat carefully but firmly until you can’t see the pins anymore. The Hat will, basically, cover your RPI at this point. <strong>Do not remove or add the ReSpeaker while your RPI is running.</strong></li>
+                    <li>You are ready to boot the pi. Plug the USB-C cable into the RPI and then plug the other end into a power adapter. If at all possible, plug it into a higher powered adapter like an iPad charger, chromebook or macbook charger, or high-speed USB phone charger. Otherwise, you might not have enough power to run the RPI.</li>
+                    </ol>
+                    <p>You should now see the small LED light near the USB-C port light up. Next, you should see the RPI Boot Screen appear on your monitor. <a href="https://raspberrycoulis.files.wordpress.com/2015/10/raspi2boot.jpg?w=1400">It will look something like this</a>.</p>
+                    <p>After waiting a minute or so, if you don’t see anything on your monitor/TV, you should toggle through the “inputs” on your monitor to make sure it is configured for the same HDMI port that your RPI is connected to.</p>
+                    <p><em>If you don’t have a monitor and/or keyboard to use</em>, and are confident in your IT skills, you can follow this guide to <a href="https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/picroft#ssh-into-picroft">ssh into mycroft</a>.</p>
+                    </section>
+                    <section id="step-3-configure-mycroft" class="level2">
+                    <h2>Step 3: Configure Mycroft</h2>
+                    <p>At this point you should see the Mycroft configuration wizard. To get started, type <code>Y</code> and hit <code>enter</code> to start the wizard.</p>
+                    <p><a href="https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/picroft#setting-up-picroft">Follow this guide from the mycroft documentation.</a></p>
+                    <p>Notes:</p>
+                    <ul>
+                    <li>you will need to know the <em>name</em> of your wireless netowrk (SSID) as well as the password in order to connect to the internet. if you’re not sure of the name, you can probably look at your phone or laptop to see the name of the network.</li>
+                    <li>for <strong>audio output</strong>, choose <em>headphones</em> to use the headphone jack, <em>HDMI</em> to use your monitor’s speakers, or <em>USB</em> to use USB speakers. If you’re not sure, we’re probably going to have to fix this later anyway.</li>
+                    <li>for <strong>microphone</strong>, choose option 5, <em>other</em>. Don’t worry if you can’t hear or record anything during the audio test at this point, just continue.</li>
+                    <li>to pair your device, even if you can’t hear mycroft, you can read the pairing code on the console.</li>
+                    <li>log in here to add the device <a href="https://home.mycroft.ai/devices/" class="uri">https://home.mycroft.ai/devices/</a>. Follow the set-up wizard on the mycroft.ai website.</li>
+                    </ul>
+                    <p>If you’re not using ReSpeaker, there’s a chance that your Mycroft is perfectly up and running at this point. Awesome. If not, keep reading…</p>
+                    </section>
+                    <section id="step-4-respeaker-hat" class="level2">
+                    <h2>Step 4: ReSpeaker Hat</h2>
+                    <p>If you’re using the mic array hat, there is one more step you have to take. If you are using a different microphone, skip this step.</p>
+                    <p>You can follow the detailed installation documentation here, or you can follow these steps.</p>
+                    <p>To get started, hit <code>ctrl+c</code> (control-c key combination) on your keyboard in order to exit the Mycroft debugger.</p>
+                    <p>Type these commands one at a time and then hit enter. Read the message that appears on the console. If there’s some kind of error message, you may have mistyped the command. Do not enter the next command until the command prompt is ready. You will see something like: <code>(.venv) pi@picroft:~ $ _</code> when it’s ready for the next command.</p>
+                    <p><em>1. stop mycroft</em></p>
+                    <div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="ex">mycroft-stop</span></span></code></pre></div>
+                    <p><em>2. get the latest linux updates</em></p>
+                    <div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a><span class="fu">sudo</span> apt update</span></code></pre></div>
+                    <p>enter your password when prompted. the password is <code>mycroft</code>. you won’t see any output while typing, just type it and hit enter.</p>
+                    <p><em>3. install linux updates</em></p>
+                    <div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a><span class="fu">sudo</span> apt upgrade</span></code></pre></div>
+                    <p><em>4. get the latest respeaker code</em>. note that there are 3 es in <code>seeed</code> (it took me 4 tries to figure this out)</p>
+                    <div class="sourceCode" id="cb4"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true"></a><span class="fu">git</span> clone https://github.com/respeaker/seeed-voicecard.git</span></code></pre></div>
+                    <p><em>5. open the files you just downloaded</em></p>
+                    <div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true"></a><span class="bu">cd</span> seeed-voicecard</span></code></pre></div>
+                    <p><em>6. run the respeaker installer</em>. This took a long time for me (15-20 minutes).</p>
+                    <div class="sourceCode" id="cb6"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true"></a><span class="fu">sudo</span> ./install.sh  --compat-kernel</span></code></pre></div>
+                    <p><em>7. reboot your RPI with this command</em></p>
+                    <div class="sourceCode" id="cb7"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true"></a><span class="fu">sudo</span> reboot</span></code></pre></div>
+                    </section>
+                    <section id="step-5-fix-the-audio" class="level2">
+                    <h2>Step 5: Fix the audio</h2>
+                    <p>There’s a good chance that you followed all of these steps and your audio still isn’t working. You can take a look at the troubleshooting techniques offered on <a href="https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/troubleshooting/audio-troubleshooting">this page by the mycroft team</a>.</p>
+                    <p><strong>fixing a USB mic</strong></p>
+                    <p>For me, with my USB microphone, I solved the problem with these steps by editing the file <code>/etc/mycroft/mycroft.conf</code>.</p>
+                    <p>Launch the text editor with this command (enter your password, <code>mycroft</code>, when prompted): <code>sudo nano /etc/mycroft/mycroft.conf</code></p>
+                    <p>Use the arrow keys to navigate the file, and then change the two lines to match this:</p>
+                    <div class="sourceCode" id="cb8"><pre class="sourceCode json"><code class="sourceCode json"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true"></a><span class="fu">{</span></span>
+                    <span id="cb8-2"><a href="#cb8-2" aria-hidden="true"></a>  <span class="dt">&quot;play_wav_cmdline&quot;</span><span class="fu">:</span> <span class="st">&quot;aplay %1&quot;</span><span class="fu">,</span></span>
+                    <span id="cb8-3"><a href="#cb8-3" aria-hidden="true"></a>  <span class="dt">&quot;play_mp3_cmdline&quot;</span><span class="fu">:</span> <span class="st">&quot;mpg123 %1&quot;</span><span class="fu">,</span></span>
+                    <span id="cb8-4"><a href="#cb8-4" aria-hidden="true"></a>  <span class="er">[...]</span></span>
+                    <span id="cb8-5"><a href="#cb8-5" aria-hidden="true"></a><span class="fu">}</span></span></code></pre></div>
+                    <p>The stuff in the square brackets <code>[...]</code> just means the rest of the text in the file. Leave that alone. Once you make the changes, hit ctrl-o to save and ctrl-x to quit. Run the <code>mycroft-stop</code> command to shutdown mycroft. Run <code>mycroft-start debug</code> to start it again in debug mode.</p>
+                    <p><strong>fixing respeaker mic</strong></p>
+                    <p>I fixed the respeaker issues with the same procedure, except with different settings in the file <code>/etc/mycroft/mycroft.conf</code>. Make the file match this:</p>
+                    <div class="sourceCode" id="cb9"><pre class="sourceCode json"><code class="sourceCode json"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true"></a><span class="fu">{</span></span>
+                    <span id="cb9-2"><a href="#cb9-2" aria-hidden="true"></a>  <span class="dt">&quot;play_wav_cmdline&quot;</span><span class="fu">:</span> <span class="st">&quot;aplay -Dhw:1,0 %1&quot;</span><span class="fu">,</span></span>
+                    <span id="cb9-3"><a href="#cb9-3" aria-hidden="true"></a>  <span class="dt">&quot;play_mp3_cmdline&quot;</span><span class="fu">:</span> <span class="st">&quot;mpg123 -a hw:1,0 %1&quot;</span><span class="fu">,</span></span>
+                    <span id="cb9-4"><a href="#cb9-4" aria-hidden="true"></a>  <span class="er">[...]</span></span>
+                    <span id="cb9-5"><a href="#cb9-5" aria-hidden="true"></a><span class="fu">}</span></span></code></pre></div>
+                    <p>Since we don’t all have the exact same hardware, these settings might not work for you, or there might be other changes needed. For example, you may also need to <a href="https://www.raspberrypi.org/documentation/configuration/audio-config.md">change the audio output with these instructions</a>.</p>
+                    <p>In general, if you’re stuck on this step, post a message in <code>#code</code> and Daniel and I will find a time to work with you to straighten out the problem.</p>
+                    </section>
+                    </section>
 <footer class="border-top mt-4 pb-4">
 <h1>Academic Assistance for Students with Disabilities</h1>
 
@@ -562,7 +570,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Monday, 05. October 2020 07:16PM</tt></p>
+<p><tt>Last modified: Tuesday, 03. November 2020 12:29PM</tt></p>
 </footer>
 
         </div>
@@ -571,7 +579,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
                    data-spy="affix" data-offset-top="20" data-offset-bottom="200">
                    <h3>Course Outline</h3>
                   <ul>
-                  <li><a href="#installing-and-configuring-mycroft">Installing and Configuring Mycroft</a><ul>
+                  <li><a href="#installing-and-configuring-mycroft">Installing and Configuring Mycroft</a>
+                  <ul>
                   <li><a href="#step-0-before-you-start">Step 0: Before you start</a></li>
                   <li><a href="#step-1-create-a-disk-image">Step 1: Create a disk image</a></li>
                   <li><a href="#step-2-boot-the-raspberry-pi">Step 2: Boot the Raspberry Pi</a></li>

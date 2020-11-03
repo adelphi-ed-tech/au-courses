@@ -87,13 +87,14 @@ type `Y` and hit `enter` to start the wizard.
 [Follow this guide from the mycroft documentation.](https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/picroft#setting-up-picroft)
 
 Notes:
+
 - you will need to know the _name_ of your wireless netowrk (SSID) as well as the password in order to connect to the internet. if you're not sure of the name, you can probably look at your phone or laptop to see the name of the network.
-- for **audio output**, choose _headphones_ to use the headphone jack, _HDMI_ to use your monitor's speakers, or _USB_ to use USB speakers _or_ the headphone jack on a USB microphone. If you're not sure, we're probably going to have to fix this later anyway.
+- for **audio output**, choose _headphones_ to use the headphone jack, _HDMI_ to use your monitor's speakers, or _USB_ to use USB speakers. If you're not sure, we're probably going to have to fix this later anyway.
 - for **microphone**, choose option 5, _other_. Don't worry if you can't hear or record anything during the audio test at this point, just continue.
 - to pair your device, even if you can't hear mycroft, you can read the pairing code on the console.
-- log in here to add the device <https://home.mycroft.ai/devices/add>
+- log in here to add the device <https://home.mycroft.ai/devices/>. Follow the set-up wizard on the mycroft.ai website.
 
-There's a chance that your Mycroft is pefectly up and running at this point. Awesome. If not, keep reading...
+If you're not using ReSpeaker, there's a chance that your Mycroft is perfectly up and running at this point. Awesome. If not, keep reading...
 
 
 Step 4: ReSpeaker Hat
@@ -113,13 +114,13 @@ have mistyped the command. Do not enter the next command until the command
 prompt is ready. You will see something like: ``(.venv) pi@picroft:~ $ _``
 when it's ready for the next command.
 
-_stop mycroft_
+_1. stop mycroft_
 
 ~~~~~~~~~~~~~~~~~~~{.bash}
 mycroft-stop
 ~~~~~~~~~~~~~~~~~~~
 
-_get the latest linux updates_
+_2. get the latest linux updates_
 
 ~~~~~~~~~~~~~~~~~~~{.bash}
 sudo apt update
@@ -127,31 +128,31 @@ sudo apt update
 
 enter your password when prompted. the password is `mycroft`. you won't see any output while typing, just type it and hit enter.
 
-_install linux updates_
+_3. install linux updates_
 
 ~~~~~~~~~~~~~~~~~~~{.bash}
 sudo apt upgrade
 ~~~~~~~~~~~~~~~~~~~
 
-_get the latest respeaker code_. note that there are 3 es in `seeed` (it took me 4 tries to figure this out)
+_4. get the latest respeaker code_. note that there are 3 es in `seeed` (it took me 4 tries to figure this out)
 
 ~~~~~~~~~~~~~~~~~~~{.bash}
 git clone https://github.com/respeaker/seeed-voicecard.git
 ~~~~~~~~~~~~~~~~~~~
 
-_open the files you just downloaded_
+_5. open the files you just downloaded_
 
 ~~~~~~~~~~~~~~~~~~~{.bash}
 cd seeed-voicecard
 ~~~~~~~~~~~~~~~~~~~
 
-_run the respeaker installer_. This took a long time for me (15-20 minutes).
+_6. run the respeaker installer_. This took a long time for me (15-20 minutes).
 
 ~~~~~~~~~~~~~~~~~~~{.bash}
 sudo ./install.sh  --compat-kernel
 ~~~~~~~~~~~~~~~~~~~
 
-_reboot your RPI with this command_
+_7. reboot your RPI with this command_
 
 ~~~~~~~~~~~~~~~~~~~{.bash}
 sudo reboot
@@ -191,7 +192,7 @@ to start it again in debug mode.
 
 **fixing respeaker mic**
 
-I fixed the respeaker issues with the same procedure, excpet with different
+I fixed the respeaker issues with the same procedure, except with different
 settings in the file `/etc/mycroft/mycroft.conf`. Make the file match this:
 
 ~~~~~~~~~~~~~~~~~~~{.json}
