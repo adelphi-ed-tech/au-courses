@@ -2,6 +2,7 @@
 
 <style>
 .sourceCode { padding-top: 1em;padding-bottom: 1em;}
+footer {display: none}
 </style>
 
 Installing and Configuring Mycroft

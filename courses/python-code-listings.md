@@ -1,6 +1,10 @@
 % Think Python Code Listsings
 % Matthew X. Curinga
 
+<style>
+footer {display: none}
+</style>
+
 <!--
 This syllabus was created for
 the Educational Technology Program
