@@ -55,6 +55,7 @@ Code Listings
 - [Unit converter example](https://repl.it/@mcuringa/units-full)
 - [Review problem solutions](https://repl.it/@mcuringa/fruitful-func-review-solutions)
 - [Recursive function problem solutions](https://repl.it/@mcuringa/fruitful-func-review-solutions-harder)
+- [Quiz 2 practice solutions](https://repl.it/@mcuringa/Quiz-2-Practice-Solutions)
 - [Quiz 2 solutions](https://repl.it/@mcuringa/06-Quiz-2-Solutions)
 
 07 Iteration (while loops)
