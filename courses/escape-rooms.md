@@ -27,15 +27,15 @@ techniques while designing and programming our own virtual escape rooms. Working
 in teams, students will work with the full stack of multimedia web programming:
 Javascript ES6, webpack, node, git, ReactJS, MongoDB, HTML5, CSS and Bootstrap.
 
-In addition to key computer science concepts, we will hone our skills in interactive
-story telling, puzzle design, and multimedia production to create engaging
-online stories for our users. This course is open to anyone with at least one
-semester of college-level computer programming in any language. No previous
-Javascript or web development required. This course will be fully online,
-with no fixed virtual class meeting. We will communicate and collaborate
-through primarily through zoom and discord. For remote programming, we will
-use the collaborative editing features of the open source Atom Editor and
-will store our projects on Github.
+In addition to key computer science concepts, we will hone our skills in
+interactive story telling, puzzle design, and multimedia production to create
+engaging online experiences for our users. This course is open to anyone with at
+least one semester of college-level computer programming in any language. No
+previous Javascript or web development required. This course will be fully
+online, with no fixed virtual class meeting. We will communicate and collaborate
+primarily through zoom and discord. For remote programming, we will use the
+collaborative editing features of the open source Atom Editor and will store our
+code on Github.
 
 **Key words:** computer science, web development, mobile web, interaction design,
 html, html5, css, javascript, OOP, React, Bootstrap, git, node, mongodb,
