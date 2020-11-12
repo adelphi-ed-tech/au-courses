@@ -2,7 +2,7 @@
 % Matthew X. Curinga
   Antonios Saravanos
 
-**EDT 603 _Programming web-based educational media_: Coding virutal escape rooms, Spring 2021**
+**EDT 603 _Programming web-based educational media_: Coding virtual escape rooms, Spring 2021**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~{.html .numberLines}
 
