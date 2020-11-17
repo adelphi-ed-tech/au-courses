@@ -17,7 +17,7 @@
     * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
 
-**Educational Technology 0858-612, Fall 2019**
+**Educational Technology 0858-612, Spring 2021**
 
 **Course description.**
 Most of the world connects to the Internet from mobile phones, most of the time. Android
@@ -94,6 +94,27 @@ Session  Date    Topic                                        Format
    -     Nov 28  Thanksgiving                                 _no class_
   14     Dec 05  Final project drafts                         online
   15     Dec 12  Final project presentation                   classroom
+
+
+week  date                                  format         
+----  ------                                ------------------------------
+   1  Jan 27  Going mobile                  flex
+   2  Feb 03  Mobile first                  online
+   3  Feb 10  Tech reports                  flex
+   4  Feb 17  Mobile computing and society  online
+   5  Feb 24  App Inventor hackathon        flex
+   6  Mar 03  Mobile cognition              online
+   -  Mar 10  _no class (mini break)_       -
+   7  Mar 17  Augmented reality             flex
+   8  Mar 24  1:1 Computing                 online
+   9  Mar 31  Reading screens               flex
+  10  Apr 07  Mobile games for learning     online
+  11  Apr 14  Workshop: ARIS                flex
+  12  Apr 21  Internet of Things (IoT)      online
+  13  Apr 28  Mobile design (UX)            flex
+  14  May 05  Final project workshop        online
+   -  May 12  _no class (makeup day)_       -
+  15  May 19  Final project presentation    flex (final presentations)
 
 Assignments & grading
 ----------------------------------------------------
