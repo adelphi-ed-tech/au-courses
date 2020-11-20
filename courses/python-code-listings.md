@@ -73,3 +73,10 @@ Code Listings
 10 Lists
 --------
 - [List examples](https://repl.it/@mcuringa/List-Examples)
+- [List Exercise Solutions](https://repl.it/@mcuringa/list-exercise-solutions#main.py)
+
+11 Dictionaries
+---------------
+- [Word Frequency Example Program](https://repl.it/@mcuringa/word-counts#main.py)
+- [Practice Quiz Solutions](https://repl.it/@mcuringa/quiz3-practice-solutions)
+- [Adelphi Calendar Skill](https://github.com/mcuringa/au-cal-skill)
