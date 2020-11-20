@@ -76,8 +76,8 @@ available on the course website under the weekly topic._
 
 **Classroom meetings: Harvey 104, Thursday 6:30-8:20**
 
-week  date                                  format         
-----  ------                                ------------------------------
+week  date    topic                         format         
+----  ------  ----------------------------  ------------------------------
    1  Jan 27  Going mobile                  flex
    2  Feb 03  Mobile first                  online
    3  Feb 10  Tech reports                  flex
