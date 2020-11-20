@@ -76,26 +76,6 @@ available on the course website under the weekly topic._
 
 **Classroom meetings: Harvey 104, Thursday 6:30-8:20**
 
-Session  Date    Topic                                        Format
--------  -----   -------------------------------              ----------
-   1     Aug 29  Going Mobile                                 classroom
-   2     Sep 05  Mobile First                                 online
-   3     Sep 12  Tech reports                                 classroom
-   4     Sep 19  Mobile computing and society                 online
-   5     Sep 26  Mobile cognition                             classroom
-   6     Oct 03  1:1 Computing                                online
-   7     Oct 10  Reading screens                              classroom
-   8     Oct 17  Augmented Reality                            online
-   9     Oct 24  Workshop: App Inventor                       classroom
-  10     Oct 31  Mobile games for learning                    online
-  11     Nov 07  Workshop: ARIS                               classroom
-  12     Nov 14  Internet of Things (IoT)                     online
-  13     Nov 21  Mobile Instr Design (Triangle Fire)          classroom
-   -     Nov 28  Thanksgiving                                 _no class_
-  14     Dec 05  Final project drafts                         online
-  15     Dec 12  Final project presentation                   classroom
-
-
 week  date                                  format         
 ----  ------                                ------------------------------
    1  Jan 27  Going mobile                  flex
