@@ -80,3 +80,4 @@ Code Listings
 - [Word Frequency Example Program](https://repl.it/@mcuringa/word-counts#main.py)
 - [Practice Quiz Solutions](https://repl.it/@mcuringa/quiz3-practice-solutions)
 - [Adelphi Calendar Skill](https://github.com/mcuringa/au-cal-skill)
+- Dictionary Extra Practice [[Problems](https://repl.it/@mcuringa/quiz3-extra-practice)] [[Solutions](https://repl.it/@mcuringa/quiz3-extra-practice-solutions)]
