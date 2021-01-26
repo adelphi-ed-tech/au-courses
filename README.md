@@ -33,9 +33,8 @@ Also the only template so far is the Adelphi template, but it would be easy enou
 
 out
 --------------------------
-Once you run build, here are your html course syllabi, which should look nice and stylish.
-I use rsync to push these to the live website:
-http://matt.curinga.com/courses
+Once you run build, here are your html course syllabi, which should look nice and stylish. Courses are build to the `docs` dir and pushed live when committed to github pages.
+
 
 raw
 ---------------------------
