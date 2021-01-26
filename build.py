@@ -34,7 +34,7 @@ def IsModified(course):
     lastBuilt = min(rawMod, outMod, wordMod)
 
     if(lastBuilt == 0):
-        return True
+        return False
 
     # if any of these have changed since the last build, rebuild
     srcMod = ModTimeIfExists("content/%s.md" % (course,))
@@ -43,10 +43,6 @@ def IsModified(course):
     tmplMod = ModTimeIfExists("tmpl/%s.html" % ("adelphi",))
     rawTmplMod = ModTimeIfExists("tmpl/%s.html" % ("raw",))
     footerMod = ModTimeIfExists("tmpl/%s.html" % ("footer",))
-
-    assert srcMod > 0
-    assert tmplMod > 0
-    assert rawTmplMod > 0
 
     #if the source files are 0, then we don't have them
     changes = [d for d in [srcMod,cssMod,customCssMod,tmplMod,rawTmplMod,footerMod] if d > 0]
@@ -94,7 +90,7 @@ def IncludeIfExists(path, arg):
 
 def GetTemplate(tmpl):
     dt = datetime.datetime.now()
-    return Template("pandoc --email-obfuscation=none --toc -t html5 --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --include-after $$(pwd)/tmpl/boot_styles.js --template=$$(pwd)/tmpl/%s.html $$(pwd)/content/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
+    return Template("pandoc --email-obfuscation=none --toc -t html --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --include-after $$(pwd)/tmpl/boot_styles.js --template=$$(pwd)/tmpl/%s.html $$(pwd)/content/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
 
 def GetWordTemplate():
     dt = datetime.datetime.now()

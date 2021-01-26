@@ -48,11 +48,13 @@ those weeks will be coordinated through the Moodle class site.
 - _office hours by appointment_
 
 ------------------------------------------------------------------------
+
 ## Spring 2021 Studio: School Segregation in the 21<sup>st</sup> Century
 
-<div class="img-right" style="max-width:400px">
-<img class="img-fluid" src="" alt="">
-</div>
+<figure>
+<img class="img-fluid d-block" src="integrate-now.png" alt="instagram photo, teenstakecharge, black high school girl with a sign says integrate now">
+<figcaption class="bg-dark text-white p-1">Youth activist group [Teens Take Charge](https://www.teenstakecharge.com/) want to abolish screening in NYC schools.</figcaption>
+</figure>
 
 Each semester the multimedia studio features a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
