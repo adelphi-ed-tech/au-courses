@@ -7,7 +7,7 @@ from string import Template
 import datetime
 
 def GenerateAllCourses(html, raw, word):
-    courses = [f[:-3] for f in os.listdir("courses") if f.endswith(".md")]
+    courses = [f[:-3] for f in os.listdir("content") if f.endswith(".md")]
     plain = GetTemplate("plain")
     pagesToBuild = []
     for c in courses:
@@ -37,7 +37,7 @@ def IsModified(course):
         return True
 
     # if any of these have changed since the last build, rebuild
-    srcMod = ModTimeIfExists("courses/%s.md" % (course,))
+    srcMod = ModTimeIfExists("content/%s.md" % (course,))
     cssMod = ModTimeIfExists("css/adelphi.css")
     customCssMod = ModTimeIfExists("css/%s.css" % (course,))
     tmplMod = ModTimeIfExists("tmpl/%s.html" % ("adelphi",))
@@ -94,11 +94,11 @@ def IncludeIfExists(path, arg):
 
 def GetTemplate(tmpl):
     dt = datetime.datetime.now()
-    return Template("pandoc --email-obfuscation=none --toc -t html5 --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --include-after $$(pwd)/tmpl/boot_styles.js --template=$$(pwd)/tmpl/%s.html $$(pwd)/courses/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
+    return Template("pandoc --email-obfuscation=none --toc -t html5 --section-divs -V date='%s' -H $$(pwd)/css/%s.css $courseCSS $footer --include-after $$(pwd)/tmpl/boot_styles.js --template=$$(pwd)/tmpl/%s.html $$(pwd)/content/$course.md >$out/$course.html" % (dt.strftime("%A, %d. %B %Y %I:%M%p"),tmpl,tmpl))
 
 def GetWordTemplate():
     dt = datetime.datetime.now()
-    return Template("pandoc --toc -t docx -V date='%s' $$(pwd)/courses/$course.md -o word/$course.docx" % (dt.strftime("%A, %d. %B %Y %I:%M%p")))
+    return Template("pandoc --toc -t docx -V date='%s' $$(pwd)/content/$course.md -o word/$course.docx" % (dt.strftime("%A, %d. %B %Y %I:%M%p")))
 
 
 def main():
