@@ -62,9 +62,10 @@ long multimedia project that teaches some aspect of this challenge.
 
 The Spring 2021 Studio theme is **school segregation**, with an initial focus on
 the New York City public schools. Racially segregated schools may initially
-appear to be a thing of the (recent) past, but issue stands as a recalcitrant,
-multifaceted problem in our contemporary society -- both as an impediment to
-educational equity and excellent and an obstacle to social equality and justice.
+appear to be a thing of the (recent) past, but the issue persists as a
+recalcitrant, multifaceted problem in our contemporary society -- both as an
+impediment to educational equity and excellence, and an obstacle to social
+equality and justice.
 
 ## Goals
 This course is designed to challenge students to develop their abilities
