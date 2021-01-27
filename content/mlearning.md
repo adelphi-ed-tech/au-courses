@@ -90,8 +90,8 @@ week  date    topic                         format   assignment
    8  Mar 24  1:1 Computing                 async
    9  Mar 31  Subject reports               zoom     subject report
   10  Apr 07  Mobile games for learning     async
-  11  Apr 14  ARIS 1: location games        zoom
-  12  Apr 21  ARIS 2: game design           async
+  11  Apr 14  ARIS 1: location game design  zoom
+  12  Apr 21  ARIS 2: build and test        async
   13  Apr 28  Reading screens               zoom     ARIS project
   14  May 05  UDL & Mobile Assistive Tech   async
    -  May 12  _no class (makeup day)_       -
