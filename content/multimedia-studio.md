@@ -115,7 +115,7 @@ week  date    topic                                   workshop         format
   13  Apr 28  User Testing                            -                zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
   14  May 05  Studio Session                          -                asynchronous
    -  May 12  _no class (makeup day)_                 -                -
-  15  May 19  zoom (final presentations)              -                -
+  15  May 19  zoom (final presentations)              -                zoom
 
 
 Assignments

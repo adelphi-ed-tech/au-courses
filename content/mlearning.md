@@ -38,9 +38,9 @@ time and place of learning.
 
 **Office hours:**
 
-- Monday 1-2pm, Alumnae Hall Room 226A (Garden City campus)
-- Wednesday 4:30-5:30pm, online
-- Thursday 2:30-4:30pm, Alumnae Hall Room 226A (Garden City campus)
+- Monday 2-4pm
+- Tuesday 4-5pm
+
 - _office hours by appointment_
 
 Goals & objectives
@@ -74,62 +74,67 @@ Weekly topics
 _Readings, discussion forums, and other assignments are
 available on the course website under the weekly topic._
 
-**Classroom meetings: Harvey 104, Thursday 6:30-8:20**
+**Zoom sessions: Wednesday 6:30-8:20**<br>
+<https://adelphiuniversity.zoom.us/j/94673542355>
 
-week  date    topic                         format         
-----  ------  ----------------------------  ------------------------------
-   1  Jan 27  Going mobile                  flex
-   2  Feb 03  Mobile first                  online
-   3  Feb 10  Tech reports                  flex
-   4  Feb 17  Mobile computing and society  online
-   5  Feb 24  App Inventor hackathon        flex
-   6  Mar 03  Mobile cognition              online
+week  date    topic                         format   assignment        
+----  ------  ----------------------------  -------  ----------
+   1  Jan 27  Going mobile                  zoom
+   2  Feb 03  Mobile first                  async
+   3  Feb 10  Tech reports                  zoom     tech report
+   4  Feb 17  Mobile computing and society  async    
+   5  Feb 24  Cognition & Embodiment        zoom
+   6  Mar 03  App Inventor hackathon        async
    -  Mar 10  _no class (mini break)_       -
-   7  Mar 17  Augmented reality             flex
-   8  Mar 24  1:1 Computing                 online
-   9  Mar 31  Reading screens               flex
-  10  Apr 07  Mobile games for learning     online
-  11  Apr 14  Workshop: ARIS                flex
-  12  Apr 21  Internet of Things (IoT)      online
-  13  Apr 28  Mobile design (UX)            flex
-  14  May 05  Final project workshop        online
+   7  Mar 17  Augmented reality             zoom     app inventor
+   8  Mar 24  1:1 Computing                 async
+   9  Mar 31  Subject reports               zoom     subject report
+  10  Apr 07  Mobile games for learning     async
+  11  Apr 14  ARIS 1: location games        zoom
+  12  Apr 21  ARIS 2: game design           async
+  13  Apr 28  Reading screens               zoom     ARIS project
+  14  May 05  UDL & Mobile Assistive Tech   async
    -  May 12  _no class (makeup day)_       -
-  15  May 19  Final project presentation    flex (final presentations)
+  15  May 19  Mobile ID presentation        zoom     instr. design
 
 Assignments & grading
 ----------------------------------------------------
 
-Assignment              Pct  Due
------------------------ ---  --------
-Session leader          20%  ongoing
-Reading responses       20%  ongoing
-Tech report             20%  Sep 12
-App Review              20%  Oct 24
-Draft Final Project      -   Dec 5
-Final Project           20%  Dec 12
+Assignment              Pct  Date Due
+----------------------- ---  ---------
+Session leader          10%  ongoing
+Reading responses       10%  ongoing
+Tech report             10%  Feb 10
+App Inventor app        20%  March 17
+Subject Report          10%  March 31
+ARIS app                20%  April 21
+Mobile Instr Design     20%  May 19
 
-### Session leader
-You or you and a partner will be responsible for leading a class session this semester.
-If it is an online session, you will create an audio podcast and deliver it as an .mp3
-audio file on the Thursday that your session starts (probably 10-20 minutes in length). In the podcast you should reflect
-on the readings and offer some guiding questions that you think are important. You will
-not submit your own reading response this week, but will play the role of moderator
-in our online discussion. You will ask follow up questions to posts and comments,
-connect students who address the same subjects but may not have seen each other,
-post to keep discussions on track (and civil if needed), and prompt/nudge your
-peers who seem to be falling behind.
+### Session leader (pair)
 
-If you are leading an in-person class, you will essentially be the seminar or
+You or you and a partner will be responsible for leading a class session this
+semester. For async weeks, you will submit (to the instructor) an audio
+introduction to the readings and other materials; during zoom calls you will
+begin the session with a short introduction. Plan for about 10 minutes.
+
+If you are leading an asynchronous class session, you will not submit your own
+reading response this week, but will play the role of moderator in our online
+discussion. You will ask follow up questions to posts and comments, connect
+students who address the same subjects but may not have seen each other, post to
+keep discussions on track (and civil if needed), and prompt/nudge your peers who
+seem to be falling behind.
+
+If you are leading an live class class (via zoom), you will essentially be the seminar or
 workshop leader for that week. You should be very familiar with the readings and
 come to class with interesting questions and/or quotations from the texts that
 you believe will lead to fruitful discussions. If you are leading a workshop,
 you will work with the instructor to design activities for the rest of the class
 and you will present the tools and facilitate the activities.
 
-### Reading Responses
+### Reading Responses (solo)
 
-For most online weeks you will be asked to post a _reading response_ on Moodle.
-This is the main online interaction for the online portion of this course. Your
+For most asynchronous weeks you will be asked to post a _reading response_ on Moodle.
+This is the main online interaction for this portion of this course. Your
 reading response should be approximately 500 words, but occasionally
 may call for more or less.
 
@@ -142,29 +147,33 @@ A good reading response:
 5. sometimes this will relate to other things you have read or studied (this is okay, just give us a little bit of reference and a way to find more information),
 6. is not a formal, academic post (you don't need APA style references), but you should include links, titles, authors names, etc for outside readings/videos/works,
 7. _is_ intended for this course and your classmates so it should be **professional** in substance and tone, and
-8. **is posted before the end of day on Tuesday (e.g. midnight), the week it's due**
+8. **is posted on time**
 
 The general workflow for these online weeks follows:
 
-1. (Thurs-Sun) Do course readings (including podcast)
-2. (Sun-Tues) Write & post a reading response
-3. (Tues - Thurs) Read all of the responses and post comments/discuss
+1. (Wed-Sat) Do course readings
+2. (Sat-Mon) Write & post a reading response
+3. (Tues-Wed) Read all of the responses and post comments/discuss
 
 In addition to your own response, you should check the discussion board daily.
 You are required to comment on at least two of your
 peer's responses each week and you should respond to
 people who engage with you.
 
-### Tech Report
+### Tech Report (pair)
 
-Working in pairs, you will present a “Tech Report” on an aspect of mobile technology. Teams will prepare 5 minute presentation they will present in class. In this discussion, each team will post a 1-paragraph abstract of their presentation and an annotated list of resources (e.g. websites, press, and scholarly articles) related to their topic. Annotations should only be a few sentences.
+Working in pairs, you will present a “Tech Report” on an aspect of mobile
+technology. Teams will prepare 10 minute presentation they will present in
+class. In the Moodle forum, each team will post a 1-paragraph abstract of their
+presentation and an annotated list of resources (e.g. websites, press, and
+scholarly articles) related to their topic. Annotations should only be a few
+sentences.
 
 Grading for this assignment will take into account:
 
 - written report on Moodle
 - quality and importance of the subject matter
 - quality of the presentation
-- peer evaluations
 
 Example topics:
 
@@ -185,8 +194,25 @@ Example topics:
 * virtual assistants (Alexa, Google Home, etc)
 * gesture interfaces
 
-### mLearning Topic Report
-For this project you will write a report about how mobile technologies are used in
+### App Inventor app (team)
+Working in a team, you will design, develop, and test a mobile app built with
+MIT's [app inventor software](https://appinventor.mit.edu/), which allows you
+to make mobile Android apps without writing any text-based code. We will all
+work on the same theme, which each team presenting their solution. The theme
+for the Hackathon will be determined by the class and the instructor. App Inventor
+apps only run on Android, but the software includes a simulator that any user
+can use from the web. The final product can be installed on an Android phone
+or tablet.
+
+### Fieldday ARIS (team)
+The [ARIS](https://fielddaylab.org/make/aris/) software platform allows you
+to create mobile games, and interactice tours through a graphical, web-based
+interface. Working with a team, you will design, develop, and test a location-based
+learning activity using ARIS. To test your app "in the field" you will need
+to work with someone (on your team, or another tester) who has an iPhone.
+
+### Subject Report (solo)
+For this assignment you will write a report about how mobile technologies are used in
 a specific domain of learning. Broadly, your report should focus on a subject area
 (e.g. mathematics, language learning, teacher professional development)
 or target group/setting (e.g. students with disabilities, higher education, museum education). Your report will include a written portion and then a visual presentation
@@ -199,34 +225,28 @@ The written report should:
 - the lit review provides both a summary and a synthesis of the research
 - describe the software that you will demo and discuss in your video (links to developer, brief summary, etc)
 
-Your video should be uploaded to YouTube and posted on Moodle as a single video,
-no more than 6 minutes in length where you demonstrate and discuss mobile websites
-and apps related to your topic. You will need to capture a mobile screencast in
-order to do this (see tools for your platform(s)), and will have to edit them
-into a single video. You can narrate the screencast as you go, or you can
-add it later.
+Your report _must_ include specific screenshots (or embedded) videos of mobile
+apps that are related to the report, showing how they support (or hinder) learning
+objectives.
+
+In class, you will take about 5 minutes to present your report and then answer
+questions related to the topic.
 
 
-### Final project
-We have a special opportunity this semester to engage in a service learning project
-to design mobile learning experiences for a new monument being developed
-in Manhattan to commemorate the [Triangle Shirtwaist Factory fire](https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire). The "Triangle Fire" was
-a terrible tragedy in New York City where 146 garment workers (mostly immigrant
-women and girls) were killed. It was also an historic turning points for workers
-rights and led to many victories for the working class in the United States.
+### Instructional Design Project (solo)
+Gathering your new knowledge and skills with mobile learning and mobile
+technologies, you will design a mobile learning project. This "project" can be
+integrated into a formal school unit, where you use mobile learning to enhance
+teaching and learning. Alternatively, it can be an informal learning project,
+focused on a location (like a museum, historical site, or zoo) or a concept
+(like the [Movers and Shakers](https://www.moversandshakersnyc.com/) AR project
+which re-imagines the public monuments of New York). The project should include
 
-For our final project, you will work individually or with a partner to design
-a mobile learning experience related to the monument, the event, and the
-historic location in Greenwich Village. You can specific the target audience
-for your work. Consider questions such as: Will it be for a school trip? What age? Is it informal learning
-for tourists? For families? Adults? Will you offer more in-depth learning for older
-students and amateur scholars?
+- learning goals and assessments
+- target audience
+- mobile activities
+- technologies
 
-You will deliver a design document that specifically describes your learning goals,
-target audience, necessary technology, and includes all of the materials needed for it.
-It should also specify necessary technologies and include prototypes and user stories
-(scenarios) of how it will be used. If it requires new technology or mobile websites,
-you must provide wireframes and paper prototypes.
 
 Course Readings & Bibliography
 ----------------------------------------
