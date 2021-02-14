@@ -15,7 +15,7 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
-**Educational Technology 0850-620, Spring 2021**
+**Educational Technology 0858-620, Spring 2021**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
 learning, digital studio, ed tech capstone, instructional design,
