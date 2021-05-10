@@ -156,17 +156,18 @@ $endfor$
 const headers = document.getElementsByTagName("section");
 const addLink = (header)=> {
   let title = header.children[0];
-  console.log(title);
+  console.log(header.id);
 
   if (header.classList.contains("level1") ||
     header.classList.contains("level2") ||
     header.classList.contains("level3")) {
 
-      const id = header.id;
+
       let small = document.createElement("small");
       let link = document.createElement("a");
-      link.href = `#${id}`;
+      link.href = "#" + header.id ;
       link.innerHTML = " 🔗 ";
+      small.classList.add("text-muted")
       small.appendChild(link);
       title.insertAdjacentElement("beforeend", small);
     }

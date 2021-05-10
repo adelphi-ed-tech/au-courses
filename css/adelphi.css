@@ -18,12 +18,15 @@ body
   font-weight: bold;
 }
 .rsa-red-bg { background-color: #ab1c19; }
-h1 small a:hover, h2 small a:hover, h3 small a:hover {
-  text-decoration: none;
-  font-size: .8rem;
+h1 small a, h2 small a, h3 small a {
+  font-size: 1rem;
 }
 
-.h1, h1 {
+h1 small a:hover, h2 small a:hover, h3 small a:hover {
+  text-decoration: none;
+}
+
+/* .h1, h1 {
     font-size: 24px;
 }
 .h2, h2 {
@@ -41,7 +44,7 @@ h1 small a:hover, h2 small a:hover, h3 small a:hover {
 .h6, h6 {
     font-size: 100%;
     font-weight: bold;
-}
+} */
 
 
 blockquote
@@ -85,13 +88,13 @@ blockquote
 }
 
 
-section.level2 h2, section.level3 h3 {
+/* section.level2 h2, section.level3 h3 {
   margin-left: -1.5em;
 }
 
 section.level2, section.level3 {
   margin-left: 1.5em;
-}
+} */
 
 .figure
 {
@@ -151,7 +154,7 @@ section.level2, section.level3 {
 
 #logo h2 { color: black; }
 
-#class-sessions { counter-reset: week; }
+/* #class-sessions { counter-reset: week; }
 #class-sessions h2:before
 {
     counter-increment: week;
@@ -167,7 +170,7 @@ section.level2, section.level3 {
 #class-sessions > h2
 {
     padding-left: -1em;
-}
+} */
 
 
 

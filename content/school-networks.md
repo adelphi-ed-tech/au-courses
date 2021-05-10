@@ -173,7 +173,7 @@ Books & Resources
 - [Make: Magazine](https://makezine.com/)
 - [Explaining Computers Series](https://www.youtube.com/user/explainingcomputers/videos) (Youtube)
 
-Class sessions
+Schedule
 ==============
 
 Week      Date         Topic            
@@ -311,7 +311,7 @@ own project, or check out some of these other ideas:
 - [tom's hardware](https://www.tomshardware.com/features/best-raspberry-pi-projects)
 - [it's foss](https://itsfoss.com/raspberry-pi-projects/)
 
-Weekly Sessions
+Class Sessions
 ===============
 
 Week 0: Before Class Begins

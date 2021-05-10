@@ -26,7 +26,7 @@ https://www.auedtech.org
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <meta name="date" content="Monday, 10. May 2021 12:51PM">
+  <meta name="date" content="Monday, 10. May 2021 01:31PM">
 
 
   <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -72,12 +72,15 @@ https://www.auedtech.org
     font-weight: bold;
   }
   .rsa-red-bg { background-color: #ab1c19; }
-  h1 small a:hover, h2 small a:hover, h3 small a:hover {
-    text-decoration: none;
-    font-size: .8rem;
+  h1 small a, h2 small a, h3 small a {
+    font-size: 1rem;
   }
 
-  .h1, h1 {
+  h1 small a:hover, h2 small a:hover, h3 small a:hover {
+    text-decoration: none;
+  }
+
+  /* .h1, h1 {
       font-size: 24px;
   }
   .h2, h2 {
@@ -95,7 +98,7 @@ https://www.auedtech.org
   .h6, h6 {
       font-size: 100%;
       font-weight: bold;
-  }
+  } */
 
 
   blockquote
@@ -139,13 +142,13 @@ https://www.auedtech.org
   }
 
 
-  section.level2 h2, section.level3 h3 {
+  /* section.level2 h2, section.level3 h3 {
     margin-left: -1.5em;
   }
 
   section.level2, section.level3 {
     margin-left: 1.5em;
-  }
+  } */
 
   .figure
   {
@@ -205,7 +208,7 @@ https://www.auedtech.org
 
   #logo h2 { color: black; }
 
-  #class-sessions { counter-reset: week; }
+  /* #class-sessions { counter-reset: week; }
   #class-sessions h2:before
   {
       counter-increment: week;
@@ -221,7 +224,7 @@ https://www.auedtech.org
   #class-sessions > h2
   {
       padding-left: -1em;
-  }
+  } */
 
 
 
@@ -494,8 +497,8 @@ https://www.auedtech.org
                     <li><a href="https://www.youtube.com/user/explainingcomputers/videos">Explaining Computers Series</a> (Youtube)</li>
                     </ul>
                     </section>
-                    <section id="class-sessions" class="level1">
-                    <h1>Class sessions</h1>
+                    <section id="schedule" class="level1">
+                    <h1>Schedule</h1>
                     <table>
                     <thead>
                     <tr class="header">
@@ -622,15 +625,15 @@ https://www.auedtech.org
                     </ul>
                     </section>
                     </section>
-                    <section id="weekly-sessions" class="level1">
-                    <h1>Weekly Sessions</h1>
+                    <section id="class-sessions" class="level1">
+                    <h1>Class Sessions</h1>
                     <section id="week-0-before-class-begins" class="level2">
                     <h2>Week 0: Before Class Begins</h2>
                     <p><strong>To Do:</strong></p>
                     <ol type="1">
                     <li>Order your Raspberry Pi and related equipment</li>
-                    <li>Join Slack and install the desktop and mobile apps</li>
-                    <li>Create an account on Trello and install the mobile app</li>
+                    <li><a href="https://auedtech.slack.com">Join Slack</a> and install the desktop and mobile apps (<a href="https://get.slack.help/hc/en-us">slack support</a>)</li>
+                    <li>Create an account on <a href="https://trello.com">Trello</a> and install the mobile app (<a href="https://help.trello.com/">Trello Support</a>)</li>
                     </ol>
                     </section>
                     <section id="week-1-computers-operating-systems" class="level2">
@@ -695,11 +698,7 @@ https://www.auedtech.org
                     <section id="week-3-users-groups-files-permissions" class="level2">
                     <h2>Week 3: Users, Groups, Files, &amp; Permissions</h2>
                     <p>As you’re working on finishing up your first RPI project, we’ll take a deeper look at how files, permissions and security works on RPI and in linux/unix operating systems generally. To better understand how to work with files, we’ll take a look at file archives (multiple files and directories combined in a single file) and compression (reducing the size of a file). Because your programs all run as a “user” (either root or their own user), it’s important to understand files and permissions to troubleshoot problems.</p>
-                    <p><strong>Week 3 Guiding Questions:</strong></p>
-                    <ol type="1">
-                    <li>How do you secure digital resources?</li>
-                    <li>Is the unix approach of users and groups sufficient for all security needs?</li>
-                    </ol>
+                    <p><strong>Week 3 Guiding Questions:</strong> https://auedtech.slack.com 1. How do you secure digital resources? 2. Is the unix approach of users and groups sufficient for all security needs?</p>
                     <p><strong>Watch &amp; Read:</strong></p>
                     <ol type="1">
                     <li>Watch <a href="https://www.youtube.com/watch?v=KN8YgJnShPM">Files &amp; File Systems: Crash Course Computer Science #20</a> [12:02]</li>
@@ -823,7 +822,7 @@ https://www.auedtech.org
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Monday, 10. May 2021 12:51PM</tt></p>
+<p><tt>Last modified: Monday, 10. May 2021 01:31PM</tt></p>
 </footer>
 
         </div>
@@ -842,14 +841,14 @@ https://www.auedtech.org
                   <li><a href="#raspberry-pi">Raspberry Pi</a></li>
                   </ul></li>
                   <li><a href="#books-resources">Books &amp; Resources</a></li>
-                  <li><a href="#class-sessions">Class sessions</a></li>
+                  <li><a href="#schedule">Schedule</a></li>
                   <li><a href="#grades-assignments">Grades &amp; Assignments</a>
                   <ul>
                   <li><a href="#participation">Participation</a></li>
                   <li><a href="#rpi-client-or-server-setup">RPI Client or Server Setup</a></li>
                   <li><a href="#diy-project">DIY Project</a></li>
                   </ul></li>
-                  <li><a href="#weekly-sessions">Weekly Sessions</a>
+                  <li><a href="#class-sessions">Class Sessions</a>
                   <ul>
                   <li><a href="#week-0-before-class-begins">Week 0: Before Class Begins</a></li>
                   <li><a href="#week-1-computers-operating-systems">Week 1: Computers &amp; Operating Systems</a></li>
@@ -886,17 +885,18 @@ $( document ).ready(function() {
 const headers = document.getElementsByTagName("section");
 const addLink = (header)=> {
   let title = header.children[0];
-  console.log(title);
+  console.log(header.id);
 
   if (header.classList.contains("level1") ||
     header.classList.contains("level2") ||
     header.classList.contains("level3")) {
 
-      const id = header.id;
+
       let small = document.createElement("small");
       let link = document.createElement("a");
-      link.href = `#`;
+      link.href = "#" + header.id ;
       link.innerHTML = " 🔗 ";
+      small.classList.add("text-muted")
       small.appendChild(link);
       title.insertAdjacentElement("beforeend", small);
     }
