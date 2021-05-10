@@ -8,7 +8,7 @@
 <div class="row">
 <div class="col-6">
 
-**0858-606, Summer 2020**
+**0858-606, Summer 2021**
 
 **Description:** From a foundation of computer networks and systems, this course
 expands to cover instructional technology infrastructure: file systems, users,
@@ -47,26 +47,22 @@ will be able to:
 Class Information
 =================
 
-**Instructors:**
-  ~ Tom Jennings <tjennings@adelphi.edu>
-  ~ Christian Correa <correa@adelphi.edu>
+**Instructor:**
+  ~ Matt Curinga <mcuringa@adelphi.edu>
 
 **Class dates:**
-  ~ Tuesday, May 26 - Monday, June 29
+  ~ Wednesday, May 26 - Tuesday, June 29
 
-**Lab sessions:**
-
-- Mondays: 6:30pm - 8:30pm EST
-- Wednesdays: 6:30pm - 8:30pm EST
-- Also available by appointment
+**Live sessions:**
+- Wednesdays: 4:30pm - 6:20pm
+- zoom link on moodle
 
 Course Communications
 =====================
 
-This is a _fully online course_. There is no set class time for video chat or
-live lectures. However, there will be two live lab sessions each week held
-by the instructors, using video conferencing, screen sharing, and other tools.
-You will be required to attend at least 4 of these sessions.
+This online course will have a mix of synchronous and asynchronous assignments.
+The synchronous sessions, "live lab," will be held each Wednesday, via Zoom,
+4:30pm to 6:20pm.
 
 Participants in this course must actively participate in our suite of online
 communications tools, including Slack (<https://auedtech.slack.com>),
@@ -78,8 +74,8 @@ and an email client on your mobile phone so that you receive "push notifications
 of course announcements.
 
 The best place to post general course questions and any content-related questions
-is the `#raspberrypi` Slack channel. The instructor and course assistant, as well
-as other students and alums monitor this channel and often provide immediate support.
+is the `#raspberrypi` Slack channel. The instructor, as well
+as other students and alums, monitor this channel and often provide immediate support.
 You are encouraged to contact the instructors at any time via email or direct
 message on Slack.
 
@@ -89,15 +85,14 @@ message on Slack.
 - **Slack:** will be our main channel for online communications.
   Please [Join our Slack team with your Adelphi email](https://auedtech.slack.com/signup).
   If you run into trouble or have a question, post it here to our channel, `#raspberrypi`,
-  or send a message to `@tomjennings`. During the weeks of the class, we recommend running
+  or send a message to `@mxc`. During the weeks of the class, we recommend running
   the Slack app for you phone.
 - **Trello:** is project management software that you will use to track/plan
   your two projects, and to share your progress with the course instructors.
   Create a [Trello Account](https://trello.com/signup) before the first week of
   class, and (optionally) [install the mobile app](https://trello.com/platforms).        
 - **mail.adelphi.edu email:** we will use your official adelphi student email
-  for class email communications as well as the associated google account for
-  video/audio chats and calendar events. Please check this email regularly.
+  for class email communications. Please check this email regularly.
 
 **Getting remote help:**
 
@@ -114,7 +109,7 @@ For more complicated problems, you will need to be able to:
 - [create a google hangout/meeting with screensharing](https://support.google.com/meet/answer/7290345?co=GENIE.Platform%3DDesktop&hl=en)
 - enable remote access to instructors to your RPI via `ssh` -- at the end of the
   first week, you should have `ssh` enabled on your Pi. To enable remote access
-  you will probably have to [enable Network Address Translation on your wifi router]().
+  you will probably have to enable Network Address Translation (NAT) on your wifi router.
   If you are on public wifi (e.g. school, library, coffee shop), you probably won't
   be able to enable remote access. NAT is not hard to configure, but it's specific
   to the wifi router that you're using. You will have to search
@@ -146,39 +141,34 @@ Raspberry Pi
 ------------
 
 Every student _must_ purchase a Raspberry Pi (RPI) computer and accessories
-for use in this course. You will keep your own hardware.
+for use in this course. You will keep your own hardware. If you already own a
+Raspberry Pi, of course you can use it for this course. You can pick up these
+items in person at a local [MicroCenter](https://www.microcenter.com/) ([view items in wishlist](https://account.microcenter.com/PublicWishList.aspx?WishListID=4Yt4PUuytCb2roLGPinnTH5Itg3JsOKt&Email=SXkm0QpXuD%2b%2fxxyZcAguSK2mIABUJbA7)) or purchase them online.
 
-Please review the class welcome email, which contains more comprehensive info regarding these items.
+Required hardware:
 
-The core setup **required** for all students (~$50):
+- Raspberry Pi model 4 (2GB model recommended): [[SparkFun](https://www.sparkfun.com/products/15446)] [[Amazon](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27)] [[AdaFruit](https://www.adafruit.com/product/4295)]
+- 16GB (or larger) Micro SD Card (at least 2 recommended)
+- micro hdmi cable [[SparkFun](https://www.sparkfun.com/products/15796)] [[Amazon](https://www.amazon.com/dp/B07VRCK5W1/)] [[AdaFruit](https://www.adafruit.com/product/4302)]
+- 5.1V 3A USB-C wall charger [[SparkFun](https://www.sparkfun.com/products/15448)] [[Amazon](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/)] [[AdaFruit](https://www.adafruit.com/product/4298)]
+- micro SD card reader: these are built into many modern laptop and some desktops, but any card reader/writer that works with your computer (USB 2, USB 3, USB-C) will work. You should be able to find one for less than $10 on [Amazon](https://www.amazon.com/dp/B08BBX4YM1/) or in a local store (Staples, Best Buy, Microcenter).
 
-- Raspberry Pi model 3 B+ [Buy on Ada Fruit](https://www.adafruit.com/product/3775)
-- 16GB Micro SD Card (at least 2 recommended)
+You will need (but can re-use existing):
 
-_You must have your RPI **before** the first week of class._
+- USB Keyboard and Mouse [[wireless](https://www.amazon.com/dp/B014EUQOGK/)] [[wired](https://www.microcenter.com/product/485045/inland-ic-210-premium-mouse-keyboard-combo)]
+- Computer Monitor or TV with HDMI input
 
-In the spirit of Raspberry Pi and DIY, we encourage you to re-use any of these
-items that you might already have or might be able to buy second hand. You
-will need these items, but don't need to buy them new. If you are unsure, you
-can wait until after the first class to make your purchase.
+_You must have all of the required hardware **before** the first week of class._
 
-- USB Keyboard and Mouse
-- Micro USB charger (you can use a phone charger)
-- HDMI Cable
-- Computer Monitor or TV with HDMI input (or you may need an HDMI to VGA adapter)
-- USB Card reader for your MicroSD card
-
-If you purchased everything except the monitor it would cost another $35-$50.
+If you purchased everything except the monitor it would cost $80-$90.
 
 In addition to these core materials, you will also need to purchase/acquire
 materials to complete your final project (see below).
 Costs may range from $20-$80.
 
-
 Books & Resources
 =================
 - [Raspberry Pi Foundation](https://www.raspberrypi.org/)
-- [Ada Fruit](https://www.adafruit.com/)
 - Crowley, C. 2017. [_Raspberry Pi: The Unofficial Tutorial_](http://cdn.makeuseof.com/wp-content/uploads/2017/07/Raspberry-Pi-The-Unofficial-Tutorial.pdf)
 - [Make: Magazine](https://makezine.com/)
 - [Explaining Computers Series](https://www.youtube.com/user/explainingcomputers/videos) (Youtube)
@@ -188,22 +178,12 @@ Class sessions
 
 Week      Date         Topic            
 -------   -----------  -------------------------------------
-   1	    Tue, May 26	 Computers & Operating Systems
-          Wed, May 27    Live Session: 6:30pm - 8:30pm EST
-          Mon, Jun 1     Live Session: 6:30pm - 8:30pm EST
-   2	    Tue, Jun 2	 The Command Line
-          Wed, Jun 3    Live Session: 6:30pm - 8:30pm EST
-          Mon, Jun 8    Live Session: 6:30pm - 8:30pm EST   
-   3	    Tue, Jun 9	 Users, Groups, Files, & Permissions
-          Wed, Jun 10    Live Session: 6:30pm - 8:30pm EST
-          Mon, Jun 15    Live Session: 6:30pm - 8:30pm EST   
-   4	    Tue, Jun 16	 Networks
-          Wed, Jun 17    Live Session: 6:30pm - 8:30pm EST
-          Mon, Jun 22    Live Session: 6:30pm - 8:30pm EST   
-   5	    Tue, Jun 23	 Ethics
-          Wed, Jun 24    Live Session: 6:30pm - 8:30pm EST  
-   6	    Mon, Jun 29	 DIY Project Due
-                         Live Session: 6:30pm - 8:30pm EST
+   1	    Wed, May 26	 Computers & Operating Systems
+   2	    Wed, Jun 2	 The Command Line
+   3	    Wed, Jun 9	 Users, Groups, Files, & Permissions
+   4	    Wed, Jun 16	 Networks
+   5	    Wed, Jun 23	 Ethics
+   6	    Tues, Jun 29 DIY Project Due
 
 
 Grades & Assignments
@@ -219,22 +199,24 @@ DIY Project                 40%      6/29
 Participation
 ------------------
 Because this is a short summer course (3 credits in 6 weeks), you should budget
-10-15 hours each week for course work. You must join at least 4 of the live lab
-sessions. During these labs, the course instructors will be available for help
-with projects and will demonstrate over video and screensharing some of the key
-techniques of the week. We recommend that you join at least one live lab each
-week. Your participation grade will consider your participation in class, timely
+10-15 hours each week for course work. Wednesday live lab sessions are required,
+but you will also spend significant time working through course materials at your
+own pace.
+
+Your participation grade will consider preparation for live labs, timely
 management of your Trello projects, and participation in Slack and Moodle
-discussions. Smaller weekly assignments (like the networking mini-report) will
-inform your participation grade.
+discussions. Smaller (ungraded) weekly assignments will also be considered for
+your participation grade.
 
 RPI Client or Server Setup
 --------------------------
 For our first project you will configure your Raspberry Pi for a specific
 educational scenario: a general computer for 4th grade classroom computer
 station, a setup to teach computer programming for kids, a development server
-for the Canvas LMS, a web server to host static HTML/Javascript projects,
-a managed computer lab setup, etc.
+for the Canvas LMS, a workstation configured with assistive technology to support
+users with different physical needs, a web server to host static HTML/Javascript projects,
+a managed computer lab setup, etc. Whatever scenario you choose, your installation
+should be precisely tailored to meet the needs of your target users.
 
 You will present your project as a narrated screencast. In addition to demonstrating the
 software, you will upload a report which details:
@@ -282,8 +264,8 @@ that arise during the course of the project.
 
 With the instructors' permission, you may work on this project individually.
 
-While you are free to pursue your own project, you are welcome to choose a project
-from this list:
+Here are a few project ideas that will give you a sense of the size and
+scope of project to choose:
 
 1. **MyCroft Open Source personal assistant**<br>
    <https://mycroft.ai><br>
@@ -311,16 +293,23 @@ from this list:
    [check out this sick RPI Christmas display](https://youtu.be/90oZ52M4IC0).
 4. **Mini Creature Home**<br>
    <https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/><br>
-   Create an ant or snail home, complete with a live webcam. This project might should
+   Create an ant or snail home, complete with a live webcam. This project should
    give you lots of ideas if your looking for STEAM projects for younger kids.
 5. **MagicMirror**<br>
-   <https://www.makeuseof.com/tag/6-best-raspberry-pi-smart-mirror-projects-weve-seen-far/><br>
+   <https://magicmirror.builders/><br>
    The magic mirror or smart mirror is an RPI favorite: put a reflective coating
-   or 2-way mirrored plexiglass over an old monitor, hook it up to your Pi, and
-   the possibilities abound.
+   or 2-way mirrored plexiglass over an old monitor or TV, hook it up to your Pi, and
+   throw up you daily calendar, the bus schedule, weather, news, poetry, etc.
 6. **Digital (Pi)cture Frame**<br>
    <https://www.makeuseof.com/tag/showerthoughts-earthporn-make-inspiring-raspberry-pi-photo-frame/><br>
    If the _mirror_ seems like it might be too much, how about a digital picture frame?
+
+These are just a few of the many possible projects. You may conceive of your
+own project, or check out some of these other ideas:
+
+- [circuit specialists](https://www.circuitspecialists.com/blog/best-raspberry-pi-projects/)
+- [tom's hardware](https://www.tomshardware.com/features/best-raspberry-pi-projects)
+- [it's foss](https://itsfoss.com/raspberry-pi-projects/)
 
 Weekly Sessions
 ===============
@@ -330,8 +319,10 @@ Week 0: Before Class Begins
 **To Do:**
 
 1. Order your Raspberry Pi and related equipment
-2. Join Slack and install the desktop and mobile apps
-3. Create an account on Trello and install the mobile app
+2. [Join Slack](https://auedtech.slack.com) and install the desktop
+   and mobile apps ([slack support](https://get.slack.help/hc/en-us))
+3. Create an account on [Trello](https://trello.com) and install the
+   mobile app ([Trello Support](https://help.trello.com/))
 
 Week 1: Computers & Operating Systems
 -------------------------------------
@@ -361,16 +352,26 @@ also make sure that it connects to the internet.
 
 **To Do:**
 
-1. Post in the "Introductions" forum on Moodle.
+_Complete all the videos/readings before the first live session on Wednesday._
+
+1. Complete all of the readings _before_ our first class meeting.
 2. Install Raspbian on your RPI. [[instructions](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)]
 3. Make a case for your RPI and post a picture on Slack (see _Unofficial Manual_ Section 3.1)
-4. After your Pi is up and running, the first thing you want to enable is a remote connection via `ssh`.
-   [Follow this guide to enabling `ssh`](https://www.raspberrypi.org/documentation/remote-access/ssh/).
+4. Get to know your new computer by connecting it to your network, installing software, etc.
+5. After your Pi is up and running, the first thing you want to enable is a remote connection via `ssh`. [Follow this guide to enabling `ssh`](https://www.raspberrypi.org/documentation/remote-access/ssh/).
+
+**Live Lab Agenda**
+
+1. Introductions
+2. Kahoot competition: review of videos/readings
+3. Breakout Rooms
+   A. Room A: Installing Raspbian and Booting your Pi for the first time
+   B. Room B: Configure ssh, make a case
 
 Week 2: The Command Line
 ------------------------
 This week we will learn how to interact with our computer using the command line
-(aka terminal). The command line interface (CLI) offers and alternative to the
+(aka terminal). The command line interface (CLI) offers an alternative to the
 graphical user interface (GUI) we are more familiar with. Wile the terminal
 hearkens back to the early days of computing, its still very much alive for
 systems administrators, software developers, and others. In particular, complex
@@ -419,7 +420,7 @@ compression (reducing the size of a file). Because your programs all run as a
 permissions to troubleshoot problems.
 
 **Week 3 Guiding Questions:**
-
+https://auedtech.slack.com
 1. How do you secure digital resources?
 2. Is the unix approach of users and groups sufficient for all security needs?
 

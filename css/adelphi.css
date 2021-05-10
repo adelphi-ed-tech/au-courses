@@ -18,7 +18,10 @@ body
   font-weight: bold;
 }
 .rsa-red-bg { background-color: #ab1c19; }
-
+h1 small a:hover, h2 small a:hover, h3 small a:hover {
+  text-decoration: none;
+  font-size: .8rem;
+}
 
 .h1, h1 {
     font-size: 24px;

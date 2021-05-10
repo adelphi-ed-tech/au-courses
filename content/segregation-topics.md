@@ -97,6 +97,20 @@ Schedule:
 _Please give your post a unique title_
 
 
+Feb 24: Topic Briefings (zoom)
+==============================
+**Agenda**
+
+1. Check-in
+2. Topic reports
+3. Pitch ideas
+   - 10 minutes write down 3 different ideas
+   - 10 minute group discussion
+4. Next week:
+   - we meet live
+   - the pitches should be high quality
+   - photo editing tutorials
+
 
 Feb 24: Topic Briefings                         data viz
 

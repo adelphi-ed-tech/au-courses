@@ -151,6 +151,30 @@ $endif$
 $for(include-after)$
 $include-after$
 $endfor$
+<script>
 
+const headers = document.getElementsByTagName("section");
+const addLink = (header)=> {
+  let title = header.children[0];
+  console.log(title);
+
+  if (header.classList.contains("level1") ||
+    header.classList.contains("level2") ||
+    header.classList.contains("level3")) {
+
+      const id = header.id;
+      let small = document.createElement("small");
+      let link = document.createElement("a");
+      link.href = `#${id}`;
+      link.innerHTML = " 🔗 ";
+      small.appendChild(link);
+      title.insertAdjacentElement("beforeend", small);
+    }
+}
+for (let header of headers) {
+  addLink(header);
+}
+
+</script>
 </body>
 </html>
