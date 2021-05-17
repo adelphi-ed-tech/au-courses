@@ -8,9 +8,9 @@
 <div class="row">
 <div class="col-6">
 
-### 0858-606, Summer 2021
+**0858-606, Summer 2021**
 
-### Description: From a foundation of computer networks and systems, this course
+**Description:** From a foundation of computer networks and systems, this course
 expands to cover instructional technology infrastructure: file systems, users,
 wired and wireless networks, email, web servers, computer labs, and common educational
 software services. This course focuses on Free Software; where the source code
@@ -22,7 +22,7 @@ to complete a software/hardware project.
 <div class="col"><img class="img-fluid" src="https://static.makeuseof.com/wp-content/uploads/2016/09/smart-mirror-raspberry-pi-illustration.png" alt="drawing of a raspberry pi"></div>
 </div>
 
-### Keywords: linux, bash, systems, networks, lamp, free software, trouble shooting,
+**Keywords:** linux, bash, systems, networks, lamp, free software, trouble shooting,
 technical project management, rasberry pi, physical computing, debian, ubuntu
 
 Goals & Objectives
@@ -179,8 +179,7 @@ Week  Date          Topic
    5  Wed, Jun 23   Ethics
    6  Tues, Jun 29  DIY Project Due
 
-A detailed calendar of due dates and course deadlines is available online at.
-[You can subscribe to and view the calendar online at this link.](https://calendar.google.com/calendar/u/0?cid=Y19rN3IzMTU4ODRsYWcyMzE4cnYwaWJiNDZiOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+A detailed calendar of due dates and course deadlines is available through the course website.
 
 Grades & Assignments
 ====================
@@ -370,7 +369,7 @@ that is housed in a homemade case of your design. You should be able to log into
 your computer with a working display (monitor) and keyboard/mouse. You will
 also make sure that it connects to the internet.
 
-### Week 1 Guiding Questions:
+### Guiding Questions:
 
 1. How does a modern computer work?
 2. What makes a computer a _computer_?
@@ -423,7 +422,7 @@ have customized your RPI by installing software packages through `apt` and the
 GUI. You will also choose your topic for the first project and set up a Trello
 with a Board for your project and milestones for each week until it's due.
 
-### Week 2 Guiding Questions:
+### Guiding Questions:
 1. How is a command line interface different from the more familiar graphical user interface?
 2. What is gained from a CLI? What is lost?
 
@@ -461,7 +460,7 @@ compression (reducing the size of a file). Because your programs all run as a
 "user" (either root or their own user), it's important to understand files and
 permissions to troubleshoot problems.
 
-### Week 3 Guiding Questions:
+### Guiding Questions:
 1. How do you secure digital resources?
 2. Is the unix approach of users and groups sufficient for all security needs?
 
@@ -484,7 +483,7 @@ to your phone to your wireless earbuds? A deeper understanding of different
 networking hardware, software, and protocols will help us better understand
 the networked software we're installing, configuring, and troubleshooting.
 
-### Week 4 Guiding Questions:
+### Guiding Questions:
 1. How does the internet work as a collection of networks?
 2. How does a multi-layered model allow for abstraction between different layers?
 
@@ -532,7 +531,7 @@ of individuals versus the group. We'll take a look at some of the ethical concer
 in "big tech", and also investigate how these same concerns appear in the context
 of schools and other educational institutions.
 
-### Week 5 Guiding Questions:
+### Guiding Questions:
 
 1. How do school systems balance student privacy and autonomy, with safety and learning efficiency?
 2. What are the key ethical concerns of embedding corporate interests (and technology) into public spaces like schools?
