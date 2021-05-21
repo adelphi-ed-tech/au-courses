@@ -26,7 +26,7 @@ https://www.auedtech.org
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <meta name="date" content="Tuesday, 26. January 2021 03:06PM">
+  <meta name="date" content="Thursday, 20. May 2021 03:32PM">
 
 
   <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -69,9 +69,15 @@ https://www.auedtech.org
     font-weight: bold;
   }
   .rsa-red-bg { background-color: #ab1c19; }
+  h1 small a, h2 small a, h3 small a {
+    font-size: 1rem;
+  }
 
+  h1 small a:hover, h2 small a:hover, h3 small a:hover {
+    text-decoration: none;
+  }
 
-  .h1, h1 {
+  /* .h1, h1 {
       font-size: 24px;
   }
   .h2, h2 {
@@ -89,7 +95,7 @@ https://www.auedtech.org
   .h6, h6 {
       font-size: 100%;
       font-weight: bold;
-  }
+  } */
 
 
   blockquote
@@ -133,13 +139,13 @@ https://www.auedtech.org
   }
 
 
-  section.level2 h2, section.level3 h3 {
+  /* section.level2 h2, section.level3 h3 {
     margin-left: -1.5em;
   }
 
   section.level2, section.level3 {
     margin-left: 1.5em;
-  }
+  } */
 
   .figure
   {
@@ -199,7 +205,7 @@ https://www.auedtech.org
 
   #logo h2 { color: black; }
 
-  #class-sessions { counter-reset: week; }
+  /* #class-sessions { counter-reset: week; }
   #class-sessions h2:before
   {
       counter-increment: week;
@@ -215,7 +221,7 @@ https://www.auedtech.org
   #class-sessions > h2
   {
       padding-left: -1em;
-  }
+  } */
 
 
 
@@ -467,7 +473,7 @@ https://www.auedtech.org
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Tuesday, 26. January 2021 03:06PM</tt></p>
+<p><tt>Last modified: Thursday, 20. May 2021 03:32PM</tt></p>
 </footer>
 
         </div>
@@ -503,6 +509,30 @@ $( document ).ready(function() {
 });
 
 </script>
+<script>
 
+const headers = document.getElementsByTagName("section");
+const addLink = (header)=> {
+  let title = header.children[0];
+
+  if (header.classList.contains("level1") ||
+    header.classList.contains("level2") ||
+    header.classList.contains("level3")) {
+
+
+      let small = document.createElement("small");
+      let link = document.createElement("a");
+      link.href = "#" + header.id ;
+      link.innerHTML = " 🔗 ";
+      small.classList.add("text-muted")
+      small.appendChild(link);
+      title.insertAdjacentElement("beforeend", small);
+    }
+}
+for (let header of headers) {
+  addLink(header);
+}
+
+</script>
 </body>
 </html>
