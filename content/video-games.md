@@ -113,31 +113,13 @@ Assignments & Grading
 -------------------------------------------------------------------------------
 **due dates and grading**
 
-assignment                                  due                     pct
----------------                             -------                 -----
-Game study post 1
-Game study post 2
-Game study post 3
-
--------  ------  -------------------------------------
-      1  Sep 01  Intro
-      2  Sep 08  Play I
-      3  Sep 15  Learning I
-      4  Sep 22  Design I
-      5  Sep 29  Deep play I
-      6  Oct 06  Design II
-      7  Oct 13  Learning II
-      8  Oct 20  Prototyping
-      9  Oct 27  Analysis I
-     10  Nov 03  Play test I
-     11  Nov 10  Analysis II
-     12  Nov 17  Deep play II
-      -  Nov 24  _Thanksgiving Break_
-     13  Dec 01  Functionality
-     14  Dec 08  Play test 2
-     15  Dec 15  Finals week: design doc due
-
-
+assignment         due      pct
+-----------------  -------  -----
+Game study post 1  Sep 29   6%
+Game study post 2  Oct 20   7%
+Game study post 3  Nov 17   7%
+Game Analysis      Nov 23   40%
+Game Design        Nov 23   40%
 
 ### Game study posts (20 points)
 One of our goals for this course is to turn a critical eye towards games so that we can gain a better understanding of how they work, _when_ they work, and what their possibilities are. This skill helps us to design our own game/play activities, to understand how to incorporate game for teaching, and to appreciate the role that games play in our society.
@@ -177,7 +159,7 @@ The grade for your analysis will consider:
 - 10 points: analysis of learning sciences/games for learning principles
 - 5 points: instructional design of possible teaching implementation
 
-### Game design
+### Game design (40 points)
 
 The third major grade will come from a game that you will design, either on your own or with a partner. This game can be analog (e.g., board game, card game, physical game, etc.) or digital games. It must have an educational component to it and it should encompass some of the aspects of game design that we will discuss. For the purposes of this assignment, I am more interested in the process you go through in designing this game than the final product. This process will include two play-testing sessions during our in-person classes, during which you will let your classmates test out the game, give you feedback, and use that feedback for further revisions. Your final product will also be evaluated on 1) how educational it is; 2) how clear the rules and guidelines are; 3) how well it incorporates good design principles and 4) how well you present it. We will be using various techniques for rapid prototyping and testing, whether creating a digital or analog game. By the end of the term, you must have a playable prototype that has gone through several iterations.
 
