@@ -26,7 +26,7 @@ https://www.auedtech.org
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <meta name="date" content="Thursday, 20. May 2021 03:32PM">
+  <meta name="date" content="Friday, 27. August 2021 01:17PM">
 
 
   <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -34,11 +34,7 @@ https://www.auedtech.org
   <!--[if lt IE 9]>
   <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous"><script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 
 
 
@@ -123,13 +119,13 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       background: url('sample.png') repeat white;
       /* margin-top: 24px; */
   }
+  /*
+  #syllabus {
+    padding-top: 120px;
+  } */
 
-  .container {
-    padding-top: 90px;
-  }
-
-  .page-header h1, .rsa-red-text {
-    color: #ab1c19;
+  .page-header h1, .rsa-red-text, .au-gold {
+    color: #ffb500;
     font-size: 2.5rem;
     font-weight: bold;
   }
@@ -185,6 +181,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   .warn { color: red; font-weight: bold; text-align: center; }
   .center { text-align: center; }
   .single, .single p { line-height: 1.25; }
+
+  .toc-link {text-decoration: none;}
 
   /* hanging indents for references/citations */
   #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p, *[id*='texts'] p
@@ -446,17 +444,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 </head>
 
-<body data-spy="scroll" data-target="#TOC" data-offset="20">
+<body>
 
 <!-- Fixed navbar -->
-<header>
-  <nav class="" role="navigation">
-    <div id="logo">
-        <strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111<strong>0</strong>1110100011010000110010100100000011001100111010101110100011101010111001001100101001000000110111101100110001000000110110001100101011000010111001001101110011010010110111001100111
-        <div class="inner">
-        <h1>Program in Educational Technology</h1>
-        <h2>Adelphi University | <a href="/adelphi-ed-tech-courses/">ed tech course listings</a></h2>
-        </div>
+<header class="container-fluid">
+  <nav class="navbar navbar-light bg-light">
+    <div class="container">
+      <a class="" href="/"><img src="img/au-word-gold.png" alt="adelphi university"></a>
+      <a class="link-primary text-decoration-none" href="https://online.adelphi.edu/online-ed-tech/">Graduate Program in Educational Technology</a>
     </div>
   </nav>
 </header>
@@ -823,7 +818,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
                     </section>
                     </section>
 <footer class="border-top mt-4 pb-4">
-<h1>Academic Assistance for Students with Disabilities</h1>
+<h2>Academic Assistance for Students with Disabilities</h2>
 
 <p>As the instructors of this course, we are responsible to do everything within reason to actively support a wide range of learning styles and abilities. This course has been designed according to principles of <a href="http://www.cast.org/our-work/about-udl.html">Universal Design for Learning</a>. Feel free to discuss your progress in this course with us at any time.
 
@@ -857,7 +852,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Thursday, 20. May 2021 03:32PM</tt></p>
+<p><tt>Last modified: Friday, 27. August 2021 01:17PM</tt></p>
 </footer>
 
         </div>
@@ -913,8 +908,10 @@ $( document ).ready(function() {
 });
 
 </script>
-<script>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+<script>
+// create links into page sections
 const headers = document.getElementsByTagName("section");
 const addLink = (header)=> {
   let title = header.children[0];
@@ -926,16 +923,27 @@ const addLink = (header)=> {
 
       let small = document.createElement("small");
       let link = document.createElement("a");
+      link.classList.add("toc-link");
+      let icon = document.createElement("img");
+      icon.src = "img/link-45deg.svg";
+      icon.alt = "chain link";
       link.href = "#" + header.id ;
       link.innerHTML = " 🔗 ";
-      small.classList.add("text-muted")
+      small.classList.add("text-muted");
+      small.classList.add("text-decoration-none");
       small.appendChild(link);
       title.insertAdjacentElement("beforeend", small);
+
+      /* link.appendChild(icon); */
+      /* title.insertAdjacentElement("beforeend", link); */
     }
 }
 for (let header of headers) {
   addLink(header);
 }
+
+
+
 
 </script>
 </body>

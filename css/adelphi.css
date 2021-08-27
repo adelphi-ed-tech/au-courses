@@ -7,13 +7,13 @@ body
     background: url('sample.png') repeat white;
     /* margin-top: 24px; */
 }
+/*
+#syllabus {
+  padding-top: 120px;
+} */
 
-.container {
-  padding-top: 90px;
-}
-
-.page-header h1, .rsa-red-text {
-  color: #ab1c19;
+.page-header h1, .rsa-red-text, .au-gold {
+  color: #ffb500;
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -69,6 +69,8 @@ blockquote
 .warn { color: red; font-weight: bold; text-align: center; }
 .center { text-align: center; }
 .single, .single p { line-height: 1.25; }
+
+.toc-link {text-decoration: none;}
 
 /* hanging indents for references/citations */
 #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p, *[id*='texts'] p
