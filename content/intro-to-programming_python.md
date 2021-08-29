@@ -50,6 +50,21 @@ Learning Goals
 * use technical documentation, APIs, and the internet to learn new technical concepts
 * develop step-by-step problem solving and debugging practices
 
+Required Software
+=================
+For this class we will be programming in the [Python](https://python.org) programming language,
+using a development platform called [Jupyter Notebook](https://jupyter.org/).
+
+In order to run this software, it is strongly recommended that you use a computer
+running Windows, MacOS, or a desktop Linux (e.g. Ubuntu, Debian). If you are working
+from an iPad, Chromebook, or Android the configuration will be more difficult.
+
+The easiest way to install the latest version of Python 3 and Jupyter is by
+downloading and running the graphical installer for _Anaconda_. Anaconda is a
+complete data science platform, but it contains everything we need in a neat
+package.
+
+**[Click here to find the Anaconda installer for your platform.](https://www.anaconda.com/products/individual)
 
 Required Text
 =============
