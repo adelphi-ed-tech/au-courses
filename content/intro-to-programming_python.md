@@ -64,7 +64,7 @@ downloading and running the graphical installer for _Anaconda_. Anaconda is a
 complete data science platform, but it contains everything we need in a neat
 package.
 
-**[Click here to find the Anaconda installer for your platform.](https://www.anaconda.com/products/individual)
+**[Click here to find the Anaconda installer for your platform.](https://www.anaconda.com/products/individual)**
 
 Required Text
 =============
