@@ -23,6 +23,12 @@
 Instructor: [Matthew X. Curinga](http://matt.curinga.com "prof curinga's site")
 <mcuringa@adelphi.edu>
 
+Class sessions
+--------------------------------------------------------------------------------
+Campus: [Adelphi Manhattan Center](https://goo.gl/maps/Voc6Dvybb6M3o5Y77)
+Meeting time: Wednesday, 6:30-8:20
+Location: Room 252
+
 <div class="float-start d-none d-md-block">
 <img class="p-3" src="img/au-mario.png" alt="adelphi au in super mario world">
 </div>
@@ -42,15 +48,6 @@ By the end of the course, students should be able to:
 - Understand the difference between exogenous and endogenous games, and design a simple endogenous game that can be used to teach a specific topic
 - Understand the key differences between popular game genres
 - Analyze and reflect on the potential of existing games and their potential in educational contexts
-
-Using this syllabus
---------------------------------------------------------------------------------
-Here are just a few notes on how this course is organized and how to use this syllabus. **Reading assignments**, wherever possible, link to openly available versions of the article. This makes this syllabus useful to the widest audience, and to students when they are not logged into the Adelphi network. When this is not possible, reading links refer to files uploaded to the Moodle course website. You _must_ be logged into Moodle before you can retrieve these articles.
-
-All **game response posts** are due on the course website (i.e. Moodle). You should follow the rule: post once, comment twice. That is, after you post your own response, read what others have posted and let them know what you think.
-
-
-
 
 Course Readings
 -------------------------------------------------------------------------------
@@ -82,14 +79,6 @@ Squire, K., & Jenkins, H. (2011). _Video games and learning: Teaching and partic
 
 Zubek, R. (2020). _Elements of game design._ The MIT Press.
 
-
-
-Class sessions
---------------------------------------------------------------------------------
-Campus: [Adelphi Manhattan Center](https://goo.gl/maps/Voc6Dvybb6M3o5Y77)
-Meeting time: Wednesday, 6:30-8:20
-Location: Room 252
-
 Session  Date    Topic
 -------  ------  -------------------------------------
       1  Sep 01  Intro
@@ -106,7 +95,7 @@ Session  Date    Topic
      12  Nov 17  Deep play II
       -  Nov 24  _Thanksgiving Break_
      13  Dec 01  Functionality
-     14  Dec 08  Play test 2
+     14  Dec 08  Play test 2  
      15  Dec 15  Finals week: design doc due
 
 Assignments & Grading
@@ -119,7 +108,7 @@ Game study post 1  Sep 29   6%
 Game study post 2  Oct 20   7%
 Game study post 3  Nov 17   7%
 Game Analysis      Nov 23   40%
-Game Design        Nov 23   40%
+Game Design        Dec 15   40%
 
 ### Game study posts (20 points)
 One of our goals for this course is to turn a critical eye towards games so that we can gain a better understanding of how they work, _when_ they work, and what their possibilities are. This skill helps us to design our own game/play activities, to understand how to incorporate game for teaching, and to appreciate the role that games play in our society.
@@ -134,14 +123,10 @@ _Forum rules:_
 2. Any type of game can work. Consider mixing up the types/genres for your posts.
 3. Read every post. Comment liberally. Don't just say, "I really like what you wrote."
 
-Each post is worth 5 points, using this guide:
-
-- 5 points: post is unique and interesting, it's well written and edited, arguments show reflection and integration of the course discussions and readings, discussion is supported logically and by close examples from the game.
-- 4 points: meets all of the criteria as above, but may have minor flaws in editing or supporting arguments.
-- 3 points: either the writing and examples are not clear enough to fully support the argument, or the arguments don't reflect the course readings or exhibit other clear flaws
-- 0-2 points: the post fails to meet the basic criteria for the assignment
-
-In addition, you will receive up to 5 points based on the comments you post throughout the semester.
+- excellent (6-7 points): post is unique and interesting, it's well written and edited, arguments show reflection and integration of the course discussions and readings, discussion is supported logically and by close examples from the game.
+- good (4-5 points): meets all of the criteria as above, but may have minor flaws in editing or supporting arguments.
+- satisfactory (3 points): either the writing and examples are not clear enough to fully support the argument, or the arguments don't reflect the course readings or exhibit other clear flaws
+- poor (0-2 points): the post fails to meet the basic criteria for the assignment
 
 
 ### Game for learning analysis video (40 points)
