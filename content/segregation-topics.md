@@ -41,13 +41,13 @@ Coates, T. (2014). [The Case for Reparations.](https://www.theatlantic.com/magaz
 
 **Agenda**
 
-1. Discuss online format, tutorials, answer questions
-2. Brief discussion of apartheid schooling
-3. "Reparations"
-  - break out groups to summarize sections
-  - break out group reports
-  - general discussion
-4. Getting ready for next week
+1. Discuss online format, tutorials, answer questions (10 min)
+2. Brief discussion of apartheid schooling (10 min)
+3. "Reparations" (90 min)
+  - break out groups to summarize sections (30 min)
+  - break out group reports (15 min)
+  - general discussion (25 min)
+4. Getting ready for next week (10 min)
 
 
 _Breakout room instructions_
