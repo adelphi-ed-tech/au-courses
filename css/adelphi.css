@@ -7,20 +7,26 @@ body
     background: url('sample.png') repeat white;
     /* margin-top: 24px; */
 }
+/*
+#syllabus {
+  padding-top: 120px;
+} */
 
-.container {
-  padding-top: 90px;
-}
-
-.page-header h1, .rsa-red-text {
-  color: #ab1c19;
+.page-header h1, .rsa-red-text, .au-gold {
+  color: #ffb500;
   font-size: 2.5rem;
   font-weight: bold;
 }
 .rsa-red-bg { background-color: #ab1c19; }
+h1 small a, h2 small a, h3 small a {
+  font-size: 1rem;
+}
 
+h1 small a:hover, h2 small a:hover, h3 small a:hover {
+  text-decoration: none;
+}
 
-.h1, h1 {
+/* .h1, h1 {
     font-size: 24px;
 }
 .h2, h2 {
@@ -38,7 +44,7 @@ body
 .h6, h6 {
     font-size: 100%;
     font-weight: bold;
-}
+} */
 
 
 blockquote
@@ -64,6 +70,8 @@ blockquote
 .center { text-align: center; }
 .single, .single p { line-height: 1.25; }
 
+.toc-link {text-decoration: none;}
+
 /* hanging indents for references/citations */
 #required-books p, #suggested-books p,*[id*='reading'] p, .ref p, *[id*='bibliography'] p, *[id*='texts'] p
 {
@@ -82,13 +90,13 @@ blockquote
 }
 
 
-section.level2 h2, section.level3 h3 {
+/* section.level2 h2, section.level3 h3 {
   margin-left: -1.5em;
 }
 
 section.level2, section.level3 {
   margin-left: 1.5em;
-}
+} */
 
 .figure
 {
@@ -148,7 +156,7 @@ section.level2, section.level3 {
 
 #logo h2 { color: black; }
 
-#class-sessions { counter-reset: week; }
+/* #class-sessions { counter-reset: week; }
 #class-sessions h2:before
 {
     counter-increment: week;
@@ -164,7 +172,7 @@ section.level2, section.level3 {
 #class-sessions > h2
 {
     padding-left: -1em;
-}
+} */
 
 
 

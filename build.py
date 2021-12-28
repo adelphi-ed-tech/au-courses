@@ -18,8 +18,12 @@ def GenerateAllCourses(html, raw, word):
             else:
                 GenerateCourse(html, raw, word, c)
             pagesToBuild.append(c)
+        else:
+            # print(f"no change {c}")
+            pass
 
 def ModTimeIfExists(path):
+
     if os.path.exists(path):
         return os.path.getmtime(path)
     return 0
@@ -27,22 +31,19 @@ def ModTimeIfExists(path):
 def IsModified(course):
     """check to see if any relevant course materials have been modified
        since this course was last built."""
-    rawMod = ModTimeIfExists("raw/{}.html".format(course))
-    outMod = ModTimeIfExists("docs/{}.html".format(course))
-    wordMod = ModTimeIfExists("word/{}.docx".format(course))
 
-    lastBuilt = min(rawMod, outMod, wordMod)
+    lastBuilt = ModTimeIfExists(f"docs/{course}.html")
 
     if(lastBuilt == 0):
-        return False
+        return True
 
     # if any of these have changed since the last build, rebuild
-    srcMod = ModTimeIfExists("content/%s.md" % (course,))
+    srcMod = ModTimeIfExists(f"content/{course}.md")
     cssMod = ModTimeIfExists("css/adelphi.css")
-    customCssMod = ModTimeIfExists("css/%s.css" % (course,))
-    tmplMod = ModTimeIfExists("tmpl/%s.html" % ("adelphi",))
-    rawTmplMod = ModTimeIfExists("tmpl/%s.html" % ("raw",))
-    footerMod = ModTimeIfExists("tmpl/%s.html" % ("footer",))
+    customCssMod = ModTimeIfExists("css/{course}.css")
+    tmplMod = ModTimeIfExists("tmpl/adelphi.html")
+    rawTmplMod = ModTimeIfExists("tmpl/raw.html")
+    footerMod = ModTimeIfExists("tmpl/footer.html")
 
     #if the source files are 0, then we don't have them
     changes = [d for d in [srcMod,cssMod,customCssMod,tmplMod,rawTmplMod,footerMod] if d > 0]

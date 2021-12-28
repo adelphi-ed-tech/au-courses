@@ -16,9 +16,9 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Computer Science 0145-602, Fall 2020**
+**Computer Science 0145-602, Fall 2021**
 
-**Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, Mycroft, virtual assistant
+**Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, jupyter, data science
 
 **Description:** This course introduces students to programming and
 core concepts of computer science, using a modern, object oriented
@@ -50,132 +50,79 @@ Learning Goals
 * use technical documentation, APIs, and the internet to learn new technical concepts
 * develop step-by-step problem solving and debugging practices
 
+Required Software
+=================
+For this class we will be programming in the [Python](https://python.org) programming language,
+using a development platform called [Jupyter Notebook](https://jupyter.org/).
 
-Computer Science Tutoring, Fall 2020
-====================================
-The Math & CS department offers student-led computer science tutoring on
-weekdays via Zoom. The tutors are experienced computer science students. They
-may not be expert in Python or the specific problems of our class, but can
-certainly help you break down problems and understand key concepts.
+In order to run this software, it is strongly recommended that you use a computer
+running Windows, MacOS, or a desktop Linux (e.g. Ubuntu, Debian). If you are working
+from an iPad, Chromebook, or Android the configuration will be more difficult.
 
-Here's the Fall schedule. You don't need an appointment, just join the zoom
-link for the tutor during their tutoring hours.
+The easiest way to install the latest version of Python 3 and Jupyter is by
+downloading and running the graphical installer for _Anaconda_. Anaconda is a
+complete data science platform, but it contains everything we need in a neat
+package.
 
-Day          Time                 Tutor    Zoom Link
------------  -------------------  -------  -------------------------------------------------
-Monday       4:00 to 6:00 PM      Aianne   <https://adelphiuniversity.zoom.us/j/95098505891>
-Tuesday      4:30 to 6:30 PM      Jasur    <https://adelphiuniversity.zoom.us/j/94652074966>
-Wednesday    4:00 to 6:00 PM      Matt     <https://adelphiuniversity.zoom.us/j/93998972403>
-Thursday     3:00 to 5:00 PM      Kaitlyn  <https://adelphiuniversity.zoom.us/j/97958835405>
-Friday       11:00 AM to 1:00 PM  Tia      <https://adelphiuniversity.zoom.us/j/4259506444>
-
+**[Click here to find the Anaconda installer for your platform.](https://www.anaconda.com/products/individual)**
 
 Required Text
 =============
+_Our textbook is free, open source, and available online._
 
 Downey, A. B. (2016). [_Think Python: How to Think Like a Computer Scientist, Version 2.4.0_](http://greenteapress.com/thinkpython2/html/index.html). Green Tea Press.
 
-Required Software/Online Accounts
-=================================
-
-- Software
-  - [Slack Client](http://slack.com) (_must install_ desktop and mobile clients, using the web client is not sufficient)
-  - Firefox or Chrome web browser
-- Accounts
-  - [repl.it](https://repl.it)
-  - [AU Ed Tech Slack channel #code](https://auedtech.slack.com/signup)
-
-Required Hardware
-==================
-For the final project (see below) we will be designing and
-programming "skills" for the [Mycroft AI voice assistant.](https://mycroft.ai)
-Mycroft is like an open source Alexa or Siri. In order to work on your project,
-you will need a Raspberry Pi, microphone, and speakers, as well as display,
-keyboard, and mouse to work with the Pi. You can use any suitable
-hardware that you already have from the list below, but we also recommend
-certain items if you are purchasing new hardware.
-
-I am posting links to the items on SparkFun and Amazon. You should be able to
-get most or all of the items locally, at [MicroCenter](https://www.microcenter.com/)
-(which may be the easiest option). You _must_ have a working Raspberry Pi
-setup by week 4 (Sep 22). If you have any trouble acquiring equipment, please
-let me know as soon as possible.
-
-- Raspberry Pi model 3 or 4, recommended Raspberry Pi 4 (2GB) [SparkFun](https://www.sparkfun.com/products/15446) [Amazon](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27)
-- a microphone that works with Raspberry Pi, recommended ReSpeaker 4-Mic Array [SparkFun](https://www.sparkfun.com/products/14645) [Amazon](https://www.amazon.com/seeed-Studio-ReSpeaker-4-Mic-Raspberry/dp/B076SSR1W1/)
-- micro hdmi cable [SparkFun](https://www.sparkfun.com/products/15796) [Amazon](https://www.amazon.com/dp/B07VRCK5W1/)
-- two (2) 16GB micro SD cards [Amazon](https://www.amazon.com/Micro-Center-Class-Memory-Adapter/dp/B07K81Z6DF/) (these are 32GB, but they're a good deal)
-
-You probably have _some_ these items already. Please gather or purchase each item on the list.
-
-- micro SD card reader: these are built into many modern laptop and some desktops,
-  but any card reader/writer that works with your computer (USB 2, USB 3, USB-C)
-  will work. You should be able to find one for less than $10 on Amazon or in a local store (Staples, Best Buy, Microcenter).
-  [here's one on amazon](https://www.amazon.com/dp/B06ZYXR7DL)
-- USB-C power cord (like a USB-C phone charger) [SparkFun](https://www.sparkfun.com/products/15448) Amazon [[RPI official](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/)]
-- TV or computer monitor with HDMI input (you **cannot** use your laptops display for this)
-- USB Keyboard (a wireless keybaord with a dongle will work, but not a bluetooth keyboard) [[I use this one](https://www.microcenter.com/product/376891/K400_Wireless_Touch_Keyboard), but if you can just borrow a keyboard for a day, that should be fine]
-- if your monitor doesn't have speakers you will need computer speakers or (wired) headphones
+Required Software & Hardware
+============================
+For this course we will be programming in the [Python](https://python.org) programming language, using a program/platform called [Jupyter](https://jupyter.org/).
 
 Class meetings
 ==============
 
-This is a fully asynchronous online class, which will run on a Tuesday-Tuesday schedule,
-meaning new topics will begin each Tuesday, and assignments will be due by end
-of day on Monday. There are no set meeting times, and there will not be
+This is a fully asynchronous online class, which will run on a Wednesday-Wednesday schedule,
+meaning new topics will begin each Wednesday, and quizzes will be due by end
+of day on Tuesday. There are no set meeting times, and there will not be
 Zoom or other video class sessions. You will be able to flexibly schedule your
-time within the week for each topic. Assignments will be submitted via Moodle
-and the coding website <https://repl.it>
+time within the week for each topic.
 
 ### Weekly topics
 
-Week  Date    Topic                        Read   Due
-----  ------  ---------------------------- -----  -------------------
-   1   Sep 1  The way of the program       TIP 1  -
-   2   Sep 8  Variables & Statements       TIP 2  -
-   3  Sep 15  Functions                    TIP 3  Quiz 1
-   4  Sep 22  Case Study 1: Hello World    -      Mycroft Concept
-   5  Sep 29  Conditionals & Recursion     TIP 5  -
-   6   Oct 6  Fruitful Functions           TIP 6  -
-   7  Oct 13  Iteration                    TIP 7  Quiz 2
-   8  Oct 20  Strings                      TIP 8  -
-   9  Oct 27  Case Study 2: Attendance     -      Mycroft Prototype
-  10   Nov 3  Lists                        TIP 10 -
-  11  Nov 10  Dictionaries                 TIP 11 -
-  12  Nov 17  Tuples                       TIP 11 Quiz 3
-  13  Nov 24  Files                        TIP 12 -
-  14   Dec 1  Case Study 3: Random Groups  -      Mycroft UX Testing
-  15   Dec 8  Working Session              -      -
-  16  Dec 15  Final Projects Due           -      **Final Project**
+Week  Date    Topic                        Read    Due
+----  ------  ---------------------------- -----   -------------------
+   1  Sep 01  The way of the program       TIP 1   -
+   2  Sep 08  Variables & Statements       TIP 2   Quiz 1
+   3  Sep 15  Functions                    TIP 3   Quiz 2
+   4  Sep 22  Conditionals & Recursion     TIP 5   Quiz 3
+   5  Sep 29  Fruitful Functions           TIP 6   Quiz 4
+   6  Oct 06  Iteration                    TIP 7   Quiz 5
+   7  Oct 13  Strings                      TIP 8   Quiz 6
+   8  Oct 20  Lists                        TIP 10  Quiz 7
+   9  Oct 27  Dictionaries                 TIP 11  Quiz 8
+  10  Nov 03  Tuples                       TIP 11  Quiz 9
+  11  Nov 10  Files                        TIP 12  Quiz 10
+  12  Nov 17  Word frequency tables        -       Project Thesis & Team
+   -  Nov 24  _Thanksgiving Break_         -       -
+  13  Dec 01  Visualizing data             -       -
+  14  Dec 08  Working Session              -       -
+  15  Dec 15  Final Projects Due           -       **Final Project**
 
 TIP: _Thinking in Python_
 
 ### Live labs
 
 In addition to the required weekly assignments, there will be several "live"
-labs on Wednesdays (either at 4:30-5:30 or 6:30-7:30). Lab times and meeting
-links will be posted on Moodle. These live **sessions are optional**,  but will
-offer additional help and hands-on demonstration of course concepts. If the
-health situation allows it, some of these later sessions may be shifted to flex
-(oline/in-person) sessions held at the Manhattan Center.
-
-The tentative schedule for live sessions:
-
-- 9/16: quiz 1 review*
-- 9/30: setting up "picroft"*
-- 10/14: quiz 2 review*
-- 10/28: mycroft programming*
-- 11/18: quiz 3 review*
-- 12/9: final project work session*
+labs on Wednesdays (4:30-5:30). These live **sessions are optional**,  but will
+offer additional help and hands-on demonstration of course concepts. These sessions
+will be hybrid/flexible (online/in-person) sessions held at the Manhattan Center.
 
 
 Assignments and Grading
 =======================
 
-Assignment     Pct
--------------  ----
-Quizzes        60%
-Final Project  40%
+Assignment          Pct
+-------------       ----
+Quizzes             60%
+Final Project       40%
 
 Lab Exercises
 -------------
@@ -188,58 +135,69 @@ with other students and friends.
 
 Quizzes
 -------
-Quizzes will consist of 5 questions, similar to the lab exercises. Each question
-is worth 4 points, with possible credit available.
+Quizzes will consist of 1-3 questions, similar to the lab exercises. Each quiz
+is worth a total of 6 points. Earlier in the semester, the quizzes will have
+up to 6 questions each, with multiple choice and short answer questions. After
+we develop more skills writing code, quizzes will consist of a single question
+and you will copy-paste your solution or upload your source code to Moodle.
 
-- _0-1 points_: for not turning in any work, or code that does not address the problem
-- _1 point_: for a basic attempt, but code isn't working or has fundamental flaws
-- _3 points_ (mostly) solution demonstrates mastery of relevant concepts, but doesn't work in all cases or fails due to minor errors
-- _4 points_: solution works, demonstrates mastery of concepts, and is well formatted and clearly written
+Quizzes will be timed, taken through Moodle. You will have 45 minutes once you
+begin the quiz to submit your answers. Before you attempt the quiz, make sure
+that you are ready to proceed -- you will not be able to pause the quiz once it
+begins. You can use the textbook, course examples, and any documentation or
+internet resources you find. **You may not ask other people for help.** While
+programming is a highly collaborative practice, these quizzes are meant to
+assess _your_ work and understanding.
 
-Quizzes will be timed, taken through Moodle. You can use the textbook, course examples,
-and any documentation or internet resources you find. **You may not ask other people for help.**
-While programming is a highly collaborative practice, these quizzes are meant
-to assess _your_ work and understanding.
+Final Project: Content Analysis
+-------------------------------
 
-
-Final Project: Mycroft Skill
-----------------------------
 During the course of the semester we will be learning about the software design
-process, and have the opportunity to write a larger program. This is a group
-project, and you should work in a group of 2-4 students.
+process, and have the opportunity to write a larger program. The final project
+is a group project, and you should work in a group of 2-4 students.
 
-[Mycroft](https://mycroft-ai.gitbook.io/docs/about-mycroft-ai/why-use-mycroft)
-is a free open source software voice assistant. It is not as advanced as better
-known products from big tech companies: Siri, Alexa, Cortana, Google Assistant.
-However, it works very well and is much easier to get started programming with.
-Also, since the project is designed to protect users and their data, it is a
-good fit for classrooms and students.
+Content Analysis is a research approach that uses statistical methods to analyze
+qualitative data. The skills we develop in our first semester of programming
+will be enough to allow us to conduct our own, novel content analysis research.
 
-Working with your team, you will design a new Mycroft "skill." Skills are the
-"apps" of the Mycroft system. You activate them with a spoken phrase and
-Mycroft can ask follow up questions or speak a response. Mycroft can also
-affect other changes, if it's connected properly, such as changing lights,
-playing audio or video, or controlling motors or sensors connected to your
-Raspberry Pi. See [What can a Skill do?](https://mycroft-ai.gitbook.io/docs/skill-development/voice-user-interface-design-guidelines/what-can-a-skill-do)
-from the Mycroft developers guide in order to get a better sense of what you
-might make.
+We will be focusing on the analysis of textual data, with examples looking at
+the content found in works of literature and in political speeches.
 
-For this project, you will conceive of a novel Mycroft skill, refine the skill
-by talking to people who are in the target audience, and code the skill through
-an iterative process of developing, testing, and improving.
+
+### Deliverables:
+
+1. **Code Files and Resources**\
+   You should turn in all files related to your project in a single
+   archive (e.g., .zip, .tar, .7z). Project files _must_ contain your
+   **Python program** in the Jupyter Notebook which runs the main loop
+   of your program and produces the output (tables, graphs, text) which
+   "answers" your research question.
+
+   In addition to the source code and output, you should include any data
+   files, media, or supporting source code your project requires.
+
+2. **Group Video Demo**\
+   Your group should provide a narrated screencast or video of 3-4 minutes that demonstrates
+   your program running and explains in greater detail the goals of the program
+   and the results it produces.
+
+ 3. **Individual Video Walkthrough**\
+    Each group member will create their own video (uploaded to their Moodle account only).
+    This video walkthrough of the code should highlight your specific contributions to the project,
+    focusing on key aspects of the code where you were the sole or lead author.
+    In particular, your video should highlight your understanding of the key
+    concept of _abstraction_ in computer programming, and how you used it to design
+    your program. See the more specific _coding fundamentals_ below for ideas
+    of what to highlight in your video. Videos should be ~5 minutes in length.
+
+
 
 ### Final Project Grading:
+1. **Concept & Design** (_5 points_)\
+   Does the project demonstrate a good match between the type of question
+   you explore and the type of answers that computer analysis can provide?
 
-There are a total of 40 possible points for this assignment, which will
-be evaluated on the following criteria:
-
-1. **Design** (_5 points_)\
-   How well is the skill designed? Does it solve a real problem or need in the world?
-   Has the team spoken to enough real users to understand the problem? How usable
-   is the skill? Is it easy to learn and understand? Has it been validated
-   and revised through user testing?
-
-2. **Coding fundamentals** (_15 points_)\
+2. **Coding fundamentals** (_20 points_)\
    The program demonstrates a grasp of the programming concepts covered
    in this class, including:
 
@@ -266,42 +224,22 @@ be evaluated on the following criteria:
         - use index/slice notation if needed
         - sort data structures
         - map, filter data as needed
+    - _style_
+        - is the code style consistent throughout the program?
+        - does the code adhere to the style conventions discussed in our readings?
+        - are variables and functions named in a clear way?
+        - are comments and docstrings included to clarify the program?
+    - _testing_
+        - does the program include test functions to ensure the program is working as expected?
+
+    Each team member will receive an individual grade for this portion of the project.
 
 3. **Risk Taking** (_5 points_)\
-   How "adventurous" is this code? Does the team show that they move beyond the
+   How "adventurous" is this project? Does the team show that they move beyond the
    template given to them? Do they come up with a really novel and desirable project?
    "Riskier" project push beyond the material strictly covered in class and demonstrate
    the teams' ability to learn new things and push their horizons.
 
-4. **Code Style** (_2 points_)\
-   Is the program consistently formatted according to Python conventions?
-
-    - 2 points: consistently follows the spirit of the _Think Python_ and
-      PEP 8 style guides.
-    - 1 point: follows guide most of the time, shows internal consistency
-       for style
-    - 0 points: lack of consistency in style makes the program harder to
-      read and (potentially) harder to debug and maintain
-
-5. **Usability & Usefulness** (_3 points_)\
-   The usability is different from the design, in that it incorporates things
-   such as the usefulness of the results provided, speed and accuracy of the software,
-   and the total experience of working with the skill.
-
-### Deliverables:
-
-1. **Code Files and Resources**\
-   You should turn in all files related to your project in a single
-   archive (e.g., .zip, .tar, .7z). Project files _must_ contain your
-   **Python program** and any data and media files that are required.
-
-   To create an archive file, Mac users can simply right-click
-   the project folder from the finder and choose "Compress". This
-   will create a .zip archive of the project directory. Windows
-   does not come with a compression utility by default. If you
-   do not have one installed or are not sure, Adelphi IT
-   recommends [7-zip, which you can download and use for free.](http://7-zip.org/)
-2. **Video Demo**\
-   You should provide a narrated screencast or video of 4-5 minutes that demonstrates
-   your skill, running on your Raspberry Pi. Your group can decide who to divide the work.
-   Upload the video to YouTube and provide the link when you submit your assignment to Moodle.
+4. **Results** (_10 points_)\
+   How well does the program achieve its goals? Are the results clearly
+   presented in the Notebook file?

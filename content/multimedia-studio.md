@@ -86,6 +86,10 @@ for learning. Specifically, they should learn to:
 At the end of the studio, every student will have a high quality, published
 multimedia artifact that will be part of their portfolio.
 
+## Previous studio projects
+- [2021 "School Desegragation Studio"](https://matt.curinga.com/smart-cities/)
+- [2020 "Smart Cities Studio"](https://matt.curinga.com/smart-cities/)
+
 ## Required texts
 
 Clark, R. C., &amp; Mayer, R. E. (2016). _E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning_. John Wiley &amp; Sons, Incorporated. [adelphi library](https://ebookcentral.proquest.com/lib/adelphi/detail.action?docID=4418752)
