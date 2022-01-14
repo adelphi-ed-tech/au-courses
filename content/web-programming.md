@@ -2,7 +2,7 @@
 % Matthew X. Curinga
   Antonios Saravanos
 
-**EDT 603 _Programming web-based educational media_, Spring 2019**
+**EDT 603 _Programming web-based educational media_, Spring 2022**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~{.html .numberLines}
 <!DOCTYPE html>
@@ -15,31 +15,35 @@
       true and the tendency to miss
       lunch.<br>
       <strong>Tim Berners-Lee,</strong>
-      <em> inventor of the world wide web</em>
+      <em>inventor of the world wide web</em>
     </blockquote>
   </body>
 </html>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Description:** In this course students learn techniques of web programming to
-develop interactive, educational media. Using the Javascript programming
-language and related web development technologies (HTML5, CSS, SVG), students
-gain practice in the programming and design of interactive software.
+develop interactive, educational media. Using the Javascript (React)
+programming language and related web development technologies (HTML5, CSS, SVG)
+for interactive front-end programming, and Python (Flask) for backend server
+design, students gain practice in the programming and design of interactive
+software.
 
 **Key words:** computer science, web development, mobile web, interaction design,
-html, html5, css, javascript, OOP, mobile first, React, Bootstrap
+html, html5, css, javascript, OOP, mobile first, React, python, Flask, REST
 
 **Course website:** <https://canvas.instructure.com/courses/1519530>
 
 Office Hours
 ========================================================================
 
-**Matt Curinga, online & Alumnae Hall, Room 226A**
+**Matt Curinga**
 
 - Monday, 11-1:00PM
-- Tuesday, 2:30-4:30PM
+- Wednesday, 2:30-4:30PM
 - Thursday, 3-5PM
-- _office hours by appointment_
+- _Dr. Curinga's in person office hours are in the MIXI offices, room 274
+of the Addelphi Manhattan Center._
+_Office hours by appointment._
 
 Course Communications
 ========================================================================
@@ -50,12 +54,15 @@ Adelphi email, and the course website.
 
 You _must_ check your Adelphi email and the `#code` channel on Slack at least
 once a day. It is highly recommended that you install the Slack mobile client
-and an email client on your mobile phone so that you receive "push notifications"
-of course announcements.
+and an email client on your mobile phone so that you receive "push
+notifications" of course announcements. You _must_ install the Slack desktop
+client to facilitate sharing code and screenshots from your development
+environment.
 
 The best place to post general course questions and any content-related questions
-is the `#code` Slack channel. The instructor and course assistant, as well
-as other students and alums monitor this channel and often provide immediate support.
+is the `#code` Slack channel. The instructor as well as other students and
+alums monitor this channel and often provide immediate support.
+
 You are encouraged to contact the instructor at any time via email (<mcuringa@adelphi.edu>)
 or direct message on Slack to `@mxc`.
 
@@ -67,15 +74,17 @@ This course builds on CSC 602 to move beyond basic programming concepts;
 students will gain expertise in building more complex computer programs, over
 several iterations. At the end of the course, students will be able to design
 educationally sound web-based learning media, solve moderately complex problems
-using object oriented and functional programming paradigms, and collaborate on team
-programming projects.
+using object oriented and functional programming paradigms, and collaborate on
+team programming projects. This course focuses on the design of multi-tier,
+networked software applications.
 
 Specific teaching and learning goals include:
 
 - designing web-based interactions and multimedia to support learning
 - coding effective user interfaces for learning
 - implementing Universal Design goals for accessible web sites
-- identifying effective methods for teaching more advanced programming concepts and web design skills
+- identifying effective methods for teaching more advanced programming concepts
+  and web design skills
 
 Specific software development goals include:
 
@@ -90,41 +99,44 @@ Specific software development goals include:
   - Inheritance
   - Polymorphism
 
-Course textbook
-===============
-
-Curinga, M. Peter Wentworth, P., Elkner, J., Downey, A, and Meyers, C.
-(2018). [Think Javascript](https://mcuringa.github.io/think-js/). [free open textbook]
+Required Software
+=================
+- [Atom text editor](https://atom.io/)
+- [Slack](http://slack.com) (recommend desktop and mobile clients)
+  - [AU Ed Tech #code](https://auedtech.slack.com/signup)
+- [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/)
+- Chrome or [Chromium](https://www.chromium.org/Home) web browser
+- [Python 3](https://www.python.org/downloads/)
+- [Jupyter Notebook](https://jupyter.org/install.html)
+- [Github Client](https://desktop.github.com/) [<small>also create a [github](https://github.com) account</small>]
+- [Postman API Client](https://www.postman.com/downloads/) [<small>optional</small>]
 
 Online Documentation
 ====================
 
+### Javascript & HTML
 - [Mozilla Developer Network Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [Mozilla Developer Network HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Mozilla Developer Network CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [React Framework](https://reactjs.org/docs/getting-started.html)
-- [Bootstrap](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
+- [BULMA (CSS framework)](https://bulma.io/documentation/)
 
-Required Software/Online Accounts
-========================================================================
-
-- Software
-  - [Slack](http://slack.com) (recommend desktop and mobile clients)
-  - [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/)
-  - Chrome or [Chromium](https://www.chromium.org/Home) web browser
-- Accounts
-  - [Repl.it](https://repl.it)
-  - [AU Ed Tech #code](https://auedtech.slack.com/signup)
+### Python
+- [Python Standard Library](https://docs.python.org/3/library/index.html)
+- [PANDAS](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
+- [Jupyter](https://jupyter.org/documentation)
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 Recommended Books
 ========================================================================
-_Not required, but a good book for the basics of HTML and CSS_
 
-Duckett, J. T. (2011). [_Html & css: design and
-build websites_](http://htmlandcssbook.com/).
+Curinga, M. Peter Wentworth, P., Elkner, J., Downey, A, and Meyers, C.
+(2018). [Think Javascript](https://mcuringa.github.io/think-js/). [free open textbook]
+
+Downey, A. B. (2016). [_Think Python: How to Think Like a Computer Scientist, Version 2.4.0_](http://greenteapress.com/thinkpython2/html/index.html). Green Tea Press.
+
+Duckett, J. T. (2011). [_Html & css: design and build websites_](http://htmlandcssbook.com/).
 Indianapolis, IN: Wiley Pubishing, Inc.
-
-![](http://img1.imagesbn.com/p/9781118008188_p0_v1_s260x420.JPG)
 
 Schedule
 ========================================================================
@@ -133,19 +145,19 @@ Schedule
  Module  Topic                              Due
 -------  ----------------------------       ------------------------
       0  Getting Ready for Web Programming
-      1  Structure, Data, Style, and Logic
-      2  Mobile First, Styles, & Bootstrap      
-      3  Advanced CSS                       _Multimedia Resume_ Due
-      4  Routes & Navigation            
-      5  Forms & storage
-      6  Objects & React State
-      7  _Studio_                           
-      8  Mini App UX Testing                _Mini App_ Due
+      1  Full stack: web servers & clients  
+      2  Structure, Data, Style, and Logic  _Multimedia Resume_ Due
+      3  Routes & Navigation
+      4  PANDAS Basics
+      5  React hooks & state                _Data set report_ Due
+      6  Charts & graphs
+      7  PANDAS - Flask - React
+      8  Data Visualization Testing         _Data Viz_ Due
       9  1:1 meetings                       _Self-eval_ Due
-     10  Design Thinking         
-     11  Async Calls & Remote Data
-     12  REST APIs & CRUD
-     13  Authentication & Authorization
+     10  Forms & user input
+     11  Maps Workshop
+     12  
+     13  
      14  _Studio_
      15  App Reviews                        _Web Application_ Due
 
@@ -156,8 +168,9 @@ may be other required, non-graded assignments posted on the course website.
 
 Assignment            Points                
 ----------            ----------                
-Multimedia Resume     30                
-Mini App              30                
+Multimedia Resume     20                
+School Data Report    10                
+School Data Analysis  20                
 Self Evaluation       10                
 Web Application       30                
 
@@ -210,18 +223,25 @@ a data-driven web page as your own online resume or portfolio.
 
 For this project, you will:
 
-1. Keep all of the _data_ for your resume in .json data files. These files will contain
-   the lists of your work experience, education background, technical skills, and other
-   relevant information.
-2. Code Javascript source files using the React framework and HTML5 to structure your web page.
-3. Create or find any media assets (images, audio, video, etc) necessary for your resume.
+1. Keep all of the _data_ for your resume in .csv data files. Use Python and
+   the Flask web server to convert these csv files to JSON data which can be
+   accessed through a URL. These files will contain the lists of your work
+   experience, education background, technical skills, and other relevant
+   information.
+2. Code Javascript source files using the React framework and HTML5 to structure
+   your web page.
+3. Create or find any media assets (images, audio, video, etc) necessary for your
+   resume.
 4. Code CSS files to achieve your desired aesthetic and usability goals
 
-The portfolio site will be hosted on repl.it and the link to your final project will be submitted
-through the course website.
+You will design your site on your local computer, running your own local
+website. You will submit an archive file with all of your code and resources
+(.zip, .7z, etc). Additionally, you will submit a 5 minute video tour where you
+show your running multimedia resume as well as key aspects of the code in your
+development environment (Atom, terminal, Jupyter).
 
-Your project will be assessed both on the quality of your code and the success of the project,
-using the following criteria:
+Your project will be assessed both on the quality of your code and the success
+of the project, using the following criteria:
 
 _The resume is an individual project_
 
@@ -253,9 +273,15 @@ Books and online resources
 
 ### Documentation & Reference websites
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+- [Python Official Docs](https://docs.python.org/3/index.html)
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+- [PANDAS](https://pandas.pydata.org/docs/)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [BULMA](https://bulma.io/documentation/)
 - [World Wide Web Consortium](http://w3.org)
 - [W3 Schools](http://www.w3schools.com/)
 - [Regular Expressions](http://www.regexr.com/)
+- [LinkedIn Learning _via eCampus_](https://portal.adelphi.edu/services/redirect.php?service_id=84)
 
 ### Books
 - [HTML and CSS: Design and Build Websites](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118008189.html), our textbook
@@ -264,7 +290,13 @@ Books and online resources
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/) [free online]
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do)
 
-### Tutorial websites & online learning
+### Python, PANDAS, and Data science Tutorials
+- [LinkedIn Learning:: Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2018/welcome) [4h 37m]
+- [LinkedIn Learning:: Pandas Essential Training](https://www.linkedin.com/learning/pandas-essential-training) [2h 14m]
+
+### Javascript, HTML, and CSS
+- [Khan Academy::Intro to JavaScript: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+- [Khan Academy::Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [Code Academcy](http://www.codecademy.com/)
 - [P2PU School of webcraft](https://p2pu.org/en/schools/school-of-webcraft/)
 - [Treehouse](http://teamtreehouse.com/) [paid]
