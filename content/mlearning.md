@@ -7,7 +7,7 @@
     * the Educational Technology Program
     * at Adelphi University:
     * http://education.adelphi.edu
-    * copyright 2013-2019 Matthew X. Curinga
+    * copyright 2013-2022 Matthew X. Curinga
     * http://matt.curinga.com
     * This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
     * To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
@@ -17,17 +17,18 @@
     * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
 
-**Educational Technology 0858-612, Spring 2021**
+**Educational Technology 0858-612, Spring 2022**
 
 **Course description.**
-Most of the world connects to the Internet from mobile phones, most of the time. Android
-tablets and iPads are filtering into schools — and the hands of
-children. Augmented reality and location based software offer new opportunities for
-context aware learning. Students carry significant computing power in their pockets.
-This course considers how mobile computing forces us to reconsider the
-time and place of learning.
 
-**Keywords:** mlearning, mobile learning, android, ipad, tablet computing, AR, augmented reality
+Most of the world connects to the Internet from mobile phones, most of the time.
+Chromebooks, Android tablets and iPads have made one-to-one computing a reality
+in many U.S. school systems. Augmented reality and location based software offer
+new opportunities for context aware learning. Students carry significant
+computing power in their pockets. This course considers how mobile computing
+forces us to reconsider the time and place of learning.
+
+**Keywords:** mlearning, mobile learning, android, ipad, tablet computing, AR, XR, augmented reality
 
 <div class="img-right">
 ![http://www.internationalhero.co.uk/d/diktracy.htm](http://www.internationalhero.co.uk/d/dicktracy.jpg "go to the originating site, thanks for the art")
@@ -37,9 +38,6 @@ time and place of learning.
 **Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
 
 **Office hours:**
-
-- Monday 2-4pm
-- Tuesday 4-5pm
 
 - _office hours by appointment_
 
@@ -71,6 +69,14 @@ Students will:
 
 Weekly topics
 ----------------------------------------------------
+**Class format.** The class this semester will be taught in a hybrid-flexible
+("hyflex") format which combines asynchronous online work in some weeks, with
+live meetings held synchronously on campus at the Manhattan Center and over
+live Zoom video calls. The instructor will always be on campus for the hyflex
+sessions. You are invited to join in-person or via Zoom, and are free to change
+the format week to week. Regardless of modality, if a session is listed as
+"hyflex", you must plan to be available from 4:30-6:20 on that date.
+
 _Readings, discussion forums, and other assignments are
 available on the course website under the weekly topic._
 
@@ -82,25 +88,26 @@ activities that draw on them later in the week._
 **Hyflex sessions: Wednesday 4:30-6:20**<br>
 <small>Manhattan Campus room 274 or zoom</small>
 
-week  date    topic                         format   assignment        
-----  ------  ----------------------------  -------  ----------
-   1  Jan 27  Going mobile                  zoom
-   2  Feb 03  Mobile first                  async
-   3  Feb 10  Tech reports                  zoom     tech report
-   4  Feb 17  Mobile computing and society  async    
-   5  Feb 24  Cognition & Embodiment        zoom
-   6  Mar 03  App Inventor hackathon        async
-   -  Mar 10  _no class (mini break)_       -
-   7  Mar 17  Augmented reality             zoom     app inventor
-   8  Mar 24  1:1 Computing                 async
-   9  Mar 31  Subject reports               zoom     subject report
-  10  Apr 07  Mobile games for learning     async
-  11  Apr 14  ARIS 1: location game design  zoom
-  12  Apr 21  ARIS 2: build and test        async
-  13  Apr 28  Reading screens               zoom     ARIS project
-  14  May 05  UDL & Mobile Assistive Tech   async
-   -  May 12  _no class (makeup day)_       -
-  15  May 19  Mobile ID presentation        zoom     instr. design
+Session  Date    Format  Topic                                      Readings                                   Due
+-------  ------  ------  -----------------------------------------  ---------------------------                ----------------------------
+      1  Jan 26  hyflex  Going mobile                               -                 
+      2  Feb 02  async   Mobile first                               Weiser, Curinga	                 
+      3  Feb 09  hyflex  Tech reports                               -                                          tech report
+      4  Feb 16  hyflex  App inventor workshop                      -
+      5  Feb 23  async   Mobile computing and society               Black Mirror, Castells, Fussell, Aschoff
+      6  Mar 02  hyflex  Situated & Distributed Cognition           Sharples, Brown, Zhang
+      7  Mar 09  async   Augmented reality                          Cantave, Ravenscraft, Patel, Ca
+      -  Mar 16  -       <small>spring break</small>                -                                          app inventor 1
+      8  Mar 23  hyflex  1:1 Computing                              Zheng, Philip, Heflin, Naciri
+      9  Mar 30  async   Mobile games for learning                  Laato, Facer, Squire
+     10  Apr 06  hyflex  App inventor 2 workshop                    -
+     11  Apr 13  async   Lit review                                 -                                          lit review
+     12  Apr 20  hyflex  Reading screens                            Margolin, Singer
+     13  Apr 27  async   UDL & Mobile Assistive Tech                Google switch, Tania’s story, Sik-Lányi
+     14  May 04  hyflex  Mobile app testing                                                                    app prototype
+      -  May 11  -       <small>no class (makeup day)</small>       -
+     15  May 18  async   app inventor project                       -                                          app inventor 2
+
 
 Assignments & grading
 ----------------------------------------------------
@@ -114,11 +121,11 @@ App Inventor app 1      20%  March 17
 Lit review              25%  March 31
 App Inventor app 2      25%  April 21
 
-### Session leader (pair)
+### Session leader (individual)
 
-You or you and a partner will be responsible for leading a class session this
+You will be responsible for leading a class session this
 semester. For async weeks, you will submit (to the instructor) an audio
-introduction to the readings and other materials; during zoom calls you will
+introduction to the readings and other materials; during hyflex meetings you will
 begin the session with a short introduction. Plan for about 10 minutes.
 
 If you are leading an asynchronous class session, you will not submit your own
@@ -128,14 +135,12 @@ students who address the same subjects but may not have seen each other, post to
 keep discussions on track (and civil if needed), and prompt/nudge your peers who
 seem to be falling behind.
 
-If you are leading an live class class (via zoom), you will essentially be the seminar or
+If you are leading a live class, you will essentially be the seminar or
 workshop leader for that week. You should be very familiar with the readings and
 come to class with interesting questions and/or quotations from the texts that
-you believe will lead to fruitful discussions. If you are leading a workshop,
-you will work with the instructor to design activities for the rest of the class
-and you will present the tools and facilitate the activities.
+you believe will lead to fruitful discussions.
 
-### Reading Responses (solo)
+### Reading Responses (individual)
 
 For most asynchronous weeks you will be asked to post a _reading response_ on Moodle.
 This is the main online interaction for this portion of this course. Your
@@ -159,77 +164,76 @@ The general workflow for these online weeks follows:
 2. (Sat-Mon) Write & post a reading response
 3. (Tues-Wed) Read all of the responses and post comments/discuss
 
-In addition to your own response, you should check the discussion board daily.
+In addition to your own response, you should check the discussion board regularly.
 You are required to comment on at least two of your
 peer's responses each week and you should respond to
 people who engage with you.
 
-### Tech Report Podcast (pair)
+### Tech Report (pair)
 
 Working in pairs, you will present a “Tech Report” on an aspect of mobile
 technology. Teams will prepare 10 minute presentation they will present in
 class. In the Moodle forum, each team will post a 1-paragraph abstract of their
 presentation and an annotated list of resources (e.g. websites, press, and
 scholarly articles) related to their topic. Annotations should only be a few
-sentences.
+sentences. The report does not need to include academic or experimental articles,
+but should give a general overview of the technology (how and where it works)
+as well as the latest state of the art of the field.
 
 Grading for this assignment will take into account:
 
-- written report on Moodle
-- quality and importance of the subject matter
 - quality of the presentation
+- quality and importance of the subject matter
 
-Example topics:
+Choose one of these technologies for your report:
 
-* wireless networks (wimax, mesh networks, p2p networks, 5G/6G)
-* near field communications (NFC)
-* device hardware (chips screens, etc)
-* mobile payments (Google Wallet, Apple Pay, etc)
-* GIS/GPS & location
-* beacons, RFID, etc
-* iOS and Android Platforms
-* mobile media (video, audio, animations, web/html/css, etc.)
-* speech recognition, text-to-speech, voice interfaces
-* facial recognition & computer vision
+* peer-to-peer wlan and mobile networks
+* indoor location systems (bluetooth beacons, etc)
+* mobile payments (Google Wallet, Apple Pay, Alipay, etc)
+* Augmented reality (AR) headsets, glasses, etc
 * AR technologies (Goggles, biometrics, development platforms, etc)
-* IoT (microboards, dev platforms, uses, sensors, etc)
-* mobile computing and assistive technology
 * wireless/mobile security
-* virtual assistants (Alexa, Google Home, etc)
-* gesture interfaces
+* wearable computing
 
-### App Inventor app (team)
-Working in a team, you will design, develop, and test a mobile app built with
+### App Inventor app 1 (individual)
+You will design, develop, and test a mobile app built with
 MIT's [app inventor software](https://appinventor.mit.edu/), which allows you
-to make mobile Android apps without writing any text-based code. We will all
-work on the same theme, which each team presenting their solution. The theme
-for the Hackathon will be determined by the class and the instructor. App Inventor
-apps only run on Android, but the software includes a simulator that any user
-can use from the web. The final product can be installed on an Android phone
-or tablet.
+to make mobile Android apps without writing any text-based code. For this assignment
+you will conceive of, design, and code a "simple" educational app with app inventor.
+The app will be "simple" because it will not have to use any advanced features
+such as having users log in, accessing internet resources, allowing for multi-user
+interactions, etc.
+
+### App Inventor app 2 (team)
+Building on the skills and ideas from your first app inventor project, you will
+join a team (3-5 people) to build a larger, more complex mobile app for learning
+using the App Inventor platform. This second app should be more ambitious than the first
+one. You might want to include location or map data, voice recognition, multi-user
+support, storing information on the device, etc.
 
 
+### Mini literature review (individual)
 
-### Mini literature review (solo)
-For this assignment you will write a report about how mobile technologies are used in
-a specific domain of learning. Broadly, your report should focus on a subject area
-(e.g. mathematics, language learning, teacher professional development)
-or target group/setting (e.g. students with disabilities, higher education, museum education). Your report will include a written portion and then a visual presentation
-video where you demonstrate and discuss apps/mobile software related to your topic.
+For this assignment you will write a brief review of literature about how mobile
+technologies are used in a specific domain of learning. Broadly, your review
+should focus on a subject area (e.g. mathematics, language learning, teacher
+professional development) or target group/setting (e.g. students with
+disabilities, higher education, museum education, ENL students). You should read and review
+the most important scholarly articles in your topic area. This must
+include articles that do not describe _mobile learning_, but discuss the state
+of the art knowledge of the field. For example, if you choose to write about
+"mobile technologies in museum education," you must include a brief overview of the
+key goals and techniques of museum education in general. From there, you will review
+the research on mlearning for museums.
 
-The written report should:
+Read the [Purdue University Online Writing Lab (OWL) guide to writing a
+literature
+review](https://owl.purdue.edu/owl/research_and_citation/conducting_research/writing_a_literature_review.html)
+to gain a better understanding of what is expected for this assignment.
+Typically, a literature review will be _exaustive_ -- in that it covers all of
+the public research on the topic. Your review can be selective, where you review
+the 5-10 **most important** articles published on your topic.
 
-- describe the domain your researching, including an understanding of best pedagogical practices in general (without tech or mobile tech)
-- include a literature review of relevant research in mobile learning (if you can't find at least 3 good academic articles, you should choose a different topic)
-- the lit review provides both a summary and a synthesis of the research
-- describe the software that you will demo and discuss in your video (links to developer, brief summary, etc)
-
-Your report _must_ include specific screenshots (or embedded) videos of mobile
-apps that are related to the report, showing how they support (or hinder) learning
-objectives.
-
-In class, you will take about 5 minutes to present your report and then answer
-questions related to the topic.
 
 
 Course Readings & Bibliography
@@ -268,6 +272,8 @@ Dourish, P. (2004). *Where the action is: The foundations of embodied interactio
 
 Dunleavy, M., Dexter, S., & Heinecke, W. (2007). What added value does a 1:1 student to laptop ratio bring to technology-supported teaching and learning? *Journal of Computer Assisted Learning*, *23*(5), 440-452.
 
+Dunn, M. E., Shah, G., & Veríssimo, D. (2021). [Stepping into the Wildeverse: Evaluating the impact of augmented reality mobile gaming on pro-conservation behaviours](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10273). _People and Nature_, _3_(6), 1205–1217. <https://doi.org/10.1002/pan3.10273>
+
 Evans, C. (2008). The effectiveness of m-learning in the form of podcast revision lectures in higher education. *Computers & Education*, *50*(2), 491-498.
 
 Facer, K., Joiner, R., Stanton, D., Reid, J., Hull, R., & Kirk, D. (2004). Savannah: Mobile gaming and learning? *Journal of Computer Assisted Learning*, *20*(6), 399–409.
@@ -287,7 +293,12 @@ Kelly, K. (2019, February 12). [AR Will Spark the Next Big Tech Platform—Call 
 
 Kloos, M. (n.d.). [Communities of practice 2.0.](http://www.martinkloos.nl/thesis-M.Kloos.pdf)
 
-Mayer, R. E. (2007). Five features of effective multimedia messages: An evidence-based approach. In S. M. Fiore & E. Salas (Eds.), _Toward a science of distributed learning_. (pp. 171–184). Washington, DC: American Psychological Association. [moodle](https://moodle.adelphi.edu/file.php/49382/mayer-2003-multimedia-methods.pdf "enrolled students can download from moodle")
+Laato, S., Islam, A. K. M. N., & Laine, T. H. (2020). [Did location-based games motivate players to socialize during COVID-19?](https://www.sciencedirect.com/science/article/pii/S0736585320301179) _Telematics and Informatics_, _54_, 101458. <https://doi.org/10.1016/j.tele.2020.101458>
+
+Margolin, S. J., Driscoll, C., Toland, M. J., & Kegler, J. L. (2013). E-readers, Computer Screens, or Paper: Does Reading Comprehension Change Across Media Platforms? _Applied Cognitive Psychology_, 27(4), 512–519. <https://doi.org/10.1002/acp.2930>
+
+
+Mayer, R. E. (2007). Five features of effective multimedia messages: An evidence-based approach. In S. M. Fiore & E. Salas (Eds.), _Toward a science of distributed learning_. (pp. 171–184). Washington, DC: American Psychological Association.
 
 Mirzoeff, N. (2011, January 31). [Networked visuality: The revolution in North Africa.](http://nicholasmirzoeff.com/RTL/?p=32) _For the Right to Look._
 
@@ -300,7 +311,6 @@ Motiwalla, L. F. (2007). Mobile learning: A framework and evaluation. *Computers
 Naismith, L., Lonsdale, P., Vavoula, G., & Sharples, M. (2004). [Literature review in mobile technologies and learning.](http://archive.futurelab.org.uk/resources/documents/lit_reviews/Mobile_Review.pdf) *FutureLab Report*, *11*.
 
 Naciri, A., Baba, M. A., Achbani, A., & Kharbach, A. (2020). [Mobile Learning in Higher Education: Unavoidable Alternative during COVID-19](https://www.aquademia-journal.com/download/mobile-learning-in-higher-education-unavoidable-alternative-during-covid-19-8227.pdf). _Aquademia_, _4_(1), ep20016. <https://doi.org/10.29333/aquademia/8227>
-
 
 Naismith, L., & Smith, M. P. (2009). [Using mobile technologies for multimedia tours in a traditional museum setting.](http://www.aupress.ca/books/120155/ebook/12_Mohamed_Ally_2009-Article12.pdf) In M. Ally (Ed.), _Mobile learning transforming the delivery of education and training_ (pp. 247-264). Edmonton: AU Press.
 
@@ -333,6 +343,10 @@ Ryu, H., & Parsons, D. (Eds.). (2008). *Innovative mobile learning: Techniques a
 Sen, A. (2010). [The mobile and the world.](http://itidjournal.org/itid/article/view/614/254) *Information Technologies & International Development*, *6*(Special Edition).
 
 Sharples, M., Taylor, J., & Vavoula, G. (2016). A Theory of Learning for the Mobile Age. In _The SAGE Handbook of E-learning Research_ (pp. 63–81). SAGE Publications Ltd.
+
+Sik-Lányi, C., Hoogerwerf, E.-J., & Miesenberger, K. (2015). [_Assistive Technology: Building Bridges_](http://ebookcentral.proquest.com/lib/adelphi/detail.action?docID=2190958). IOS Press.
+
+Singer, L. M., & Alexander, P. A. (2017). Reading Across Mediums: Effects of Reading Digital and Print Texts on Comprehension and Calibration. _The Journal of Experimental Education_, 85(1), 155–172. <https://doi.org/10.1080/00220973.2016.1143794>
 
 Squire, K. (2010). From information to experience: Place-based augmented reality games as a model for learning in a globally networked society. _Teachers College Record_, _112_(10), 2565–2602.
 
