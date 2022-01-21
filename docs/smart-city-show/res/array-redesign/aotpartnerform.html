@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Array of Things Redesigned</title>
+<link href="CSS/Styles.css" rel="stylesheet" type="text/css">
+<link href="CSS/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body section {
+    padding-top: 2%;
+}
+</style>
+</head>
+
+<body>
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="index.html"><img src="Images/AoT Logo Image without Text.png" width="125" height="50" alt="AoT Shortened Logo"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item"> <a class="nav-link" href="index.html">Home </a> </li>
+      <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="aboutaot.html" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> About </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown2"> <a class="dropdown-item" href="aboutaot.html">Overview </a> <a class="dropdown-item" href="aotgoalsandusesoverview.html">Goals & Uses</a> <a class="dropdown-item" href="aotnodesoverview.html">Nodes</a> <a class="dropdown-item" href="aotpoliciesoverview.html">Policies</a> <a class="dropdown-item" href="aotcollaboratorsoverview.html">Collaborators</a> <a class="dropdown-item" href="aotfaqs.html">FAQs</a> </div>
+      </li>
+
+<li class="nav-item dropdown active"> 
+		  <a class="nav-link dropdown-toggle" href="aotpartnersshipsoverview.html" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Partnerships <span class="sr-only">(current)</span></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown3"> 
+			<a class="dropdown-item" href="aotpartnersshipsoverview.html">Overview</a> 
+			<a class="dropdown-item" href="aotpartnershipscities.html">AoT Cities</a>
+			<a class="dropdown-item" href="aotpartnershipseducation.html">Education</a>
+			<a class="dropdown-item" href="aotpartnerwithus.html">How to Partner</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item active" href="aotpartnerform.html">Become a Partner<span class="sr-only">(current)</span></a> </div>
+      </li>
+		
+		
+      <li class="nav-item"> <a class="nav-link" href="aotmedia.html"> Media </a> </li>
+		
+      <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="connect.html" id="navbarDropdown5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Connect </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown5"> 
+			<a class="dropdown-item" href="aotcontactform.html">Contact Us</a> 
+			<a class="dropdown-item" href="https://medium.com/array-of-things" target="_blank">AoT Blog</a></div>
+      </li>
+    </ul>
+    
+    <!--
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+--> 
+  </div>
+</nav>
+<header>
+  <h1><span style="color:#A4D5EE">A<span style="color:#FE0202">o</span>T PARTNERSHIP FORM</span> </h1>
+  <hr>
+</header>
+<section>
+  <p> We're thrilled to learn of your interest in partnering with the Array of Things! Please submit the form below and a member of our team will reach out.<br>
+	<br>
+	If you'd like to learn more about our partnerships first, please visit the <a href="aotpartnerwithus.html" title="AoT Partner With Us" target="_self">Partner With Us</a> page.</p>
+  <form>
+    <div class="form-row">
+      <div class="col"> <strong>
+        <label for="inputFirstName">First Name*</label>
+        </strong>
+        <input type="text" class="form-control" id="inputFirstName" placeholder="First name" required>
+      </div>
+      <div class="col"> <strong>
+        <label for="inputLastName">Last Name*</label>
+        </strong>
+        <input type="text" class="form-control" id="inputLastName" placeholder="Last name" required>
+      </div>
+    </div>
+	  <br>
+	  <div class="form-group">
+    <strong><label for="inputTitle">Title*</label></strong>
+    <input type="text" class="form-control" id="inputTitle" placeholder="" required>
+  </div>	  
+	  
+	  <div class="form-group">
+    <strong><label for="inputInstitution">Institution*</label></strong>
+    <input type="text" class="form-control" id="inputInstitution" placeholder="" required>
+  </div>
+	  
+    <div class="form-group"> <strong>
+      <label for="inputEmail">Email address*</label>
+      </strong>
+      <input type="email" class="form-control" id="inputEmail" placeholder="Enter email" required>
+      <small id="emailHelp1" class="form-text text-muted">We'll never share your email with anyone else.</small> </div>
+    <fieldset class="form-group">
+      <label class="control-label"><strong>What type of partnership are you looking for?</strong></label>
+      <div class="col-sm-10">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="collab" checked>
+          <label class="form-check-label" for="gridRadios1"> Collaboration </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="volunteer">
+          <label class="form-check-label" for="gridRadios2"> Volunteer </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="modextend">
+          <label class="form-check-label" for="gridRadios3"> Modify/Extend platform </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios4" value="researchdisc">
+          <label class="form-check-label" for="gridRadios4"> Research in urban or non-urban disciplines </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios5" value="researchcomp">
+          <label class="form-check-label" for="gridRadios5"> Research in computer perception </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios6" value="other">
+          <label class="form-check-label" for="gridRadios6"> Other </label>
+        </div>
+      </div>
+    </fieldset>
+	  
+	  <div class="form-group">
+    <strong><label for="inputBackground">Please provide some background regarding your interest.</label></strong>
+    <textarea class="form-control" rows="3" id="background"></textarea>
+  </div>
+
+	  	  <div class="form-group">
+    <strong><label for="inputBackground">Do you have any other questions or comments?
+</label></strong>
+    <textarea class="form-control" rows="3" id="questions"></textarea>
+  </div>
+	  
+	  	  <div class="form-group">
+    <strong><label for="inputTitle">How did you learn about Array of Things?</label></strong>
+    <input type="text" class="form-control" id="inputSource" placeholder="">
+  </div>
+	  
+	  
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</section>
+<footer>Copyright © Array of Things 2020. <br>
+<em><b>Array of Things</b></em> and <em><b>AoT</b></em> are trademarks of the University of Chicago.</footer>
+<script src="js/jquery-3.4.1.min.js"></script> 
+<script src="js/popper.min.js"></script> 
+<script src="js/bootstrap-4.4.1.js"></script>
+</body>
+</html>

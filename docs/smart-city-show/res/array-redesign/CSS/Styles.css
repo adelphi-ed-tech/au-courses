@@ -1,0 +1,107 @@
+@charset "utf-8";
+body {
+    background-color: #FFFFFF;
+    background-image: url(url);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding-left: 10%;
+    padding-top: 3%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+}
+footer {
+    text-align: center;
+    font-size: small;
+    clear: both;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    height: 40px;
+    padding-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+h1 {
+    text-align: center;
+    color: #FE0202;
+    font-weight: 700px;
+    text-decoration: none;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 27px;
+    padding-top: 27px;
+    margin-top: 35px;
+}
+section {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(164,213,238,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(164,213,238,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(164,213,238,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(164,213,238,1.00) 100%);
+    border-radius: 10px;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: left;
+    vertical-align: middle;
+
+}
+
+.navbar-nav.mr-auto .nav-item .nav-link {
+  color: #1F1F1F;
+}
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+  color: #FE0202;
+  font-weight: bolder;
+}
+
+.navbar-nav.mr-auto .nav-item .nav-link:hover {
+  color: #A4D5EE;
+  font-weight: bolder;
+}
+
+.nav-item.dropdown .dropdown-menu .dropdown-item:hover {
+	color: #A4D5EE;
+}
+
+.nav-item.dropdown.active .dropdown-menu .dropdown-item {
+	color: #1F1F1F;
+}
+
+.nav-item.dropdown.active .dropdown-menu .dropdown-item.active {
+  color: #9cb4c0;
+  font-weight: bolder;
+}
+
+.nav-item.dropdown.active .dropdown-menu .dropdown-item:hover {
+  color: #A4D5EE;
+  font-weight: bolder;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #1F1F1F;
+	font-weight: bold;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+  color: #FE0202;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #A4D5EE;
+  font-weight: bold;
+}
+
+.card-text {
+	font-size: small;
+}

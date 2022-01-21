@@ -1,0 +1,488 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Array of Things Redesigned</title>
+<link href="CSS/Styles.css" rel="stylesheet" type="text/css">
+<link href="CSS/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+section {
+    padding-top: 2%;
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    background-color: #f5fafd;
+}	
+.card a {
+  color: #1F1F1F;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.card a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+text-decoration-color: #FE0202;
+}	
+
+/*
+a:active {
+		color: #FE0202;
+	}
+*/
+	
+.navbar.fixed-bottom.navbar-expand-lg.navbar-dark.bg-info {
+    margin-left: 80%;
+    margin-right: 10%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+	
+.navbar.fixed-bottom.navbar-expand-lg.navbar-dark.bg-info .nav-item .nav-link:hover {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: underline;
+	text-decoration-color: #FE0202;
+}
+	</style>
+</head>
+
+<body>
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="index.html"><img src="Images/AoT Logo Image without Text.png" width="125" height="50" alt="AoT Shortened Logo"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+    <ul class="navbar-nav mr-auto">
+		
+      <li class="nav-item"> <a class="nav-link" href="index.html">Home </a> </li>
+		
+      <li class="nav-item dropdown active"> 
+		  <a class="nav-link dropdown-toggle" href="aboutaot.html" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> About <span class="sr-only">(current)</span></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown2"> 
+			<a class="dropdown-item" href="aboutaot.html">Overview</a> 
+			<a class="dropdown-item" href="aotgoalsandusesoverview.html">Goals & Uses</a> 
+			<a class="dropdown-item" href="aotnodesoverview.html">Nodes</a> 
+			<a class="dropdown-item" href="aotpoliciesoverview.html">Policies</a> 
+			<a class="dropdown-item" href="aotcollaboratorsoverview.html">Collaborators</a> 
+			<a class="dropdown-item active" href="aotfaqs.html">FAQs <span class="sr-only">(current)</span></a></div>
+      </li>
+		
+      <li class="nav-item dropdown"> 
+		  <a class="nav-link dropdown-toggle" href="aotpartners.html" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Partnerships </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown3"> 
+			<a class="dropdown-item" href="aotpartnersshipsoverview.html">Overview</a> 
+			<a class="dropdown-item" href="aotpartnershipscities.html">AoT Cities</a>
+			<a class="dropdown-item" href="aotpartnershipseducation.html">Education</a>
+			<a class="dropdown-item" href="aotpartnerwithus.html">How to Partner</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="aotpartnerform.html">Become a Partner</a> </div>
+      </li>
+		
+     <li class="nav-item"> <a class="nav-link" href="aotmedia.html"> Media </a> </li>
+	
+      <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="connect.html" id="navbarDropdown5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Connect </a>
+		  <div class="dropdown-menu" aria-labelledby="navbarDropdown5"> 
+			<a class="dropdown-item" href="aotcontactform.html">Contact Us</a> 
+			<a class="dropdown-item" href="https://medium.com/array-of-things" target="_blank">AoT Blog</a></div>
+      </li>
+    </ul>
+    
+  </div>
+</nav>
+	
+	<nav class="navbar fixed-bottom navbar-expand-lg navbar-dark bg-info"> 
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent100">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item"> <a class="nav-link" href="aotpartnerform.html">Partner With Us</a> </li>
+    </ul>
+  </div>
+</nav>	
+	
+	
+<header>
+  <p>
+  <h1><span style="color:#A4D5EE">Frequently</span> Asked <span style="color:#A4D5EE">Questions</span> </h1>
+  </p><br>
+  <p>We're passionate about our project & want you to be as well. <br><br>We've compiled some of the questions we've heard the most so we can get you the information you seek. <br><br>
+	Have a question that's not addressed? <a href="aotcontactform.html" title="AoT Contact Form" target="_self">Reach out to us</a>! If you're wondering, we bet someone else is, too.</p>
+</header>
+<br>
+<section>
+	<h2><u>General Information</u></h2><br>
+  <div id="accordion1" role="tablist">
+    <div class="card">
+      <div class="card-header" role="tab" id="headingOne1">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseOne1" role="button" aria-expanded="false" aria-controls="collapseOne1"> What is the Array of Things?</a> </h5>
+      </div>
+      <div id="collapseOne1" class="collapse" role="tabpanel" aria-labelledby="headingOne1" data-parent="#accordion1">
+        <div class="card-body">The Array of Things (AoT) is an experimental urban measurement system comprising programmable, modular nodes with sensors and computing capability so that they can analyze data internally.<br><br>
+		  AoT is a city's fitness tracker, collecting real-time data on the city’s environment, infrastructure, and activity for research and public use. </div>
+      </div>
+    </div>
+	  
+	<div class="card">
+		  <div class="card-header" role="tab" id="headingTwo1">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwo1" role="button" aria-expanded="false" aria-controls="collapseTwo1"> Where does the AoT project take place? </a> </h5>
+		  </div>
+		  <div id="collapseTwo1" class="collapse" role="tabpanel" aria-labelledby="headingTwo1" data-parent="#accordion1">
+			<div class="card-body">It’s based in Chicago and that is where most of the work has taken place so far, but we’re working also with other cities across the world. We’re always looking for more <a href="aotpartnerwithus.html" title="How to Partner with AoT" target="_self">partners</a>—AoT was never meant to stay solely within Chicago’s borders!</div>
+		  </div>
+			</div>
+
+	<div class="card">
+		  <div class="card-header" role="tab" id="headingThree1">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseThree1" role="button" aria-expanded="false" aria-controls="collapseThree1"> Who is the Array of Things Team? </a> </h5>
+		  </div>
+		  <div id="collapseThree1" class="collapse" role="tabpanel" aria-labelledby="headingThree1" data-parent="#accordion1">
+			<div class="card-body">This is a long answer! So long, in fact, that we dedicated a page just to the <a href="aotcollaboratorsoverview.html" title="AoT Collaborators" target="_self"><em>many</em> collaborators</a> on this project. </div>
+		  </div>
+		</div>
+
+	<div class="card">
+		  <div class="card-header" role="tab" id="headingFour1">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseFour1" role="button" aria-expanded="false" aria-controls="collapseFour1"> What is the goal of AoT?
+	 </a> </h5>
+		  </div>
+		  <div id="collapseFour1" class="collapse" role="tabpanel" aria-labelledby="headingFour1" data-parent="#accordion1">
+			<div class="card-body">This initiative seeks to allow researchers, policymakers, developers and residents to work together and take specific actions that will make cities healthier, more efficient and more livable. <br><br>
+				The data collected will help cities operate more efficiently and realize cost savings by anticipating and proactively addressing challenges of urban cities.<br><br>
+				Read more about <a href="aotgoals.html" title="AoT Goals & Uses" target="_self">our goals</a>.
+	 </div>
+		  </div>
+		</div>
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingFive1">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseFive1" role="button" aria-expanded="false" aria-controls="collapseFive1"> What use does AoT have? </a> </h5>
+	   </div>
+	   <div id="collapseFive1" class="collapse" role="tabpanel" aria-labelledby="headingFive1" data-parent="#accordion1">
+			<div class="card-body">AoT can help residents do a number of things! For example, it allows them to navigate through the city more efficiently based on things like excessive noise and congestion. We could all use a little more of that, no?<br><br>
+				Explore the <a href="aotuses.html" title="AoT Uses" target="_self">full list of uses</a>. If you have other ideas, <a href="aotcontactform.html" title="AoT Contact Form" target="_self">let us know</a>!</div>
+		</div>
+		  </div>
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingSix1">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseSix1" role="button" aria-expanded="false" aria-controls="collapseSix1"> How is AoT funded? </a> </h5>
+	   </div>
+	   <div id="collapseSix1" class="collapse" role="tabpanel" aria-labelledby="headingSix1" data-parent="#accordion1">
+			<div class="card-body">AoT is funded primarily by the U.S. National Science Foundation, which provided a $3.1 million grant to the University of Chicago. <br><br>The project has also received investments of $150,000 each from the Chicago Innovation Exchange and Argonne National Laboratory to fund the initial pilot project. <br><br>The underlying platform technology is the result of over $1 million of internal research funding from Argonne National Laboratory. <br><br>Additionally, the City of Chicago has provided installation and power for the nodes.
+	</div>
+		</div>
+		  </div>  
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingEight1">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseEight1" role="button" aria-expanded="false" aria-controls="collapseEight1"> How does AoT work?</a> </h5>
+	   </div>
+	   <div id="collapseEight1" class="collapse" role="tabpanel" aria-labelledby="headingEight1" data-parent="#accordion1">
+			<div class="card-body">AoT uses nodes that are usually placed on lampposts and buildings across the city, typically at street intersections and 22-24 feet above the street. The nodes have many sensors in them and <a href="aotnodesarchitecture.html" title="AoT Architecture" target="_self">measure up to 18 different elements</a>. These sensors track the factors that help provide the citizens and the city with information they can use to make better choices.<br><br>
+				This is all made possible by Waggle technology, which is what AoT is based on.
+	</div>
+		</div>
+		  </div>	
+
+</div>
+
+<br><hr>	<br>
+	
+<h2><u>Nodes & Waggle</u></h2><br>
+  <div id="accordion2" role="tablist">
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingSeven2">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseSeven2" role="button" aria-expanded="false" aria-controls="collapseSeven2"> How much does an AoT node cost? </a> </h5>
+	   </div>
+	   <div id="collapseSeven2" class="collapse" role="tabpanel" aria-labelledby="headingSeven2" data-parent="#accordion2">
+			<div class="card-body">AoT nodes are experimental, and we expect that some nodes may have expanded capabilities, such as anemometers (to measure wind speed), precise air particle sensors (to measure pollutants like smoke or pollen), and sky-facing imagers to understand cloud cover and sunlight. The cost will vary based on the exact selection of sensors and other components.
+	</div>
+		</div>
+		  </div>
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingNine2">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseNine2" role="button" aria-expanded="false" aria-controls="collapseNine2"> What is Waggle?</a> </h5>
+	   </div>
+	   <div id="collapseNine2" class="collapse" role="tabpanel" aria-labelledby="headingNine2" data-parent="#accordion2">
+			<div class="card-body"><a href="aotnodeswaggle.html" title="AoT Waggle" target="_self">Waggle</a> is an open platform for edge computing and intelligent, wireless sensors developed at <a href="https://www.anl.gov/" title="Argonne National Laboratory" target="new">Argonne National Laboratory</a>. <br><br>
+	The National Science Foundation awarded the Waggle team a grant from a new project called <a href="https://sagecontinuum.org/" title="SAGE: A Software-Defined Sensor Network" target="_self">SAGE: A Software-Defined Sensor Network</a>. SAGE will create a new generation of Waggle node with upgraded sensors and more powerful computing for AI "at the edge." 
+
+	</div>
+		</div>
+		  </div>
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingTen3">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTen3" role="button" aria-expanded="false" aria-controls="collapseTen3"> What do node sensors measure?
+	</a> </h5>
+	   </div>
+	   <div id="collapseTen3" class="collapse" role="tabpanel" aria-labelledby="headingTen3" data-parent="#accordion2">
+			<div class="card-body">The sensors measure 18 different types of elements falling into rougly 6 categories. Visit the <a href="aotnodesarchitecture.html" title="AoT Node Architecture" target="_self">Architecture</a> page to see a full list. 
+
+	</div>
+		</div>
+		  </div>
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingEleven4">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseEleven4" role="button" aria-expanded="false" aria-controls="collapseEleven4"> Where are the AoT nodes manufactured?</a> </h5>
+	   </div>
+	   <div id="collapseEleven4" class="collapse" role="tabpanel" aria-labelledby="headingEleven4" data-parent="#accordion2">
+			<div class="card-body">While each AoT node contains commercial components from many sources, the majority of the custom aspects of the nodes are sourced in Chicagoland. Waggle, which makes up the underlying software and hardware design, was also developed in Chicago.  
+
+	</div>
+		</div>
+		  </div>
+
+
+
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingNineteen5">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseNineteen5" role="button" aria-expanded="false" aria-controls="collapseNineteen5">  When and where will nodes be installed?
+	 </a> </h5>
+	   </div>
+	   <div id="collapseNineteen5" class="collapse" role="tabpanel" aria-labelledby="headingNineteen5" data-parent="#accordion2">
+			<div class="card-body">Most of the nodes to date have been installed by the Chicago Department of Transportation (CDOT), and specifically by the Office of Electrical Operations. <br><br>
+				Recent node installations have also been provided by Crown Castle Communications and ComEd as part of a Community Smart MicroGrid project in the Bronzeville neighborhood. <br><br> 
+	As of January 2020 there were roughly 130 nodes installed throughout Chicago. In 2020 we plan to upgrade many nodes (some of which were installed as early as 2016) and expand to 150 locations.
+
+
+	</div>
+		</div>
+		  </div>
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingTwenty6">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwenty6" role="button" aria-expanded="false" aria-controls="collapseTwenty6">  How is a location for a node selected?</a> </h5>
+	   </div>
+	   <div id="collapseTwenty6" class="collapse" role="tabpanel" aria-labelledby="headingTwenty6" data-parent="#accordion2">
+			<div class="card-body">
+				Founding director of the Urban Center for Computation and Data Charlie Catlett put it well when he said, "<em>Where we see an intersection of resident concerns, science interests, and policymakers interests, that's where we see opportunity for an Array of Things deployment in Chicago.</em>"<br><br>
+				The EOC and AoT leadership team solicit input from researchers, neighborhood groups, and community members to determine the best locations for the deployment of AoT nodes.
+	</div>
+		</div>
+		  </div>	
+
+	  
+</div>
+	
+
+<br><hr>	<br>	
+	
+	
+<h2><u>Privacy & Data</u></h2><br>
+  <div id="accordion3" role="tablist">
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingTwelve3">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwelve3" role="button" aria-expanded="false" aria-controls="collapseTwelve3"> What data is collected?</a> </h5>
+	   </div>
+	   <div id="collapseTwelve3" class="collapse" role="tabpanel" aria-labelledby="headingTwelve3" data-parent="#accordion3">
+			<div class="card-body">Currently the nodes use their sensors to measure things like temperature, barometric pressure, carbon monoxide, and pedestrian and vehicular traffic. <br><br> 
+			Personal data is <strong>not</strong> collected. <br><br>
+			The full spectrum of what's collected & your privacy can be found <a href="aotpoliciesprivacy.html" title="Privacy" target="_self">here</a>.
+
+	</div>
+		</div>
+		  </div>	
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingThirteen3">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseThirteen3" role="button" aria-expanded="false" aria-controls="collapseThirteen3"> Who has access to the data?</a> </h5>
+	   </div>
+	   <div id="collapseThirteen3" class="collapse" role="tabpanel" aria-labelledby="headingThirteen3" data-parent="#accordion3">
+			<div class="card-body">The data is published openly and without charge. It is available for research and public use.
+	</div>
+		</div>
+		  </div>	
+
+
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingFourteen3">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseFourteen3" role="button" aria-expanded="false" aria-controls="collapseFourteen3"> What's done with the collected data?</a> </h5>
+	   </div>
+	   <div id="collapseFourteen3" class="collapse" role="tabpanel" aria-labelledby="headingFourteen3" data-parent="#accordion3">
+			<div class="card-body">The nodes transmit data to a secure central database server at Argonne National Laboratory. Data is then published openly to allow individuals, organizations, researchers, engineers and scientists to study urban environments, develop new data analysis tools and applications, and inform urban planning.
+
+	</div>
+		</div>
+		  </div>
+
+
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingFifteen3">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseFifteen3" role="button" aria-expanded="false" aria-controls="collapseFifteen3"> How are privacy and security protected?</a> </h5>
+	   </div>
+	   <div id="collapseFifteen3" class="collapse" role="tabpanel" aria-labelledby="headingFifteen3" data-parent="#accordion3">
+			<div class="card-body">We’re so glad you asked.<br><br>
+	This was one of the biggest considerations when developing the AoT. Since the nodes contain sensors like cameras, it’s important that this be addressed. <br><br>
+	Policy and operational activities are guided by the <a href="aotpoliciesgovernance.html" title="AoT Governance EOC" target="_self">Array of Things Executive Oversight Committee (EOC)</a>, which was established to ensure the protection of personal privacy. <br><br>			
+	In terms of images, all AoT images are analyzed within the nodes rather than transmitted and stored for later use in order to protect privacy. <br><br>
+				A limited volume of images is collected but access to it is strictly limited and is for computer vision software development.<br><br>
+	Explore our <a href="aotpoliciesoverview.html" title="AoT Policies" target="_self">Policies section</a> for a closer look on how the EOC and AoT team protect your privacy.
+
+
+	</div>
+		</div>
+		  </div>	
+
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingSixteen3">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseSixteen3" role="button" aria-expanded="false" aria-controls="collapseSixteen3"> Who makes up the EOC?</a> </h5>
+	   </div>
+	   <div id="collapseSixteen3" class="collapse" role="tabpanel" aria-labelledby="headingSixteen3" data-parent="#accordion3">
+			<div class="card-body">The EOC is co-chaired by the Commissioner of the Chicago Department of Innovation and Technology (Carleton Nolan) and the director of the Urban Center for Computation & Data (Charlie Catlett), with additional members from academia, industry, non-profits, and the community. Visit our <a href="aotpoliciesgovernance.html" title="AoT Governance" target="_self">Governance page</a> for a full list of EOC members.
+	</div>
+		</div>
+		  </div>	
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingSeventeen3">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseSeventeen3" role="button" aria-expanded="false" aria-controls="collapseSeventeen3">  Will the nodes collect information about individual people?</a> </h5>
+	   </div>
+	   <div id="collapseSeventeen3" class="collapse" role="tabpanel" aria-labelledby="headingSeventeen3" data-parent="#accordion3">
+			<div class="card-body"><strong>No.</strong><br><br>
+	AoT is supporting analysis of, and monitoring over time, the city’s environment and activity, not individuals. In fact, the technology and policies have been designed to specifically avoid any potential collection of data about individuals, so privacy protection is built into the design of the sensors and into the operating policies.
+
+	</div>
+		</div>
+		  </div>	
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingEighteen3">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseEighteen3" role="button" aria-expanded="false" aria-controls="collapseEighteen3">  I heard that sensors will be installed to monitor Bluetooth-enabled devices and WiFi signals. Is this true? </a> </h5>
+	   </div>
+	   <div id="collapseEighteen3" class="collapse" role="tabpanel" aria-labelledby="headingEighteen3" data-parent="#accordion3">
+			<div class="card-body"><strong>No.</strong><br><br>
+	None of the AoT nodes will measure the presence of Bluetooth/WiFi devices or communicate in any way with other devices. The nodes are programmed to communicate using cellular data, and only with the central database servers at Argonne. <br><br>
+				Our <a href="aotpoliciesprivacy.html" title="AoT Privacy & Data" target="_self">Privacy & Data</a> section goes into this more. 
+
+	</div>
+		</div>
+		  </div>	
+
+
+
+</div>	
+	
+	
+<br><hr>	<br>	
+	
+	
+<h2><u>Partnering with AoT</u></h2><br>
+  <div id="accordion4" role="tablist">
+
+	  	<div class="card">
+	   <div class="card-header" role="tab" id="headingTwentyOne4">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwentyOne4" role="button" aria-expanded="false" aria-controls="collapseTwentyOne4">  Have the nodes been installed anywhere else?</a> </h5>
+	   </div>
+	   <div id="collapseTwentyOne4" class="collapse" role="tabpanel" aria-labelledby="headingTwentyOne4" data-parent="#accordion4">
+			<div class="card-body">
+				Yes! We’ve heard from over 100 cities across the world interested in their own deployment of AoT technology since the project launched in 2015. <br><br>In response to this, we developed a partnership program that involves university research collaborators in those cities. We’re working with the Georgia Institute of Technology in Atlanta, the University of North Carolina in Chapel Hill, Syracuse University in New York, the University of Bristol in England, and the Instituto Tecnológico de Santo Domingo in the Dominican Republic, just to name a few.<br><br>
+	Explore our <a href="aotpartnersshipsoverview.html" title="AoT Partnerships" target="_self">Partnership page</a> for more details and learn how to become one! <strong>We'd love to work with you.</strong>
+
+	</div>
+		</div>
+		  </div>	  
+
+
+
+
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingTwentyTwo4">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwentyTwo4" role="button" aria-expanded="false" aria-controls="collapseTwentyTwo4">  My city government/academic research group would like to partner with AoT. How do we do that?</a> </h5>
+	   </div>
+	   <div id="collapseTwentyTwo4" class="collapse" role="tabpanel" aria-labelledby="headingTwentyTwo4" data-parent="#accordion4">
+			<div class="card-body">
+				That’s great! We’d love to help you get started.<br><br> 
+	The first step in this process is for you to establish a point of contact or team for your local Array of Things deployment. Once you’ve done that, contact the AoT team with details on the partners and the goals of the project, after which the AoT team will be in touch with a draft of terms & conditions to review and negotiate.<br><br> 
+	Visit our <a href="aotpartnerwithus.html" title="AoT How to Partner Page" target="_self">How to Partner page</a> for more specific information and to submit your request.
+
+	Explore our <a href="aotpartnersshipsoverview.html" title="AoT Partnerships" target="_self">Partnership Page</a> for more details and learn how to become one! <strong>We'd love to work with you.</strong>
+
+	</div>
+		</div>
+		  </div>	
+
+
+</div>		
+	
+	
+<br><hr>	<br>	
+	
+	
+<h2><u>Chicago</u></h2><br>
+  <div id="accordion5" role="tablist">
+
+	  	<div class="card">
+	   <div class="card-header" role="tab" id="headingTwentyThree5">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwentyThree5" role="button" aria-expanded="false" aria-controls="collapseTwentyThree5">How does AoT benefit Chicago? <i class="fas fa-angle-down rotate-icon"></i>
+	</a> </h5>
+	   </div>
+	   <div id="collapseTwentyThree5" class="collapse" role="tabpanel" aria-labelledby="headingTwentyThree5" data-parent="#accordion5">
+			<div class="card-body">
+				AoT provides near-real-time, location-based data about the city’s environment, infrastructure and activity to researchers and the public. Over time, these measurements will allow for studies of longer-term changes such as how noise levels are affected by changes in zoning, or how air quality changes following investments in clean energy.<br><br>
+
+	In late 2018 a new set of application programming interfaces (or, "APIs") was released to support the development of applications, portals, and other tools to provide value from the data. For instance, several groups are developing smartphone applications that would provide navigation tips based on air quality, noise levels, or excessive heat. <br><br>
+
+	The project also aspires to engage Chicago's youth in science, technology, engineering, arts, and mathematics ("STEAM"). Beginning in 2016, with funding from the Motorola Solutions Foundation, Chicago Public Schools faculty members at Lane Technical High School worked with the AoT team and with the School of the Art Institute of Chicago to develop a curriculum teaching students about wireless sensor devices, how they can support science and policy investigations. Learn more about this here.
+
+	</div>
+		</div>
+		  </div>	  
+
+	<div class="card">
+	   <div class="card-header" role="tab" id="headingTwentyFour5">
+			<h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwentyFour5" role="button" aria-expanded="false" aria-controls="collapseTwentyFour5"> How much will this project cost the City of Chicago?</a> </h5>
+	   </div>
+	   <div id="collapseTwentyFour5" class="collapse" role="tabpanel" aria-labelledby="headingTwentyFour5" data-parent="#accordion5">
+			<div class="card-body">
+				The City of Chicago provided node installation and electricity to AoT from the City’s power supply via the traffic signal poles to which nodes are attached. The amount of electricity drawn by each node is roughly 50 Watts - about the same amount that is required to charge a cell phone). The nodes, all mounting supplies, and cellular communications were all funded through the National Science Foundation grant.
+
+	</div>
+		</div>
+		  </div>		  
+
+
+</div>	
+	
+	
+  <br>
+</section>
+<footer>Copyright © Array of Things 2020. <br>
+  <em><b>Array of Things</b></em> and <em><b>AoT</b></em> are trademarks of the University of Chicago.</footer>
+<script src="js/jquery-3.4.1.min.js"></script> 
+<script src="js/popper.min.js"></script> 
+<script src="js/bootstrap-4.4.1.js"></script>
+</body>
+</html>
