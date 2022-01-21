@@ -74,8 +74,13 @@ Weekly topics
 _Readings, discussion forums, and other assignments are
 available on the course website under the weekly topic._
 
-**Zoom sessions: Wednesday 6:30-8:20**<br>
-<https://adelphiuniversity.zoom.us/j/94673542355>
+_Complete the readings **before** the session listed for hylfex weeks so that
+you come to class meetings prepared to discuss. For asynchronous weeks, you
+should do the readings early in the week so that you can participate in online
+activities that draw on them later in the week._
+
+**Hyflex sessions: Wednesday 4:30-6:20**<br>
+<small>Manhattan Campus room 274 or zoom</small>
 
 week  date    topic                         format   assignment        
 ----  ------  ----------------------------  -------  ----------
@@ -104,11 +109,10 @@ Assignment              Pct  Date Due
 ----------------------- ---  ---------
 Session leader          10%  ongoing
 Reading responses       10%  ongoing
-Tech report             10%  Feb 10
-App Inventor app        20%  March 17
-Subject Report          10%  March 31
-ARIS app                20%  April 21
-Mobile Instr Design     20%  May 19
+Tech report podcast     10%  Feb 10
+App Inventor app 1      20%  March 17
+Lit review              25%  March 31
+App Inventor app 2      25%  April 21
 
 ### Session leader (pair)
 
@@ -160,7 +164,7 @@ You are required to comment on at least two of your
 peer's responses each week and you should respond to
 people who engage with you.
 
-### Tech Report (pair)
+### Tech Report Podcast (pair)
 
 Working in pairs, you will present a “Tech Report” on an aspect of mobile
 technology. Teams will prepare 10 minute presentation they will present in
@@ -204,14 +208,9 @@ apps only run on Android, but the software includes a simulator that any user
 can use from the web. The final product can be installed on an Android phone
 or tablet.
 
-### Fieldday ARIS (team)
-The [ARIS](https://fielddaylab.org/make/aris/) software platform allows you
-to create mobile games, and interactice tours through a graphical, web-based
-interface. Working with a team, you will design, develop, and test a location-based
-learning activity using ARIS. To test your app "in the field" you will need
-to work with someone (on your team, or another tester) who has an iPhone.
 
-### Subject Report (solo)
+
+### Mini literature review (solo)
 For this assignment you will write a report about how mobile technologies are used in
 a specific domain of learning. Broadly, your report should focus on a subject area
 (e.g. mathematics, language learning, teacher professional development)
@@ -233,31 +232,25 @@ In class, you will take about 5 minutes to present your report and then answer
 questions related to the topic.
 
 
-### Instructional Design Project (solo)
-Gathering your new knowledge and skills with mobile learning and mobile
-technologies, you will design a mobile learning project. This "project" can be
-integrated into a formal school unit, where you use mobile learning to enhance
-teaching and learning. Alternatively, it can be an informal learning project,
-focused on a location (like a museum, historical site, or zoo) or a concept
-(like the [Movers and Shakers](https://www.moversandshakersnyc.com/) AR project
-which re-imagines the public monuments of New York). The project should include
-
-- learning goals and assessments
-- target audience
-- mobile activities
-- technologies
-
-
 Course Readings & Bibliography
 ----------------------------------------
 
 Ally, M. (Ed.). (2009). [_Mobile learning transforming the delivery of education and training_](http://www.aupress.ca/index.php/books/120155  "open access ebook"). Edmonton, AB: AU Press. ISBN 978-1-897425-44-2
 
-Apple, Inc. (2012). [iOS human interface guidelines: Introduction.](http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html).
+Aschoff, Nicole . (2020, June 15). Smartphones Have Transformed the Fight Against Police Violence. _Jacobin Magazine_.
+
+Apple, Inc. (n.d.). [human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/).
 
 Billings, S. (2011, January 4). [What can the iPad do for museums?](http://www.museumnext.org/2010/blog/what-can-the-ipad-do-for-museums) Museum Next.
 
+_Black Mirror_ [Video] "Nosedive" (Season 3, Episode 1)
+
 Brown, J. S., Collins, A., & Duguid, P. (1989). [Situated cognition and the culture of learning.](http://people.ucsc.edu/~gwells/Files/Courses_Folder/ED%20261%20Papers/Situated%20Cognition.pdf) Educational Researcher, _18_(_1_), 32-42.
+
+Cai, S., Wang, X., & Chiang, F.-K. (2014). A case study of Augmented Reality simulation system application in a chemistry course. _Computers in Human Behavior_, _37_, 31–40. <https://doi.org/10.1016/j.chb.2014.04.018>
+
+
+Cantave, G. (2018). [Video] [How augmented reality is changing activism](https://moodle.adelphi.edu/mod/url/view.php?id=3347563). [TED].
 
 Carr, D. (2010, January 1). Why Twitter will endure. *The New York Times*.
 
@@ -281,12 +274,16 @@ Facer, K., Joiner, R., Stanton, D., Reid, J., Hull, R., & Kirk, D. (2004). Savan
 
 Fernandez, V., Simo, P., & Sallan, J. M. (2009). Podcasting: A new technological tool to facilitate good practice in higher education. *Computers & Education*, *53*(2), 385-392.
 
+Fussell, Sidney. 2019. “Why Hong Kongers Are Toppling Lampposts.” _The Atlantic_. August 30, 2019.
+
 Hillesund, T. (2010). [Digital reading spaces: How expert readers handle books, the Web and electronic paper.](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2762/2504)
 _First Monday_, _15_(4).
 
 Hu, W. (2011, January 4). [Math that moves: Schools embrace the iPad.](http://www.nytimes.com/2011/01/05/education/05tablets.html?pagewanted=all). _The New York Times_.
 
 Kay, R. H., & LeSage, A. (2009). Examining the benefits and challenges of using audience response systems: A review of the literature. *Computers & Education*, *53*(3), 819-827.
+
+Kelly, K. (2019, February 12). [AR Will Spark the Next Big Tech Platform—Call It Mirrorworld](https://www.wired.com/story/mirrorworld-ar-next-big-tech-platform/). _Wired_.
 
 Kloos, M. (n.d.). [Communities of practice 2.0.](http://www.martinkloos.nl/thesis-M.Kloos.pdf)
 
@@ -302,6 +299,9 @@ Motiwalla, L. F. (2007). Mobile learning: A framework and evaluation. *Computers
 
 Naismith, L., Lonsdale, P., Vavoula, G., & Sharples, M. (2004). [Literature review in mobile technologies and learning.](http://archive.futurelab.org.uk/resources/documents/lit_reviews/Mobile_Review.pdf) *FutureLab Report*, *11*.
 
+Naciri, A., Baba, M. A., Achbani, A., & Kharbach, A. (2020). [Mobile Learning in Higher Education: Unavoidable Alternative during COVID-19](https://www.aquademia-journal.com/download/mobile-learning-in-higher-education-unavoidable-alternative-during-covid-19-8227.pdf). _Aquademia_, _4_(1), ep20016. <https://doi.org/10.29333/aquademia/8227>
+
+
 Naismith, L., & Smith, M. P. (2009). [Using mobile technologies for multimedia tours in a traditional museum setting.](http://www.aupress.ca/books/120155/ebook/12_Mohamed_Ally_2009-Article12.pdf) In M. Ally (Ed.), _Mobile learning transforming the delivery of education and training_ (pp. 247-264). Edmonton: AU Press.
 
 Negroponte, N. (2012, February) [Learning by themselves.](http://youtu.be/CNRaM2GgQuA) [Video of a lecture presented at the _Solve for X forum_]
@@ -314,9 +314,13 @@ Papert, S., & Harel, I. (1991). [Situating constructionism.](http://www.papert.o
 
 Pasnik, S. (2007). [iPod in education: The potential for teaching and learning.](http://cct.edc.org/sites/cct.edc.org/files/publications/iPod_in_Education_Whitepaper.pdf) [White paper]. *edcommunity.apple.com.*
 
+Patel, N. (2021, December 14). [Audio podcast] [The metaverse is already here—And it’s full of Pokemon, says Niantic CEO John Hanke](https://www.theverge.com/22832490/niantic-ceo-john-hanke-metaverse-pokemon-go-ar-vr-podcast-decoder-interview). _The Verge_.
+
 Penuel, W. R. (2006). [Implementation and effects of one-to-one computing initiatives: A research synthesis.](http://jhauge.tie.wikispaces.net/file/view/ISTE.pdf) _Journal of Research on Technology in Education_, _38_(3), 329.
 
 Pyke, S. M. (2010). An initiative in introducing iPads to higher education. *ERGA Conference (5th: 2010: Adelaide, Australia)*.
+
+Ravenscraft, E. (2021). [What Is the Metaverse, Exactly?](https://www.wired.com/story/what-is-the-metaverse/) _Wired_.
 
 Rheingold, H. (2002). *Smart mobs: The next social revolution.* Cambridge MA: Basic Books. ISBN 0738208612, 9780738208619
 
@@ -328,7 +332,7 @@ Ryu, H., & Parsons, D. (Eds.). (2008). *Innovative mobile learning: Techniques a
 
 Sen, A. (2010). [The mobile and the world.](http://itidjournal.org/itid/article/view/614/254) *Information Technologies & International Development*, *6*(Special Edition).
 
-Sharples, M., Taylor, J., & Vavoula, G. (2005). [Towards a theory of mobile learning.](http://www.lsri.nottingham.ac.uk/msh/Papers/Towards%20a%20theory%20of%20mobile%20learning.pdf) *Proceedings of mLearn 2005*.
+Sharples, M., Taylor, J., & Vavoula, G. (2016). A Theory of Learning for the Mobile Age. In _The SAGE Handbook of E-learning Research_ (pp. 63–81). SAGE Publications Ltd.
 
 Squire, K. (2010). From information to experience: Place-based augmented reality games as a model for learning in a globally networked society. _Teachers College Record_, _112_(10), 2565–2602.
 
@@ -343,3 +347,8 @@ Weiser, M. (1991). [The computer for the *21st* century.](http://www.ubiq.com/hy
 Wenger, E. (2006, June). [Communities of practice: A brief introduction.](http://www.ewenger.com/theory/)
 
 Wishart, J. (2009). [Use of mobile technology for teacher training.](http://www.aupress.ca/books/120155/ebook/13_Mohamed_Ally_2009-Article13.pdf) In M. Ally (Ed.), _Mobile learning transforming the delivery of education and training_ (pp. 265–278). Edmonton, AB: AU Press.
+
+Zheng, B., Warschauer, M., Lin, C.-H., & Chang, C. (2016). Learning in One-to-One Laptop Environments: A Meta-Analysis and Research Synthesis._ Review of Educational Research_, _86_(4), 1052–1084. <https://doi.org/10.3102/0034654316628645>
+
+
+Zhang, Jianwei, Marlene Scardamalia, Richard Reeve, and Richard Messina. 2009. “Designs for Collective Cognitive Responsibility in Knowledge-Building Communities.” _Journal of the Learning Sciences_ _18_ (1): 7–44.
