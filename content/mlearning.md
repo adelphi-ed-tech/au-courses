@@ -1,6 +1,5 @@
 % Mobile learning
 % Matthew X. Curinga
-  Dino Sossi
 
 <!-- **********************
     * This syllabus was created for
@@ -88,25 +87,25 @@ activities that draw on them later in the week._
 **Hyflex sessions: Wednesday 4:30-6:20**<br>
 <small>Manhattan Campus room 274 or zoom</small>
 
-Session  Date    Format  Topic                                      Readings                                   Due
--------  ------  ------  -----------------------------------------  ---------------------------                ----------------------------
-      1  Jan 26  hyflex  Going mobile                               -                 
-      2  Feb 02  async   Mobile first                               Weiser, Curinga	                 
-      3  Feb 09  hyflex  Tech reports                               -                                          tech report
-      4  Feb 16  hyflex  App inventor workshop                      -
-      5  Feb 23  async   Mobile computing and society               Black Mirror, Castells, Fussell, Aschoff
-      6  Mar 02  hyflex  Situated & Distributed Cognition           Sharples, Brown, Zhang
-      7  Mar 09  async   Augmented reality                          Cantave, Ravenscraft, Patel, Ca
-      -  Mar 16  -       <small>spring break</small>                -                                          app inventor 1
-      8  Mar 23  hyflex  1:1 Computing                              Zheng, Philip, Heflin, Naciri
-      9  Mar 30  async   Mobile games for learning                  Laato, Facer, Squire
-     10  Apr 06  hyflex  App inventor 2 workshop                    -
-     11  Apr 13  async   Lit review                                 -                                          lit review
-     12  Apr 20  hyflex  Reading screens                            Margolin, Singer
-     13  Apr 27  async   UDL & Mobile Assistive Tech                Google switch, Tania’s story, Sik-Lányi
-     14  May 04  hyflex  Mobile app testing                                                                    app prototype
-      -  May 11  -       <small>no class (makeup day)</small>       -
-     15  May 18  async   app inventor project                       -                                          app inventor 2
+Session  Date    Format  Topic                             Readings                                   Due
+-------  ------  ------  --------------------------------  ---------------------------                ----------------------------
+      1  Jan 26  hyflex  Going mobile                      -                                          -
+      2  Feb 02  async   Mobile first                      Weiser, Curinga                            -
+      3  Feb 09  hyflex  Tech reports                      Explained Channel, Bright Side             tech report
+      4  Feb 16  hyflex  App inventor 1                    Tissenbaum, App Invetor Tutorial           -
+      5  Feb 23  async   Mobile computing and society      Black Mirror, Castells, Fussell, Aschoff   -
+      6  Mar 02  hyflex  Situated & Distributed Cognition  Sharples, Brown, Zhang                     -
+      7  Mar 09  async   Augmented reality                 Cantave, Ravenscraft, Patel, Cai           -
+      -  Mar 16  -       _spring break_                    -                                          app inventor 1
+      8  Mar 23  hyflex  1:1 Computing                     Zheng, Philip, Heflin, Naciri              -
+      9  Mar 30  async   Mobile games for learning         Laato, Facer, Squire                       -
+     10  Apr 06  hyflex  App inventor 2 workshop           -                                          -
+     11  Apr 13  async   Lit review                        -                                          lit review
+     12  Apr 20  hyflex  Reading screens                   Margolin, Singer                           -
+     13  Apr 27  async   UDL & Mobile Assistive Tech       Google switch, Tania’s story, Sik-Lányi    -
+     14  May 04  hyflex  Mobile app testing                -                                          app prototype
+      -  May 11  -       _no class (makeup day)_           -                                          -
+     15  May 18  async   app inventor project              -                                          app inventor 2
 
 
 Assignments & grading
@@ -172,7 +171,7 @@ people who engage with you.
 ### Tech Report (pair)
 
 Working in pairs, you will present a “Tech Report” on an aspect of mobile
-technology. Teams will prepare 10 minute presentation they will present in
+technology. Teams will prepare 10 minute presentation they will deliver in
 class. In the Moodle forum, each team will post a 1-paragraph abstract of their
 presentation and an annotated list of resources (e.g. websites, press, and
 scholarly articles) related to their topic. Annotations should only be a few
@@ -180,20 +179,21 @@ sentences. The report does not need to include academic or experimental articles
 but should give a general overview of the technology (how and where it works)
 as well as the latest state of the art of the field.
 
-Grading for this assignment will take into account:
-
-- quality of the presentation
-- quality and importance of the subject matter
-
 Choose one of these technologies for your report:
 
-* peer-to-peer wlan and mobile networks
-* indoor location systems (bluetooth beacons, etc)
-* mobile payments (Google Wallet, Apple Pay, Alipay, etc)
-* Augmented reality (AR) headsets, glasses, etc
-* AR technologies (Goggles, biometrics, development platforms, etc)
-* wireless/mobile security
-* wearable computing
+1. indoor location systems (bluetooth beacons, etc)
+2. mobile payments (Google Wallet, Apple Pay, Alipay, etc)
+3. Augmented reality (AR) headsets, glasses, etc
+4. mesh networks
+5. wireless/mobile encryption and security
+6. wearable computing (other than AR sets)
+
+This project is worth 10 points. Your report should:
+
+- describe the technical details of the topic in a way that's easily understood
+- use video, sound, images as needed
+- describe the main ways the tech is currently being used and its potential uses
+- summarize why the technology may or may not be important
 
 ### App Inventor app 1 (individual)
 You will design, develop, and test a mobile app built with
@@ -204,13 +204,62 @@ The app will be "simple" because it will not have to use any advanced features
 such as having users log in, accessing internet resources, allowing for multi-user
 interactions, etc.
 
+To design your project, think of a useful mobile app for teaching or learning.
+Start with a "problem" that you can describe, and then think of solutions to
+that problem that are a good fit for what we know about mobile technologies and
+mobile learning. If there's an existing, better solution to what you're
+proposing, you can either think of a way to improve it, or move on to a new
+idea. When you create your design, prioritize the most important features. You
+are only going to build a prototype -- a working software application that can
+be tested and refined.
+
+This project is worth 20 points and will be scored according to this scale:
+
+- 5 points: learning framework (why does the concept make sense in terms of mobile learning?)
+- 5 points: originality of the concept
+- 5 points: quality of the "code"
+- 5 points: quality of the usability / user experience
+
+To submit this project, you will create a video screencast (5-8 minutes) where you demonstrate the "code" and how it's organized, and then show the
+app running on a mobile device.
+[[Record the screen on Android](https://support.google.com/android/answer/9075928?hl=en)]
+[[Record the screen on iOS](https://support.apple.com/en-us/HT207935)]
+
+Submit a link to the screencast and the exported app inventor project files.
+
 ### App Inventor app 2 (team)
+
 Building on the skills and ideas from your first app inventor project, you will
 join a team (3-5 people) to build a larger, more complex mobile app for learning
-using the App Inventor platform. This second app should be more ambitious than the first
-one. You might want to include location or map data, voice recognition, multi-user
-support, storing information on the device, etc.
+using the App Inventor platform. This second app should be more ambitious than
+the first one. You might want to include location or map data, voice
+recognition, multi-user support, storing information on the device, etc. It can
+be an extension of a previous project, or can be something designed from
+scratch.
 
+This project is worth 25 points and will be scored according to this scale:
+
+- 10 points: learning framework (why does the concept make sense in terms of mobile learning?)
+- 5 points: originality of the concept
+- 5 points: quality of the "code"
+- 5 points: quality of the usability / user experience
+
+This second project should have a more robust learning framework that incorporates the various approaches to mobile learning that we have learned this semester. When you submit the project, you will include a **written conceptual framework** (500-800 words) that describes:
+
+- the problem being solved
+- why existing solutions are not sufficient
+- why your proposed solution is based on solid learning theory and instructional design
+- why a mobile solution is the right solution for the problem
+
+Your team will submit:
+
+- the written framework
+- a 5 minute _team_ video explaining the goals of the app and showing it in use;
+  reflect on what worked well and what still needs further development
+- _individual_ videos from each team members that walk through the code that
+  team member worked on primarily
+
+One team member must submit a link to the screencast and the exported app inventor project files. Everyone
 
 ### Mini literature review (individual)
 
@@ -249,6 +298,8 @@ Billings, S. (2011, January 4). [What can the iPad do for museums?](http://www.m
 
 _Black Mirror_ [Video] "Nosedive" (Season 3, Episode 1)
 
+BRIGHT SIDE. (2019, June 17). [How GPS Works Today](https://www.youtube.com/watch?v=wCcARVbL_Dk). [Video. 00:10:01]
+
 Brown, J. S., Collins, A., & Duguid, P. (1989). [Situated cognition and the culture of learning.](http://people.ucsc.edu/~gwells/Files/Courses_Folder/ED%20261%20Papers/Situated%20Cognition.pdf) Educational Researcher, _18_(_1_), 32-42.
 
 Cai, S., Wang, X., & Chiang, F.-K. (2014). A case study of Augmented Reality simulation system application in a chemistry course. _Computers in Human Behavior_, _37_, 31–40. <https://doi.org/10.1016/j.chb.2014.04.018>
@@ -276,6 +327,8 @@ Dunn, M. E., Shah, G., & Veríssimo, D. (2021). [Stepping into the Wildeverse: E
 
 Evans, C. (2008). The effectiveness of m-learning in the form of podcast revision lectures in higher education. *Computers & Education*, *50*(2), 491-498.
 
+Explained Channel. (2018, July 22). [How WiFi and Cell Phones Work | Wireless Communication Explained](https://www.youtube.com/watch?v=kxLcwIMYmr0). [Video. 00:06:05]
+
 Facer, K., Joiner, R., Stanton, D., Reid, J., Hull, R., & Kirk, D. (2004). Savannah: Mobile gaming and learning? *Journal of Computer Assisted Learning*, *20*(6), 399–409.
 
 Fernandez, V., Simo, P., & Sallan, J. M. (2009). Podcasting: A new technological tool to facilitate good practice in higher education. *Computers & Education*, *53*(2), 385-392.
@@ -296,7 +349,6 @@ Kloos, M. (n.d.). [Communities of practice 2.0.](http://www.martinkloos.nl/thesi
 Laato, S., Islam, A. K. M. N., & Laine, T. H. (2020). [Did location-based games motivate players to socialize during COVID-19?](https://www.sciencedirect.com/science/article/pii/S0736585320301179) _Telematics and Informatics_, _54_, 101458. <https://doi.org/10.1016/j.tele.2020.101458>
 
 Margolin, S. J., Driscoll, C., Toland, M. J., & Kegler, J. L. (2013). E-readers, Computer Screens, or Paper: Does Reading Comprehension Change Across Media Platforms? _Applied Cognitive Psychology_, 27(4), 512–519. <https://doi.org/10.1002/acp.2930>
-
 
 Mayer, R. E. (2007). Five features of effective multimedia messages: An evidence-based approach. In S. M. Fiore & E. Salas (Eds.), _Toward a science of distributed learning_. (pp. 171–184). Washington, DC: American Psychological Association.
 
@@ -352,6 +404,8 @@ Squire, K. (2010). From information to experience: Place-based augmented reality
 
 Squire, K. D., & Jan, M. (2007). Mad City mystery: Developing scientific argumentation skills with a place-based augmented reality game on handheld computers. *Journal of Science Education and Technology*, *16*(1), 5-29.
 
+Tissenbaum, M., Sheldon, J., & Abelson, H. (2019). From computational thinking to computational action. _Communications of the ACM_, _62_(3), 34–36.
+
 Traxler, J. (2009). [Current state of mobile learning.](http://www.aupress.ca/books/120155/ebook/01_Mohamed_Ally_2009-Article1.pdf) In M. Ally (Ed.), _Mobile learning transforming the delivery of education and training_ (pp. 9–24). Edmonton, AB: AU Press.
 
 van der Merwe, R. (2012, March 12). [A dad’s plea to developers of iPad apps for children.](http://uxdesign.smashingmagazine.com/2012/03/12/dads-plea-developers-ipad-apps-children/). _Smashing Magazine_.
@@ -363,6 +417,5 @@ Wenger, E. (2006, June). [Communities of practice: A brief introduction.](http:/
 Wishart, J. (2009). [Use of mobile technology for teacher training.](http://www.aupress.ca/books/120155/ebook/13_Mohamed_Ally_2009-Article13.pdf) In M. Ally (Ed.), _Mobile learning transforming the delivery of education and training_ (pp. 265–278). Edmonton, AB: AU Press.
 
 Zheng, B., Warschauer, M., Lin, C.-H., & Chang, C. (2016). Learning in One-to-One Laptop Environments: A Meta-Analysis and Research Synthesis._ Review of Educational Research_, _86_(4), 1052–1084. <https://doi.org/10.3102/0034654316628645>
-
 
 Zhang, Jianwei, Marlene Scardamalia, Richard Reeve, and Richard Messina. 2009. “Designs for Collective Cognitive Responsibility in Knowledge-Building Communities.” _Journal of the Learning Sciences_ _18_ (1): 7–44.
