@@ -82,7 +82,7 @@ Week  Dates               Topic
 
 - Nilson and Goodson (2018) [Applying cognitive science to online teaching and learning strategies](https://moodle.adelphi.edu/mod/url/view.php?id=3380072)
 - Nilson and Goodson (2018) [Setting significant outcomes](https://moodle.adelphi.edu/mod/url/view.php?id=3380079) (optional)
-- Nilson and Goodson (2018)[ Designing a coherent course](https://moodle.adelphi.edu/mod/url/view.php?id=3380080) (optional)
+- Nilson and Goodson (2018) [Designing a coherent course](https://moodle.adelphi.edu/mod/url/view.php?id=3380080) (optional)
 
 ### Week 3: Multimedia Theory
 **Read:**
