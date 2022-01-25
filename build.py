@@ -56,7 +56,7 @@ def GenerateCourse(html, raw, word, course):
     pwd = os.getcwd()
     args = {}
     args["course"] = course
-    courseCSS = os.path.join(pwd,"css/%s.css" % (course,))
+    courseCSS = os.path.join(pwd,f"css/{course}.css")
     args["courseCSS"] = IncludeIfExists(courseCSS, "-H")
 
 
