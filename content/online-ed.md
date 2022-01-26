@@ -49,27 +49,25 @@ Course Topics
 -------------
 
 ### Schedule
-Week  Dates               Topic
-----  ------------------  ------------------------------
- 1     Jan 25 - Jan 31    Introduction
- 2     Feb 01 - Feb 07    Instructional design
- 3     Feb 08 - Feb 14    Multimedia Theory
- 4     Feb 15 - Feb 21    Universal Design
- 5     Feb 22 - Feb 28    Platforms
- 6     Mar 01 - Mar 07    Assessment
- 7     Mar 08 - Mar 14    Presence
- -     _Mar 15 - Mar 21_  _spring break_
- 8     Mar 22 - Mar 28    Adaptive Learning
- 9     Mar 29 - Apr 04    Remote Learning 1
-10     Apr 05 - Apr 11    Remote Learning 2
-11     Apr 12 - Apr 18    Prototpye 1
-12     Apr 19 - Apr 25    Prototpye 2
-13     Apr 26 - May 02    Final Run 1
-14     May 03 - May 09    Final Run 2
- -     _May 10 - May 16_    _no class (makeup day)_
-15     May 17 - May 23    Projects due
-
-
+Week  Dates              Topic
+----  -----------------  ------------------------------
+ 1    Jan 25 - Jan 31    Introduction
+ 2    Feb 01 - Feb 07    Instructional design
+ 3    Feb 08 - Feb 14    Multimedia Theory
+ 4    Feb 15 - Feb 21    Universal Design
+ 5    Feb 22 - Feb 28    Platforms
+ 6    Mar 01 - Mar 07    Assessment
+ 7    Mar 08 - Mar 14    Presence
+ -    _Mar 15 - Mar 21_  _spring break_
+ 8    Mar 22 - Mar 28    Adaptive Learning
+ 9    Mar 29 - Apr 04    Remote Learning 1
+10    Apr 05 - Apr 11    Remote Learning 2
+11    Apr 12 - Apr 18    Prototpye 1
+12    Apr 19 - Apr 25    Prototpye 2
+13    Apr 26 - May 02    Final Run 1
+14    May 03 - May 09    Final Run 2
+ -    _May 10 - May 16_  _no class (makeup day)_
+15    May 17 - May 23    Projects due
 
 ### Week 1: Introduction
 **Read:**
