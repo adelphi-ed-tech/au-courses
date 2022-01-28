@@ -226,7 +226,7 @@ For this project, you will:
 
 _The resume is an individual project_
 
-### Mini-app (30 points)
+### School Data Analysis (30 points)
 
 The mini app is a data driven web application. It is "mini" because it has a
 constrained, singular focus. This application stands alone -- it does not
