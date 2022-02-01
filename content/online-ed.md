@@ -147,10 +147,10 @@ Assignments & Grading
 Assignment                    Pct  Date Due
 ----------------------------  ---  ---------
 Participation                 10%  ongoing
-Narrated Tutorial             20%  ongoing
-Remote Learning Report        25%  ongoing
-Prototype                     15%  Feb 10
-Final Run                     30%  March 17
+Narrated Tutorial             20%  Feb 21
+Remote Learning Report        25%  Mar 28
+Prototype                     15%  Apr 11
+Final Run                     30%  May 23
 
 ### Narrated Tutorial
 
