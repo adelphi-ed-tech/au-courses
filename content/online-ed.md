@@ -87,11 +87,12 @@ Week  Dates              Topic
 
 - Clark and Mayer (2016) [Applying the Multimedia Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380056)
 - **one** of these chapters:
-  - [Applying the Contiguity Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380057)
-  - [Applying the Modality Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380058)
-  - [Applying the Redundancy Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380060)
-  - [Applying the Coherence Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380059)
-  - [Applying the Segmenting and Pretraining Principles](https://moodle.adelphi.edu/mod/url/view.php?id=3380061)
+  - Clark and Mayer (2016) [Applying the Contiguity Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380057)
+  - Clark and Mayer (2016) [Applying the Modality Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380058)
+  - Clark and Mayer (2016) [Applying the Redundancy Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380060)
+  - Clark and Mayer (2016) [Applying the Coherence Principle](https://moodle.adelphi.edu/mod/url/view.php?id=3380059)
+  - Clark and Mayer (2016) [Applying the Segmenting and Pretraining Principles](https://moodle.adelphi.edu/mod/url/view.php?id=3380061)
+  - Sweller, J. (2012). [Human cognitive architecture: Why some instructional procedures work and others do not.](https://psycnet-apa-org.libproxy.adelphi.edu/record/2011-11701-011)
 
 ### Week 4: Universal Design for Learning (UDL)
 **Read:**
@@ -105,9 +106,11 @@ Week  Dates              Topic
 Look through some possible platforms and pick one in which to design your online unit.
 
 ### Week 6: Assessment
+
 **Read:**
 
-- Bender (2012) [Building a model of assessment of online education](https://moodle.adelphi.edu/mod/url/view.php?id=3380017)
+- Wiggins, G., & McTighe, J. (2005). [Chapter 1: Backwards Design](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=3002118&ppg=25) in _Understanding by design_. Association for Supervision & Curriculum Development.
+- Veletsianos (2020). [The learner who cheated](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=6134559&ppg=106) in _Learning online: The student experience_. Johns Hopkins University Press.
 
 **Due:** Pandemic Report Topic and Teams
 
