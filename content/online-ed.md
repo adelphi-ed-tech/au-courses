@@ -109,7 +109,7 @@ Look through some possible platforms and pick one in which to design your online
 
 **Read:**
 
-- Wiggins, G., & McTighe, J. (2005). [Chapter 1: Backwards Design](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=3002118&ppg=25) in _Understanding by design_. Association for Supervision & Curriculum Development.
+ Wiggins, G., & McTighe, J. (2005). [Chapter 1: Backwards Design](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=3002118&ppg=25) in _Understanding by design_. Association for Supervision & Curriculum Development.
 - Veletsianos (2020). [The learner who cheated](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=6134559&ppg=106) in _Learning online: The student experience_. Johns Hopkins University Press.
 
 **Due:** Pandemic Report Topic and Teams
@@ -123,7 +123,15 @@ Look through some possible platforms and pick one in which to design your online
 ### Week 8: Adaptive Learning
 **Read:**
 
-- Aleven, _et al_ (2017) [Instruction based on adaptive learning technologies](https://www.cs.cmu.edu/afs/.cs.cmu.edu/Web/People/aleven/Papers/2016/Aleven_etal_Handbook2016_AdaptiveLearningTechnologies_Prepub.pdf)
+-  Moskal, P.  D. Carter &amp; Dale Johnson [7 Things You Should Know About Adaptive Learning](https://library.educause.edu/-/media/files/library/2017/1/eli7140.pdf). _Educause._
+
+**Optional:**
+
+- Aleven, _et al_ (2017). [Instruction based on adaptive learning technologies](https://www.cs.cmu.edu/afs/.cs.cmu.edu/Web/People/aleven/Papers/2016/Aleven_etal_Handbook2016_AdaptiveLearningTechnologies_Prepub.pdf)
+
+- Graesser, A. C., Conley, M. W., & Olney, A. (2012). Intelligent tutoring systems. In K. R. Harris, S. Graham, T. Urdan, A. G. Bus, S. Major, & H. L. Swanson (Eds.), _APA educational psychology handbook, Vol. 3. Application to learning and teaching (pp. 451–473)_. American Psychological Association.
+
+- Xie, H., Chu, H. C., Hwang, G. J., & Wang, C. C. (2019). [Trends and development in technology-enhanced adaptive/personalized learning: A systematic review of journal publications from 2007 to 2017](https://www.sciencedirect.com/science/article/pii/S0360131519301526?casa_token=8U3YWX5lvFkAAAAA:CRnXdySXYB4zIjizAfsOGLB3RhBEWg-NLB8kdNH12qikBkxLJKiSP43sBfquImO-ftX2ewZKUQ). _Computers & Education_, 140, 103599.
 
 **Due:** Remote Learning Report (paper and video by end of week)
 
