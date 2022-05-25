@@ -52,12 +52,11 @@ Participants in this course must actively participate in our suite of online
 communications tools, including Slack (<https://auedtech.slack.com>),
 Adelphi email, and the course website.
 
-You _must_ check your Adelphi email and the `#code` channel on Slack at least
-once a day. It is highly recommended that you install the Slack mobile client
-and an email client on your mobile phone so that you receive "push
-notifications" of course announcements. You _must_ install the Slack desktop
-client to facilitate sharing code and screenshots from your development
-environment.
+You _must_ check your Adelphi email and the `#code` channel on Slack regularly.
+It is highly recommended that you install the Slack mobile client and an email
+client on your mobile phone so that you receive "push notifications" of course
+announcements. You _must_ install the Slack desktop client to facilitate sharing
+code and screenshots from your development environment.
 
 The best place to post general course questions and any content-related questions
 is the `#code` Slack channel. The instructor as well as other students and
@@ -168,11 +167,10 @@ may be other required, non-graded assignments posted on the course website.
 
 Assignment            Points                
 ----------            ----------                
-Multimedia Resume     20                
-School Data Report    10                
-School Data Analysis  20                
 Self Evaluation       10                
-Web Application       30                
+Multimedia Resume     20                
+School Data Report    30                
+Interactive Data App  40                
 
 ### Self-evaluation (10 points)
 At the beginning of module 9, you will complete a self-evaluation. During

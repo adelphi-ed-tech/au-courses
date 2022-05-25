@@ -4,11 +4,7 @@
   Christian Correa
   David Frackman
 
-
-<div class="row">
-<div class="col-6">
-
-**0858-606, Summer 2021**
+**0858-606, Summer 2022**
 
 **Description:** From a foundation of computer networks and systems, this course
 expands to cover instructional technology infrastructure: file systems, users,
@@ -18,12 +14,10 @@ is free to use, study, or modify. To explore these topics in this hands on class
 all students will be configuring their own Raspberry Pi computers and using them
 to complete a software/hardware project.
 
-</div>
-<div class="col"><img class="img-fluid" src="https://static.makeuseof.com/wp-content/uploads/2016/09/smart-mirror-raspberry-pi-illustration.png" alt="drawing of a raspberry pi"></div>
-</div>
-
 **Keywords:** linux, bash, systems, networks, lamp, free software, trouble shooting,
 technical project management, rasberry pi, physical computing, debian, ubuntu
+
+<img src="https://cdn.pixabay.com/photo/2017/06/06/16/35/cyber-2377718_960_720.jpg" alt="computer chip" style="float:right;max-width:400">
 
 Goals & Objectives
 ==================
@@ -47,9 +41,8 @@ will be able to:
 Class Information
 =================
 - **Instructor:** Matt Curinga <mcuringa@adelphi.edu>
-- **Class dates:** Wednesday, May 26 - Tuesday, June 29
+- **Class dates:** Wednesday, July 1 - Tuesday, June 29
 - **Live sessions:** Wednesdays: 4:30pm - 6:20pm; <small>zoom link on moodle</small>
-
 
 Course Communications
 =====================
@@ -62,23 +55,28 @@ Participants in this course must actively participate in our suite of online
 communications tools, including Slack (<https://auedtech.slack.com>),
 Adelphi email, and the course website.
 
-You _must_ check your Adelphi email and the `#raspberrypi` channel on Slack **at least
-once a day.** It is highly recommended that you install the Slack mobile client
-and an email client on your mobile phone so that you receive "push notifications"
-of course announcements.
+You _must_ check your Adelphi email and the `#code` channel on Slack **at least
+once a day during this short summer course.** It is highly recommended that you
+install the Slack mobile client and an email client on your mobile phone so that
+you receive "push notifications" of course announcements.
 
 The best place to post general course questions and any content-related questions
-is the `#raspberrypi` Slack channel. The instructor, as well
+is the `#code` Slack channel. The instructor, as well
 as other students and alums, monitor this channel and often provide immediate support.
 You are encouraged to contact the instructors at any time via email or direct
 message on Slack.
 
 ### Online tools:
 
-- **Moodle:** will be used to post the syllabus and links to weekly readings, videos, and discussions.
+- **Moodle:** will be used to post the syllabus and links to weekly readings,
+  videos, and discussions.
+- **Zoom:** for class meetings and help (via screen sharing), please join Zoom
+  from your laptop so that you can share your screen to demo work and
+  troubleshoot problems. You have should have a calendar invite to our meetings
+  with the link. The link is also on Moodle in the course header.
 - **Slack:** will be our main channel for online communications.
   Please [Join our Slack team with your Adelphi email](https://auedtech.slack.com/signup).
-  If you run into trouble or have a question, post it here to our channel, `#raspberrypi`,
+  If you run into trouble or have a question, post it here to our channel, `#code`,
   or send a message to `@mxc`. During the weeks of the class, we recommend running
   the Slack app for you phone.
 - **Trello:** is project management software that you will use to track/plan
@@ -88,98 +86,69 @@ message on Slack.
 - **mail.adelphi.edu email:** we will use your official adelphi student email
   for class email communications. Please check this email regularly.
 
+_You should already be comfortable with these skills, or should be prepared to
+learn them during the course. Teaching them is not part of the course content._
+
+- Taking screen shots [mac](https://support.apple.com/en-us/HT201361) [win](https://www.cnet.com/tech/services-and-software/7-ways-to-take-screenshots-in-windows-10-and-11/ ) [linux](https://itsfoss.com/using-gnome-screenshot-tool/)
+- Make a screen recording [Quicktime / Mac](https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac) [OBS / all platforms](https://obsproject.com/)
+
 ### Getting remote help:
 
-Because of the hands on nature of working with computers and Raspberry Pi, you
+Because of the hands on nature of working with computers and networks, you
 will have to use a variety of tools to get help. Your first stop for help should
-be #raspberrypi on Slack. You are most likely to get quick help if you post here
+be #code on Slack. You are most likely to get quick help if you post here
 because anyone in the channel (instructors, other students, other faculty, ed tech alums)
 can lend a hand.
 
 For more complicated problems, you will need to be able to:
 
 - [post formatted code in slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
-- [take a screenshot from your RPI](https://wiki.debian.org/ScreenShots#Using_Gnome)
-- [create a google hangout/meeting with screensharing](https://support.google.com/meet/answer/7290345?co=GENIE.Platform%3DDesktop&hl=en)
-- enable remote access to instructors to your RPI via `ssh` -- at the end of the
-  first week, you should have `ssh` enabled on your Pi. To enable remote access
-  you will probably have to enable Network Address Translation (NAT) on your wifi router.
-  If you are on public wifi (e.g. school, library, coffee shop), you probably won't
-  be able to enable remote access. NAT is not hard to configure, but it's specific
-  to the wifi router that you're using. You will have to search
-  "configure network address translation" along with your router make and model.
-- [connect to your RPI with VNC](https://www.raspberrypi.org/documentation/remote-access/vnc/)
-  (once you're comfortable with NAT, you can also configure NAT for VNC if needed)
+- take a screenshot from your computer (_unless absolutely necessary, don't send photos of your screen taken with your phone_)
 
 
-Required Books
-==============
-_None_
 
 Required Materials
 ==================
 
+Textbooks
+---------
+There are no required
+
 Desktop/Laptop
 --------------
-You must have access to a desktop computer running Linux, Windows, or MacOS to
-participate in this course. You will use this computer to participate in the
-course online and to configure and connect or your RPI. You can use a phone
-or tablet for some online elements of the course, however you will not be able
-to complete course assignments without access to a computer where you are able
-to install software.
+You must have access to a desktop or laptop computer running Linux, Windows, or
+MacOS to participate in this course. Further, you must have an administrative
+account where you can fully configure the computer and install software. "Work"
+computers where you are not an admin are not sufficient. If your hard drive
+doesn't have at least 10GB of free space, you should start clearing space or
+purchase an external drive.
 
-In addition to the computer, you must have a webcam, headphones, and microphone
-to participate in live video chat and to record your screencasts.
+You will use this computer to participate in the course online and to complete
+the course projects and activities. You can use a phone or tablet for some
+online elements of the course, however you will not be able to complete course
+assignments without access to a computer where you are able to install software.
 
-Raspberry Pi
-------------
-
-Every student _must_ purchase a Raspberry Pi (RPI) computer and accessories
-for use in this course. You will keep your own hardware. If you already own a
-Raspberry Pi, of course you can use it for this course. You can pick up these
-items in person at a local [MicroCenter](https://www.microcenter.com/) ([view items in wishlist](https://account.microcenter.com/PublicWishList.aspx?WishListID=4Yt4PUuytCb2roLGPinnTH5Itg3JsOKt&Email=SXkm0QpXuD%2b%2fxxyZcAguSK2mIABUJbA7)) or purchase them online.
-
-Required hardware:
-
-- Raspberry Pi model 4 (2GB model recommended): [[SparkFun](https://www.sparkfun.com/products/15446)] [[Amazon](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27)] [[AdaFruit](https://www.adafruit.com/product/4295)]
-- 16GB (or larger) Micro SD Card (at least 2 recommended)
-- micro hdmi cable [[SparkFun](https://www.sparkfun.com/products/15796)] [[Amazon](https://www.amazon.com/dp/B07VRCK5W1/)] [[AdaFruit](https://www.adafruit.com/product/4302)]
-- 5.1V 3A USB-C wall charger [[SparkFun](https://www.sparkfun.com/products/15448)] [[Amazon](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/)] [[AdaFruit](https://www.adafruit.com/product/4298)]
-- micro SD card reader: these are built into many modern laptop and some desktops, but any card reader/writer that works with your computer (USB 2, USB 3, USB-C) will work. You should be able to find one for less than $10 on [Amazon](https://www.amazon.com/dp/B08BBX4YM1/) or in a local store (Staples, Best Buy, Microcenter).
-
-You will need (but can re-use existing):
-
-- USB Keyboard and Mouse [[wireless](https://www.amazon.com/dp/B014EUQOGK/)] [[wired](https://www.microcenter.com/product/485045/inland-ic-210-premium-mouse-keyboard-combo)]
-- Computer Monitor or TV with HDMI input
-
-_You must have all of the required hardware ### before the first week of class._
-
-If you purchased everything except the monitor it would cost $80-$90.
-
-In addition to these core materials, you will also need to purchase/acquire
-materials to complete your final project (see below).
-Costs may range from $20-$80.
-
-Books & Resources
-=================
-- [Raspberry Pi Foundation](https://www.raspberrypi.org/)
-- Crowley, C. 2017. [_Raspberry Pi: The Unofficial Tutorial_](http://cdn.makeuseof.com/wp-content/uploads/2017/07/Raspberry-Pi-The-Unofficial-Tutorial.pdf)
-- [Make: Magazine](https://makezine.com/)
-- [Explaining Computers Series](https://www.youtube.com/user/explainingcomputers/videos) (Youtube)
+Software
+--------
+- **VirtualBox**. Windows and Intel Mac users will install VirtualBox. VirtualBox
+  is Free Open Source Software that you can install for no cost. Please make
+  sure that you have a computer that meets its [minimum requirements](https://www.virtualbox.org/wiki/End-user_documentation).
+- **Parallels**. M1 Mac users will have to purchase
+  [Parallels](https://www.parallels.com/products/desktop/buy/) student edition
+  for $40. If you have a Windows laptop or an Intel-based Mac, you do not need
+  Parallels.
 
 Schedule
 ========
 
 Week  Date          Topic            
 ----  ------------  -------------------------------------
-   1  Wed, May 26   Computers & Operating Systems
-   2  Wed, Jun 2    The Command Line
-   3  Wed, Jun 9    Users, Groups, Files, & Permissions
-   4  Wed, Jun 16   Networks
-   5  Wed, Jun 23   Ethics
-   6  Tues, Jun 29  DIY Project Due
+   1  Wed, Jun 1    Computers & Operating Systems
+   2  Wed, Jun 8    The Command Line
+   3  Wed, Jun 15   Users, Groups, Files, & Permissions
+   4  Wed, Jun 22   Networks
+   5  Wed, Jun 29   Ethics
 
-A detailed calendar of due dates and course deadlines is available through the course website.
 
 Grades & Assignments
 ====================
@@ -187,8 +156,8 @@ Grades & Assignments
 Assignment                  Pct  Due
 --------------------------  ---  -------
 Participation               20%  ongoing
-RPI Client or Server Setup  40%  6/15
-DIY Project                 40%  6/29
+Web Software Project        40%  6/15
+Final Group Project         40%  6/29
 
 
 Participation
@@ -203,30 +172,20 @@ management of your Trello projects, and participation in Slack and Moodle
 discussions. Smaller (ungraded) weekly assignments will also be considered for
 your participation grade.
 
-RPI Client or Server Setup
---------------------------
-For our first project you will configure your Raspberry Pi for a specific
-educational scenario: a general computer for 4th grade classroom computer
-station, a setup to teach computer programming for kids, a development server
-for the Canvas LMS, a workstation configured with assistive technology to support
-users with different physical needs, a web server to host static HTML/Javascript projects,
-a managed computer lab setup, etc. Whatever scenario you choose, your installation
-should be precisely tailored to meet the needs of your target users.
+Web Software Project
+--------------------
+For the first project, you will install the [Ubuntu](https://ubuntu.org) OS as a
+_guest_ operating system on your computer. You will use Ubuntu to configure
+a server running one of the following popular web-based software systems:
 
-You will present your project as a narrated screencast. In addition to demonstrating the
-software, you will upload a report which details:
+1. [WordPress](https://wordpress.org/)
+2. [Moodle](https://moodle.org/)
+3. [Ghost](https://ghost.org/docs/)
 
-- a description of the target audience and how you envision they would use the RPI
-- the process you used to find, test, and configure the RPI
-- key features of the software installed
-- advantages, disadvantages, and other implications of your design
-
-You will be evaluated on:
-
-- demonstration of your understanding of RPI hardware and software
-- suitability of your solution for your stated audience/problem
-- risk/complexity of the task undertaken
-- reflection on the process
+Once you have the software installed, you will customize it for a specific use
+(that you decide). For example, you might configure WordPress as a classroom
+website, Moodle to support a summer course, or Ghost to host a personal
+newsletter or blog.
 
 _Submission Guidelines_
 
@@ -243,15 +202,15 @@ what your goals are for them. Next, show your project from the user's
 perspective, showing how it meets the needs  of the use cases that guided you in
 designing the project. Next, you can, if appropriate, give a brief tour of the
 configuration files and scripts that make your project possible. Your video
-should be 5-10 minutes long.
+should be 5-8 minutes long.
 
 Please take time to watch your classmate's videos and post comments, questions,
 and suggestions.
 
 _This is an individual project._
 
-DIY Project
------------
+Final Group Project
+-------------------
 One of the key technical tasks of an educational technologist or instructional
 designer is to research and evaluate possible solutions to a problem and then
 implement a plan to test a possible solution. Real world problems often require
@@ -347,18 +306,6 @@ should be 5-10 minutes long.
 Class Sessions
 ===============
 
-Week 0: Before Class Begins
----------------------------
-Before our first week of class our goal is to gather all of the materials needed and prepare our computers for participation in this course.
-
-### To Do:
-1. Order your Raspberry Pi and related equipment
-   ([syllabus: required materials](https://matt.curinga.com/adelphi-ed-tech-courses/school-networks.html#required-materials))
-2. [Join Slack](https://auedtech.slack.com) and install the desktop
-   and mobile apps ([slack support](https://get.slack.help/hc/en-us))
-3. Create an account on [Trello](https://trello.com) and install the
-   mobile app ([Trello Support](https://help.trello.com/))
-
 Week 1: Computers & Operating Systems
 -------------------------------------
 This week we will learn about core computer hardware, and the key software
@@ -378,29 +325,30 @@ also make sure that it connects to the internet.
 ### Watch & Read:
 
 1. [Computer Hardware](https://www.youtube.com/watch?embed=0&v=ExxFxD4OSZ0) (Computer parts Explained) [7:48]
-2. [RPI Hardware](https://www.youtube.com/watch?embed=0&v=SgR_5Ai64nM) (Urban Penguin) [2:01]
-3. [_Unofficial Raspberry Pi Manual_](https://www.makeuseof.com/tag/great-things-small-package-your-unofficial-raspberry-pi-manual/)
-  [ [pdf](http://cdn.makeuseof.com/wp-content/uploads/2017/07/Raspberry-Pi-The-Unofficial-Tutorial.pdf) ] Sections 1-3
-4. [What is an OS?](https://www.youtube.com/watch?embed=0&v=26QPDBe-NB8) (Crash Course Computer Science) [13:35]
-5. Klint Finley. (April 24, 2019) [The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software/). _WIRED_.
+2. [What is an OS?](https://www.youtube.com/watch?embed=0&v=26QPDBe-NB8) (Crash Course Computer Science) [13:35]
+3. [Virtualization As Fast As Possible ](https://www.youtube.com/watch?embed=0&v=XItj08D5KPk) (Techquickie) [4:44] (the last 2 minutes are ads, skip it)
+4. Klint Finley. (April 24, 2019) [The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software/). _WIRED_.
 
 ### To Do:
 
 _Complete all the videos/readings before the first live session on Wednesday._
 
-1. Complete all of the readings _before_ our first class meeting.
-2. Install Raspberry Pi OS on your RPI. [[instructions](https://www.raspberrypi.org/software/)]
-3. Make a case for your RPI and post a picture on Slack (see _Unofficial Manual_ Section 3.1)
-4. Get to know your new computer by connecting it to your network, installing software, etc.
-5. After your Pi is up and running, the first thing you want to enable is a remote connection via `ssh`. [Follow this guide to enabling `ssh`](https://www.raspberrypi.org/documentation/remote-access/ssh/).
+1. [Join Slack](https://auedtech.slack.com) and install the desktop
+   and mobile apps ([slack support](https://get.slack.help/hc/en-us))
+2. Create an account on [Trello](https://trello.com) and install the
+   mobile app ([Trello Support](https://help.trello.com/))
+3. Install VirtualBox or Parallels
+4. Create a new virtual machine (VM) and install [Ubuntu Desktop](https://ubuntu.com/desktop) as the "guest" operating system.
+5. Get to know your new virtual computer by connecting it to your network, installing software, etc.
+
 
 ### Live Lab Agenda
 
 1. Welcome & Introductions
-2. Kahoot competition: review of videos/readings
+2. Review of videos/readings
 3. Breakout Rooms
-   A. Room A: Installing Raspberry Pi OS and Booting your Pi for the first time
-   B. Room B: Configure ssh, make a case
+   A. Room A: Troubleshooting the VM install
+   B. Room B: Configuring and using Ubuntu
 4. Getting ready for next week: terminal basics
 
 Week 2: The Command Line
@@ -413,12 +361,13 @@ systems administrators, software developers, and others. In particular, complex
 tasks can be accomplished with a few lines of text, remote computers can be
 easily accessed, and all manner of tasks can be automated (and scheduled).
 Specifically, after gaining fluency with the command line, you will be able to
-log into your RPI from your regular laptop or desktop computer in order to
-configure and control it. To get started on the command line we'll check out
-Terminus, a game developed at MIT to introduce the players to the command line.
+connect to a remote Linux server from your regular laptop or desktop computer in
+order to configure and control it. To get started on the command line we'll
+check out Terminus, a game developed at MIT to introduce the players to the
+command line.
 
 In addition to jumping into the command line, by the end of the week you will
-have customized your RPI by installing software packages through `apt` and the
+have customized your VM by installing software packages through `apt` and the
 GUI. You will also choose your topic for the first project and set up a Trello
 with a Board for your project and milestones for each week until it's due.
 
