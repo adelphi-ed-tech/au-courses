@@ -1,6 +1,7 @@
 % Programming web-based educational media
 % Matthew X. Curinga
   Antonios Saravanos
+  Robby Lucia
 
 **EDT 603 _Programming web-based educational media_, Spring 2022**
 
@@ -137,29 +138,6 @@ Downey, A. B. (2016). [_Think Python: How to Think Like a Computer Scientist, Ve
 Duckett, J. T. (2011). [_Html & css: design and build websites_](http://htmlandcssbook.com/).
 Indianapolis, IN: Wiley Pubishing, Inc.
 
-Schedule
-========================================================================
-
-
- Module  Topic                              Due
--------  ----------------------------       ------------------------
-      0  Getting Ready for Web Programming
-      1  Full stack: web servers & clients  
-      2  Structure, Data, Style, and Logic  _Multimedia Resume_ Due
-      3  Routes & Navigation
-      4  PANDAS Basics
-      5  React hooks & state                _Data set report_ Due
-      6  Charts & graphs
-      7  PANDAS - Flask - React
-      8  Data Visualization Testing         _Data Viz_ Due
-      9  1:1 meetings                       _Self-eval_ Due
-     10  Forms & user input
-     11  Maps Workshop
-     12  
-     13  
-     14  _Studio_
-     15  App Reviews                        _Web Application_ Due
-
 Assignments & Grading
 ========================================================================
 There are 4 graded assignments for this course. From week to week there
@@ -173,47 +151,58 @@ School Data Report    30
 Interactive Data App  40                
 
 ### Self-evaluation (10 points)
-At the beginning of module 9, you will complete a self-evaluation. During
+At the beginning of week 9, you will complete a self-evaluation. During
 your one-on-one meeting with the instructor, you will discuss your self-evaluation
 in order to make sure you get the most out of the remainder of the class.
 
 ### Software Project Evaluation Rubric
 
-_This marking guide will be used to evaluate the three software project_
-_assignments required for this course._
+_This marking guide will be used to evaluate the three software development
+assignments required for this course._
 
-1. **React/Javascript (10 points)**
-   - 1-3 points: the code runs with errors, is incomplete, or a very close copy of the example project
-   - 4-7 points: code is organized into functions and uses parameters, code is well organized and well styled,
+1. **React/Javascript**
+   - poor: the code runs with errors, is incomplete, or a very close copy of the example project
+   - satisfactory: code is organized into functions and uses parameters, code is well organized and well styled,
      can be improved by writing more general/reusable functions and parameters, being more flexible, or using
      Javascript idioms efficiently and correctly
-   - 8-10 points: code is well thought out and reusable functions create core parts of the site, functions are
+   - excellent: code is well thought out and reusable functions create core parts of the site, functions are
      organized so that changes and new features can be easily implemented, code meets our style guides and
      clear/accurate names are given to all identifiers (variables, functions). It is clear that the program
      goes beyond the example project.
-2. **Data modeling (5 points)**
-   - 1-2 points: most content is hard-coded in the Javascript code, model is an exact copy of example, and/or model
+2. **Data modeling**
+   - poor: most content is hard-coded in the Javascript code, model is an exact copy of example, and/or model
      does not support the goals of the site
-   - 3-4 points: data model supports the goals of the specific site, but may not be flexible enough for a
+   - satisfactory: data model supports the goals of the specific site, but may not be flexible enough for a
      different presentation or to handle new data
-   - 5 points: data model supports the site, and can support other uses without modification to the model, new content
+   - excellent: data model supports the site, and can support other uses without modification to the model, new content
      can be easily accommodated
-3. **HTML (5 points)**
-   - 1-2 points: content is presented with little structure, or different HTML tags would better describe the content
-   - 3-4 points: there is a good fit between the tags used and the data they contain
-   - 5 points: there is a good fit between the tags used and the data they contain _and_ the code correctly
+3. **HTML**
+   - poor: content is presented with little structure, or different HTML tags would better describe the content
+   - satisfactory: there is a good fit between the tags used and the data they contain
+   - excellent: there is a good fit between the tags used and the data they contain _and_ the code correctly
      and appropriately uses tags that were not part of the example code
-4. **CSS (5 points)**
-   - 1-2 points: little or no styles, styles are defined that are not used or do not take effect because of errors
-   - 3-4 points: code demonstrates understanding of box-model, color, typography, and/or images
-   - 5 points: advanced layout are used to interesting effect (flex, grids, etc), code exceeds example projects
-5. **User Experience (5 points)**
-   - 1-2 points: site is hard to read, understand, and use; labels and text are not well edited, items are not clearly organized,
+4. **CSS**
+   - poor: little or no styles, styles are defined that are not used or do not take effect because of errors
+   - satisfactory: code demonstrates understanding of box-model, color, typography, and/or images
+   - excellent: advanced layout are used to interesting effect (flex, grids, etc), code exceeds example projects
+5. **User Experience**
+   - poor: site is hard to read, understand, and use; labels and text are not well edited, items are not clearly organized,
      essential information is missing, and/or the design significantly impedes the usability of the site
-   - 3-4 points: site is easy to use and information is well organized, presentation is clear and clean
-   - 5 points: code, layout, and css combine to create an interesting effect, site has a high quality, professional feel
+   - satisfactory: site is easy to use and information is well organized, presentation is clear and clean
+   - excellent: code, layout, and css combine to create an interesting effect, site has a high quality, professional feel
+6. **Risk Taking**
+   - poor: the project narrowly adapts worked examples and sample code; no evidence of attempts
+     to incorporate ideas not strictly covered in class
+   - satisfactory: the project attempts either a novel idea or to integrate sophisticated
+     programming approaches beyond what is covered in class; it's evident that student
+     is able to read technical documentation and adapt ideas for new purposes. some
+     aspects of the program may not be fully functional or integrated with the rest of the program.
+   - excellent: incorporates novel ideas and techniques, as in "satisfactory," but
+     demonstrates a high level of success with the code and integration.
 
-### Multimedia Resume (30 points)
+
+
+### Multimedia Resume (25 points)
 
 This first assignment is designed to get you up and running with
 the key technologies we will use this semester. You will create
@@ -221,29 +210,22 @@ a data-driven web page as your own online resume or portfolio.
 
 For this project, you will:
 
-1. Keep all of the _data_ for your resume in .csv data files. Use Python and
-   the Flask web server to convert these csv files to JSON data which can be
-   accessed through a URL. These files will contain the lists of your work
-   experience, education background, technical skills, and other relevant
-   information.
+1. Keep all of the _data_ for your resume in .json data files. These files will
+   contain the lists of your work experience, education background, technical
+   skills, and other relevant information.
 2. Code Javascript source files using the React framework and HTML5 to structure
-   your web page.
+   your web page. Use React component functions to create a program that is
+   modular and easy to change. Your final project must have (at least) two
+   different "looks" which can be swapped live. Your resume program must be
+   separated into multiple source files (.js or .jsx) which are imported into
+   `App.js` to compose the site.
 3. Create or find any media assets (images, audio, video, etc) necessary for your
-   resume.
-4. Code CSS files to achieve your desired aesthetic and usability goals
-
-You will design your site on your local computer, running your own local
-website. You will submit an archive file with all of your code and resources
-(.zip, .7z, etc). Additionally, you will submit a 5 minute video tour where you
-show your running multimedia resume as well as key aspects of the code in your
-development environment (Atom, terminal, Jupyter).
-
-Your project will be assessed both on the quality of your code and the success
-of the project, using the following criteria:
+   resume. Your site _must_ contain some images.
+4. Code CSS files to achieve your desired aesthetic and usability goals.
 
 _The resume is an individual project_
 
-### Mini-app (30 points)
+### School Data Analysis (30 points)
 
 The mini app is a data driven web application. It is "mini" because it has a
 constrained, singular focus. This application stands alone -- it does not
@@ -257,12 +239,58 @@ to achieve their results.
 
 _This mini-app is an individual project_
 
-### Web application (30 points)
+### School Data Analysis (35 points)
 
-For the final project, you will work in a team to create a fully functional
-web application. You will learn how to save data in a remote data store
-and how to handle user authentication and authorization to create a secure,
-multi-user app.
+For the school data analysis you will become expert in one of the open
+data sets that are available to us regarding school data. These data
+sets include school performance, demographics, location, and other interesting
+data. This live data is often not "cleaned" -- meaning that some data is missing,
+some of it is inconsistent with expected data, and some values may not be
+understood intuitively. Further, the documentation accompanying this data is often
+sparse or non-existent. Raw test scores will be included without any details
+of how tests are scored, the range of values, etc. Lastly, the data is most
+useful when it can be connected and compared to _other_ data sets. However
+"keys" can be used inconsistently (school names, address fields, identifiers).
+
+For this project, you will write a program that _cleans_ the data and outputs
+it in useful formats. You will study the data _and_ use your research skills
+to understand what the data means. For example, students are identified as
+`current_ELL`, `ever_ELL` or `never_ELL` to indicated if they were still learning English
+while in the school system. Your job would be to provide some qualitative
+information about how and when students are placed in and out of these categories.
+Lastly, you will explore the data and build a series of graphical reports
+with descriptive statistics that will make it easier for other researchers
+and programmers to work with these data sets. For example, you will want
+to provide ranges, and averages (mode, mean, median) for numerical data. For
+categorical data, you will want to enumerate and describe each of the categories.
+If you had to make assumptions in "cleaning" your data, you will detail the
+process and describe any potential problems. You will consider all of the unique
+identifiers in your data and describe how they might be used to connect your
+data set to other sets of data.
+
+Once you have a strong understanding of your data, you will create a sample
+report where you analyze one aspect of the data and present it as a web page
+that contains both quantitative output as well as written analysis.
+
+This project will use Python, PANDAS, and Jupyter Notebooks to clean and analyze
+the data. Jupyter will output any necessary files (.json, SVG images, etc)
+that can be displayed on the web. You will use React/Javascript to build
+a mini website that describes your data and hosts your report.
+
+_This is a "team" project that you will work on with one other member of the class._
+
+### Web Application
+The web application will build on the work of the Data Analysis project. In this
+project we will build interactive tools where users can click buttons, fill out
+forms, drag-and-drop, and interact with our program in various ways. The "front-end"
+will be programmed in Javascript with React, and the live backend will be written
+with Python running in the Flask server. We will test and prototype the Python
+code in Jupyter Notebook, but it will run live from Flask.
+
+I will encourage everyone to continue working with open school data, so that
+we have a host of data interactions by the end of the term. However, if you have
+your own interesting projects, you will have the opportunity to pursue them
+instead.
 
 _This web application is a group project. All team members will receive the same grade._
 
@@ -271,11 +299,11 @@ Books and online resources
 
 ### Documentation & Reference websites
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - [Python Official Docs](https://docs.python.org/3/index.html)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [PANDAS](https://pandas.pydata.org/docs/)
-- [React](https://reactjs.org/docs/getting-started.html)
-- [BULMA](https://bulma.io/documentation/)
 - [World Wide Web Consortium](http://w3.org)
 - [W3 Schools](http://www.w3schools.com/)
 - [Regular Expressions](http://www.regexr.com/)
