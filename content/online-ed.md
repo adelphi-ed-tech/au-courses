@@ -122,8 +122,8 @@ Look through some possible platforms and pick one in which to design your online
 
 ### Week 8: Adaptive Learning
 **Read:**
-
--  Moskal, P.  D. Carter &amp; Dale Johnson [7 Things You Should Know About Adaptive Learning](https://library.educause.edu/-/media/files/library/2017/1/eli7140.pdf). _Educause._
+- [Intelligent Tutoring Systems and Online Learning](https://ai100.stanford.edu/2016-report/section-ii-ai-domain/education/intelligent-tutoring-systems-and-online-learning). In Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, Shivaram Kalyanakrishnan, Ece Kamar, Sarit Kraus, Kevin Leyton-Brown, David Parkes, William Press, AnnaLee Saxenian, Julie Shah, Milind Tambe, and Astro Teller.  "Artificial Intelligence and Life in 2030." One Hundred Year Study on Artificial Intelligence: Report of the 2015-2016 Study Panel, Stanford University, Stanford, CA,  September 2016.
+- Moskal, P.  D. Carter &amp; Dale Johnson [7 Things You Should Know About Adaptive Learning](https://library.educause.edu/-/media/files/library/2017/1/eli7140.pdf). _Educause._
 
 **Optional:**
 
