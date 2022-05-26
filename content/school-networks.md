@@ -156,8 +156,9 @@ Grades & Assignments
 Assignment                  Pct  Due
 --------------------------  ---  -------
 Participation               20%  ongoing
-Web Software Project        40%  6/15
-Final Group Project         40%  6/29
+Quiz Design                 20%  ongoing
+Web Software Project        30%  6/18
+Final Group Project         30%  7/1
 
 
 Participation
@@ -168,9 +169,41 @@ but you will also spend significant time working through course materials at you
 own pace.
 
 Your participation grade will consider preparation for live labs, timely
-management of your Trello projects, and participation in Slack and Moodle
-discussions. Smaller (ungraded) weekly assignments will also be considered for
-your participation grade.
+management of your Trello projects, completion of the comprehension quizzes, and
+participation in Slack and Moodle discussions. Smaller (ungraded) weekly
+assignments will also be considered for your participation grade. You may earn
+bonus participation points if you go "above and beyond" in a week, especially
+by providing help or making full use of our classroom tools to ask good questions
+and share work.
+
+Quiz Design
+-----------
+Working in a team of 3, you will be responsible for designing a 15 question quiz
+(via Google Forms) to check the basic understanding of the videos and readings
+for the week. The quizzes should consist of multiple choice (one answer or
+multiple "all that apply") questions that can be automatically scored. You
+must provide a detailed answer key for every question. The questions should not
+be overly challenging, but should be based on the readings (not general knowledge).
+Anyone who carefully completes the readings should be able to score 13/15 points
+or better.
+
+Quizzes are **ungraded* for the students taking them. Your team will receive
+a group grade for the quiz considering:
+
+- _coverage:_ did the quiz cover all of the big ideas in the readings?
+- _depth:_ are the questions challenging without being tricks or requiring
+  detailed synthesis of the materials? do they avoid being to specific or two
+  general?
+- _explanations:_ do the answer keys for each questions appropariately explain
+  the correct and incorrect answers?
+
+[See the docs page for making quizzes with Google Forms.](https://support.google.com/docs/answer/7032287?hl=en)
+
+Your quiz will be due by end of day on Tuesday and posted to the Moodle
+"Weekly Quiz" discussion as a new topic for your week. Please, also, leave
+comments and feedback for the quiz authors -- but not until after the quiz is
+closed. Everyone must attempt the quiz before the start of class at 4:30 on
+Wed.
 
 Web Software Project
 --------------------
@@ -190,19 +223,19 @@ newsletter or blog.
 _Submission Guidelines_
 
 To submit this project, you will upload a narrated screencast video of your
-project to YouTube (you can sign in with your Adelphi email account). If you do
+project to VoiceThread (you can sign in with your Adelphi email account). If you do
 not want the video to be public, change the permissions so that it is an
 "unlisted" video. Only people with the link will be able to see it. Create a new
 thread in the discussion forum with a title for your project. Post the link to
 your video here, along with any supporting documentation (screenshots, code,
 config files).
 
-Begin the video with a description of who the target users are of this setup and
-what your goals are for them. Next, show your project from the user's
-perspective, showing how it meets the needs  of the use cases that guided you in
+Begin the video with a description of who the target users are of this software
+and what your goals are for them. Next, show your project from the user's
+perspective, showing how it meets the needs of the use cases that guided you in
 designing the project. Next, you can, if appropriate, give a brief tour of the
 configuration files and scripts that make your project possible. Your video
-should be 5-8 minutes long.
+should be 5-6 minutes long.
 
 Please take time to watch your classmate's videos and post comments, questions,
 and suggestions.
@@ -218,90 +251,78 @@ the combination of several systems in a new way, suffer from incomplete or
 inaccurate documentation, and are hindered by time or resources/financial
 constraints.
 
-With this in mind, you will choose an RPI project that you find interesting and
+With this in mind, you will choose a software project that you find interesting and
 engaging to pursue for your final project. You will be responsible for
 gathering/purchasing the materials to complete the project.
 
 You will be evaluated on:
 
-- skill with RPI hardware
-- skill with RPI software
+- skill with the linux operating system
+- ability to customize your solution to meet the project's goals
 - creativity of the project chosen
 - risk/scope of the project
 - reflection on the process
 
-This is a _paired project._ You and a partner of your choice will work on the
-same project. You will share a Trello and set goals together, however you will
-both complete the project independently and will receive an individual grade.
-Your partner will serve as a resource for planning and troubleshooting problems
-that arise during the course of the project.
+This is a _group project_ with either 2 or three people per team. You and your
+team will work on the same project. You will share a Trello and set goals
+together. It will be up to you to decide who work is divided and the most
+effective way to collaborate and share resources.
 
-With the instructors' permission, you may work on this project individually.
 
-Here are a few raspberry pi project ideas that will give you a sense of the size and
+Here are a few raspberry project ideas that will give you a sense of the size and
 scope of what you can do for your final project.
 
 1. **MyCroft Open Source personal assistant**<br>
    <https://mycroft.ai><br>
-   MyCroft is a Free Software alternative to systems such as Alexa and Google Assistant.
-   While it runs on a regular desktop computer, it was designed to work on a RPI.
-   You can download a pre-configured SD Card image to get started with "PiCroft".
-   For this project, you will download and configure MyCroft for your Pi; create
-   and connect to your online account, configure and test the microphone and audio
+   MyCroft is a Free Software alternative to systems such as Alexa and Google
+   Assistant. MyCroft is developed for Linux. It requires some attention to
+   details to get all of the media components working properly. For this
+   project, you will download and configure MyCroft for your VM; create and
+   connect to your online account, configure and test the microphone and audio
    output, and customize the features and functionality of your RPI assistant.
-   Start at the [mycroft site](https://mycroft.ai) for all of the information you need to get started.
-2. **RetroPi Arcade Console**<br>
-   <https://retropie.org.uk/><br>
-   <img src="https://i0.wp.com/www.hanahaki.com/wp-content/uploads/2018/06/arcade-bartop-raspberry-pi-retropie-mame-2018-diy-tutorial-guide.png?fit=735%2C458&ssl=1" alt="old school arcade games made with retropi" class="img-fluid d-block">
-   Do you think that Fortnite has nothing on the original Streetfighter? That
-   Assassin's Creed pales in the glow of Golden Eye? Or do you just want to play
-   the Super Mario Bros, the greatest video game of all time? Turn your RPI into
-   a video game emulator that can play the classics made for Artari, Nintendo NES, Sega,
-   and more. Once you've got the general system up and running, you can add some
-   custom controllers and make it an upright arcade.  
-3. **Raspberry Pi Light Show**<br>
-   <https://www.raspberrypi.org/blog/christmas-lights/> & <https://opensource.com/life/15/2/music-light-show-with-raspberry-pi><br>
-   <img src="https://media.giphy.com/media/Kci9K2E4fsvaqymZvO/giphy.gif" alt="very flash xmas light show" class="img-fluid d-block">
-   Want to turn your classroom into a disco or put your neighbors to shame this
-   Halloween or Christmas? Even if you don't, you should
-   [check out this sick RPI Christmas display](https://www.youtube.com/watch?embed=0&v=90oZ52M4IC0).
-4. **Mini Creature Home**<br>
-   <https://allenheard.wordpress.com/2013/11/06/making-a-mini-beast-habitat-raspberry-pi-style/><br>
-   Create an ant or snail home, complete with a live webcam. This project should
-   give you lots of ideas if your looking for STEAM projects for younger kids.
-5. **MagicMirror**<br>
+   Start at the [mycroft site](https://mycroft.ai) for all of the information
+   you need to get started.
+2. **Jupyter Hub collaborative programming site**<br>
+   <https://jupyter.org/hub><br>
+   Jupyter Hub is a collaborative version of the Jupyter Notebook software development
+   environment. Set up a Jupyter Hub installation on your VM and configure it for
+   use in a programming, math, or other learning environment that requires a
+   shared coding environment.
+3. **Ghost/Moodle/WordPress**<br>
+   While you _had_ to set up a basic version of these systems for the first project,
+   they are complex softare systems with many templates, plug-ins, and customizations.
+   Your team may choose to work on one of these to create a more complete
+   website.
+4. **Mattermost chat server**<br>
+   <https://mattermost.org><br>
+   Mattermost is a FOSS chat sever (similar to Slack) that you can host on your
+   own sever for privacy and customizability.
+5. **MagicMirror digital kiosk**<br>
    <https://magicmirror.builders/><br>
-   The magic mirror or smart mirror is an RPI favorite: put a reflective coating
-   or 2-way mirrored plexiglass over an old monitor or TV, hook it up to your Pi, and
-   throw up you daily calendar, the bus schedule, weather, news, poetry, etc.
-6. **Digital (Pi)cture Frame**<br>
-   <https://www.makeuseof.com/tag/showerthoughts-earthporn-make-inspiring-raspberry-pi-photo-frame/><br>
-   If the _mirror_ seems like it might be too much, how about a digital picture frame?
+   The magic mirror or smart mirror runs a customizable web server that serves
+   as a digital kiosk (and, if desired, a magic mirror -- a mirrored LCD monitor).
+   Install the base
+6. **Slack chatbot**<br>
+   Using the [Slack API](https://api.slack.com/), set up a server (e.g. Node or Python)
+   and create an "app" that interacts, automatically, with Slack chat.
+7. **Jekyll website**<br>
+   <https://jekyllrb.com/><br>
+   Create a simple, static website using the Jekyll system and markdown syntax.
+   Host it live on your own Github Pages site.
 
-These are just a few of the many possible projects. You may conceive of your
-own project, or check out some of these other ideas:
-
-- [circuit specialists](https://www.circuitspecialists.com/blog/best-raspberry-pi-projects/)
-- [tom's hardware](https://www.tomshardware.com/features/best-raspberry-pi-projects)
-- [it's foss](https://itsfoss.com/raspberry-pi-projects/)
-
+These are only a few suggestions. If you have something that you want to build,
+but aren't sure the best way to accomplish it, please post your idea in Slack
+and we can investigate solutions as a team.
 
 _Submission Guidelines_
 
 To submit this project, you will upload a narrated screencast video of your
-project to YouTube (you can sign in with your Adelphi email account). If you do
-not want the video to be public, change the permissions so that it is an
-"unlisted" video. Only people with the link will be able to see it. Create a new
-thread in the discussion forum with a title for your project. Post the link to
-your video here, along with any supporting documentation (screenshots, code,
-config files).
-
-Begin the video with a description of who the target users are of this setup and
-what your goals are for them. Next, show your project from the user's
-perspective, showing how it meets the needs  of the use cases that guided you in
-designing the project. Next, you can, if appropriate, give a brief tour of the
-configuration files and scripts that make your project possible. Your video
-should be 5-10 minutes long.
+project to VoiceThread. Begin the video with a description of who the target
+users are of this setup and what your goals are for them. Next, show your
+project from the user's perspective, showing how it meets the needs  of the use
+cases that guided you in designing the project. Next, you can, if appropriate,
+give a brief tour of the configuration files and scripts that make your project
+possible. Your video should be 8-10 minutes long. Submit one video per team.
 
 Class Sessions
 ===============
@@ -311,14 +332,13 @@ Week 1: Computers & Operating Systems
 This week we will learn about core computer hardware, and the key software
 (Operating Systems) that drive computers. We'll also learn about the specific
 hardware of our RPIs and install an operating system so we can take them out
-for a test drive. By the end of the week you should have a bootable Raspberry Pi
-that is housed in a homemade case of your design. You should be able to log into
-your computer with a working display (monitor) and keyboard/mouse. You will
-also make sure that it connects to the internet.
+for a test drive. By the end of the week you should have either VirtualBox or
+Parellels installed on your computer and have created and installed a Virtual Machine (VM)
+running the Ubuntu operating system.
 
 ### Guiding Questions:
 
-1. How does a modern computer work?
+1. How does a modern computer work?### To Do:
 2. What makes a computer a _computer_?
 3. How is a computer an abstraction of many parts and processes?
 
@@ -338,14 +358,16 @@ _Complete all the videos/readings before the first live session on Wednesday._
 2. Create an account on [Trello](https://trello.com) and install the
    mobile app ([Trello Support](https://help.trello.com/))
 3. Install VirtualBox or Parallels
-4. Create a new virtual machine (VM) and install [Ubuntu Desktop](https://ubuntu.com/desktop) as the "guest" operating system.
-5. Get to know your new virtual computer by connecting it to your network, installing software, etc.
-
+4. Create a new virtual machine (VM) and install [Ubuntu
+   Desktop](https://ubuntu.com/desktop) as the "guest" operating system.
+5. Get to know your new Ubuntu computer by installing software from the Software
+   Shop and using it for some of your every day computing tasks.
+6. Take the "Computer and Operating Systems Quiz" -- link on Moodle
 
 ### Live Lab Agenda
 
 1. Welcome & Introductions
-2. Review of videos/readings
+2. Discussion of videos/readings
 3. Breakout Rooms
    A. Room A: Troubleshooting the VM install
    B. Room B: Configuring and using Ubuntu
@@ -372,42 +394,43 @@ GUI. You will also choose your topic for the first project and set up a Trello
 with a Board for your project and milestones for each week until it's due.
 
 ### Guiding Questions:
-1. How is a command line interface different from the more familiar graphical user interface?
+1. How is a command line interface different from the more familiar graphical
+   user interface?
 2. What is gained from a CLI? What is lost?
 
 ### Watch, Play, & Read:
 1. Read [What is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)
 2. Watch [Keyboards & Command Line Interfaces: Crash Course Computer Science #22](https://www.youtube.com/watch?embed=0&v=4RPtJ9UyHS0)[11:23] Hackers are fast typists.
 2. Play [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) for at least an hour. Post on Slack how far you get.
-3. Read [Chapter 5: Getting to grips with the GUI in _Unofficial Tutorial_](https://www.makeuseof.com/tag/great-things-small-package-your-unofficial-raspberry-pi-manual/#5-getting-to-grips-with-the-gui)
+3. Read/review [Ubuntu Command Line For Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ### To Do:
-1. Update the software on your RPI with `apt` (hint `sudo apt update` then `sudo apt dist-upgrade`)
-2. Install VNC and [connect to your RPI from your computer](https://www.raspberrypi.org/documentation/remote-access/vnc/)
-3. Install at least 2 programs on your RPI using `apt` or the graphical software package manager.
-   See [5 Ways To Install Software On Raspberry Pi](https://www.makeuseof.com/tag/three-ways-to-install-software-on-raspberry-pi/).
+1. Update the software on your VM with `apt` (hint `sudo apt update` then `sudo apt dist-upgrade`)
+2. Install at least 2 programs on your RPI using `apt` or the Software center.
 4. Post in the FOSS Apps Discussion which apps you installed and a brief review of them.
-5. Create a Trello Board for your project and invite the course instructors as
-   collaborators.
+5. Create a Trello Board for your project and invite the course instructor as
+   collaborator.
+6. Complete the "Command Line" quiz
 
 ### Live Lab Agenda
 
 1. Welcome, questions
 2. Command line Quizlet
 3. Breakout rooms:
-   A. Installing and connecting to VNC
-   B. Managing your Pi server through `ssh`
+   A. WordPress working group
+   B. Moodle working group
+   C. Ghost working group
 4. Project ideas and Trello Updates
 
 Week 3: Users, Groups, Files, & Permissions
 -------------------------------------------
-As you're working on finishing up your first RPI project, we'll take a deeper
-look at how files, permissions and security works on RPI and in linux/unix operating
-systems generally. To better understand how to work with files, we'll take a look
-at file archives (multiple files and directories combined in a single file) and
-compression (reducing the size of a file). Because your programs all run as a
-"user" (either root or their own user), it's important to understand files and
-permissions to troubleshoot problems.
+As you're working on finishing up your first project, we'll take a deeper look
+at how files, permissions and security works in linux/unix operating systems. To
+better understand how to work with files, we'll take a look at file archives
+(multiple files and directories combined in a single file) and compression
+(reducing the size of a file). Because your programs all run as a "user" (either
+root or their own user), it's important to understand files and permissions to
+troubleshoot problems.
 
 ### Guiding Questions:
 1. How do you secure digital resources?
@@ -418,17 +441,22 @@ permissions to troubleshoot problems.
 2. Watch [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?embed=0&v=OtDxDvCpPL4) [12:47]
 3. Read [Understanding Basic File Permissions and ownership in Linux](https://www.thegeekdiary.com/understanding-basic-file-permissions-and-ownership-in-linux/)
 4. Watch [Linux Terminal 201: How To Use tar, gzip, bzip2, and zip - HakTip 156](https://www.youtube.com/watch?embed=0&v=f8-7lhs4ky0) [11:32]
-5. Docs [Linux users](https://www.raspberrypi.org/documentation/linux/usage/users.md)
-4. Docs [How To Extract Zip, Gz, Tar, Bz2, 7z, Xz and Rar File in Linux](https://tecadmin.net/extract-archive-file-linux/)
+5. Docs [Ubuntu user security](https://ubuntu.com/server/docs/security-users)
+6. Docs [How To Extract Zip, Gz, Tar, Bz2, 7z, Xz and Rar File in Linux](https://tecadmin.net/extract-archive-file-linux/)
 
 ### To Do:
-- finish RPI Client or Server Setup project by the end of the week
+1. Finish the first project
+2. Complete the "Users & Groups" quiz
+
+
+### Live Lab Agenda
+_project working session_
 
 Week 4: Networks
 ----------------
 How does the internet work? What happens after you hit enter on a search term
 on [Duck Duck Go](https://duckduckgo.com/spread)? How does Spotify get music
-to your phone to your wireless earbuds? A deeper understanding of different
+to your phone then to your wireless earbuds? A deeper understanding of different
 networking hardware, software, and protocols will help us better understand
 the networked software we're installing, configuring, and troubleshooting.
 
@@ -444,8 +472,9 @@ the networked software we're installing, configuring, and troubleshooting.
 
 ### To Do:
 1. Post (with a partner) a written report on one of the network topics (see full instructions below).
-2. Choose a topic and a partner for your final project. Create a Trello board
-   for it and share it with your partner and the instructors.
+2. Choose a topic and form a team for the final project. Create a Trello board
+   for it and share it with your partners and the instructor.
+3. Complete the "Networks & Internet" quiz.
 
 ### Networking Topic Report Instructions
 For a more in-depth look at networking, you will work with a partner to write
@@ -469,6 +498,7 @@ Possible topics:
  7. Dark Web
  8. Radio-frequency identification (RFID)
  9. Bluetooth Beacons
+ 10. Web3
 
 Week 5: Ethics
 -------------------------------------
@@ -498,12 +528,8 @@ of schools and other educational institutions.
 ### To Do:
 1. Complete ethics readings and come to class prepared to discuss and debate.
 2. Update your Trello project with the work you've completed this week. Identify any issues and get help as needed.
+3. Complete the "Privacy & Ethics" quiz.
 
 Week 6: Final Project Due
 -------------------------
-This is a working week where our full attention is focused on producing great
-final projects.
-
-### To Do:
-
-- turn in your final project and have a great summer!
+There is no class meeting, finish up your project and turn it in. Have a great summer!
