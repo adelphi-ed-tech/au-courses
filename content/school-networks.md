@@ -17,7 +17,7 @@ to complete a software/hardware project.
 **Keywords:** linux, bash, systems, networks, lamp, free software, trouble shooting,
 technical project management, rasberry pi, physical computing, debian, ubuntu
 
-<img src="https://cdn.pixabay.com/photo/2017/06/06/16/35/cyber-2377718_960_720.jpg" alt="computer chip" style="float:right;max-width:400">
+<img src="https://cdn.pixabay.com/photo/2017/06/06/16/35/cyber-2377718_960_720.jpg" alt="computer chip" class="img-fluid">
 
 Goals & Objectives
 ==================
@@ -41,7 +41,7 @@ will be able to:
 Class Information
 =================
 - **Instructor:** Matt Curinga <mcuringa@adelphi.edu>
-- **Class dates:** Wednesday, July 1 - Tuesday, June 29
+- **Class dates:** May 26 - July 1
 - **Live sessions:** Wednesdays: 4:30pm - 6:20pm; <small>zoom link on moodle</small>
 
 Course Communications
@@ -187,7 +187,7 @@ be overly challenging, but should be based on the readings (not general knowledg
 Anyone who carefully completes the readings should be able to score 13/15 points
 or better.
 
-Quizzes are **ungraded* for the students taking them. Your team will receive
+Quizzes are **ungraded** for the students taking them. Your team will receive
 a group grade for the quiz considering:
 
 - _coverage:_ did the quiz cover all of the big ideas in the readings?
@@ -344,10 +344,11 @@ running the Ubuntu operating system.
 
 ### Watch & Read:
 
-1. [Computer Hardware](https://www.youtube.com/watch?embed=0&v=ExxFxD4OSZ0) (Computer parts Explained) [7:48]
-2. [What is an OS?](https://www.youtube.com/watch?embed=0&v=26QPDBe-NB8) (Crash Course Computer Science) [13:35]
-3. [Virtualization As Fast As Possible ](https://www.youtube.com/watch?embed=0&v=XItj08D5KPk) (Techquickie) [4:44] (the last 2 minutes are ads, skip it)
-4. Klint Finley. (April 24, 2019) [The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software/). _WIRED_.
+1. Watch the Week 1 Introduction Voice Thread (see Moodle)
+2. [Computer Hardware](https://www.youtube.com/watch?embed=0&v=ExxFxD4OSZ0) (Computer parts Explained) [7:48]
+3. [What is an OS?](https://www.youtube.com/watch?embed=0&v=26QPDBe-NB8) (Crash Course Computer Science) [13:35]
+4. [Virtualization As Fast As Possible ](https://www.youtube.com/watch?embed=0&v=XItj08D5KPk) (Techquickie) [4:44] (the last 2 minutes are ads, skip it)
+5. Klint Finley. (April 24, 2019) [The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software/). _WIRED_.
 
 ### To Do:
 
@@ -362,15 +363,16 @@ _Complete all the videos/readings before the first live session on Wednesday._
    Desktop](https://ubuntu.com/desktop) as the "guest" operating system.
 5. Get to know your new Ubuntu computer by installing software from the Software
    Shop and using it for some of your every day computing tasks.
-6. Take the "Computer and Operating Systems Quiz" -- link on Moodle
+6. Read the syllabus and post any questions on Slack
+7. Take the "Computer and Operating Systems Quiz" -- link on Moodle
 
 ### Live Lab Agenda
 
 1. Welcome & Introductions
 2. Discussion of videos/readings
 3. Breakout Rooms
-   A. Room A: Troubleshooting the VM install
-   B. Room B: Configuring and using Ubuntu
+   1. Room A: Troubleshooting the VM install
+   2. Room B: Configuring and using Ubuntu
 4. Getting ready for next week: terminal basics
 
 Week 2: The Command Line
