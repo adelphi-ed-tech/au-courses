@@ -402,7 +402,7 @@ with a Board for your project and milestones for each week until it's due.
 
 ### Watch, Play, & Read:
 1. Read [What is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)
-2. Watch [Keyboards & Command Line Interfaces: Crash Course Computer Science #22](https://www.youtube.com/watch?embed=0&v=4RPtJ9UyHS0)[11:23] Hackers are fast typists.
+2. Watch [Keyboards & Command Line Interfaces: Crash Course Computer Science #22](https://www.youtube.com/watch?embed=0&v=4RPtJ9UyHS0)[11:23]
 2. Play [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) for at least an hour. Post on Slack how far you get.
 3. Read/review [Ubuntu Command Line For Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
