@@ -26,7 +26,7 @@ https://www.auedtech.org
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <meta name="date" content="Saturday, 28. August 2021 11:46PM">
+  <meta name="date" content="Tuesday, 23. August 2022 10:54PM">
 
 
   <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -54,16 +54,19 @@ https://www.auedtech.org
       background: url('sample.png') repeat white;
       /* margin-top: 24px; */
   }
-  /*
-  #syllabus {
-    padding-top: 120px;
-  } */
 
-  .page-header h1, .rsa-red-text, .au-gold {
-    color: #ffb500;
+  #adelphi-header {
+    box-shadow: 0px 1px 3px gray;
+  }
+
+  /* .page-header h1, .rsa-red-text, .au-gold { */
+  .page-header h1 {
+    padding-top: 1em;
+    color: black;
     font-size: 2.5rem;
     font-weight: bold;
   }
+
   .rsa-red-bg { background-color: #ab1c19; }
   h1 small a, h2 small a, h3 small a {
     font-size: 1rem;
@@ -73,25 +76,6 @@ https://www.auedtech.org
     text-decoration: none;
   }
 
-  /* .h1, h1 {
-      font-size: 24px;
-  }
-  .h2, h2 {
-      font-size: 20px;
-  }
-  .h3, h3 {
-      font-size: 18px;
-  }
-  .h4, h4 {
-      font-size: 14px;
-  }
-  .h5, h5 {
-      font-size: 12px;
-  }
-  .h6, h6 {
-      font-size: 100%;
-      font-weight: bold;
-  } */
 
 
   blockquote
@@ -202,25 +186,6 @@ https://www.auedtech.org
   }
 
   #logo h2 { color: black; }
-
-  /* #class-sessions { counter-reset: week; }
-  #class-sessions h2:before
-  {
-      counter-increment: week;
-      content: "Session " counter(week) ": "
-  }
-
-  #class-sessions>section
-  {
-      margin: 1em 0 0 0;
-      padding: 0 2em;
-  }
-
-  #class-sessions > h2
-  {
-      padding-left: -1em;
-  } */
-
 
 
   #TOC.affix, #TOC.affix-top, #TOC.affix-bottom
@@ -355,11 +320,11 @@ https://www.auedtech.org
 <body>
 
 <!-- Fixed navbar -->
-<header class="container-fluid">
+<header id="adelphi-header" class="container">
   <nav class="navbar navbar-light bg-light">
     <div class="container">
-      <a class="" href="/"><img src="img/au-word-gold.png" alt="adelphi university"></a>
-      <a class="link-primary text-decoration-none" href="https://online.adelphi.edu/online-ed-tech/">Graduate Program in Educational Technology</a>
+      <a href="/"><img src="img/au-word-gold.png" alt="adelphi university"></a>
+      <a class="btn btn-outline-dark" href="https://online.adelphi.edu/online-ed-tech/">Graduate Program in Educational Technology</a>
     </div>
   </nav>
 </header>
@@ -385,7 +350,7 @@ https://www.auedtech.org
                     version: 2.1
                     Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
                     -->
-                    <p><strong>Computer Science 0145-602, Fall 2021</strong></p>
+                    <p><strong>Computer Science 0145-602, Fall 2022</strong></p>
                     <p><strong>Keywords:</strong> computer programming, CS1, python, computational thinking, critical computational literacy, jupyter, data science</p>
                     <p><strong>Description:</strong> This course introduces students to programming and core concepts of computer science, using a modern, object oriented programming language (currently Python). Students learn concepts of variables, functions, repetition/loops, basic data structures (arrays, lists, dictionaries), and basic object oriented programming.</p>
                     <p><img src="img/python-logo.png" class="d-block img-fluid" alt="Python intertwined snakes and text on white field"></p>
@@ -414,22 +379,31 @@ https://www.auedtech.org
                     <section id="required-software" class="level1">
                     <h1>Required Software</h1>
                     <p>For this class we will be programming in the <a href="https://python.org">Python</a> programming language, using a development platform called <a href="https://jupyter.org/">Jupyter Notebook</a>.</p>
-                    <p>In order to run this software, it is strongly recommended that you use a computer running Windows, MacOS, or a desktop Linux (e.g. Ubuntu, Debian). If you are working from an iPad, Chromebook, or Android the configuration will be more difficult.</p>
-                    <p>The easiest way to install the latest version of Python 3 and Jupyter is by downloading and running the graphical installer for <em>Anaconda</em>. Anaconda is a complete data science platform, but it contains everything we need in a neat package.</p>
-                    <p><strong><a href="https://www.anaconda.com/products/individual">Click here to find the Anaconda installer for your platform.</a></strong></p>
+                    <p>You will be writing your code through a web-based version of Jupyter called Jupyter Hub. You will have to create an account on our Jupyter Hub by going to <a href="https://data.mixi.nyc" class="uri">https://data.mixi.nyc</a> and joining using your Adelphi student email.</p>
                     </section>
                     <section id="required-text" class="level1">
                     <h1>Required Text</h1>
-                    <p><em>Our textbook is free, open source, and available online.</em></p>
+                    <p><em>Our textbook is free, open source, and available online. There are links below to the “standard” version and an interactive version which includes live code examples and comprehension questions. You may read either or both or switch between them, depending on your preference.</em></p>
+                    <p><img src="img/tip-cover.png" class="d-block-sm float-left" alt="Think Python book cover by O'Reilly Press"></p>
                     <p>Downey, A. B. (2016). <a href="http://greenteapress.com/thinkpython2/html/index.html"><em>Think Python: How to Think Like a Computer Scientist, Version 2.4.0</em></a>. Green Tea Press.</p>
+                    <p>Miller, B. &amp; Ranum, D. (n.d.) Based on work by Jeffrey Elkner, Allen B. Downey, and Chris Meyers. <a href="https://runestone.academy/ns/books/published/thinkcspy/index.html"><em>How to Think Like a Computer Scientist: Interactive Edition</em></a></p>
                     </section>
-                    <section id="required-software-hardware" class="level1">
-                    <h1>Required Software &amp; Hardware</h1>
-                    <p>For this course we will be programming in the <a href="https://python.org">Python</a> programming language, using a program/platform called <a href="https://jupyter.org/">Jupyter</a>.</p>
+                    <section id="reference-materials" class="level1">
+                    <h1>Reference Materials</h1>
+                    <p><em>Consult this documentation as needed.</em></p>
+                    <ul>
+                    <li>[<a href="https://jupyterlab.readthedocs.io/en/stable/user/interface.html">Jupyter Lab</a>] <small>our software development environment</small></li>
+                    <li>[<a href="https://www.python.org/doc/">Python Documentation</a>] <small>official python language docs</small>
+                    <ul>
+                    <li>[<a href="https://docs.python.org/3/tutorial/index.html">tutorial</a>] <small>basic tutorials</small></li>
+                    <li>[<a href="https://docs.python.org/3/library/index.html">library reference</a>] <small>reference of the standard libraries</small></li>
+                    <li>[<a href="https://peps.python.org/pep-0008/">style guide</a>] <small>naming variables, spaces, quotations, comments, etc.</small></li>
+                    </ul></li>
+                    </ul>
                     </section>
                     <section id="class-meetings" class="level1">
                     <h1>Class meetings</h1>
-                    <p>This is a fully asynchronous online class, which will run on a Wednesday-Wednesday schedule, meaning new topics will begin each Wednesday, and quizzes will be due by end of day on Tuesday. There are no set meeting times, and there will not be Zoom or other video class sessions. You will be able to flexibly schedule your time within the week for each topic.</p>
+                    <p>This is a fully asynchronous online class, which will run on a Monday-Monday schedule, meaning new topics will begin each Monday, and quizzes will be due by end of day on Sunday. There are no set meeting times, and there will not be Zoom or other video class sessions. You will be able to flexibly schedule your time within the week for each topic.</p>
                     <section id="weekly-topics" class="level3">
                     <h3>Weekly topics</h3>
                     <table>
@@ -445,113 +419,113 @@ https://www.auedtech.org
                     <tbody>
                     <tr class="odd">
                     <td>1</td>
-                    <td style="text-align: left;">Sep 01</td>
+                    <td style="text-align: left;">Aug 29</td>
                     <td style="text-align: left;">The way of the program</td>
                     <td style="text-align: left;">TIP 1</td>
-                    <td style="text-align: left;">-</td>
+                    <td style="text-align: left;">Quiz 0</td>
                     </tr>
                     <tr class="even">
                     <td>2</td>
-                    <td style="text-align: left;">Sep 08</td>
+                    <td style="text-align: left;">Sep 05</td>
                     <td style="text-align: left;">Variables &amp; Statements</td>
                     <td style="text-align: left;">TIP 2</td>
                     <td style="text-align: left;">Quiz 1</td>
                     </tr>
                     <tr class="odd">
                     <td>3</td>
-                    <td style="text-align: left;">Sep 15</td>
+                    <td style="text-align: left;">Sep 12</td>
                     <td style="text-align: left;">Functions</td>
                     <td style="text-align: left;">TIP 3</td>
                     <td style="text-align: left;">Quiz 2</td>
                     </tr>
                     <tr class="even">
                     <td>4</td>
-                    <td style="text-align: left;">Sep 22</td>
+                    <td style="text-align: left;">Sep 19</td>
                     <td style="text-align: left;">Conditionals &amp; Recursion</td>
                     <td style="text-align: left;">TIP 5</td>
                     <td style="text-align: left;">Quiz 3</td>
                     </tr>
                     <tr class="odd">
                     <td>5</td>
-                    <td style="text-align: left;">Sep 29</td>
+                    <td style="text-align: left;">Sep 23</td>
                     <td style="text-align: left;">Fruitful Functions</td>
                     <td style="text-align: left;">TIP 6</td>
                     <td style="text-align: left;">Quiz 4</td>
                     </tr>
                     <tr class="even">
                     <td>6</td>
-                    <td style="text-align: left;">Oct 06</td>
-                    <td style="text-align: left;">Iteration</td>
-                    <td style="text-align: left;">TIP 7</td>
+                    <td style="text-align: left;">Oct 01</td>
+                    <td style="text-align: left;">Function Review</td>
+                    <td style="text-align: left;">-</td>
                     <td style="text-align: left;">Quiz 5</td>
                     </tr>
                     <tr class="odd">
                     <td>7</td>
-                    <td style="text-align: left;">Oct 13</td>
-                    <td style="text-align: left;">Strings</td>
-                    <td style="text-align: left;">TIP 8</td>
+                    <td style="text-align: left;">Oct 10</td>
+                    <td style="text-align: left;">Iteration</td>
+                    <td style="text-align: left;">TIP 7</td>
                     <td style="text-align: left;">Quiz 6</td>
                     </tr>
                     <tr class="even">
                     <td>8</td>
-                    <td style="text-align: left;">Oct 20</td>
-                    <td style="text-align: left;">Lists</td>
-                    <td style="text-align: left;">TIP 10</td>
+                    <td style="text-align: left;">Oct 17</td>
+                    <td style="text-align: left;">Strings</td>
+                    <td style="text-align: left;">TIP 8</td>
                     <td style="text-align: left;">Quiz 7</td>
                     </tr>
                     <tr class="odd">
                     <td>9</td>
-                    <td style="text-align: left;">Oct 27</td>
-                    <td style="text-align: left;">Dictionaries</td>
-                    <td style="text-align: left;">TIP 11</td>
+                    <td style="text-align: left;">Oct 24</td>
+                    <td style="text-align: left;">Lists</td>
+                    <td style="text-align: left;">TIP 10</td>
                     <td style="text-align: left;">Quiz 8</td>
                     </tr>
                     <tr class="even">
                     <td>10</td>
-                    <td style="text-align: left;">Nov 03</td>
-                    <td style="text-align: left;">Tuples</td>
-                    <td style="text-align: left;">TIP 11</td>
+                    <td style="text-align: left;">Oct 31</td>
+                    <td style="text-align: left;">Strings &amp; Lists</td>
+                    <td style="text-align: left;">-</td>
                     <td style="text-align: left;">Quiz 9</td>
                     </tr>
                     <tr class="odd">
                     <td>11</td>
-                    <td style="text-align: left;">Nov 10</td>
-                    <td style="text-align: left;">Files</td>
-                    <td style="text-align: left;">TIP 12</td>
-                    <td style="text-align: left;">Quiz 10</td>
+                    <td style="text-align: left;">Nov 07</td>
+                    <td style="text-align: left;">Dictionaries</td>
+                    <td style="text-align: left;">TIP 11</td>
+                    <td style="text-align: left;">Quiz 9</td>
                     </tr>
                     <tr class="even">
                     <td>12</td>
-                    <td style="text-align: left;">Nov 17</td>
-                    <td style="text-align: left;">Word frequency tables</td>
+                    <td style="text-align: left;">Nov 14</td>
+                    <td style="text-align: left;">Tuples &amp; Files</td>
+                    <td style="text-align: left;">TIP 12</td>
+                    <td style="text-align: left;">Quiz 10</td>
+                    </tr>
+                    <tr class="odd">
+                    <td>13</td>
+                    <td style="text-align: left;">Nov 21</td>
+                    <td style="text-align: left;">Content Analysis</td>
+                    <td style="text-align: left;">-</td>
+                    <td style="text-align: left;">-</td>
+                    </tr>
+                    <tr class="even">
+                    <td>14</td>
+                    <td style="text-align: left;">Nov 28</td>
+                    <td style="text-align: left;">Visualizing data</td>
                     <td style="text-align: left;">-</td>
                     <td style="text-align: left;">Project Thesis &amp; Team</td>
                     </tr>
                     <tr class="odd">
-                    <td>-</td>
-                    <td style="text-align: left;">Nov 24</td>
-                    <td style="text-align: left;"><em>Thanksgiving Break</em></td>
-                    <td style="text-align: left;">-</td>
-                    <td style="text-align: left;">-</td>
-                    </tr>
-                    <tr class="even">
-                    <td>13</td>
-                    <td style="text-align: left;">Dec 01</td>
-                    <td style="text-align: left;">Visualizing data</td>
-                    <td style="text-align: left;">-</td>
-                    <td style="text-align: left;">-</td>
-                    </tr>
-                    <tr class="odd">
-                    <td>14</td>
-                    <td style="text-align: left;">Dec 08</td>
-                    <td style="text-align: left;">Working Session</td>
-                    <td style="text-align: left;">-</td>
-                    <td style="text-align: left;">-</td>
-                    </tr>
-                    <tr class="even">
                     <td>15</td>
-                    <td style="text-align: left;">Dec 15</td>
-                    <td style="text-align: left;">Final Projects Due</td>
+                    <td style="text-align: left;">Dec 05</td>
+                    <td style="text-align: left;">Group Meeting</td>
+                    <td style="text-align: left;">-</td>
+                    <td style="text-align: left;">-</td>
+                    </tr>
+                    <tr class="even">
+                    <td>16</td>
+                    <td style="text-align: left;">Dec 12</td>
+                    <td style="text-align: left;">Final Projects</td>
                     <td style="text-align: left;">-</td>
                     <td style="text-align: left;"><strong>Final Project</strong></td>
                     </tr>
@@ -561,7 +535,11 @@ https://www.auedtech.org
                     </section>
                     <section id="live-labs" class="level3">
                     <h3>Live labs</h3>
-                    <p>In addition to the required weekly assignments, there will be several “live” labs on Wednesdays (4:30-5:30). These live <strong>sessions are optional</strong>, but will offer additional help and hands-on demonstration of course concepts. These sessions will be hybrid/flexible (online/in-person) sessions held at the Manhattan Center.</p>
+                    <p>In addition to the required weekly assignments, there will be several “live” labs on Wednesdays (4:30-5:30). These live <strong>sessions are optional</strong>, but will offer additional help and hands-on demonstration of course concepts.</p>
+                    </section>
+                    <section id="tutoring" class="level3">
+                    <h3>Tutoring</h3>
+                    <p>The Adelphi Learning Center offers <a href="https://www.adelphi.edu/learning-writing-centers/tutoring/">individual and group tutoring</a>, which can be either in person or online, scheduled through their website. This is an excellent, free service and you might want to schedule a session to go over some of the labs. In addition, Math and Computer Science has free, drop-in tutoring sessions on weekday afternoons in the Garden City campus. They may also post some Zoom sessions. I will post the schedule and details on the course website after the semester starts.</p>
                     </section>
                     </section>
                     <section id="assignments-and-grading" class="level1">
@@ -586,30 +564,20 @@ https://www.auedtech.org
                     </table>
                     <section id="lab-exercises" class="level2">
                     <h2>Lab Exercises</h2>
-                    <p>Most weeks there will be ungraded lab exercises where students can practice the new materials covered. In general, you should spend about one hour working on these exercises. If you understand the exercises, you will be on track with the course. There may be bonus problems that are a little bit more challenging, which are optional. You are encouraged to work on the exercises with other students and friends.</p>
+                    <p>Most weeks there will be ungraded lab exercises where students can practice the new materials covered. In general, you should spend about one hour working on these exercises. If you understand the exercises, you will be on track with the course. There may be bonus problems that are a little bit more challenging, which are optional. You are encouraged to work on the exercises with other students and friends. You are not asked to turn in lab assignments.</p>
                     </section>
                     <section id="quizzes" class="level2">
                     <h2>Quizzes</h2>
                     <p>Quizzes will consist of 1-3 questions, similar to the lab exercises. Each quiz is worth a total of 6 points. Earlier in the semester, the quizzes will have up to 6 questions each, with multiple choice and short answer questions. After we develop more skills writing code, quizzes will consist of a single question and you will copy-paste your solution or upload your source code to Moodle.</p>
-                    <p>Quizzes will be timed, taken through Moodle. You will have 45 minutes once you begin the quiz to submit your answers. Before you attempt the quiz, make sure that you are ready to proceed – you will not be able to pause the quiz once it begins. You can use the textbook, course examples, and any documentation or internet resources you find. <strong>You may not ask other people for help.</strong> While programming is a highly collaborative practice, these quizzes are meant to assess <em>your</em> work and understanding.</p>
+                    <p>Quizzes will be timed, taken through Moodle. If you have already worked throug the lab problems, quiz problems are designed to take approximately 30-40 minutes to complete. You will have 90 minutes once you begin the quiz to submit your answers. Before you attempt the quiz, make sure that you are ready to proceed – you will not be able to pause the quiz once it begins. You can use the textbook, course examples, and any documentation or internet resources you find. <strong>You may not ask other people for help.</strong> While programming is a highly collaborative practice, these quizzes are meant to assess <em>your</em> work and understanding.</p>
                     </section>
-                    <section id="final-project-content-analysis" class="level2">
-                    <h2>Final Project: Content Analysis</h2>
-                    <p>During the course of the semester we will be learning about the software design process, and have the opportunity to write a larger program. The final project is a group project, and you should work in a group of 2-4 students.</p>
-                    <p>Content Analysis is a research approach that uses statistical methods to analyze qualitative data. The skills we develop in our first semester of programming will be enough to allow us to conduct our own, novel content analysis research.</p>
-                    <p>We will be focusing on the analysis of textual data, with examples looking at the content found in works of literature and in political speeches.</p>
-                    <section id="deliverables" class="level3">
-                    <h3>Deliverables:</h3>
-                    <ol type="1">
-                    <li><p><strong>Code Files and Resources</strong><br />
-                    You should turn in all files related to your project in a single archive (e.g., .zip, .tar, .7z). Project files <em>must</em> contain your <strong>Python program</strong> in the Jupyter Notebook which runs the main loop of your program and produces the output (tables, graphs, text) which “answers” your research question.</p>
-                    <p>In addition to the source code and output, you should include any data files, media, or supporting source code your project requires.</p></li>
-                    <li><p><strong>Group Video Demo</strong><br />
-                    Your group should provide a narrated screencast or video of 3-4 minutes that demonstrates your program running and explains in greater detail the goals of the program and the results it produces.</p></li>
-                    <li><p><strong>Individual Video Walkthrough</strong><br />
-                    Each group member will create their own video (uploaded to their Moodle account only). This video walkthrough of the code should highlight your specific contributions to the project, focusing on key aspects of the code where you were the sole or lead author. In particular, your video should highlight your understanding of the key concept of <em>abstraction</em> in computer programming, and how you used it to design your program. See the more specific <em>coding fundamentals</em> below for ideas of what to highlight in your video. Videos should be ~5 minutes in length.</p></li>
-                    </ol>
-                    </section>
+                    <section id="final-project-data-analysis" class="level2">
+                    <h2>Final Project: Data Analysis</h2>
+                    <p>During the course of the semester we will be learning about the software design process, and have the opportunity to write a larger program for this final project. The final project is a group project, and you should work in a group of 2-4 students.</p>
+                    <p>You will choose to do either a <em>content analysis</em> project working with a corpus of text data, <em>or</em> a data analysis project working with quantitative data from the New York City public schools open data set.</p>
+                    <p>Content Analysis is a research approach that uses statistical methods to analyze textual data. The skills we develop in this first semester of programming will be enough to allow us to conduct our own, novel content analysis research. We will be focusing on the analysis of textual data, with examples looking at the content found in works of literature, song lyrics, and in political speeches.</p>
+                    <p>Python is an excellent programming language for <em>data science</em>, and we will learn some of the basic techniques of data science with python while looking at data about New York City schools, including demographic information, State test scores, regents scores, etc.</p>
+                    <p>Your team will choose a single topic and coordinate (through sharing code on our Jupyter Hub) on the final project. To submit this project you will turn your finished Jupyter Notebook which includes both the code and the formatted output, as well as a short team video (5-8 minutes) where each team member describes a key aspect of the software that they worked on.</p>
                     <section id="final-project-grading" class="level3">
                     <h3>Final Project Grading:</h3>
                     <ol type="1">
@@ -698,7 +666,7 @@ https://www.auedtech.org
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
     Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mcuringa/adelphi-ed-tech-courses" rel="dct:source">https://github.com/mcuringa/adelphi-ed-tech-courses</a>.
 
-<p><tt>Last modified: Saturday, 28. August 2021 11:46PM</tt></p>
+<p><tt>Last modified: Tuesday, 23. August 2022 10:54PM</tt></p>
 </footer>
 
         </div>
@@ -710,19 +678,19 @@ https://www.auedtech.org
                   <li><a href="#learning-goals">Learning Goals</a></li>
                   <li><a href="#required-software">Required Software</a></li>
                   <li><a href="#required-text">Required Text</a></li>
-                  <li><a href="#required-software-hardware">Required Software &amp; Hardware</a></li>
+                  <li><a href="#reference-materials">Reference Materials</a></li>
                   <li><a href="#class-meetings">Class meetings</a>
                   <ul>
                   <li><a href="#weekly-topics">Weekly topics</a></li>
                   <li><a href="#live-labs">Live labs</a></li>
+                  <li><a href="#tutoring">Tutoring</a></li>
                   </ul></li>
                   <li><a href="#assignments-and-grading">Assignments and Grading</a>
                   <ul>
                   <li><a href="#lab-exercises">Lab Exercises</a></li>
                   <li><a href="#quizzes">Quizzes</a></li>
-                  <li><a href="#final-project-content-analysis">Final Project: Content Analysis</a>
+                  <li><a href="#final-project-data-analysis">Final Project: Data Analysis</a>
                   <ul>
-                  <li><a href="#deliverables">Deliverables:</a></li>
                   <li><a href="#final-project-grading">Final Project Grading:</a></li>
                   </ul></li>
                   </ul></li>
@@ -733,7 +701,6 @@ https://www.auedtech.org
   </div> <!-- /row -->
 
 </section>
-
 
 
 <script type="text/javascript">

@@ -7,16 +7,19 @@ body
     background: url('sample.png') repeat white;
     /* margin-top: 24px; */
 }
-/*
-#syllabus {
-  padding-top: 120px;
-} */
 
-.page-header h1, .rsa-red-text, .au-gold {
-  color: #ffb500;
+#adelphi-header {
+  box-shadow: 0px 1px 3px gray;
+}
+
+/* .page-header h1, .rsa-red-text, .au-gold { */
+.page-header h1 {
+  padding-top: 1em;
+  color: black;
   font-size: 2.5rem;
   font-weight: bold;
 }
+
 .rsa-red-bg { background-color: #ab1c19; }
 h1 small a, h2 small a, h3 small a {
   font-size: 1rem;
@@ -26,25 +29,6 @@ h1 small a:hover, h2 small a:hover, h3 small a:hover {
   text-decoration: none;
 }
 
-/* .h1, h1 {
-    font-size: 24px;
-}
-.h2, h2 {
-    font-size: 20px;
-}
-.h3, h3 {
-    font-size: 18px;
-}
-.h4, h4 {
-    font-size: 14px;
-}
-.h5, h5 {
-    font-size: 12px;
-}
-.h6, h6 {
-    font-size: 100%;
-    font-weight: bold;
-} */
 
 
 blockquote
@@ -155,25 +139,6 @@ section.level2, section.level3 {
 }
 
 #logo h2 { color: black; }
-
-/* #class-sessions { counter-reset: week; }
-#class-sessions h2:before
-{
-    counter-increment: week;
-    content: "Session " counter(week) ": "
-}
-
-#class-sessions>section
-{
-    margin: 1em 0 0 0;
-    padding: 0 2em;
-}
-
-#class-sessions > h2
-{
-    padding-left: -1em;
-} */
-
 
 
 #TOC.affix, #TOC.affix-top, #TOC.affix-bottom
