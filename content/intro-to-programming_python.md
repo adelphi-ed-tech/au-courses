@@ -57,8 +57,7 @@ For this class we will be programming in the [Python](https://python.org) progra
 using a development platform called [Jupyter Notebook](https://jupyter.org/).
 
 You will be writing your code through a web-based version of Jupyter called
-Jupyter Hub. You will have to create an account on our Jupyter Hub by going
-to <https://data.mixi.nyc> and joining using your Adelphi student email.
+Jupyter Hub. Instructions for joining our Jupyter Hub are on the course website.
 
 Required Text
 =============
