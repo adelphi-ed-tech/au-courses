@@ -190,8 +190,8 @@ regents scores, etc.
 Your team will choose a single topic and coordinate (through sharing code on
 our Jupyter Hub) on the final project. To submit this project you will turn
 your finished Jupyter Notebook which includes both the code and the formatted
-output, as well as a short team video (5-8 minutes) where each team member
-describes a key aspect of the software that they worked on.
+output. Each team member will upload a video screencast where they discuss
+a key aspect of the code where they were the lead developer/designer.
 
 
 ### Final Project Grading:
