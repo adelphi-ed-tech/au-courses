@@ -16,7 +16,7 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Computer Science 0145-602, Fall 2021**
+**Computer Science 0145-602, Fall 2022**
 
 **Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, jupyter, data science
 
@@ -27,6 +27,7 @@ variables, functions, repetition/loops, basic data structures
 (arrays, lists, dictionaries), and basic object oriented programming.
 
 <img src="img/python-logo.png" class="d-block img-fluid" alt="Python intertwined snakes and text on white field">
+
 
 **Class meetings:** Online, asynchronous (coordinated through Moodle)
 
@@ -55,66 +56,81 @@ Required Software
 For this class we will be programming in the [Python](https://python.org) programming language,
 using a development platform called [Jupyter Notebook](https://jupyter.org/).
 
-In order to run this software, it is strongly recommended that you use a computer
-running Windows, MacOS, or a desktop Linux (e.g. Ubuntu, Debian). If you are working
-from an iPad, Chromebook, or Android the configuration will be more difficult.
-
-The easiest way to install the latest version of Python 3 and Jupyter is by
-downloading and running the graphical installer for _Anaconda_. Anaconda is a
-complete data science platform, but it contains everything we need in a neat
-package.
-
-**[Click here to find the Anaconda installer for your platform.](https://www.anaconda.com/products/individual)**
+You will be writing your code through a web-based version of Jupyter called
+Jupyter Hub. You will have to create an account on our Jupyter Hub by going
+to <https://data.mixi.nyc> and joining using your Adelphi student email.
 
 Required Text
 =============
-_Our textbook is free, open source, and available online._
+_Our textbook is free, open source, and available online. There are links
+below to the "standard" version and an interactive version which includes
+live code examples and comprehension questions. You may read either or both
+or switch between them, depending on your preference._
+
+<img src="img/tip-cover.png" class="d-block-sm float-left" alt="Think Python book cover by O'Reilly Press">
 
 Downey, A. B. (2016). [_Think Python: How to Think Like a Computer Scientist, Version 2.4.0_](http://greenteapress.com/thinkpython2/html/index.html). Green Tea Press.
 
-Required Software & Hardware
-============================
-For this course we will be programming in the [Python](https://python.org) programming language, using a program/platform called [Jupyter](https://jupyter.org/).
+Miller, B. &  Ranum, D. (n.d.) Based on work by Jeffrey Elkner, Allen B. Downey, and Chris Meyers. [_How to Think Like a Computer Scientist: Interactive Edition_](https://runestone.academy/ns/books/published/thinkcspy/index.html)
+
+Reference Materials
+===================
+_Consult this documentation as needed._
+
+- [[Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/user/interface.html)] <small>our software development environment</small>
+- [[Python Documentation](https://www.python.org/doc/)] <small>official python language docs</small>
+  - [[tutorial](https://docs.python.org/3/tutorial/index.html)] <small>basic tutorials</small>
+  - [[library reference](https://docs.python.org/3/library/index.html)] <small>reference of the standard libraries</small>
+  - [[style guide](https://peps.python.org/pep-0008/)] <small>naming variables, spaces, quotations, comments, etc.</small>
 
 Class meetings
 ==============
 
-This is a fully asynchronous online class, which will run on a Wednesday-Wednesday schedule,
-meaning new topics will begin each Wednesday, and quizzes will be due by end
-of day on Tuesday. There are no set meeting times, and there will not be
+This is a fully asynchronous online class, which will run on a Monday-Monday schedule,
+meaning new topics will begin each Monday, and quizzes will be due by end
+of day on Sunday. There are no set meeting times, and there will not be
 Zoom or other video class sessions. You will be able to flexibly schedule your
 time within the week for each topic.
 
 ### Weekly topics
 
-Week  Date    Topic                        Read    Due
-----  ------  ---------------------------- -----   -------------------
-   1  Sep 01  The way of the program       TIP 1   -
-   2  Sep 08  Variables & Statements       TIP 2   Quiz 1
-   3  Sep 15  Functions                    TIP 3   Quiz 2
-   4  Sep 22  Conditionals & Recursion     TIP 5   Quiz 3
-   5  Sep 29  Fruitful Functions           TIP 6   Quiz 4
-   6  Oct 06  Iteration                    TIP 7   Quiz 5
-   7  Oct 13  Strings                      TIP 8   Quiz 6
-   8  Oct 20  Lists                        TIP 10  Quiz 7
-   9  Oct 27  Dictionaries                 TIP 11  Quiz 8
-  10  Nov 03  Tuples                       TIP 11  Quiz 9
-  11  Nov 10  Files                        TIP 12  Quiz 10
-  12  Nov 17  Word frequency tables        -       Project Thesis & Team
-   -  Nov 24  _Thanksgiving Break_         -       -
-  13  Dec 01  Visualizing data             -       -
-  14  Dec 08  Working Session              -       -
-  15  Dec 15  Final Projects Due           -       **Final Project**
+Week  Date    Topic                        Read        Due
+----  ------  ---------------------------- -----       -------------------
+   1  Aug 29  The way of the program       TIP 1       Quiz 0
+   2  Sep 05  Variables & Statements       TIP 2       Quiz 1
+   3  Sep 12  Functions                    TIP 3       Quiz 2
+   4  Sep 19  Conditionals & Recursion     TIP 5       Quiz 3
+   5  Sep 23  Fruitful Functions           TIP 6       Quiz 4
+   6  Oct 01  Function Review              -           Quiz 5
+   7  Oct 10  Iteration                    TIP 7       Quiz 6
+   8  Oct 17  Strings                      TIP 8       Quiz 7
+   9  Oct 24  Lists                        TIP 10      Quiz 8
+  10  Oct 31  Strings & Lists              -           Quiz 9
+  11  Nov 07  Dictionaries                 TIP 11      Quiz 9
+  12  Nov 14  Tuples & Files               TIP 12      Quiz 10  
+  13  Nov 21  Content Analysis             -           -  
+  14  Nov 28  Visualizing data             -           Project Thesis & Team
+  15  Dec 05  Group Meeting                -           -
+  16  Dec 12  Final Projects               -           **Final Project**
 
 TIP: _Thinking in Python_
+
 
 ### Live labs
 
 In addition to the required weekly assignments, there will be several "live"
 labs on Wednesdays (4:30-5:30). These live **sessions are optional**,  but will
-offer additional help and hands-on demonstration of course concepts. These sessions
-will be hybrid/flexible (online/in-person) sessions held at the Manhattan Center.
+offer additional help and hands-on demonstration of course concepts.
 
+### Tutoring
+
+The Adelphi Learning Center offers [individual and group tutoring](https://www.adelphi.edu/learning-writing-centers/tutoring/),
+which can be either in person or online, scheduled through their website. This is
+an excellent, free service and you might want to schedule a session to go over some
+of the labs. In addition, Math and Computer Science has free, drop-in tutoring sessions
+on weekday afternoons in the Garden City campus. They may also post some
+Zoom sessions. I will post the schedule and details on the course website after
+the semester starts.
 
 Assignments and Grading
 =======================
@@ -131,7 +147,7 @@ the new materials covered. In general, you should spend about one hour working
 on these exercises. If you understand the exercises, you will be on track with
 the course. There may be bonus problems that are a little bit more
 challenging, which are optional. You are encouraged to work on the exercises
-with other students and friends.
+with other students and friends. You are not asked to turn in lab assignments.
 
 Quizzes
 -------
@@ -141,55 +157,42 @@ up to 6 questions each, with multiple choice and short answer questions. After
 we develop more skills writing code, quizzes will consist of a single question
 and you will copy-paste your solution or upload your source code to Moodle.
 
-Quizzes will be timed, taken through Moodle. You will have 45 minutes once you
-begin the quiz to submit your answers. Before you attempt the quiz, make sure
-that you are ready to proceed -- you will not be able to pause the quiz once it
-begins. You can use the textbook, course examples, and any documentation or
-internet resources you find. **You may not ask other people for help.** While
-programming is a highly collaborative practice, these quizzes are meant to
-assess _your_ work and understanding.
+Quizzes will be timed, taken through Moodle. If you have already worked throug
+the lab problems, quiz problems are designed to take approximately 30-40 minutes
+to complete. You will have 90 minutes once you begin the quiz to submit your
+answers. Before you attempt the quiz, make sure that you are ready to proceed --
+you will not be able to pause the quiz once it begins. You can use the textbook,
+course examples, and any documentation or internet resources you find. **You may
+not ask other people for help.** While programming is a highly collaborative
+practice, these quizzes are meant to assess _your_ work and understanding.
 
-Final Project: Content Analysis
--------------------------------
+Final Project: Data Analysis
+----------------------------
 
 During the course of the semester we will be learning about the software design
-process, and have the opportunity to write a larger program. The final project
-is a group project, and you should work in a group of 2-4 students.
+process, and have the opportunity to write a larger program for this final project.
+The final project is a group project, and you should work in a group of 2-4 students.
+
+You will choose to do either a _content analysis_ project working with a corpus
+of text data, _or_ a data analysis project working with quantitative data
+from the New York City public schools open data set.
 
 Content Analysis is a research approach that uses statistical methods to analyze
-qualitative data. The skills we develop in our first semester of programming
+textual data. The skills we develop in this first semester of programming
 will be enough to allow us to conduct our own, novel content analysis research.
-
 We will be focusing on the analysis of textual data, with examples looking at
-the content found in works of literature and in political speeches.
+the content found in works of literature, song lyrics, and in political speeches.
 
+Python is an excellent programming language for _data science_, and we will learn
+some of the basic techniques of data science with python while looking at data
+about New York City schools, including demographic information, State test scores,
+regents scores, etc.
 
-### Deliverables:
-
-1. **Code Files and Resources**\
-   You should turn in all files related to your project in a single
-   archive (e.g., .zip, .tar, .7z). Project files _must_ contain your
-   **Python program** in the Jupyter Notebook which runs the main loop
-   of your program and produces the output (tables, graphs, text) which
-   "answers" your research question.
-
-   In addition to the source code and output, you should include any data
-   files, media, or supporting source code your project requires.
-
-2. **Group Video Demo**\
-   Your group should provide a narrated screencast or video of 3-4 minutes that demonstrates
-   your program running and explains in greater detail the goals of the program
-   and the results it produces.
-
- 3. **Individual Video Walkthrough**\
-    Each group member will create their own video (uploaded to their Moodle account only).
-    This video walkthrough of the code should highlight your specific contributions to the project,
-    focusing on key aspects of the code where you were the sole or lead author.
-    In particular, your video should highlight your understanding of the key
-    concept of _abstraction_ in computer programming, and how you used it to design
-    your program. See the more specific _coding fundamentals_ below for ideas
-    of what to highlight in your video. Videos should be ~5 minutes in length.
-
+Your team will choose a single topic and coordinate (through sharing code on
+our Jupyter Hub) on the final project. To submit this project you will turn
+your finished Jupyter Notebook which includes both the code and the formatted
+output, as well as a short team video (5-8 minutes) where each team member
+describes a key aspect of the software that they worked on.
 
 
 ### Final Project Grading:
