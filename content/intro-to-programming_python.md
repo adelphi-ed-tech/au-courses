@@ -16,7 +16,7 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Computer Science 0145-602, Fall 2022**
+**Computer Science 0145-602-001, Fall 2022**
 
 **Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, jupyter, data science
 
@@ -37,6 +37,7 @@ variables, functions, repetition/loops, basic data structures
 
 **Dr. Curinga's Office Hours by appointment**
 
+* Monday, 11-12PM
 * Wednesday, 4:30-5:30PM
 * Thursday, 4-5PM
 

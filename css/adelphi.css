@@ -230,6 +230,12 @@ footer
 
 @media print
 {
+
+  .no-print {
+      display:none;
+    }
+
+
     body
     {
         counter-reset: page 1;
