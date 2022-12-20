@@ -190,9 +190,10 @@ regents scores, etc.
 
 Your team will choose a single topic and coordinate (through sharing code on
 our Jupyter Hub) on the final project. To submit this project you will turn
-your finished Jupyter Notebook which includes both the code and the formatted
+your finished Jupyter Notebook(s) which includes both the code and the formatted
 output. Each team member will upload a video screencast where they discuss
-a key aspect of the code where they were the lead developer/designer.
+a key aspect of the code where they were the lead developer/designer. The
+screencast must include the code you have written while you discuss it.
 
 
 ### Final Project Grading:
