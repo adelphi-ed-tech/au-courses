@@ -15,11 +15,11 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
-**Educational Technology 0858-620, Spring 2021**
+**Educational Technology 0858-620, Spring 2023**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
 learning, digital studio, ed tech capstone, instructional design,
-school segregation, urban education, urban technology
+artificial intelligence, GPT-3, generative AI
 
 **Description:** How can digital media best support learning?
 Working on semester-long projects, students learn about interaction
@@ -30,13 +30,7 @@ original educational resources.
 
 **Class meetings:**
 
-On the schedule, live video call meetings will be held via Zoom, 4:30pm to 6:30pm.
-As the health situation evolves, we may hold some hybrid flex sessions on these
-days, where I will be in-person in the Manhattan campus and invite anyone to
-join in person. If you cannot make it in person, we will all join via Zoom.
-
-Asynchronous sessions will have no set Zoom meeting or other time. Activities for
-those weeks will be coordinated through the Moodle class site.
+This course will follow a weekly schedule of online, asynchronous assignments. You
 
 
 **Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>

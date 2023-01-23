@@ -33,7 +33,7 @@ All thesis projects:
 - reflect a deep understanding of the research around educational technology
   and instructional design
 - address a specific issue or problem of significance and importance to the student
-- produce a "professional" level solution to the problem
+- produce a "professional" level work
 
 There is no fixed format for the _project_ — we encourage creative and
 innovative ideas. Frequently, thesis projects fall into one of these
@@ -54,10 +54,7 @@ at the doctoral level.
 
 Registering for the thesis project
 ------------------------------------
-You can only register for the thesis course by submitting a proposal to your
-advisor. You can work with any of the full time faculty in the Program in
-Educational Technology. In certain circumstances, you can work with a thesis
-advisor who is adjunct faculty or faculty in a different department.
+You do not register for EDT 793 through CLASS. You must register by submitting a proposal to your advisor by completing the [**EDT 793 Thesis Proposal Form**](https://forms.gle/ooL32gZX4QNYBBL57).
 
 Often, the best way to start a proposal is to send a few ideas to your advisor.
 Think about:
@@ -74,13 +71,8 @@ Think about:
     or used as a writing sample for PhD programs
 
 You can start writing down 3-5 different ideas, sharing them with friends and
-mentors, and sending them to your faculty advisor. These ideas can start the
+mentors, and sending them to your faculty advisor(s). These ideas can start the
 conversation around your thesis project and lead to the eventual proposal.
-
-Once you have a proposal that descries the goals of the project, what will be
-produced, and how it will be evaluated; you are ready to submit your proposal.
-You do not register for this course through CLASS. Once you sign the proposal,
-and it is approved, the course will be added to your registration.
 
 Completing the thesis project
 -----------------------------
