@@ -17,6 +17,8 @@ Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-course
 -->
 **Educational Technology 0858-620, Spring 2023**
 
+<img class="img-fluid d-block" src="img/welcome-to-ai-studio.png" width="100%" alt="Multimedia Studio 2023: Generative AI Studio">
+
 **Keywords:** studio pedagogy, interaction design, multimedia
 learning, digital studio, ed tech capstone, instructional design,
 school segregation, urban education, urban technology
@@ -42,19 +44,11 @@ This asynchronous online class will be run on a Thursday-Wednesday schedule, wit
 
 ------------------------------------------------------------------------
 
-## Spring 2023 Studio: Generative Artificial Intelligence
+## What is a multimedia studio?
 
-<figure>
-<img class="img-fluid d-block" src="img/ai-studio.png" width="100%" alt="a robot stands in front of a blackboard teaching a class">
-<figcaption class="bg-dark text-white p-1">This image was created by [DALL-E 2](https://openai.com/dall-e-2/) using the prompt: `a human teacher in front of a classroom with robot student seated at a desk. the teacher faces the class. the perspective is from the back of the room. the teacher is teaching algorithms with a graph diagram on a whiteboard. 4k, detailed, vivid colors, digital art`</figcaption>
-</figure>
+Each semester the multimedia studio features a different challenge, dealing with an important, global topic. Students will be asked to work on a semester long multimedia project that teaches some aspect of this challenge.
 
-Each semester the multimedia studio features a different challenge, dealing with an
-important, global topic. Students will be asked to work on a semester
-long multimedia project that teaches some aspect of this challenge.
-
-The Spring 2023 Studio theme is **generative artificial intelligence**. Generative AI
-refers to using computers to generate new work. Current examples include computer generated images, video, news headlines, fiction, essays, computer code, and much more. Our goal, in the studio, will be to create multimedia learning materials that help us (as a society) to better understand the technology behind this type of AI and to explore the social, ethical, poltical, and economic implications of this new tech.
+The Spring 2023 Studio theme is **generative artificial intelligence**. Generative AI refers to using computers to generate new work. Current examples include computer generated images, video, news headlines, fiction, essays, computer code, and much more. Our goal, in the studio, will be to create multimedia learning materials that help us (as a society) to better understand the technology behind this type of AI and to explore the social, ethical, poltical, and economic implications of this new tech.
 
 ## Goals
 This course is designed to challenge students to develop their abilities as instructional designers and as authors and producers of digital media for learning. Specifically, they should learn to:
@@ -103,6 +97,11 @@ week  date    topic
 14    May 04   Critique
 15    May 11   Studio Session
 16    May 18   Final Show (live zoom)
+
+<figure>
+<img class="img-fluid d-block" src="img/ai-studio.png" width="100%" alt="a robot stands in front of a blackboard teaching a class">
+<figcaption class="bg-dark text-white p-1">This image was created by [DALL-E 2](https://openai.com/dall-e-2/) using the prompt: `a human teacher in front of a classroom with robot student seated at a desk. the teacher faces the class. the perspective is from the back of the room. the teacher is teaching algorithms with a graph diagram on a whiteboard. 4k, detailed, vivid colors, digital art`</figcaption>
+</figure>
 
 Assignments
 --------------------------------------------------------------------------------
