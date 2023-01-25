@@ -15,7 +15,7 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
-**Educational Technology 0858-620, Spring 2021**
+**Educational Technology 0858-620, Spring 2023**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
 learning, digital studio, ed tech capstone, instructional design,
@@ -30,47 +30,34 @@ original educational resources.
 
 **Class meetings:**
 
-On the schedule, live video call meetings will be held via Zoom, 4:30pm to 6:30pm.
-As the health situation evolves, we may hold some hybrid flex sessions on these
-days, where I will be in-person in the Manhattan campus and invite anyone to
-join in person. If you cannot make it in person, we will all join via Zoom.
-
-Asynchronous sessions will have no set Zoom meeting or other time. Activities for
-those weeks will be coordinated through the Moodle class site.
-
+This asynchronous online class will be run on a Thursday-Wednesday schedule, with new weekly assignments beginning on Thursday morning with completion dates by end of day Wednesday. In addition to the Moodle course website, we will use Slack as a **required** tool for this course with many of the class discussions taking place on Slack. If you are not a member of our Slack yet, you can find the invitation on the course website.
 
 **Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
 
 **Office hours: (online)**
 
-- Monday 1-3pm
-- Thursday 3:30-5:30pm, online
+- Monday 3-5pm
+- Wednesday 2:30-4:30pm
 - _office hours by appointment_
 
 ------------------------------------------------------------------------
 
-## Spring 2021 Studio: School Segregation in the 21<sup>st</sup> Century
+## Spring 2023 Studio: Generative Artificial Intelligence
 
 <figure>
-<img class="img-fluid d-block" src="integrate-now.png" alt="instagram photo, teenstakecharge, black high school girl with a sign says integrate now">
-<figcaption class="bg-dark text-white p-1">Youth activist group [Teens Take Charge](https://www.teenstakecharge.com/) want to abolish screening in NYC schools.</figcaption>
+<img class="img-fluid d-block" src="img/ai-studio.png" width="100%" alt="a robot stands in front of a blackboard teaching a class">
+<figcaption class="bg-dark text-white p-1">This image was created by [DALL-E 2](https://openai.com/dall-e-2/) using the prompt: `a human teacher in front of a classroom with robot student seated at a desk. the teacher faces the class. the perspective is from the back of the room. the teacher is teaching algorithms with a graph diagram on a whiteboard. 4k, detailed, vivid colors, digital art`</figcaption>
 </figure>
 
 Each semester the multimedia studio features a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
 long multimedia project that teaches some aspect of this challenge.
 
-The Spring 2021 Studio theme is **school segregation**, with an initial focus on
-the New York City public schools. Racially segregated schools may initially
-appear to be a thing of the (recent) past, but the issue persists as a
-recalcitrant, multifaceted problem in our contemporary society -- both as an
-impediment to educational equity and excellence, and an obstacle to social
-equality and justice.
+The Spring 2023 Studio theme is **generative artificial intelligence**. Generative AI
+refers to using computers to generate new work. Current examples include computer generated images, video, news headlines, fiction, essays, computer code, and much more. Our goal, in the studio, will be to create multimedia learning materials that help us (as a society) to better understand the technology behind this type of AI and to explore the social, ethical, poltical, and economic implications of this new tech.
 
 ## Goals
-This course is designed to challenge students to develop their abilities
-as instructional designers and as authors and producers of digital media
-for learning. Specifically, they should learn to:
+This course is designed to challenge students to develop their abilities as instructional designers and as authors and producers of digital media for learning. Specifically, they should learn to:
 
 -   design an effective digital learning environment that is intuitive
     to use and follows principles of Universal Design for Learning
@@ -83,125 +70,71 @@ for learning. Specifically, they should learn to:
 -   think creatively about far-reaching challenges in teaching and
     learning
 
-At the end of the studio, every student will have a high quality, published
-multimedia artifact that will be part of their portfolio.
-
-## Previous studio projects
-- [2021 "School Desegragation Studio"](https://matt.curinga.com/smart-cities/)
-- [2020 "Smart Cities Studio"](https://matt.curinga.com/smart-cities/)
+At the end of the studio, every student will have a high quality, published multimedia artifact that will be part of their portfolio.
 
 ## Required texts
 
-Clark, R. C., &amp; Mayer, R. E. (2016). _E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning_. John Wiley &amp; Sons, Incorporated. [adelphi library](https://ebookcentral.proquest.com/lib/adelphi/detail.action?docID=4418752)
+<div class="d-flex p-2">
+<img class="d-block" src="img/multimedia-learning-cover.png" alt="Multimedia Learning Book Cover">
+<p class="p-2">Mayer, R. E. (2020). _Multimedia Learning (3rd edition)._ Cambridge University Press.<br>
+Buy: [[Indiebound](https://www.indiebound.org/book/9781316638088)] [[Barnes & Noble](https://www.barnesandnoble.com/w/multimedia-learning-richard-e-mayer/1116943046?ean=9781316638088)] [[Amazon](https://www.amazon.com/Multimedia-Learning-Richard-Mayer-ebook/dp/B088SZNG7B/)]</p>
+</div>
 
-Plass, J. L., Moreno, R., & Brünken, R. (2010). _Cognitive Load Theory_. Cambridge University Press. [adelphi library](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=802938&ppg=1)
-
-## Optional text
-Delgado, R., & Stefancic, J. (2001). _Critical race theory: An introduction_. New York University Press. [pdf](https://uniteyouthdublin.files.wordpress.com/2015/01/richard_delgado_jean_stefancic_critical_race_thbookfi-org-1.pdf)
+_Other readings provided through course website._
 
 ## Class meetings
 
-week  date    topic                                   workshop         format
-----  ------  ---------------------------------       --------         -------------
-   1  Jan 27  Multimedia Studio                       -                zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   2  Feb 03  21st Century School Segregation         screencast       asynchronous
-   3  Feb 10  Past & Present of Discrimination        audio            zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   4  Feb 17  NYC Schools Today                       video            asynchronous
-   5  Feb 24  Topic Briefings                         data viz         zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   6  Mar 03  Pitches                                 photo editing    zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   -  Mar 10  _no class (mini break)_                                  -
-   7  Mar 17  Cognitive Load Theory                   vector graphics  zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   8  Mar 24  Multimedia Principle & Contiguity       web dev          asynchronous
-   9  Mar 31  Modality & Redundancy                   open topics      zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-  10  Apr 07  Coherence, Personalization, Segmenting  -                asynchronous
-  11  Apr 14  Prototype Critique                      -                zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-  12  Apr 21  Studio Session                          -                asynchronous
-  13  Apr 28  User Testing                            -                zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-  14  May 05  Studio Session                          -                asynchronous
-   -  May 12  _no class (makeup day)_                 -                -
-  15  May 19  zoom (final presentations)              -                zoom
-
+week  date    topic                                 
+----  ------  ---------------------------------     
+ 1    Jan 26   Generative AI & Science of Learning
+ 2    Feb 02   Multimedia Principle
+ 3    Feb 09   Multimedia Group 1
+ 4    Feb 16   Multimedia Group 2
+ 5    Feb 23   Multimedia Group 3
+ 6    Mar 02   Multimedia Group 4
+ 7    Mar 09   Topic Briefing (1 & 2)
+ -    Mar 16   Spring Break
+ 8    Mar 23   Topic Briefing (3 & 4)
+ 9    Mar 30   Pitches
+10    Apr 06   Studio: photos & illustrations
+11    Apr 13   Studio: video & audio editing
+12    Apr 20   Studio: data viz
+13    Apr 27   Studio: web publishing
+14    May 04   Critique
+15    May 11   Studio Session
+16    May 18   Final Show (live zoom)
 
 Assignments
 --------------------------------------------------------------------------------
 ### Grading
 
-Assignment                % of final grade
-------------------------  ----------------
-participation             10%
-topic briefing            10%
-workshop                  10%
-multimedia learning       10%
-pitch                     10%
-critique                  20%
-final project             30%
+Assignment        % of final grade
+----------------  ----------------
+self-evaluation   10%
+multimedia group  15%
+topic briefing    15%
+pitch             10%
+critique          20%
+final project     30%
 
-### Participation
+### Self-evaluation
+Everyone will complete 2 self-evaluations during the semester. This online studio
+is a collective effort, so when you fail to participate, you are not only affecting
+your own learning. Your self-evaluation should consider your contribution to group
+projects, completing readings on time, effort into your assignment, and participation
+in discussions and other online activities.
 
-Everyone is expected to participate fully in class. This means meeting deadlines
-for online posts and, coming to class sessions prepared by having read the
-readings. During "studio" work sessions, you will be expected to post an update
-of your progress with screenshots. Each student will receive written feedback
-on their participation at the end of week 7.
+### Multimedia group presentation
+
+Working with your assigned group, you will create a multimedia slideshow that demonstrates the key multimedia cognition concepts assigned to your group from _Multimedia Plearning_. The total presentation must be between 10-15 minutes long. You are only required to read the sections for the week you are presenting, but everyone should read the section/chapter headings and is encouraged to read the chapters. Your presentation **must** follow all of the principles in your and all preceding sections. Groups must also include some germaine examples of multimedia (created by other people) that either make good use of the principles discussed or deviate from the principles. You will submit the link to your video on the `#generative-ai` slack channel and comments/discussion will be posted as a thread in responst to your post.
 
 ### Topic briefing
-
-The "briefing" session will help us develop our domain knowledge of school
-segregation. You will choose a specific topic of your choice related to
-segregation and then create a 3-minute briefing report -- a narrated slide show
-on your topic. We will watch your presentation in class and then have time for
-some follow up questions regarding your topic. In addition to your slideshow,
-you will also post the bibliography used to create your briefing. You should
-have at least 3 sources, one of them being an academic source. The specific
-topic of your briefing will probably relate to the aspect of school segregation
-that you will highlight in your multimedia project.
-
-### Multimedia on multimedia
-
-Working with a partner (or group of 3), you will create a multimedia slideshow
-that demonstrates the key multimedia cognition concepts covered in 2 chapters of
-_Cognitive Load Theory_ (Plass et al., 2010) or _E-Learning and the Science of
-Instruction_ (Clark & Mayer, 2016). The books are available online from the
-Adelphi Library. The total presentation must be between 10-15 minutes long. You
-are only required to read the chapter for the week you are presenting, but
-everyone is encouraged to read the chapters. You should supplement your
-presentation with outside readings and examples as necessary. You should
-actively work to implement the multimedia principles you are discussing in the
-design of your presentation. If you are presenting during a synchronous zoom
-meeting, you should prepare some questions and prompts to facilitate a discussion.
-If your team is working with an asynchronous class, you will post your questions
-and prompts in a moddle forum, and you will be responsible for moderating the discussion.
-Discussion moderation includes reading all posts promptly, responding with feedback
-and follow up questions, and pointing posters to similar (or conflicting) ideas
-in other threads.
-
-- **Cognitive Load Theory:** Plass, chapters [1](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=802938&ppg=21) and [2](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=802938&ppg=41)
-- **Multimedia Principle & Contiguity:** Clark, chapters [4](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=4418752&ppg=82) & [5](https://ebookcentral.proquest.com/lib/adelphi/reader.action?docID=4418752&ppg=82)
-- **Modality & Redundancy:** Clark, chapters 6 & 7
-- **Coherence, Personalization, Segmenting:** Clark, chapters 8, 9, & 10 (3 people)
-
-### Workshops: multimedia tutorial
-
-You will be working alone for your multimedia workshop. For this project you
-will create a "how to" or series of "how to" videos that feature a specific
-multimedia authoring technique and tool. Choose a multimedia authoring tool that
-you know well or want to become expert in. Design a 10-15 minute tutorial that
-describes how (and why/when) to use it. Your video should be in the format of a
-"quickstart" that isn't comprehensive, but demonstrates the key skills that you
-think the rest of us should know to get started. Some of the tools have room for
-than one workshop, in this case, one presenter will work on the quickstart video
-and the other will feature more advanced topics.Every workshop must also include
-a curated list of documentation and other high quality tutorials.
-
-Please post your tutorial(s)on YouTube and post the link in our "multimedia
-tutorial" discussion forum (with its own title). Also post the links to docs and
-other tutorials here. Monitor the forum for feedback and questions regarding
-your tool.
+The "briefing" sessions will help us develop our domain knowledge of generative AI. You will choose a specific topic of your choice related to gnerative AI and then create a 3-minute briefing report -- a narrated slide show on your topic. We will watch your presentation in class and then have time for some follow up questions regarding your topic. In addition to your slideshow, you will also post the bibliography used to create your briefing. You should have at least 3 sources, one of them being an academic source. The specific topic of your briefing will probably relate to the aspect of generative AI that you will highlight in your multimedia project.
 
 
 Multimedia project
 ------------------
-The culminating work for this class is your _multimedia project_. Everyone will
+The culminating work for this class is your _multimedia project_. Everyone must
 work on their own individual project. They will produce a multimedia work that
 demonstrates their skills as a designer and producer of multimedia, their
 knowledge of the studio topic, and their understanding of the learning sciences
@@ -223,7 +156,7 @@ Past Studio projects include:
 - infographics
 - (analog) learning games / card games
 - video games
-- e-learning courses (captivate, edx)
+- e-learning courses (captivate, edx, canvas, google classroom, moodle)
 - self-paced online courses
 - simulations
 - interactive websites
@@ -245,9 +178,7 @@ Plan for a 5 minute presentation.
 ### Critique
 You will formally present a working prototype of your project to get feedback
 from the instructor and your peers. You should have a solid plan for completing
-the project. For the critique, you will be assigned a peer evaluator who
-will "chair" your critique. The chair will gather feedback for you in each
-of the evaluation areas below and share it with you after the session.
+the project.
 
 **Critique and Final Evaluation Criteria**
 _Refer to these criteria for the evaluation of your multimedia project._
