@@ -3,7 +3,7 @@
   Antonios Saravanos
   Robby Lucia
 
-**EDT 603 _Programming web-based educational media_, Spring 2022**
+**EDT 603 _Programming web-based educational media_, Summer 2023**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~{.html .numberLines}
 <!DOCTYPE html>
@@ -34,17 +34,6 @@ html, html5, css, javascript, OOP, mobile first, React, python, Flask, REST
 
 **Course website:** <https://canvas.instructure.com/courses/1519530>
 
-Office Hours
-========================================================================
-
-**Matt Curinga**
-
-- Monday, 11-1:00PM
-- Wednesday, 2:30-4:30PM
-- Thursday, 3-5PM
-- _Dr. Curinga's in person office hours are in the MIXI offices, room 274
-of the Addelphi Manhattan Center._
-_Office hours by appointment._
 
 Course Communications
 ========================================================================
@@ -99,33 +88,19 @@ Specific software development goals include:
   - Inheritance
   - Polymorphism
 
-Required Software
-=================
-- [Atom text editor](https://atom.io/)
-- [Slack](http://slack.com) (recommend desktop and mobile clients)
-  - [AU Ed Tech #code](https://auedtech.slack.com/signup)
-- [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/)
-- Chrome or [Chromium](https://www.chromium.org/Home) web browser
-- [Python 3](https://www.python.org/downloads/)
-- [Jupyter Notebook](https://jupyter.org/install.html)
-- [Github Client](https://desktop.github.com/) [<small>also create a [github](https://github.com) account</small>]
-- [Postman API Client](https://www.postman.com/downloads/) [<small>optional</small>]
+
 
 Online Documentation
 ====================
 
 ### Javascript & HTML
+- [React Framework](https://reactjs.org/docs/getting-started.html)
 - [Mozilla Developer Network Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [Mozilla Developer Network HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Mozilla Developer Network CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [React Framework](https://reactjs.org/docs/getting-started.html)
-- [BULMA (CSS framework)](https://bulma.io/documentation/)
+- [Github](https://docs.github.com/en)
+- [Git](https://git-scm.com/doc)
 
-### Python
-- [Python Standard Library](https://docs.python.org/3/library/index.html)
-- [PANDAS](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
-- [Jupyter](https://jupyter.org/documentation)
-- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 Recommended Books
 ========================================================================
@@ -133,10 +108,32 @@ Recommended Books
 Curinga, M. Peter Wentworth, P., Elkner, J., Downey, A, and Meyers, C.
 (2018). [Think Javascript](https://mcuringa.github.io/think-js/). [free open textbook]
 
-Downey, A. B. (2016). [_Think Python: How to Think Like a Computer Scientist, Version 2.4.0_](http://greenteapress.com/thinkpython2/html/index.html). Green Tea Press.
-
 Duckett, J. T. (2011). [_Html & css: design and build websites_](http://htmlandcssbook.com/).
 Indianapolis, IN: Wiley Pubishing, Inc.
+
+
+Required Software and Accounts
+===============================
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Slack](http://slack.com) (recommend desktop and mobile clients)
+  - [AU Ed Tech #code](https://auedtech.slack.com/signup)
+- [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/)
+- Chrome or [Chromium](https://www.chromium.org/Home) web browser
+- Create a [github](https://github.com) account
+- [Chat-GPT](https://openai.com/chatgpt)
+
+
+Learning Modules
+=================
+
+Module 1: Set-up
+----------------
+1. Create an account with Chat-GPT. You can consult for help with the rest of the steps.
+2. Install [the latest LTS version](https://nodejs.org/en/download) of Node/NPM for your operating system
+3. Install VS Code.
+
+
+
 
 Assignments & Grading
 ========================================================================
