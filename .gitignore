@@ -5,7 +5,7 @@
 *.py~
 *.css~
 *.html~
-
+work/*
 settings.py
 push
 tmpl/footer.html
