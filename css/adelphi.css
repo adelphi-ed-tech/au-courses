@@ -215,17 +215,10 @@ table
 }
 
 
-
-
-
-
-
-
-
 footer
 {
     border-top: 2px dotted gray;
-    margin-top: 1.5em;
+    margin-top: 400px;
 }
 
 @media print
@@ -240,25 +233,6 @@ footer
     {
         counter-reset: page 1;
         counter-reset: fig 0;
-    }
-    @page
-    {
-        size: 8.5in 11in;
-        margin: 1in;
-        counter-increment: page;
-        orphans: 3;
-        widows: 3;
-
-        @top-right
-        {
-            font-family: "FreeSans", "Helvetica", sans-serif;
-            position: absolute;
-            top: .25in;
-            right: 1in;
-            content: "Syllabus      | " counter(page) " of " counter(pages);
-            font-size: 8pt;
-            font-weight: bold;
-        }
     }
 
     @page:first
