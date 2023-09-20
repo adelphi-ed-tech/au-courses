@@ -191,17 +191,56 @@ you have written, which you use to explain the key concepts for each portfolio. 
 choose must be from chapter exercises in _How to Think Like a Computer Scientist_ or challenge problems
 posted on the course website.
 
+This is not a video production class, so you are not expected to create a polished video with high production quality.
+However, follow these tips to make a good video:
+
+1. **Make good use of the time.** Write an outline for your video before recording. Open all of 
+   the documents (code, browser tabs) you need. Practice what you are going to say.
+2. **Record in high definition (aka HD, or 1920x1080 or higher)**. 
+   Since reading text on the screen is key to the portfolio, make sure that you are making a 
+   high resolution video so that the text isn't pixelated/blurry.
+3. **Record clear audio**. Test out your mic before you record the whole thing and make sure that 
+   your audio is coming through clearly. The code on screen pluse your narration _are_ the portfolio.
+4. **Lightly edit.** It will be hard to make the video all in one take. Consider using video editing
+   software to join clips together, add still screenshots, and edit out dead time. _Don't_ feel
+   obligated to do anything fancy (background music, fast/slow motion, titles, credits, transitions).
+5. **Include code you wrote.** Just to be clear, your video should include code that you have written. It is
+   up to you if you want to show several different exercises, a larger program from a challenge
+   problem, or something else that you have written. **Do not show somebody elses code.** If include
+   code that you didn't write (from the book, written by an AI, found online, written by a friend)
+   please indicate that in the comments and in your narration.
+
+
+**To submit your portfolio videos:**
+
+1. Upload your video to YouTube [[how to](https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform%3DDesktop)].
+   - Login with your `mail.adelphi.edu` account _or_ your regular YouTube account.
+   - Set the [visibility of your video](https://support.google.com/youtube/answer/157177?hl=en&co=GENIE.Platform%3DDesktop):
+     - unlisted (recommended) - anyone with the link can see it
+     - private (you must share with `mcuringa@adelphi.edu`)
+     - public (people can search for it and find it on the web and on youtube)
+2. Copy the link and submit it on Moodle
+3. Optional: put source code files (.py python files) in a .zip archive and submit with your link
+4. Optional: post your video on Slack for others to check out
+
 ### Portfolio 1
-Your first portfolio covers chapters 1-5 in _How to Think Like a Computer Scientist_. 
-Key concepts for portfolio 1:
+Your first portfolio covers chapters 1-5 in _How to Think Like a Computer Scientist_.
+
+_Key concepts for portfolio 1:_
 
 1. **algorithm:** your own definition of an algorithm and an example of an algorithm that you have written.
 2. **debugging:** a demonstration of you debugging your code. Interpret the error message you see, and discuss the _type_ of error (syntax, runtime, semantic).
 3. **variables:** including understanding data types, assignment, re-assignment
 4. **built-in functions:** how to call Python built-in functions using arguments and working with return values
 5. **style and organization:** what makes a good variable name? how do comments work? what decisions did you make to write code that is easily understood by humans?
-6. **`for` loops:** what is _repetition_? what are the key aspects of `for` loops?
-7. **modules:** what are modules or libraries in computer programming? how did you use modules in your code example?
+6. **`for` loops:** what is _repetition_? what are the key aspects of `for` loops? how to you repeat code `n` (e.g. 4 times)? how do you **iterate** over a list?
+7. **modules:** what are modules or libraries in computer programming? how did you use the `math`, `turtle`, `random`, or other modules in your code example?
+8. **learning:** what have you learned? anything interesting, surprising, challenging? anything you are looking forward to learning?
+
+In addition to covering the content above, to receive full points for Portfolio 1, you _must_ demonstrate your code running in VS Code (1 point)
+and that you understand how to use Chat-GPT for feedback, documentation, or general help (1 point).
+
+This video **must be between 7 and 10 minutes** long. If your video is too long or too short, you will lose 2 points on the final score.
 
 ### Portfolio 2
 Your second portfolio covers chapter 6-10, but will also draw on concepts in chapters 1-5.
