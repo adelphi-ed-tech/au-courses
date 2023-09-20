@@ -206,9 +206,11 @@ However, follow these tips to make a good video:
    obligated to do anything fancy (background music, fast/slow motion, titles, credits, transitions).
 5. **Include code you wrote.** Just to be clear, your video should include code that you have written. It is
    up to you if you want to show several different exercises, a larger program from a challenge
-   problem, or something else that you have written. **Do not show somebody elses code.** If include
+   problem, or something else that you have written. **Do not show somebody else's code.** If you include
    code that you didn't write (from the book, written by an AI, found online, written by a friend)
-   please indicate that in the comments and in your narration.
+   please indicate that in the comments and in your narration. Passing off someone else's work as your
+   own is clear academic dishonesty and will lead to a zero for this assignment and possibly further
+   disciplinary action.
 
 
 **To submit your portfolio videos:**
