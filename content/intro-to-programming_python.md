@@ -191,6 +191,7 @@ you have written, which you use to explain the key concepts for each portfolio. 
 choose must be from chapter exercises in _How to Think Like a Computer Scientist_ or challenge problems
 posted on the course website.
 
+#### Video guidelines
 This is not a video production class, so you are not expected to create a polished video with high production quality.
 However, follow these tips to make a good video:
 
@@ -212,8 +213,11 @@ However, follow these tips to make a good video:
    own is clear academic dishonesty and will lead to a zero for this assignment and possibly further
    disciplinary action.
 
+#### Late submissions
+If you submit your portfolio after late (see due date and time on Moodle), you will lose 2 points.
+You will lose 1 additional point for each day it is late after the first 24 hours.
 
-**To submit your portfolio videos:**
+#### Submit your portfolio
 
 1. Upload your video to YouTube [[how to](https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform%3DDesktop)].
    - Login with your `mail.adelphi.edu` account _or_ your regular YouTube account.
