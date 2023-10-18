@@ -212,6 +212,14 @@ However, follow these tips to make a good video:
    please indicate that in the comments and in your narration. Passing off someone else's work as your
    own is clear academic dishonesty and will lead to a zero for this assignment and possibly further
    disciplinary action.
+6. **Tips for making a good video**
+   Each portfolio has some key concepts that you should touch on, but the goal of the
+   portfolio is to show what you learned, _not offer wrote/textbook definitions of the concepts_.
+   A good portfolio will, typically, show just one (or two) programs that are interesting
+   and complex enough to cover all of the concepts. _You do not need to explicitly
+   define the concepts._ However, when you are discussing your work, you should
+   use the terms correctly and in context, and your work should include all of the
+   necessary components.
 
 #### Late submissions
 If you submit your portfolio after late (see due date and time on Moodle), you will lose 2 points.
@@ -226,8 +234,9 @@ You will lose 1 additional point for each day it is late after the first 24 hour
      - private (you must share with `mcuringa@adelphi.edu`)
      - public (people can search for it and find it on the web and on youtube)
 2. Copy the link and submit it on Moodle
-3. Optional: put source code files (.py python files) in a .zip archive and submit with your link
-4. Optional: post your video on Slack for others to check out
+3. Optional: post your video on Slack for others to check out
+
+Your video **must be between 7 and 10 minutes** long. If your video is too long or too short, you will lose 2 points on the final score.
 
 ### Portfolio 1
 Your first portfolio covers chapters 1-5 in _How to Think Like a Computer Scientist_.
@@ -246,18 +255,18 @@ _Key concepts for portfolio 1:_
 In addition to covering the content above, to receive full points for Portfolio 1, you _must_ demonstrate your code running in VS Code (1 point)
 and that you understand how to use Chat-GPT for feedback, documentation, or general help (1 point).
 
-This video **must be between 7 and 10 minutes** long. If your video is too long or too short, you will lose 2 points on the final score.
-
 ### Portfolio 2
 Your second portfolio covers chapter 6-10, but will also draw on concepts in chapters 1-5.
 Specifically, your portfolio must include:
 
-1. **function parameters:** what are parameters? what are arguments? who are parameters different from variables?
+1. **function parameters:** what are parameters? what are arguments? how are parameters different from variables?
 2. **return statement:** demonstrate that you can write functions with return statements by highlighting code that you have written that uses `return` when the exercise prompt did not tell you what value should be returned.
 3. **selection:** describe the use of `if`, `else`, and `elif` in your code. Point to examples that use `return` instead of conditional statements. Demonstrate the use of a _boolean function_.
 4. **`while` and `for`:** when should we choose to use `while` loops and when is a `for` loop more useful?
 5. **index notation:** demonstrate code that you used to solve a problem using string index notation and slices.
 6. **string methods:** what's a _method_? demonstrate code that solves a problem using the methods of the Python string class.
+7. **composition:** demonstrate _composition_ by using one function (you have written, with `return`)
+   inside another function.
 
 ## Portfolio 3
 
