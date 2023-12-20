@@ -34,6 +34,8 @@ All thesis projects:
   and instructional design
 - address a specific issue or problem of significance and importance to the student
 - produce a "professional" level work
+- introduce something "new" to the field: new research, instructional method, tech used in a novel way, a new technology
+
 
 There is no fixed format for the _project_ — we encourage creative and
 innovative ideas. Frequently, thesis projects fall into one of these
@@ -73,6 +75,9 @@ Think about:
 You can start writing down 3-5 different ideas, sharing them with friends and
 mentors, and sending them to your faculty advisor(s). These ideas can start the
 conversation around your thesis project and lead to the eventual proposal.
+
+_In general, creating a website is not sufficient for a thesis project. If you propose to create a video, it should be on a topic with scarce resources, and the video should be "professional" quality for an instructional technologist/multimedia producer._
+
 
 Completing the thesis project
 -----------------------------
