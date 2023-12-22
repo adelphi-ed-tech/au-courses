@@ -28,14 +28,14 @@ extend skills in multimedia authoring: digital images/audio/video,
 and interactive web development. Apply these skills to create a
 original educational resources.
 
-------------------------------------------------------------------------
+- - - -
 
 > A studio is a place where people gather to exercise and develop
 > skill and interest, an art, a techne. A studio provides the tools of
 > a techne and opportunities for their use, invitations for their
 > development, a challenge to accomplished performance within a
 > community of peers.\
-> — Robbie McClintock, [StudyPlace](http://www.studyplace.org/wiki/The_Studio_for)
+> — Robbie McClintock
 
 > Governments of the Industrial World, you weary giants of flesh and steel, I
 > come from Cyberspace, the new home of Mind. On behalf of the future, I ask you
@@ -110,7 +110,6 @@ Smith, Sean, and John Marchesini. 2007. _The Craft of System Security_. Upper Sa
 
 
 ## Online resources for information security
-- [Wired::ThreadLevel](https://www.wired.com/category/threatlevel)
 - [Wired::Security](https://www.wired.com/category/security/)
 - [The Atlantic](https://www.theatlantic.com/technology/)
 - [DefenseOne::Tech](http://www.defenseone.com/technology/)

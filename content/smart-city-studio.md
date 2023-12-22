@@ -41,12 +41,13 @@ original educational resources.
 - Thursday 3:30-5:30pm, online
 - _office hours by appointment_
 
-------------------------------------------------------------------------
+- - - -
+
 ## Spring 2020 Studio: Smart Cities
 
-<div class="img-right" style="max-width:400px">
-<img class="img-fluid" src="https://resize.pubpub.org/fit-in/600x0/gg1qmkps/01552071556663.jpg" alt="cover from The Smart Engough City">
-</div>
+
+<img style="max-width:300px;" src="https://resize.pubpub.org/fit-in/600x0/gg1qmkps/01552071556663.jpg" alt="cover from The Smart Enough City">
+
 
 Each semester the multimedia studio features a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester

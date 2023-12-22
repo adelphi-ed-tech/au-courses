@@ -231,3 +231,11 @@ category are awarded for exhibiting a thorough understanding of how
 people learn with digital artifacts. Successful projects will account
 for the cognitive, social, pragmatic, ethical, and aesthetic
 implications of their design, as it impacts learning.
+
+- - - -
+
+Previous Studios
+----------------
+- [Spring 2022: School Segregation](segregation-studio.html)
+- [Spring 2021: Smart Cities](smart-city-studio.html)
+- [Spring 2017: Info Sec](hacker-studio.html)
