@@ -3,11 +3,12 @@
 
 <small class="d-block text-justify" style="max-width: 600px; hyphens: auto;">
 The Adelphi _Master's of Arts in Educational Technology_ is a 32-credit
-graduate degree offered as a fully online program, as well as a blended
-degree based on Adelphi's Garden City campus, with access to facilities
-and faculty at the Manhattan campus as well. Students complete **21 credits of required coursework** studying cognition and learning sciences, instructional design, digital media studies, and computer science. They choose elective courses, usually in-depth looks at current themes and
+graduate degree offered as a fully online program, with access to facilities
+and faculty at the Garden City and Brooklyn campuses. Students complete **21 credits of required coursework** studying cognition and learning sciences, instructional design, digital media studies, and computer science. They choose elective courses, usually in-depth looks at current themes and
 technologies, for an additional **9 credits of electives**. Students complete the Master's with
 a [**2 credit thesis** or thesis project which they design with their thesis advisor](thesis.html).
+
+[See a sample plan of study.](plan-of-study.html)
 </small>
 
 **✔ required course** | **✪ elective course**
