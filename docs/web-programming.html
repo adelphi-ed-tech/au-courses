@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |
+                     |_|
+ ______    _   _______        _
+|  ____|  | | |__   __|      | |
+| |__   __| |    | | ___  ___| |__
+|  __| / _` |    | |/ _ \/ __| '_ \
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+-->
+
+  <title>Programming web-based educational media</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <meta name="date" content="$date$">
+
+
+  <link rel="shortcut icon" type="image/ico" href="img/favicon.ico">
+
+  <!--[if lt IE 9]>
+  <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+<link href="css/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<section id="syllabus" class="container-fluid p-0">
+    <div class="d-flex flex-row-reverse">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" href="index.html">courses</a>
+                    <a class="nav-link" href="plan-of-study.html">plan of study</a>
+                    <a class="nav-link" href="thesis.html">thesis</a>
+                    <a class="nav-link" href="https://online.adelphi.edu/graduate-degrees/ma-education-technology/">more info</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+<div class="container mx-auto mt-2"><h1 id="programming-web-based-educational-media">Programming web-based educational media</h1>
+<p><strong>Educational Technology 0858-603, Summer 2023</strong></p>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+</pre></td><td class="code"><pre><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;html&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;blockquote&gt;</span>
+      Anyone who has lost track of time when
+      using a computer knows the propensity
+      to dream, the urge to make dreams come
+      true and the tendency to miss
+      lunch.<span class="nt">&lt;br&gt;</span>
+      <span class="nt">&lt;strong&gt;</span>Tim Berners-Lee,<span class="nt">&lt;/strong&gt;</span>
+      <span class="nt">&lt;em&gt;</span>inventor of the world wide web<span class="nt">&lt;/em&gt;</span>
+    <span class="nt">&lt;/blockquote&gt;</span>
+  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<p><strong>Description:</strong> In this course students learn techniques of web programming to
+develop interactive, educational media. Using the Javascript (React)
+programming language and related web development technologies (HTML5, CSS, SVG)
+for interactive front-end programming, and Python (Flask) for backend server
+design, students gain practice in the programming and design of interactive
+software.</p>
+
+<p><strong>Key words:</strong> computer science, web development, mobile web, interaction design,
+html, html5, css, javascript, OOP, mobile first, React, python, Flask, REST</p>
+
+<p><strong>Course website:</strong> <a href="https://canvas.instructure.com/courses/1519530">https://canvas.instructure.com/courses/1519530</a></p>
+
+<h1 id="course-communications">Course Communications</h1>
+
+<p>Participants in this course must actively participate in our suite of online
+communications tools, including Slack (<a href="https://auedtech.slack.com">https://auedtech.slack.com</a>),
+Adelphi email, and the course website.</p>
+
+<p>You <em>must</em> check your Adelphi email and the <code class="language-plaintext highlighter-rouge">#code</code> channel on Slack regularly.
+It is highly recommended that you install the Slack mobile client and an email
+client on your mobile phone so that you receive “push notifications” of course
+announcements. You <em>must</em> install the Slack desktop client to facilitate sharing
+code and screenshots from your development environment.</p>
+
+<p>The best place to post general course questions and any content-related questions
+is the <code class="language-plaintext highlighter-rouge">#code</code> Slack channel. The instructor as well as other students and
+alums monitor this channel and often provide immediate support.</p>
+
+<p>You are encouraged to contact the instructor at any time via email (<a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a>)
+or direct message on Slack to <code class="language-plaintext highlighter-rouge">@mxc</code>.</p>
+
+<h1 id="goals-and-objectives">Goals and Objectives</h1>
+
+<p>This course builds on CSC 602 to move beyond basic programming concepts;
+students will gain expertise in building more complex computer programs, over
+several iterations. At the end of the course, students will be able to design
+educationally sound web-based learning media, solve moderately complex problems
+using object oriented and functional programming paradigms, and collaborate on
+team programming projects. This course focuses on the design of multi-tier,
+networked software applications.</p>
+
+<p>Specific teaching and learning goals include:</p>
+
+<ul>
+  <li>designing web-based interactions and multimedia to support learning</li>
+  <li>coding effective user interfaces for learning</li>
+  <li>implementing Universal Design goals for accessible web sites</li>
+  <li>identifying effective methods for teaching more advanced programming concepts
+and web design skills</li>
+</ul>
+
+<p>Specific software development goals include:</p>
+
+<ul>
+  <li>modeling real world problems with software</li>
+  <li>iterative software development</li>
+  <li>testing and debugging</li>
+  <li>Object oriented programming concepts:
+    <ul>
+      <li>Abstraction</li>
+      <li>Encapsulation</li>
+      <li>Objects &amp; Classes</li>
+      <li>Composition</li>
+      <li>Inheritance</li>
+      <li>Polymorphism</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="online-documentation">Online Documentation</h1>
+
+<h3 id="javascript--html">Javascript &amp; HTML</h3>
+<ul>
+  <li><a href="https://reactjs.org/docs/getting-started.html">React Framework</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/javascript">Mozilla Developer Network Javascript Docs</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla Developer Network HTML Docs</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Mozilla Developer Network CSS Docs</a></li>
+  <li><a href="https://docs.github.com/en">Github</a></li>
+  <li><a href="https://git-scm.com/doc">Git</a></li>
+</ul>
+
+<h1 id="recommended-books">Recommended Books</h1>
+
+<p>Curinga, M. Peter Wentworth, P., Elkner, J., Downey, A, and Meyers, C.
+(2018). <a href="https://mcuringa.github.io/think-js/">Think Javascript</a>. [free open textbook]</p>
+
+<p>Duckett, J. T. (2011). <a href="http://htmlandcssbook.com/"><em>Html &amp; css: design and build websites</em></a>.
+Indianapolis, IN: Wiley Pubishing, Inc.</p>
+
+<h1 id="required-software-and-accounts">Required Software and Accounts</h1>
+<ul>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+  <li><a href="http://slack.com">Slack</a> (recommend desktop and mobile clients)
+    <ul>
+      <li><a href="https://auedtech.slack.com/signup">AU Ed Tech #code</a></li>
+    </ul>
+  </li>
+  <li><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox web browser</a></li>
+  <li>Chrome or <a href="https://www.chromium.org/Home">Chromium</a> web browser</li>
+  <li>Create a <a href="https://github.com">github</a> account</li>
+  <li><a href="https://openai.com/chatgpt">Chat-GPT</a></li>
+</ul>
+
+<h3 id="software-project-evaluation-rubric">Software Project Evaluation Rubric</h3>
+
+<p><em>You will use this rubric to evaluate your work and progress in the class.</em></p>
+
+<ol>
+  <li><strong>React/Javascript</strong>
+    <ul>
+      <li>poor: the code runs with errors, is incomplete, or a very close copy of the example project</li>
+      <li>satisfactory: code is organized into functions and uses parameters, code is well organized and well styled,
+can be improved by writing more general/reusable functions and parameters, being more flexible, or using
+Javascript idioms efficiently and correctly</li>
+      <li>excellent: code is well thought out and reusable functions create core parts of the site, functions are
+organized so that changes and new features can be easily implemented, code meets our style guides and
+clear/accurate names are given to all identifiers (variables, functions). It is clear that the program
+goes beyond the example project.</li>
+    </ul>
+  </li>
+  <li><strong>Data modeling</strong>
+    <ul>
+      <li>poor: most content is hard-coded in the Javascript code, model is an exact copy of example, and/or model
+does not support the goals of the site</li>
+      <li>satisfactory: data model supports the goals of the specific site, but may not be flexible enough for a
+different presentation or to handle new data</li>
+      <li>excellent: data model supports the site, and can support other uses without modification to the model, new content
+can be easily accommodated</li>
+    </ul>
+  </li>
+  <li><strong>HTML</strong>
+    <ul>
+      <li>poor: content is presented with little structure, or different HTML tags would better describe the content</li>
+      <li>satisfactory: there is a good fit between the tags used and the data they contain</li>
+      <li>excellent: there is a good fit between the tags used and the data they contain <em>and</em> the code correctly
+and appropriately uses tags that were not part of the example code</li>
+    </ul>
+  </li>
+  <li><strong>CSS</strong>
+    <ul>
+      <li>poor: little or no styles, styles are defined that are not used or do not take effect because of errors</li>
+      <li>satisfactory: code demonstrates understanding of box-model, color, typography, and/or images</li>
+      <li>excellent: advanced layout are used to interesting effect (flex, grids, etc), code exceeds example projects</li>
+    </ul>
+  </li>
+  <li><strong>User Experience</strong>
+    <ul>
+      <li>poor: site is hard to read, understand, and use; labels and text are not well edited, items are not clearly organized,
+essential information is missing, and/or the design significantly impedes the usability of the site</li>
+      <li>satisfactory: site is easy to use and information is well organized, presentation is clear and clean</li>
+      <li>excellent: code, layout, and css combine to create an interesting effect, site has a high quality, professional feel</li>
+    </ul>
+  </li>
+  <li><strong>Risk Taking</strong>
+    <ul>
+      <li>poor: the project narrowly adapts worked examples and sample code; no evidence of attempts
+to incorporate ideas not strictly covered in class</li>
+      <li>satisfactory: the project attempts either a novel idea or to integrate sophisticated
+programming approaches beyond what is covered in class; it’s evident that student
+is able to read technical documentation and adapt ideas for new purposes. some
+aspects of the program may not be fully functional or integrated with the rest of the program.</li>
+      <li>excellent: incorporates novel ideas and techniques, as in “satisfactory,” but
+demonstrates a high level of success with the code and integration.</li>
+    </ul>
+  </li>
+</ol>
+
+<h1 id="books-and-online-resources">Books and online resources</h1>
+
+<h3 id="documentation--reference-websites">Documentation &amp; Reference websites</h3>
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a></li>
+  <li><a href="https://reactjs.org/docs/getting-started.html">React</a></li>
+  <li><a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/">Bootstrap</a></li>
+  <li><a href="https://docs.python.org/3/index.html">Python Official Docs</a></li>
+  <li><a href="https://flask.palletsprojects.com/en/2.0.x/">Flask</a></li>
+  <li><a href="https://pandas.pydata.org/docs/">PANDAS</a></li>
+  <li><a href="http://w3.org">World Wide Web Consortium</a></li>
+  <li><a href="http://www.w3schools.com/">W3 Schools</a></li>
+  <li><a href="http://www.regexr.com/">Regular Expressions</a></li>
+  <li><a href="https://portal.adelphi.edu/services/redirect.php?service_id=84">LinkedIn Learning <em>via eCampus</em></a></li>
+</ul>
+
+<h3 id="books">Books</h3>
+<ul>
+  <li><a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118008189.html">HTML and CSS: Design and Build Websites</a>, our textbook</li>
+  <li><a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118871650.html">JavaScript &amp; jQuery: Interactive Front-End Web Development Hardcover</a>, also J. Duckett, same series</li>
+  <li><a href="http://diveintohtml5.info/">Dive into HTML 5</a> [free online]</li>
+  <li><a href="http://webtypography.net/toc/">The Elements of Typographic Style Applied to the Web</a> [free online]</li>
+  <li><a href="http://shop.oreilly.com/product/9780596528126.do">Mastering Regular Expressions</a></li>
+</ul>
+
+<h3 id="python-pandas-and-data-science-tutorials">Python, PANDAS, and Data science Tutorials</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/learning/python-essential-training-2018/welcome">LinkedIn Learning:: Python Essential Training</a> [4h 37m]</li>
+  <li><a href="https://www.linkedin.com/learning/pandas-essential-training">LinkedIn Learning:: Pandas Essential Training</a> [2h 14m]</li>
+</ul>
+
+<h3 id="javascript-html-and-css">Javascript, HTML, and CSS</h3>
+<ul>
+  <li><a href="https://www.khanacademy.org/computing/computer-programming/programming">Khan Academy::Intro to JavaScript: Drawing &amp; Animation</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">Khan Academy::Intro to HTML/CSS: Making webpages</a></li>
+  <li><a href="http://www.codecademy.com/">Code Academcy</a></li>
+  <li><a href="https://p2pu.org/en/schools/school-of-webcraft/">P2PU School of webcraft</a></li>
+  <li><a href="http://teamtreehouse.com/">Treehouse</a> [paid]</li>
+  <li><a href="http://www.thinkful.com/">Thinkful</a></li>
+  <li><a href="http://www.geekchamp.com/html5-tutorials/1-html5-overview">GeekCamp::HTML5 Tutorial</a></li>
+  <li><a href="http://www.skilledup.com/learn-web-design-guide/">SkilledUp::Learn Web Design</a></li>
+</ul>
+
+<h3 id="design-accessibility-ux">Design, accessibility, UX</h3>
+<ul>
+  <li><a href="http://alistapart.com/topic/html">A List Apart</a></li>
+  <li><a href="http://www.smashingmagazine.com/">Smashing Magazine</a></li>
+  <li><a href="https://color.adobe.com/create/color-wheel/">Adobe Kuler</a></li>
+  <li><a href="http://www.nngroup.com/articles/">Nielsen/Norman Group</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973">United States Section 508</a>
+    <ul>
+      <li><a href="https://www.section508.gov/">https://www.section508.gov/</a></li>
+      <li><a href="http://webaim.org/standards/508/checklist">http://webaim.org/standards/508/checklist</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.usability.gov/index.html">Usability.gov</a></li>
+  <li><a href="http://www.usability.gov/guidelines/guidelines_book.pdf">Research-Based Web Design &amp; Usability Guidelines</a></li>
+  <li><a href="http://www.december.com/html/spec/color.html">hex/html color chart</a></li>
+</ul>
+
+<h3 id="online-tools">Online Tools</h3>
+<ul>
+  <li><a href="http://validator.w3.org/#validate_by_uri+with_options">w3c HTML Validation Service</a></li>
+  <li><a href="http://jigsaw.w3.org/css-validator/">w3c CSS Validation Service</a></li>
+</ul>
+
+<h3 id="media-resources">Media Resources</h3>
+<ul>
+  <li><a href="http://search.creativecommons.org/">Creative Commons Search</a>, for images, music, etc</li>
+  <li><a href="http://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a>, images and other media (including stuff from Wikipedia), curated</li>
+  <li><a href="https://openclipart.org/">Open Clip Art</a>, free vector graphics</li>
+  <li><a href="http://creativecommons.org/music-communities">Creative Commons Music</a></li>
+  <li><a href="http://fossilbank.wikidot.com/">Fossil Bank</a></li>
+  <li><a href="http://www.colourlovers.com/">Colour Lovers Palettes</a></li>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+</ul>
+</div>
+</section>
+
+
+<footer class="footer mt-auto py-3 bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col mb-2">
+                <div class="d-flex align-items-end">
+                    <img src="img/au-white.png" alt="adelphi university" class="d-block" style="font-size: 32px">
+                    <a class="HomeLink d-block px-2 text-light link-offset-2 link-offset-3-hover link-underline-light
+                                        link-underline-opacity-0 link-underline-opacity-100-hover" href="index.html">
+                        Ed Tech Courses
+                    </a>
+                </div>
+
+            </div>
+            <div class="col mb-2">
+                <a href="https://mixi.nyc"><img alt="mixi institute for stem and the imagination" src="img/mixi.svg"
+                        style="height: 32px;" /></a>
+            </div>
+            <div class="col mb-2">
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="img/cc-by-sa-hz.png"
+                        alt="creative commons share alike attribution license"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+<script src="js/boot_styles.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', addBootstrapStyles);
+</script>
+
+</body>
+</html>

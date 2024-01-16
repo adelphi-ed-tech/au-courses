@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |
+                     |_|
+ ______    _   _______        _
+|  ____|  | | |__   __|      | |
+| |__   __| |    | | ___  ___| |__
+|  __| / _` |    | |/ _ \/ __| '_ \
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+-->
+
+  <title>Educational information systems and networks</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <meta name="date" content="$date$">
+
+
+  <link rel="shortcut icon" type="image/ico" href="img/favicon.ico">
+
+  <!--[if lt IE 9]>
+  <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+<link href="css/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<section id="syllabus" class="container-fluid p-0">
+    <div class="d-flex flex-row-reverse">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" href="index.html">courses</a>
+                    <a class="nav-link" href="plan-of-study.html">plan of study</a>
+                    <a class="nav-link" href="thesis.html">thesis</a>
+                    <a class="nav-link" href="https://online.adelphi.edu/graduate-degrees/ma-education-technology/">more info</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+<div class="container mx-auto mt-2"><h1 id="educational-information-systems-and-networks">Educational information systems and networks</h1>
+
+<p><strong>0858-606, Summer 2022</strong></p>
+
+<p><strong>Description:</strong> From a foundation of computer networks and systems, this course
+expands to cover instructional technology infrastructure: file systems, users,
+wired and wireless networks, email, web servers, computer labs, and common educational
+software services. This course focuses on Free Software; where the source code
+is free to use, study, or modify. To explore these topics in this hands on class
+all students will be configuring their own Raspberry Pi computers and using them
+to complete a software/hardware project.</p>
+
+<p><strong>Keywords:</strong> linux, bash, systems, networks, lamp, free software, trouble shooting,
+technical project management, rasberry pi, physical computing, debian, ubuntu</p>
+
+<p><img src="https://cdn.pixabay.com/photo/2017/06/06/16/35/cyber-2377718_960_720.jpg" alt="computer chip" class="img-fluid" /></p>
+
+<h1 id="goals--objectives">Goals &amp; Objectives</h1>
+
+<p>This course introduces students to the key concepts in current networked
+computing in order to develop a conceptual framework for configuring
+and troubleshooting computing systems. Upon completing this course they
+will be able to:</p>
+
+<ul>
+  <li>set up a secure, network computing environment</li>
+  <li>effectively use the basic tools of GNU/Linux computing environments</li>
+  <li>implement techniques for administering group and user permissions</li>
+  <li>install and troubleshoot hardware and software infrastructure for
+networked and internet computing</li>
+  <li>configure a client/user computer for specific purposes</li>
+  <li>configure various server-side applications to support teaching and
+learning</li>
+  <li>identify the ethical and legal concerns surrounding educational
+information systems</li>
+</ul>
+
+<h1 id="class-information">Class Information</h1>
+<ul>
+  <li><strong>Instructor:</strong> Matt Curinga <a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a></li>
+  <li><strong>Class dates:</strong> May 26 - July 1</li>
+  <li><strong>Live sessions:</strong> Wednesdays: 4:30pm - 6:20pm; <small>zoom link on moodle</small></li>
+</ul>
+
+<h1 id="course-communications">Course Communications</h1>
+
+<p>This online course will have a mix of synchronous and asynchronous assignments.
+The synchronous sessions, “live lab,” will be held each Wednesday, via Zoom,
+4:30pm to 6:20pm.</p>
+
+<p>Participants in this course must actively participate in our suite of online
+communications tools, including Slack (<a href="https://auedtech.slack.com">https://auedtech.slack.com</a>),
+Adelphi email, and the course website.</p>
+
+<p>You <em>must</em> check your Adelphi email and the <code class="language-plaintext highlighter-rouge">#code</code> channel on Slack <strong>at least
+once a day during this short summer course.</strong> It is highly recommended that you
+install the Slack mobile client and an email client on your mobile phone so that
+you receive “push notifications” of course announcements.</p>
+
+<p>The best place to post general course questions and any content-related questions
+is the <code class="language-plaintext highlighter-rouge">#code</code> Slack channel. The instructor, as well
+as other students and alums, monitor this channel and often provide immediate support.
+You are encouraged to contact the instructors at any time via email or direct
+message on Slack.</p>
+
+<h3 id="online-tools">Online tools:</h3>
+
+<ul>
+  <li><strong>Moodle:</strong> will be used to post the syllabus and links to weekly readings,
+videos, and discussions.</li>
+  <li><strong>Zoom:</strong> for class meetings and help (via screen sharing), please join Zoom
+from your laptop so that you can share your screen to demo work and
+troubleshoot problems. You have should have a calendar invite to our meetings
+with the link. The link is also on Moodle in the course header.</li>
+  <li><strong>Slack:</strong> will be our main channel for online communications.
+Please <a href="https://auedtech.slack.com/signup">Join our Slack team with your Adelphi email</a>.
+If you run into trouble or have a question, post it here to our channel, <code class="language-plaintext highlighter-rouge">#code</code>,
+or send a message to <code class="language-plaintext highlighter-rouge">@mxc</code>. During the weeks of the class, we recommend running
+the Slack app for you phone.</li>
+  <li><strong>Trello:</strong> is project management software that you will use to track/plan
+your two projects, and to share your progress with the course instructors.
+Create a <a href="https://trello.com/signup">Trello Account</a> before the first week of
+class, and (optionally) <a href="https://trello.com/platforms">install the mobile app</a>.</li>
+  <li><strong>mail.adelphi.edu email:</strong> we will use your official adelphi student email
+for class email communications. Please check this email regularly.</li>
+</ul>
+
+<p><em>You should already be comfortable with these skills, or should be prepared to
+learn them during the course. Teaching them is not part of the course content.</em></p>
+
+<ul>
+  <li>Taking screen shots <a href="https://support.apple.com/en-us/HT201361">mac</a> <a href="https://www.cnet.com/tech/services-and-software/7-ways-to-take-screenshots-in-windows-10-and-11/">win</a> <a href="https://itsfoss.com/using-gnome-screenshot-tool/">linux</a></li>
+  <li>Make a screen recording <a href="https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac">Quicktime / Mac</a> <a href="https://obsproject.com/">OBS / all platforms</a></li>
+</ul>
+
+<h3 id="getting-remote-help">Getting remote help:</h3>
+
+<p>Because of the hands on nature of working with computers and networks, you
+will have to use a variety of tools to get help. Your first stop for help should
+be #code on Slack. You are most likely to get quick help if you post here
+because anyone in the channel (instructors, other students, other faculty, ed tech alums)
+can lend a hand.</p>
+
+<p>For more complicated problems, you will need to be able to:</p>
+
+<ul>
+  <li><a href="https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages">post formatted code in slack</a></li>
+  <li>take a screenshot from your computer (<em>unless absolutely necessary, don’t send photos of your screen taken with your phone</em>)</li>
+</ul>
+
+<h1 id="required-materials">Required Materials</h1>
+
+<h2 id="textbooks">Textbooks</h2>
+<p>There are no required</p>
+
+<h2 id="desktoplaptop">Desktop/Laptop</h2>
+<p>You must have access to a desktop or laptop computer running Linux, Windows, or
+MacOS to participate in this course. Further, you must have an administrative
+account where you can fully configure the computer and install software. “Work”
+computers where you are not an admin are not sufficient. If your hard drive
+doesn’t have at least 10GB of free space, you should start clearing space or
+purchase an external drive.</p>
+
+<p>You will use this computer to participate in the course online and to complete
+the course projects and activities. You can use a phone or tablet for some
+online elements of the course, however you will not be able to complete course
+assignments without access to a computer where you are able to install software.</p>
+
+<h2 id="software">Software</h2>
+<ul>
+  <li><strong>VirtualBox</strong>. Windows and Intel Mac users will install VirtualBox. VirtualBox
+is Free Open Source Software that you can install for no cost. Please make
+sure that you have a computer that meets its <a href="https://www.virtualbox.org/wiki/End-user_documentation">minimum requirements</a>.</li>
+  <li><strong>Parallels</strong>. M1 Mac users will have to purchase
+<a href="https://www.parallels.com/products/desktop/buy/">Parallels</a> student edition
+for $40. If you have a Windows laptop or an Intel-based Mac, you do not need
+Parallels.</li>
+</ul>
+
+<h1 id="schedule">Schedule</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Date</th>
+      <th>Topic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Wed, Jun 1</td>
+      <td>Computers &amp; Operating Systems</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Wed, Jun 8</td>
+      <td>The Command Line</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Wed, Jun 15</td>
+      <td>Users, Groups, Files, &amp; Permissions</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Wed, Jun 22</td>
+      <td>Networks</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Wed, Jun 29</td>
+      <td>Ethics</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="grades--assignments">Grades &amp; Assignments</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Assignment</th>
+      <th>Pct</th>
+      <th>Due</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Participation</td>
+      <td>20%</td>
+      <td>ongoing</td>
+    </tr>
+    <tr>
+      <td>Quiz Design</td>
+      <td>20%</td>
+      <td>ongoing</td>
+    </tr>
+    <tr>
+      <td>Web Software Project</td>
+      <td>30%</td>
+      <td>6/18</td>
+    </tr>
+    <tr>
+      <td>Final Group Project</td>
+      <td>30%</td>
+      <td>7/1</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="participation">Participation</h2>
+<p>Because this is a short summer course (3 credits in 6 weeks), you should budget
+10-15 hours each week for course work. Wednesday live lab sessions are required,
+but you will also spend significant time working through course materials at your
+own pace.</p>
+
+<p>Your participation grade will consider preparation for live labs, timely
+management of your Trello projects, completion of the comprehension quizzes, and
+participation in Slack and Moodle discussions. Smaller (ungraded) weekly
+assignments will also be considered for your participation grade. You may earn
+bonus participation points if you go “above and beyond” in a week, especially
+by providing help or making full use of our classroom tools to ask good questions
+and share work.</p>
+
+<h2 id="quiz-design">Quiz Design</h2>
+<p>Working in a team of 3, you will be responsible for designing a 15 question quiz
+(via Google Forms) to check the basic understanding of the videos and readings
+for the week. The quizzes should consist of multiple choice (one answer or
+multiple “all that apply”) questions that can be automatically scored. You
+must provide a detailed answer key for every question. The questions should not
+be overly challenging, but should be based on the readings (not general knowledge).
+Anyone who carefully completes the readings should be able to score 13/15 points
+or better.</p>
+
+<p>Quizzes are <strong>ungraded</strong> for the students taking them. Your team will receive
+a group grade for the quiz considering:</p>
+
+<ul>
+  <li><em>coverage:</em> did the quiz cover all of the big ideas in the readings?</li>
+  <li><em>depth:</em> are the questions challenging without being tricks or requiring
+detailed synthesis of the materials? do they avoid being to specific or two
+general?</li>
+  <li><em>explanations:</em> do the answer keys for each questions appropariately explain
+the correct and incorrect answers?</li>
+</ul>
+
+<p><a href="https://support.google.com/docs/answer/7032287?hl=en">See the docs page for making quizzes with Google Forms.</a></p>
+
+<p>Your quiz will be due by end of day on Tuesday and posted to the Moodle
+“Weekly Quiz” discussion as a new topic for your week. Please, also, leave
+comments and feedback for the quiz authors – but not until after the quiz is
+closed. Everyone must attempt the quiz before the start of class at 4:30 on
+Wed.</p>
+
+<h2 id="web-software-project">Web Software Project</h2>
+<p>For the first project, you will install the <a href="https://ubuntu.org">Ubuntu</a> OS as a
+<em>guest</em> operating system on your computer. You will use Ubuntu to configure
+a server running one of the following popular web-based software systems:</p>
+
+<ol>
+  <li><a href="https://wordpress.org/">WordPress</a></li>
+  <li><a href="https://moodle.org/">Moodle</a></li>
+  <li><a href="https://ghost.org/docs/">Ghost</a></li>
+</ol>
+
+<p>Once you have the software installed, you will customize it for a specific use
+(that you decide). For example, you might configure WordPress as a classroom
+website, Moodle to support a summer course, or Ghost to host a personal
+newsletter or blog.</p>
+
+<p><em>Submission Guidelines</em></p>
+
+<p>To submit this project, you will upload a narrated screencast video of your
+project to VoiceThread (you can sign in with your Adelphi email account). If you do
+not want the video to be public, change the permissions so that it is an
+“unlisted” video. Only people with the link will be able to see it. Create a new
+thread in the discussion forum with a title for your project. Post the link to
+your video here, along with any supporting documentation (screenshots, code,
+config files).</p>
+
+<p>Begin the video with a description of who the target users are of this software
+and what your goals are for them. Next, show your project from the user’s
+perspective, showing how it meets the needs of the use cases that guided you in
+designing the project. Next, you can, if appropriate, give a brief tour of the
+configuration files and scripts that make your project possible. Your video
+should be 5-6 minutes long.</p>
+
+<p>Please take time to watch your classmate’s videos and post comments, questions,
+and suggestions.</p>
+
+<p><em>This is an individual project.</em></p>
+
+<h2 id="final-group-project">Final Group Project</h2>
+<p>One of the key technical tasks of an educational technologist or instructional
+designer is to research and evaluate possible solutions to a problem and then
+implement a plan to test a possible solution. Real world problems often require
+the combination of several systems in a new way, suffer from incomplete or
+inaccurate documentation, and are hindered by time or resources/financial
+constraints.</p>
+
+<p>With this in mind, you will choose a software project that you find interesting and
+engaging to pursue for your final project. You will be responsible for
+gathering/purchasing the materials to complete the project.</p>
+
+<p>You will be evaluated on:</p>
+
+<ul>
+  <li>skill with the linux operating system</li>
+  <li>ability to customize your solution to meet the project’s goals</li>
+  <li>creativity of the project chosen</li>
+  <li>risk/scope of the project</li>
+  <li>reflection on the process</li>
+</ul>
+
+<p>This is a <em>group project</em> with either 2 or three people per team. You and your
+team will work on the same project. You will share a Trello and set goals
+together. It will be up to you to decide who work is divided and the most
+effective way to collaborate and share resources.</p>
+
+<p>Here are a few raspberry project ideas that will give you a sense of the size and
+scope of what you can do for your final project.</p>
+
+<ol>
+  <li><strong>MyCroft Open Source personal assistant</strong><br />
+<a href="https://mycroft.ai">https://mycroft.ai</a><br />
+MyCroft is a Free Software alternative to systems such as Alexa and Google
+Assistant. MyCroft is developed for Linux. It requires some attention to
+details to get all of the media components working properly. For this
+project, you will download and configure MyCroft for your VM; create and
+connect to your online account, configure and test the microphone and audio
+output, and customize the features and functionality of your RPI assistant.
+Start at the <a href="https://mycroft.ai">mycroft site</a> for all of the information
+you need to get started.</li>
+  <li><strong>Jupyter Hub collaborative programming site</strong><br />
+<a href="https://jupyter.org/hub">https://jupyter.org/hub</a><br />
+Jupyter Hub is a collaborative version of the Jupyter Notebook software development
+environment. Set up a Jupyter Hub installation on your VM and configure it for
+use in a programming, math, or other learning environment that requires a
+shared coding environment.</li>
+  <li><strong>Ghost/Moodle/WordPress</strong><br />
+While you <em>had</em> to set up a basic version of these systems for the first project,
+they are complex softare systems with many templates, plug-ins, and customizations.
+Your team may choose to work on one of these to create a more complete
+website.</li>
+  <li><strong>Mattermost chat server</strong><br />
+<a href="https://mattermost.org">https://mattermost.org</a><br />
+Mattermost is a FOSS chat sever (similar to Slack) that you can host on your
+own sever for privacy and customizability.</li>
+  <li><strong>MagicMirror digital kiosk</strong><br />
+<a href="https://magicmirror.builders/">https://magicmirror.builders/</a><br />
+The magic mirror or smart mirror runs a customizable web server that serves
+as a digital kiosk (and, if desired, a magic mirror – a mirrored LCD monitor).
+Install the base</li>
+  <li><strong>Slack chatbot</strong><br />
+Using the <a href="https://api.slack.com/">Slack API</a>, set up a server (e.g. Node or Python)
+and create an “app” that interacts, automatically, with Slack chat.</li>
+  <li><strong>Jekyll website</strong><br />
+<a href="https://jekyllrb.com/">https://jekyllrb.com/</a><br />
+Create a simple, static website using the Jekyll system and markdown syntax.
+Host it live on your own Github Pages site.</li>
+</ol>
+
+<p>These are only a few suggestions. If you have something that you want to build,
+but aren’t sure the best way to accomplish it, please post your idea in Slack
+and we can investigate solutions as a team.</p>
+
+<p><em>Submission Guidelines</em></p>
+
+<p>To submit this project, you will upload a narrated screencast video of your
+project to VoiceThread. Begin the video with a description of who the target
+users are of this setup and what your goals are for them. Next, show your
+project from the user’s perspective, showing how it meets the needs  of the use
+cases that guided you in designing the project. Next, you can, if appropriate,
+give a brief tour of the configuration files and scripts that make your project
+possible. Your video should be 8-10 minutes long. Submit one video per team.</p>
+
+<h1 id="class-sessions">Class Sessions</h1>
+
+<h2 id="week-1-computers--operating-systems">Week 1: Computers &amp; Operating Systems</h2>
+<p>This week we will learn about core computer hardware, and the key software
+(Operating Systems) that drive computers. We’ll also learn about the specific
+hardware of our RPIs and install an operating system so we can take them out
+for a test drive. By the end of the week you should have either VirtualBox or
+Parellels installed on your computer and have created and installed a Virtual Machine (VM)
+running the Ubuntu operating system.</p>
+
+<h3 id="guiding-questions">Guiding Questions:</h3>
+
+<ol>
+  <li>How does a modern computer work?### To Do:</li>
+  <li>What makes a computer a <em>computer</em>?</li>
+  <li>How is a computer an abstraction of many parts and processes?</li>
+</ol>
+
+<h3 id="watch--read">Watch &amp; Read:</h3>
+
+<ol>
+  <li>Watch the Week 1 Introduction Voice Thread (see Moodle)</li>
+  <li><a href="https://www.youtube.com/watch?embed=0&amp;v=ExxFxD4OSZ0">Computer Hardware</a> (Computer parts Explained) [7:48]</li>
+  <li><a href="https://www.youtube.com/watch?embed=0&amp;v=26QPDBe-NB8">What is an OS?</a> (Crash Course Computer Science) [13:35]</li>
+  <li><a href="https://www.youtube.com/watch?embed=0&amp;v=XItj08D5KPk">Virtualization As Fast As Possible </a> (Techquickie) [4:44] (the last 2 minutes are ads, skip it)</li>
+  <li>Klint Finley. (April 24, 2019) <a href="https://www.wired.com/story/wired-guide-open-source-software/">The WIRED Guide to Open Source Software</a>. <em>WIRED</em>.</li>
+</ol>
+
+<h3 id="to-do">To Do:</h3>
+
+<p><em>Complete all the videos/readings before the first live session on Wednesday.</em></p>
+
+<ol>
+  <li><a href="https://auedtech.slack.com">Join Slack</a> and install the desktop
+and mobile apps (<a href="https://get.slack.help/hc/en-us">slack support</a>)</li>
+  <li>Create an account on <a href="https://trello.com">Trello</a> and install the
+mobile app (<a href="https://help.trello.com/">Trello Support</a>)</li>
+  <li>Install VirtualBox or Parallels</li>
+  <li>Create a new virtual machine (VM) and install <a href="https://ubuntu.com/desktop">Ubuntu
+Desktop</a> as the “guest” operating system.</li>
+  <li>Get to know your new Ubuntu computer by installing software from the Software
+Shop and using it for some of your every day computing tasks.</li>
+  <li>Read the syllabus and post any questions on Slack</li>
+  <li>Take the “Computer and Operating Systems Quiz” – link on Moodle</li>
+</ol>
+
+<h3 id="live-lab-agenda">Live Lab Agenda</h3>
+
+<ol>
+  <li>Welcome &amp; Introductions</li>
+  <li>Discussion of videos/readings</li>
+  <li>Breakout Rooms
+    <ol>
+      <li>Room A: Troubleshooting the VM install</li>
+      <li>Room B: Configuring and using Ubuntu</li>
+    </ol>
+  </li>
+  <li>Getting ready for next week: terminal basics</li>
+</ol>
+
+<h2 id="week-2-the-command-line">Week 2: The Command Line</h2>
+<p>This week we will learn how to interact with our computer using the command line
+(aka terminal). The command line interface (CLI) offers an alternative to the
+graphical user interface (GUI) we are more familiar with. Wile the terminal
+hearkens back to the early days of computing, its still very much alive for
+systems administrators, software developers, and others. In particular, complex
+tasks can be accomplished with a few lines of text, remote computers can be
+easily accessed, and all manner of tasks can be automated (and scheduled).
+Specifically, after gaining fluency with the command line, you will be able to
+connect to a remote Linux server from your regular laptop or desktop computer in
+order to configure and control it. To get started on the command line we’ll
+check out Terminus, a game developed at MIT to introduce the players to the
+command line.</p>
+
+<p>In addition to jumping into the command line, by the end of the week you will
+have customized your VM by installing software packages through <code class="language-plaintext highlighter-rouge">apt</code> and the
+GUI. You will also choose your topic for the first project and set up a Trello
+with a Board for your project and milestones for each week until it’s due.</p>
+
+<h3 id="guiding-questions-1">Guiding Questions:</h3>
+<ol>
+  <li>How is a command line interface different from the more familiar graphical
+user interface?</li>
+  <li>What is gained from a CLI? What is lost?</li>
+</ol>
+
+<h3 id="watch-play--read">Watch, Play, &amp; Read:</h3>
+<ol>
+  <li>Read <a href="https://www.gnu.org/philosophy/free-sw.en.html">What is Free Software?</a></li>
+  <li>Watch <a href="https://www.youtube.com/watch?embed=0&amp;v=4RPtJ9UyHS0">Keyboards &amp; Command Line Interfaces: Crash Course Computer Science #22</a>[11:23]</li>
+  <li>Play <a href="http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Terminus</a> for at least an hour. Post on Slack how far you get.</li>
+  <li>Read/review <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">Ubuntu Command Line For Beginners</a></li>
+</ol>
+
+<h3 id="to-do-1">To Do:</h3>
+<ol>
+  <li>Update the software on your VM with <code class="language-plaintext highlighter-rouge">apt</code> (hint <code class="language-plaintext highlighter-rouge">sudo apt update</code> then <code class="language-plaintext highlighter-rouge">sudo apt dist-upgrade</code>)</li>
+  <li>Install at least 2 programs on your RPI using <code class="language-plaintext highlighter-rouge">apt</code> or the Software center.</li>
+  <li>Post in the FOSS Apps Discussion which apps you installed and a brief review of them.</li>
+  <li>Create a Trello Board for your project and invite the course instructor as
+collaborator.</li>
+  <li>Complete the “Command Line” quiz</li>
+</ol>
+
+<h3 id="live-lab-agenda-1">Live Lab Agenda</h3>
+
+<ol>
+  <li>Welcome, questions</li>
+  <li>Command line Quizlet</li>
+  <li>Breakout rooms:
+A. WordPress working group
+B. Moodle working group
+C. Ghost working group</li>
+  <li>Project ideas and Trello Updates</li>
+</ol>
+
+<h2 id="week-3-users-groups-files--permissions">Week 3: Users, Groups, Files, &amp; Permissions</h2>
+<p>As you’re working on finishing up your first project, we’ll take a deeper look
+at how files, permissions and security works in linux/unix operating systems. To
+better understand how to work with files, we’ll take a look at file archives
+(multiple files and directories combined in a single file) and compression
+(reducing the size of a file). Because your programs all run as a “user” (either
+root or their own user), it’s important to understand files and permissions to
+troubleshoot problems.</p>
+
+<h3 id="guiding-questions-2">Guiding Questions:</h3>
+<ol>
+  <li>How do you secure digital resources?</li>
+  <li>Is the unix approach of users and groups sufficient for all security needs?</li>
+</ol>
+
+<h3 id="watch--read-1">Watch &amp; Read:</h3>
+<ol>
+  <li>Watch <a href="https://www.youtube.com/watch?embed=0&amp;v=KN8YgJnShPM">Files &amp; File Systems: Crash Course Computer Science #20</a> [12:02]</li>
+  <li>Watch <a href="https://www.youtube.com/watch?embed=0&amp;v=OtDxDvCpPL4">Compression: Crash Course Computer Science #21</a> [12:47]</li>
+  <li>Read <a href="https://www.thegeekdiary.com/understanding-basic-file-permissions-and-ownership-in-linux/">Understanding Basic File Permissions and ownership in Linux</a></li>
+  <li>Watch <a href="https://www.youtube.com/watch?embed=0&amp;v=f8-7lhs4ky0">Linux Terminal 201: How To Use tar, gzip, bzip2, and zip - HakTip 156</a> [11:32]</li>
+  <li>Docs <a href="https://ubuntu.com/server/docs/security-users">Ubuntu user security</a></li>
+  <li>Docs <a href="https://tecadmin.net/extract-archive-file-linux/">How To Extract Zip, Gz, Tar, Bz2, 7z, Xz and Rar File in Linux</a></li>
+</ol>
+
+<h3 id="to-do-2">To Do:</h3>
+<ol>
+  <li>Finish the first project</li>
+  <li>Complete the “Users &amp; Groups” quiz</li>
+</ol>
+
+<h3 id="live-lab-agenda-2">Live Lab Agenda</h3>
+<p><em>project working session</em></p>
+
+<h2 id="week-4-networks">Week 4: Networks</h2>
+<p>How does the internet work? What happens after you hit enter on a search term
+on <a href="https://duckduckgo.com/spread">Duck Duck Go</a>? How does Spotify get music
+to your phone then to your wireless earbuds? A deeper understanding of different
+networking hardware, software, and protocols will help us better understand
+the networked software we’re installing, configuring, and troubleshooting.</p>
+
+<h3 id="guiding-questions-3">Guiding Questions:</h3>
+<ol>
+  <li>How does the internet work as a collection of networks?</li>
+  <li>How does a multi-layered model allow for abstraction between different layers?</li>
+</ol>
+
+<h3 id="watch">Watch:</h3>
+<ol>
+  <li><a href="https://www.youtube.com/watch?embed=0&amp;v=7_LPdttKXPc">How the Internet Works in 5 Minutes</a> [4:48]</li>
+  <li><a href="https://www.youtube.com/watch?embed=0&amp;v=5o8CwafCxnU">The Internet: IP Addresses &amp; DNS</a> [6:44]</li>
+  <li><a href="https://www.youtube.com/watch?embed=0&amp;v=ZhEf7e4kopM&amp;list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&amp;index=2">The Internet: Wires, Cables &amp; Wifi</a> [6:41]</li>
+  <li><a href="https://www.youtube.com/watch?embed=0&amp;v=AYdF7b3nMto&amp;list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&amp;index=4">The Internet: Packets, Routing &amp; Reliability</a> [6:25]</li>
+</ol>
+
+<h3 id="to-do-3">To Do:</h3>
+<ol>
+  <li>Post (with a partner) a written report on one of the network topics (see full instructions below).</li>
+  <li>Choose a topic and form a team for the final project. Create a Trello board
+for it and share it with your partners and the instructor.</li>
+  <li>Complete the “Networks &amp; Internet” quiz.</li>
+</ol>
+
+<h3 id="networking-topic-report-instructions">Networking Topic Report Instructions</h3>
+<p>For a more in-depth look at networking, you will work with a partner to write
+a mini report on a related topic. Please: a) choose a partner, and b) choose a
+topic from the list below. If you have an idea for a different topic, you may
+write about that with approval from the instructors. By the end of the week,
+please post your report directly into our <em>Networking Topics</em> forum. Your report
+should be roughly 500-800 words. It should give an overview of the topic,
+summary of how it works, and discussion of how it’s used and why it is (or
+isn’t) important. Read through the other posts, and ask any follow-up questions.
+The instructor and topic authors will do their best to answer your questions.</p>
+
+<p>Possible topics:</p>
+
+<ol>
+  <li>Bluetooth</li>
+  <li>Mesh network</li>
+  <li>Near Field Communication (NFC)</li>
+  <li>HTTPS/SSL</li>
+  <li>4g/5g/6g</li>
+  <li>BitTorrent</li>
+  <li>Dark Web</li>
+  <li>Radio-frequency identification (RFID)</li>
+  <li>Bluetooth Beacons</li>
+  <li>Web3</li>
+</ol>
+
+<h2 id="week-5-ethics">Week 5: Ethics</h2>
+<p><a href="https://www.marvel.com/comics/issue/17610/spider-man_with_great_power._2008_1">As Spider-Man learned</a>,
+with great power comes great responsibility. We trust the people who run our
+networks to keep our information safe, and to not violate our trust while they
+do it. Along the way, they may face some hard choices, usually weighing the benefits
+of individuals versus the group. We’ll take a look at some of the ethical concerns
+in “big tech”, and also investigate how these same concerns appear in the context
+of schools and other educational institutions.</p>
+
+<h3 id="guiding-questions-4">Guiding Questions:</h3>
+
+<ol>
+  <li>How do school systems balance student privacy and autonomy, with safety and learning efficiency?</li>
+  <li>What are the key ethical concerns of embedding corporate interests (and technology) into public spaces like schools?</li>
+</ol>
+
+<h3 id="read">Read:</h3>
+<ol>
+  <li><strong>Monitoring Student Social Media</strong>
+    <ul>
+      <li>Karen Turner. April 22, 2016. <a href="https://www.washingtonpost.com/news/the-switch/wp/2016/04/22/schools-are-helping-police-spy-on-kids-social-media-activity/">Schools are helping police spy on kids’ social media activity</a>. <em>The Washington Post</em>.</li>
+      <li>Aaron Leibowitz. September 6, 2018. <a href="https://www.nytimes.com/2018/09/06/us/social-media-monitoring-school-shootings.html">Could Monitoring Students on Social Media Stop the Next School Shooting?</a>. <em>The New York Times</em>.</li>
+      <li>Tom Simonite. August 20, 2018. <a href="https://www.wired.com/story/algorithms-monitor-student-social-media-posts/">Schools Are Mining Students’ Social Media Posts for Signs of Trouble</a>. <em>Wired</em>.</li>
+    </ul>
+  </li>
+  <li><strong>Student Data</strong>
+    <ul>
+      <li><a href="https://www.eff.org/issues/student-privacy">Student Privacy</a>. <em>Electronic Frontier Foundation</em>.</li>
+      <li>Natasha Singer. May 13, 2017. <a href="https://www.nytimes.com/2017/05/13/technology/google-education-chromebooks-schools.html">How Google Took Over the Classroom</a>. <em>The New York Times</em>.</li>
+      <li>Gennie Gebhart. March 28, 2017. <a href="https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy">Privacy By Practice, Not Just By Policy: A System Administrator Advocating for Student Privacy</a>. <em>Electronic Frontier Foundation</em>.</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="to-do-4">To Do:</h3>
+<ol>
+  <li>Complete ethics readings and come to class prepared to discuss and debate.</li>
+  <li>Update your Trello project with the work you’ve completed this week. Identify any issues and get help as needed.</li>
+  <li>Complete the “Privacy &amp; Ethics” quiz.</li>
+</ol>
+
+<h2 id="week-6-final-project-due">Week 6: Final Project Due</h2>
+<p>There is no class meeting, finish up your project and turn it in. Have a great summer!</p>
+</div>
+</section>
+
+
+<footer class="footer mt-auto py-3 bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col mb-2">
+                <div class="d-flex align-items-end">
+                    <img src="img/au-white.png" alt="adelphi university" class="d-block" style="font-size: 32px">
+                    <a class="HomeLink d-block px-2 text-light link-offset-2 link-offset-3-hover link-underline-light
+                                        link-underline-opacity-0 link-underline-opacity-100-hover" href="index.html">
+                        Ed Tech Courses
+                    </a>
+                </div>
+
+            </div>
+            <div class="col mb-2">
+                <a href="https://mixi.nyc"><img alt="mixi institute for stem and the imagination" src="img/mixi.svg"
+                        style="height: 32px;" /></a>
+            </div>
+            <div class="col mb-2">
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="img/cc-by-sa-hz.png"
+                        alt="creative commons share alike attribution license"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+<script src="js/boot_styles.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', addBootstrapStyles);
+</script>
+
+</body>
+</html>

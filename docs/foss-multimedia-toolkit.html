@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |
+                     |_|
+ ______    _   _______        _
+|  ____|  | | |__   __|      | |
+| |__   __| |    | | ___  ___| |__
+|  __| / _` |    | |/ _ \/ __| '_ \
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+-->
+
+  <title>FOSS Multimedia Toolkit</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <meta name="date" content="$date$">
+
+
+  <link rel="shortcut icon" type="image/ico" href="img/favicon.ico">
+
+  <!--[if lt IE 9]>
+  <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+<link href="css/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<section id="syllabus" class="container-fluid p-0">
+    <div class="d-flex flex-row-reverse">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" href="index.html">courses</a>
+                    <a class="nav-link" href="plan-of-study.html">plan of study</a>
+                    <a class="nav-link" href="thesis.html">thesis</a>
+                    <a class="nav-link" href="https://online.adelphi.edu/graduate-degrees/ma-education-technology/">more info</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+<div class="container mx-auto mt-2"><h1 id="foss-multimedia-toolkit">FOSS Multimedia Toolkit</h1>
+<p>For many years I have used GNU/Linux computers as my main/sole computers. I mostly stay in the <a href="https://www.debian.org/">Debian</a>/<a href="https://ubuntu.com/">Ubuntu</a> line of distros because they are well documented and well supported. Lately I have been using <a href="https://pop.system76.com/">Pop!_OS</a> on a lot of my computers. I started using Linux because I was aligned with the <a href="https://fsfe.org/freesoftware/">freedom message</a> and it was the best platform for software development, especially if your software was going to run on a Linux server. For a while now, though, it’s been a great general purpose desktop platform that’s easy to maintain and trouble shoot, especially as a lot of “work” has migrated to web-based platforms (Chrome runs fine on Linux, if you’re wondering).</p>
+
+<p>As I’m teaching the <a href="https://adelphi-ed-tech.github.io/au-courses/multimedia-studio.html">2023 Multimedia Studio on Generative AI</a>, I’ve decided to put together this list of tools that I use for multimedia production. I’m not a professional multimedia producer – I’m a profession researcher of how people learn from multimedia and other software systems. So, I don’t warrant that this is the best or definitive list by any means.</p>
+
+<h2 id="screenshots">Screenshots</h2>
+<p>Of all of the tools and techniques on this list, I put making screenshots at the top. Like most people, I use screenshots daily – from my phone and computer(s). A lot of the other multimedia here begins with a screenshot. If you can help it at all, please don’t send me photos of your computer screen. Take a screen shot!</p>
+
+<p>Since <a href="https://support.mozilla.org/en-US/kb/take-screenshots-firefox">Mozilla added screenshots to Firefox</a>, I use Firefox for most of my screenshot taking. It’s quick, copies to the clipboard, and automatically clips to the underlying HTML elements.</p>
+
+<p>If I need a shot outside of Firefox, I use <a href="https://flameshot.org/">Flameshot</a> which has most of the features you want (delays, annotations, etc).</p>
+
+<p><a href="https://github.com/phw/peek">Peek</a> enables quick screen recordings that you can save (among other formats) as animated GIFs. I use Peek when I want to show something that requires short, simple steps (like a menu option).</p>
+
+<p>Occasionally, there has been a task where I want to automate screenshots. For this, I write a simple <code class="language-plaintext highlighter-rouge">bash</code> or <code class="language-plaintext highlighter-rouge">python</code> script that uses the command line tool, <a href="https://www.tecmint.com/take-screenshots-in-linux-using-scrot/">scrot</a>.</p>
+
+<h2 id="editing-photos">Editing Photos</h2>
+<p><a href="https://www.gimp.org/">GIMP</a> is the FOSS image editor, an <a href="https://alternativeto.net/software/adobe-photoshop/">alternative to Photoshop</a>. This is a go-to application for me and always finds a spot on my launcher. I mostly use it to scale and crop photos, add transparency to images, or <a href="https://www.gimp.org/tutorials/CircleImage/">crop thumbnails into a circle</a>. If I care about a photo (I’m going to print it or put it up online or use it in a presentation), I will do post processing and color correction in GIMP. I’ll also use it to remove something from an image, “shop” someone into a photo, etc. I only recently learned about how awesome the stamping tool can be.</p>
+
+<p>When I need to automate or batch image manipulation, <a href="https://imagemagick.org/">Image Magick</a> is usually where I turn first. (<a href="https://en.wikipedia.org/wiki/ImageMagick">Released in 1987</a>) it’s been available on every linux machine I’ve ever used. I would probably be better served by becoming more expert in <a href="https://pythongeeks.org/image-processing-in-python/">Python image processing</a>, so maybe I’ll chart my progress in a separate post.</p>
+
+<ul>
+  <li><a href="https://www.gimp.org/tutorials/">GIMP Tutorials</a></li>
+  <li><a href="https://www.linkedin.com/learning/search?keywords=gimp&amp;u=56671577">LinkedIn Learning GIMP</a></li>
+</ul>
+
+<h2 id="screen-recording">Screen Recording</h2>
+<p>It’s fair to say that I teach computer programming online via screen recordings, and for the past several years I have relied on <a href="https://obsproject.com">OBS: Open Broadcaster Studio</a>. OBS is full featured, allowing me to easily switch scenes between a full screen recording, a “talking head” recording from my webcam, or a picture-in-picture with me in the corner (at various sizes). The dual-monitor support makes it particularly nice to use. Less important for me, but essential for others, it supports live streaming. It’s configuration seems a little tricky at first, but it’s worth the effort.</p>
+
+<h2 id="video-editing">Video Editing</h2>
+<p>For other people, video editing might be first on the list. I don’t happen to incorporate a lot of live action in my multimedia teaching. If I were teaching cooking or microelectronics, my workflow would be very different and my first tool would be the video editor. Still, every multimedia author needs to have a solid grasp of a good video editor. For me, this has been an area where the FOSS ecosystem falls short. I have tried pretty much every <a href="https://itsfoss.com/open-source-video-editors/">FOSS editor</a> and have spent particular time with OpenShot, Flowblade, and Kdenlive. Of these, I have had the most success with OpenShot, however in my experience these editors have been unstable and/or missing key features such as precise editing while being able to see audio waves. For the past couple of years, I have settled on the non-free <a href="https://www.blackmagicdesign.com/products/davinciresolve/edit">DaVinci Resolve</a>. The free beer version has been stable and has all of the features that I need.</p>
+
+<p>While sometimes I can do a short OBS screen cast in one shot and post it directly, I usually post process a video in a video editor. At the very least, I like to take out dead space, add and add a title at the start. If it’s “important” I will:</p>
+
+<ul>
+  <li>edit together several short screen recordings</li>
+  <li>reduce dead space, add transitions, and/or speed up the video in segments where I’m typing and not speaking (if you’re typing a lot of code or demonstrating some other aspect of software, remember to keep quiet so that you can edit it later)</li>
+  <li>separate the audio and do noise reduction in Audacity</li>
+  <li>add sound/music to signal transitions and focus attention</li>
+  <li>add titles and text annotations</li>
+  <li>add still images (sometimes with labels) that I will discuss</li>
+  <li>mix in other videos (and add narration or text/image glosses)</li>
+</ul>
+
+<h2 id="vector-graphics">Vector Graphics</h2>
+<p><a href="https://en.wikipedia.org/wiki/Vector_graphics">Vector graphics</a> are small and scale without any loss. They are great for creating illustrations and working with text. If you need to, you can also mix in raster graphics (e.g. photos). I use vector drawing programs to create diagrams, info graphics, or for any work that requires a lot of text and images (because working with text in GIMP isn’t great).</p>
+
+<p><a href="https://inkscape.org/">Inkscape</a> is the FOSS alternative to Adobe Illustrator and like GIMP, it’s a very full featured, stable program. Recently, I have been using it a lot to “trace” aspects of images to create a hand drawn effect. Everyone should know the basics of drawing with curves, putting text on a path, and working with gradients (this also goes for your image editor).</p>
+
+<p>If my document requires paragraphs of text or is more of a flow diagram than an illustration, I will do the text in <a href="https://www.libreoffice.org/discover/draw/">LibreOffice Draw</a> (or for flow diagrams, the entire drawing in LibreOffice).</p>
+
+<h2 id="audio-editing">Audio Editing</h2>
+<p>Making a podcast? Can’t stop saying “um”? Have a fan in the background? Want to mix some beats together? Of all of the software on this list, <a href="https://www.audacityteam.org/">Audacity</a> is the one that I think is better for most people than any paid, proprietary competitor. I use Audacity directly to record audio if I don’t need video, to quickly transcode an audio file (e.g .wav to .mp3), for the great noise reduction filter, and to equalize different audio tracks. Install Audacity – it’s easy to learn and invaluable once you are accustomed to it.</p>
+
+<h2 id="wheres-blender">Where’s Blender?</h2>
+<p><a href="https://www.blender.org/">Blender</a> is a heavy hitter in the FOSS multimedia world. Unfortunately, my Blender skills are negligible, so it’s not very useful <em>to me.</em> Blender lets you create 3D models, animations, VFX, motion graphics, etc. I would like to learn it to, at least, make simple 2D animations. Maybe next year.</p>
+
+<p>foo</p>
+</div>
+</section>
+
+
+<footer class="footer mt-auto py-3 bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col mb-2">
+                <div class="d-flex align-items-end">
+                    <img src="img/au-white.png" alt="adelphi university" class="d-block" style="font-size: 32px">
+                    <a class="HomeLink d-block px-2 text-light link-offset-2 link-offset-3-hover link-underline-light
+                                        link-underline-opacity-0 link-underline-opacity-100-hover" href="index.html">
+                        Ed Tech Courses
+                    </a>
+                </div>
+
+            </div>
+            <div class="col mb-2">
+                <a href="https://mixi.nyc"><img alt="mixi institute for stem and the imagination" src="img/mixi.svg"
+                        style="height: 32px;" /></a>
+            </div>
+            <div class="col mb-2">
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="img/cc-by-sa-hz.png"
+                        alt="creative commons share alike attribution license"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+<script src="js/boot_styles.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', addBootstrapStyles);
+</script>
+
+</body>
+</html>
