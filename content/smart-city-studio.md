@@ -1,5 +1,10 @@
-% Educator's multimedia studio
-% Matthew X. Curinga
+---
+layout: syllabus
+title: "Educator's multimedia studio"
+author: "Matthew X. Curinga"
+---
+
+
 
 <!--
 This syllabus was created for
@@ -15,6 +20,9 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
+
+Educator's multimedia studio
+============================
 **Educational Technology 0850-620, Spring 2020**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
@@ -93,39 +101,39 @@ Clark, R. C., &amp; Mayer, R. E. (2016). _E-Learning and the Science of Instruct
 
 ## Class meetings
 
-     Dates  Topic                                   Due                Meeting
---  ------  --------------------------------------  -------------      ----------
- 1  Jan 27  Intro; Dual Coding / Cognitive Load     -                  Online
- 2   Feb 3  Smart Enough Cities, ch 1-4             -                  Harvey 104
- 3  Feb 10  Multimedia Principle & Contiguity       Multimedia 1       Online
- 4  Feb 17  Smart Enough Cities, ch 5-7             -                  Online
- 5  Feb 24  Modality & Redundancy                   Multimedia 2       Harvey 104
- 6   Mar 2  Briefings                               Briefing           Harvey 104
- 7   Mar 9  Coherence, Personalization, Segmenting  Multimedia 3       Online
- -  Mar 16  _Spring Break_                            -                  -
- 8  Mar 23  Pitches                                 Pitch Harvey       Harvey 104
- 9  Mar 30  Workshops                               Wk 1 & 2           Online
-10   Apr 6  Workshops                               Wk 3 & 4           Harvey 104
-11  Apr 13  Workshops                               Wk 5 & 6           Online
-12  Apr 20  Midpoint Critique                       Project prototype  Harvey 104
-13  Apr 27  Studio Session                          -                  Online
-14   May 4  Studio Session                          -                  Harvey 104
-15  May 11  User Testing                            -                  Online
-16  May 18  _Final due_                             Final Project      Harvey 104
+|    | Dates|Topic                                   |Due                |
+|--  |------|--------------------------------------  |-------------      |
+| 1  |Jan 27|Intro; Dual Coding / Cognitive Load     |-                  |
+| 2  | Feb 3|Smart Enough Cities, ch 1-4             |-                  |
+| 3  |Feb 10|Multimedia Principle & Contiguity       |Multimedia 1       |
+| 4  |Feb 17|Smart Enough Cities, ch 5-7             |-                  |
+| 5  |Feb 24|Modality & Redundancy                   |Multimedia 2       |
+| 6  | Mar 2|Briefings                               |Briefing           |
+| 7  | Mar 9|Coherence, Personalization, Segmenting  |Multimedia 3       |
+| -  |Mar 16|_Spring Break_                          |  -                |
+| 8  |Mar 23|Pitches                                 |Pitch Harvey       |
+| 9  |Mar 30|Workshops                               |Wk 1 & 2           |
+|10  | Apr 6|Workshops                               |Wk 3 & 4           |
+|11  |Apr 13|Workshops                               |Wk 5 & 6           |
+|12  |Apr 20|Midpoint Critique                       |Project prototype  |
+|13  |Apr 27|Studio Session                          |-                  |
+|14  | May 4|Studio Session                          |-                  |
+|15  |May 11|User Testing                            |-                  |
+|16  |May 18|_Final due_                             |Final Project      |
 
 Assignments
 --------------------------------------------------------------------------------
 ### Grading
 
-Assignment                % of final grade
-------------------------  ----------------
-participation             10%
-briefing                  10%
-workshop                  10%
-multimedia on multimedia  10%
-pitch                     10%
-critique                  20%
-final project             30%
+|Assignment                |% of final grade|
+|------------------------  |----------------|
+|participation             |10%             |
+|briefing                  |10%             |
+|workshop                  |10%             |
+|multimedia on multimedia  |10%             |
+|pitch                     |10%             |
+|critique                  |20%             |
+|final project             |30%             |
 
 ### Participation
 

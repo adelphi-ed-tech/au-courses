@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "School based practicum of educational technology"
+author: ""
+---
+
 % School based practicum of educational technology
 % Matthew X. Curinga,
   Aarong Hung

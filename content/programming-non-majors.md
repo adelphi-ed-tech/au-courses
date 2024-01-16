@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Computer Programming for Non-Majors"
+author: ""
+---
+
 % Computer Programming for Non-Majors
 % Matthew X. Curinga
 

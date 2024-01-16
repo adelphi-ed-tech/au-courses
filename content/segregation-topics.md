@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Jan 27: Welcome to the Multimedia Studio (zoom)"
+author: ""
+---
+
 Jan 27: Welcome to the Multimedia Studio (zoom)
 ===============================================
 **Agenda**

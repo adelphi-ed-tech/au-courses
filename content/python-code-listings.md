@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Think Python Code Listsings"
+author: ""
+---
+
 % Think Python Code Listsings
 % Matthew X. Curinga
 

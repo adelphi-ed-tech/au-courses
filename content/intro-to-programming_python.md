@@ -1,5 +1,9 @@
-% Introduction to Programming
-% Matthew X. Curinga
+---
+layout: bold
+title: "Introduction to Programming"
+author: "Matthew X. Curinga"
+title_img: "intro-cs.svg"
+---
 
 <!--
 This syllabus was created for
@@ -15,6 +19,9 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
+
+Introduction to Programming
+===========================
 
 **Computer Science 0145-602-001, Fall 2023**
 

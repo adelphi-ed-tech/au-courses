@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Smart City Studio Show"
+author: ""
+---
+
 % Smart City Studio Show
 
 <div class="container">

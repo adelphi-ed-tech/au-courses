@@ -1,8 +1,15 @@
-% Educational information systems and networks
-% Matthew X. Curinga
-  Tom Jennings
-  Christian Correa
-  David Frackman
+---
+layout: syllabus
+title: "Educational information systems and networks"
+author:
+   - "Matthew X. Curinga"
+   - "Tom Jennings"
+   - "Christian Correa"
+   - "David Frackman"
+---
+
+Educational information systems and networks
+============================================
 
 **0858-606, Summer 2022**
 
@@ -141,24 +148,24 @@ Software
 Schedule
 ========
 
-Week  Date          Topic            
-----  ------------  -------------------------------------
-   1  Wed, Jun 1    Computers & Operating Systems
-   2  Wed, Jun 8    The Command Line
-   3  Wed, Jun 15   Users, Groups, Files, & Permissions
-   4  Wed, Jun 22   Networks
-   5  Wed, Jun 29   Ethics
+|Week|Date        |Topic                               |
+|----|------------|------------------------------------|
+|   1|Wed, Jun 1  |Computers & Operating Systems       |
+|   2|Wed, Jun 8  |The Command Line                    |
+|   3|Wed, Jun 15 |Users, Groups, Files, & Permissions |
+|   4|Wed, Jun 22 |Networks                            |
+|   5|Wed, Jun 29 |Ethics                              |
 
 
 Grades & Assignments
 ====================
 
-Assignment                  Pct  Due
---------------------------  ---  -------
-Participation               20%  ongoing
-Quiz Design                 20%  ongoing
-Web Software Project        30%  6/18
-Final Group Project         30%  7/1
+|Assignment          |Pct |Due    |
+|--------------------|----|-------|
+|Participation       |20% |ongoing|
+|Quiz Design         |20% |ongoing|
+|Web Software Project|30% |6/18   |
+|Final Group Project |30% |7/1    |
 
 
 Participation

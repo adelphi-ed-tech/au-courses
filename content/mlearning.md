@@ -1,5 +1,10 @@
-% Mobile learning
-% Matthew X. Curinga
+---
+layout: syllabus
+title: "Mobile learning"
+author: 
+  - "Matthew X. Curinga"
+---
+
 
 <!-- **********************
     * This syllabus was created for
@@ -16,6 +21,8 @@
     * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
 
+Mobile learning
+===============================================
 **Educational Technology 0858-612, Spring 2022**
 
 **Course description.**
@@ -87,38 +94,38 @@ activities that draw on them later in the week._
 **Hyflex sessions: Wednesday 4:30-6:20**<br>
 <small>Manhattan Campus room 274 or zoom</small>
 
-Session  Date    Format  Topic                             Readings                                   Due
--------  ------  ------  --------------------------------  ---------------------------                ----------------------------
-      1  Jan 26  hyflex  Going mobile                      -                                          -
-      2  Feb 02  async   Mobile first                      Weiser, Curinga                            -
-      3  Feb 09  hyflex  Tech reports                      Explained Channel, Bright Side             tech report
-      4  Feb 16  hyflex  App inventor 1                    Tissenbaum, App Invetor Tutorial           -
-      5  Feb 23  async   Mobile computing and society      Black Mirror, Castells, Fussell, Aschoff   -
-      6  Mar 02  hyflex  Situated & Distributed Cognition  Sharples, Brown, Zhang                     -
-      7  Mar 09  async   Augmented reality                 Cantave, Ravenscraft, Patel, Cai           -
-      -  Mar 16  -       _spring break_                    -                                          app inventor 1
-      8  Mar 23  hyflex  1:1 Computing                     Zheng, Philip, Heflin, Naciri              -
-      9  Mar 30  async   Mobile games for learning         Laato, Facer, Squire                       -
-     10  Apr 06  hyflex  App inventor 2 workshop           -                                          -
-     11  Apr 13  async   Lit review                        -                                          lit review
-     12  Apr 20  hyflex  Reading screens                   Margolin, Singer                           -
-     13  Apr 27  async   UDL & Mobile Assistive Tech       Google switch, Tania’s story, Sik-Lányi    -
-     14  May 04  hyflex  Mobile app testing                -                                          app prototype
-      -  May 11  -       _no class (makeup day)_           -                                          -
-     15  May 18  async   app inventor project              -                                          app inventor 2
+|Session | Date   | Format | Topic                            | Readings                                  | Due            |
+|------- | ------ | ------ | -------------------------------- | ---------------------------               | ---------------|
+|      1 | Jan 26 | hyflex | Going mobile                     | -                                         | -              |
+|      2 | Feb 02 | async  | Mobile first                     | Weiser, Curinga                           | -              |
+|      3 | Feb 09 | hyflex | Tech reports                     | Explained Channel, Bright Side            | tech report    |
+|      4 | Feb 16 | hyflex | App inventor 1                   | Tissenbaum, App Invetor Tutorial          | -              |
+|      5 | Feb 23 | async  | Mobile computing and society     | Black Mirror, Castells, Fussell, Aschoff  | -              |
+|      6 | Mar 02 | hyflex | Situated & Distributed Cognition | Sharples, Brown, Zhang                    | -              |
+|      7 | Mar 09 | async  | Augmented reality                | Cantave, Ravenscraft, Patel, Cai          | -              |
+|      - | Mar 16 | -      | _spring break_                   | -                                         | app inventor 1 |
+|      8 | Mar 23 | hyflex | 1:1 Computing                    | Zheng, Philip, Heflin, Naciri             | -              |
+|      9 | Mar 30 | async  | Mobile games for learning        | Laato, Facer, Squire                      | -              |
+|     10 | Apr 06 | hyflex | App inventor 2 workshop          | -                                         | -              |
+|     11 | Apr 13 | async  | Lit review                       | -                                         | lit review     |
+|     12 | Apr 20 | hyflex | Reading screens                  | Margolin, Singer                          | -              |
+|     13 | Apr 27 | async  | UDL & Mobile Assistive Tech      | Google switch, Tania’s story, Sik-Lányi   | -              |
+|     14 | May 04 | hyflex | Mobile app testing               | -                                         | app prototype  |
+|      - | May 11 | -      | _no class (makeup day)_          | -                                         | -              |
+|     15 | May 18 | async  | app inventor project             | -                                         | app inventor 2 |
 
 
 Assignments & grading
 ----------------------------------------------------
 
-Assignment              Pct  Date Due
------------------------ ---  ---------
-Session leader          10%  ongoing
-Reading responses       10%  ongoing
-Tech report podcast     10%  Feb 10
-App Inventor app 1      20%  March 17
-Lit review              25%  March 31
-App Inventor app 2      25%  April 21
+|Assignment          |Pct |Date Due |
+|--------------------|--- |---------|
+|Session leader      |10% |ongoing  |
+|Reading responses   |10% |ongoing  |
+|Tech report podcast |10% |Feb 10   |
+|App Inventor app 1  |20% |March 17 |
+|Lit review          |25% |March 31 |
+|App Inventor app 2  |25% |April 21 |
 
 ### Session leader (individual)
 

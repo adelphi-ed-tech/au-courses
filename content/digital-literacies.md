@@ -1,7 +1,11 @@
-% Digital literacies & 21st century skills
-% Aaron Hung
-  Matthew X. Curinga
-  Gillian "Gus" Andrews
+---
+layout: syllabus
+title: "Digital literacies and 21st century skills"
+author: 
+  - "Aaron Hung"
+  - "Matthew X. Curinga"
+  - "Gillian 'Gus' Andrews"
+---
 
 <!--
 This syllabus was created for
@@ -18,13 +22,16 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
+Digital literacies and 21st century skills
+==========================================
+
 **Educational Technology 0858-501, Fall 2016**
 
 **Key words:** digital literacies, multileracies, new literacy, semantics, new media, communication
 theory, youth media, media studies, software studies
 
 Description
-====================
+------------
 How do multimedia, texting, chat, status updates, and hypertext change the way we read and interpret texts? Students study various theories of literacy and how it changes with the introduction of digital technologies. Readings will include selections on new media, new literacy, multiliteracies, multimedia cognition, and visual semantics.
 
 This foundational course provides students a conceptual framework to critically interpret digital media, and to author powerful and effective digital documents. Students have the opportunity to practice and develop these skills, which are central to many aspects of the degree in Educational Technology.
@@ -32,7 +39,7 @@ This foundational course provides students a conceptual framework to critically 
 ------------------------------------------------------------------------
 
 Class Information
-====================
+-----------------
 **Instructor:**
 
 - [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
@@ -51,7 +58,7 @@ This is an [_asynchronous_ online class](https://en.wikipedia.org/wiki/Asynchron
 - _office hours by appointment_
 
 Goals & objectives
-====================
+-------------------
 
 Two overarching goals drive this course. First, students should
 understand the literacy skills required to critically interpret digital
@@ -72,31 +79,32 @@ the tools and techniques of digital media. More specifically:
   attention to concerns of power and equity online and in classrooms.
 
 Class sessions
-====================
+-----------------
 
-### Dates and Schedule
-Week    Start   End     Topic                   Due
-----    -----   ------  -----------------       -------
-   1    Aug 29  Sep 04  Critical literacy    
-   2    Sep 05  Sep 11  What is Literacy?       Web portfolio
-   3    Sep 12  Sep 18  Multiliteracies               
-   4    Sep 19  Sep 25  New Media       
-   5    Sep 26  Oct 02  Studio workshop         Collage
-   6    Oct 03  Oct 09  Media Literacy      
-   7    Oct 10  Oct 16  Remix      
-   8    Oct 17  Oct 23  Images & Visuality    
-   9    Oct 24  Oct 30  Power, Media, & Race    
-  10    Oct 31  Nov 06  Power, Media, & Gender  Video critique    
-  11    Nov 07  Nov 13  Privacy & Security      
-  12    Nov 14  Nov 20  Visualizing data        
-  13    Nov 21  Nov 27  Data Workshop           Media analysis  
-  14    Nov 28  Dec 04  Coding culture
-  15    Dec 05  Dec 11  Computational Thinking  
-  16    Dec 12  Dec 18  Visual programming      Data report    
+#### Dates and Schedule
+
+| Week | Start  | End    | Topic                  | Due             |
+|------|--------|--------|------------------------|-----------------|
+|   1  | Aug 29 | Sep 04 | Critical literacy      |                 |
+|   2  | Sep 05 | Sep 11 | What is Literacy?      |  Web portfolio  |
+|   3  | Sep 12 | Sep 18 | Multiliteracies        |                 |
+|   4  | Sep 19 | Sep 25 | New Media              |                 |
+|   5  | Sep 26 | Oct 02 | Studio workshop        |  Collage        |
+|   6  | Oct 03 | Oct 09 | Media Literacy         |                 |
+|   7  | Oct 10 | Oct 16 | Remix                  |                 |
+|   8  | Oct 17 | Oct 23 | Images & Visuality     |                 |
+|   9  | Oct 24 | Oct 30 | Power, Media, & Race   |                 |
+|  10  | Oct 31 | Nov 06 | Power, Media, & Gender |  Video critique |    
+|  11  | Nov 07 | Nov 13 | Privacy & Security     |                 |
+|  12  | Nov 14 | Nov 20 | Visualizing data       |                 |
+|  13  | Nov 21 | Nov 27 | Data Workshop          |  Media analysis |  
+|  14  | Nov 28 | Dec 04 | Coding culture         |                 |
+|  15  | Dec 05 | Dec 11 | Computational Thinking |                 |
+|  16  | Dec 12 | Dec 18 | Visual programming     |  Data report    | 
 
 
-Week 0: Getting ready for Digital Literacies
---------------------------------------------
+#### Week 0: Getting ready for Digital Literacies
+
 
 Before our first class meeting, you must get your environment set-up and be ready to go.
 
@@ -128,40 +136,40 @@ This is a technical course, and expects students to come with some basic technic
         - you have done this using Skype, Facetime, Google Hangout, or similar software
 
 
-Week 1: Critical literacy
--------------------------
+#### Week 1: Critical literacy
 
-### Readings due:
+
+#### Readings due:
 Freire, P. (1971). Chapter 2 from _Pedagogy of the Oppressed_. (M. B. Ramos, Trans.). New York: Herder and Herder.
 
-Week 2: What is Literacy
--------------------------
+### Week 2: What is Literacy
+
 Gee, J. P. (1989). What Is Literacy? _Journal of Education_, _171_(1), 18–25.
 
 Delpit, L. D. (1992). Acquisition of literate discourse: Bowing before the master? _Theory into Practice_, _31_(4), 296–302.
 
-Week 3: Multiliteracies
-------------------------------
+### Week 3: Multiliteracies
 
-### Readings due:
+
+#### Readings due:
 The New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. _Harvard Educational Review_, 66(1), 60-92.
 
-Week 4: New Media
-------------------------------
+### Week 4: New Media
 
-### Readings due:
+
+#### Readings due:
 Manovich, L. (2007). "What is new media?" from _The language of new media_. MIT Press.
 
 
-Week 6: Media Literacy
-------------------------------
-### Readings due:
+### Week 6: Media Literacy
+
+#### Readings due:
 Baker, F. W. (2012) Teaching Media Literacy from _Media literacy in the K-12 classroom_. International Society for Technology in Education.
 
 Watch: "Fifteen Million Merits" _Black Mirror_ Season 1, Episode 2.
 
-Week 7: Copyright, Copyleft, & Remix
---------------------------------------
+### Week 7: Copyright, Copyleft, & Remix
+
 _No readings, only videos this week_
 
 Open Source Cinema. (2006). [Lessig Remix.](http://www.youtube.com/watch?v=TFdcPc-4Ris) YouTube. [Video 00:04:34]
@@ -175,46 +183,46 @@ Leadbeater, C. (2005). [The era of open innovation.](http://www.ted.com/talks/ch
 Question Copyright. (2011). [Copying Is Not Theft](http://youtu.be/IeTybKL1pM4?hd=1) [Video 00:01:00]
 
 
-Week 8: Images & Visuality
-------------------------------
-### Readings due:
+### Week 8: Images & Visuality
+
+#### Readings due:
 Debord, G. (1967). The Commodity as Spectacle from _The society of the spectacle_. New York.
 
 Mitchell, W. J. (2005). There are no visual media. _Journal of Visual Culture_, 4(2), 257–266.
 
-Week 9: Power, Media, & Race
-------------------------------
+### Week 9: Power, Media, & Race
 
-### Readings due:
+
+#### Readings due:
 Fanon, F. (2000). The fact of blackness. In L. Back & J. Solomos (Eds.), _Theories of Race and Racism: A Reader_ (pp. 257–266).
 
 Mirzoeff, N. (2015). [#BlackLivesLooking: A Year After Ferguson](http://tidalmag.org/blog/intensify/blackliveslooking-a-year-after-ferguson/). _Tidal_. (read online)
 
-Week 10: Power, Media, & Gender
-------------------------------
+### Week 10: Power, Media, & Gender
 
-### Readings due:
+
+#### Readings due:
 Mulvey, L. (1975). Visual pleasure and narrative cinema. _Media and Cultural Studies: Keyworks_, 393–404.
 
-Week 11: Privacy & Security
----------------------------
+### Week 11: Privacy & Security
+
 _No readings, just video_
 
 Watch [_Citizenfour_](https://thoughtmaybe.com/citizenfour/)
 
-Week 12: Visualizing Data
-----------------------------
-### Readings due:
+### Week 12: Visualizing Data
+
+#### Readings due:
 Tufte, E. (2001) The cognitive style of PowerPoint.
 
-Week 13: Data workshop
-----------------------------
+### Week 13: Data workshop
+
 _No readings, just data workshop._
 
 
-Week 15: Coding culture
------------------------
-### Readings due:
+### Week 15: Coding culture
+
+#### Readings due:
 
 Ford, P. (2015). [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) _Bloomberg Businessweek_, 11. (read online)
 
@@ -223,9 +231,9 @@ Kang, C., & Frankel, T. C. (2015). Silicon Valley struggles to hack its diversit
 Kang, C., & Frankel, T. C. (2015, July 16). [Silicon Valley struggles to hack its diversity problem.](https://www.washingtonpost.com/business/economy/silicon-valley-struggles-to-hack-its-diversity-problem/2015/07/16/0b0144be-2053-11e5-84d5-eb37ee8eaa61_story.html
 ) _The Washington Post._
 
-Week 14: Computational thinking and CS4All
-------------------------------------------
-### Readings Due:
+### Week 14: Computational thinking and CS4All
+
+#### Readings Due:
 Grover, S., & Pea, R. (2013). Computational Thinking in K–12: A Review of the State of the Field. _Educational Researcher_, _42_(1), 38–43.
 
 Deleuze, G. (1992). Postscript on the Societies of Control. _October_, _59_, 3–7.
@@ -236,17 +244,16 @@ Week 16: Visual programming
 _No readings, just some coding._
 
 Assignments
-===========
+-----------------------
 
-Digital portfolio
-------------------------------
+### Digital portfolio
 
-### Item 1: Web Portfolio
+#### Item 1: Web Portfolio
 
 For this course you will be setting up and creating your own website that will 
 showcase you work in this class. You will use the hosted [Wordpress](http://wordpress.com) content management system for your site. Your portfolio will be assessed on its logical structure/organization, its usability, and its use of design and other digital media elements to enhance its appeal and message. In short, your portfolio should demonstrate your mastery of the specific tools made available by Wordpress, and of the general techniques of expressing ideas through a multimedia website.
 
-### Item 2: Digital Collage
+#### Item 2: Digital Collage
 
 We live in a visual culture, and the ability to communicate using images is essential. The verb, "to photoshop" something has become common place in our society. You will create a **collage** where you exhibit your skills in digital image editing: cropping, scaling, selecting, composting, using layers, combining text and images. In addition to these _technical_ requirements, your collage must also strive for expressive content, common in our study of new media: playfulness, non-linearity and multiplicity, irony/paradox, etc. You are free to choose the subject and style of your collage.
 
@@ -258,7 +265,7 @@ We live in a visual culture, and the ability to communicate using images is esse
 - [DeviantArt Collage Search](http://www.deviantart.com/browse/all/?section=&global=1&q=collage)
 - [Quick Start to Making a Collage in Gimp](http://www.ehow.com/how_8416142_make-collage-gimp.html)
 
-### Item 3: Youth Media Video Critique
+#### Item 3: Youth Media Video Critique
 
 This is a group project. All group members will receive the same grade. Working with your group, you will produce one video critique of a youth media topic.
 
@@ -272,10 +279,10 @@ Technically, your video must have:
 - an opening title screen with text
 
 
-### Item 4: Media analysis
+#### Item 4: Media analysis
 While we will be writing short reading response posts on most weeks, during this course you will also write a more formal paper where you analyze a piece of digital media, using the frameworks discussed in our readings. The paper must ~1,000 words in length. For this paper we will practice peer editing and the drafting/revising process that is essential to writing high quality scholarly work. You should select a new media work (website, software/app, film, tv show, etc) and offer an original analysis of it. To complete your analysis you should refer to the various analytic frameworks we have studied in this course. Your analysis is not a summary or description of the work, but a pointed critique that uses the work you are analyzing to offer new insight and new ideas.
 
-### Item 5: Data report
+#### Item 5: Data report
 
 The networked society is characterized by the problem of overabundance rather than scarcity of information. This means you must be able to to gather, analyze, and communicate large amounts of data. While not all of this information is quantitative, this portfolio item focuses on quantitative analysis. You will demonstrate your data literacy skills by:
 
@@ -292,14 +299,14 @@ Your participation in the class is crucial for the class to succeed for all of u
 Grading
 ------------
 
-Item             % of grade 
----------------  ---------- 
-Web portfolio        10%
-Collage              20%
-Video critique       20%
-Media analysis       20%
-Data report          20%
-Participation        10%
+|Item             |% of grade |
+|---------------  |---------- |
+|Web portfolio    |    10%    |
+|Collage          |    20%    |
+|Video critique   |    20%    |
+|Media analysis   |    20%    |
+|Data report      |    20%    |
+|Participation    |    10%    |
 
 Web & Digital Media Toolbox
 =========================================
@@ -323,7 +330,7 @@ Software & Tools
 Books and online resources
 --------------------------
 
-### Design, accessibility, UX
+#### Design, accessibility, UX
 - [A List Apart](http://alistapart.com/topic/html)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Nielsen/Norman Group](http://www.nngroup.com/articles/)
@@ -334,7 +341,7 @@ Books and online resources
 - [Research-Based Web Design & Usability Guidelines](http://www.usability.gov/guidelines/guidelines_book.pdf)
 - [hex/html color chart](http://www.december.com/html/spec/color.html)
 
-### Media Resources
+#### Media Resources
 - [Creative Commons Search](http://search.creativecommons.org/), for images, music, etc
 - [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page), images and other media (including stuff from Wikipedia), curated
 - [Open Clip Art](https://openclipart.org/), free vector graphics

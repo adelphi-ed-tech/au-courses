@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "M-Learning K-12: Powerful learning with iPads"
+author: ""
+---
+
 % M-Learning K-12: Powerful learning with iPads 
 % Matthew X. Curinga
   Loreto Dumitrescu

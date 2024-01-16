@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Team-based development of educational technology"
+author: ""
+---
+
 % Team-based development of educational technology
 % Matthew X. Curinga
 

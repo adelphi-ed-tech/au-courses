@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Special topics: Philosophy of Visual Media"
+author: ""
+---
+
 % Special topics: Philosophy of Visual Media
 % Matthew X. Curinga
 

@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Programming web-based educational media"
+author: ""
+---
+
 % Programming web-based educational media
 % Matthew X. Curinga
   Antonios Saravanos

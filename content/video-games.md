@@ -1,5 +1,10 @@
-% Learning with games
-% Matthew X. Curinga; Aaron Chia-Yuan Hung
+---
+layout: syllabus
+title: "Learning with games"
+author:
+    - "Matthew X. Curinga"
+    - "Aaron Chia Yuan Hung"
+---
 
 <!-- **********************
     * This syllabus was created for
@@ -16,6 +21,8 @@
     * version: 2.1
     */-->
 
+Learning with games
+===================
 **Keywords:** games for learning, game design, serious games, simulations, multimedia learning, virtual reality, augmented reality
 
 **Educational Technology 0858-611**
@@ -79,36 +86,36 @@ Squire, K., & Jenkins, H. (2011). _Video games and learning: Teaching and partic
 
 Zubek, R. (2020). _Elements of game design._ The MIT Press.
 
-Session  Date    Topic
--------  ------  -------------------------------------
-      1  Sep 01  Intro
-      2  Sep 08  Play I
-      3  Sep 15  Learning I
-      4  Sep 22  Design I
-      5  Sep 29  Deep play I
-      6  Oct 06  Design II
-      7  Oct 13  Learning II
-      8  Oct 20  Prototyping
-      9  Oct 27  Analysis I
-     10  Nov 03  Play test I
-     11  Nov 10  Analysis II
-     12  Nov 17  Deep play II
-      -  Nov 24  _Thanksgiving Break_
-     13  Dec 01  Functionality
-     14  Dec 08  Play test 2  
-     15  Dec 15  Finals week: design doc due
+|Session|Date    |Topic                       |
+|-------|--------|----------------------------|
+|      1|Sep 01  |Intro                       |
+|      2|Sep 08  |Play I                      |
+|      3|Sep 15  |Learning I                  |
+|      4|Sep 22  |Design I                    |
+|      5|Sep 29  |Deep play I                 |
+|      6|Oct 06  |Design II                   |
+|      7|Oct 13  |Learning II                 |
+|      8|Oct 20  |Prototyping                 |
+|      9|Oct 27  |Analysis I                  |
+|     10|Nov 03  |Play test I                 |
+|     11|Nov 10  |Analysis II                 |
+|     12|Nov 17  |Deep play II                |
+|      -|Nov 24  |_Thanksgiving Break_        |
+|     13|Dec 01  |Functionality               |
+|     14|Dec 08  |Play test 2                 |
+|     15|Dec 15  |Finals week: design doc due |
 
 Assignments & Grading
 -------------------------------------------------------------------------------
 **due dates and grading**
 
-assignment         due      pct
------------------  -------  -----
-Game study post 1  Sep 29   6%
-Game study post 2  Oct 20   7%
-Game study post 3  Nov 17   7%
-Game Analysis      Nov 23   40%
-Game Design        Dec 15   40%
+|assignment        |due    |pct  |
+|------------------|-------|-----|
+|Game study post 1 |Sep 29 |6%   |
+|Game study post 2 |Oct 20 |7%   |
+|Game study post 3 |Nov 17 |7%   |
+|Game Analysis     |Nov 23 |40%  |
+|Game Design       |Dec 15 |40%  |
 
 ### Game study posts (20 points)
 One of our goals for this course is to turn a critical eye towards games so that we can gain a better understanding of how they work, _when_ they work, and what their possibilities are. This skill helps us to design our own game/play activities, to understand how to incorporate game for teaching, and to appreciate the role that games play in our society.

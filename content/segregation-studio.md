@@ -1,5 +1,8 @@
-% Educator's multimedia studio
-% Matthew X. Curinga
+---
+layout: syllabus
+title: "Educator's multimedia studio"
+author: "Matthew X. Curinga"
+---
 
 <!--
 This syllabus was created for
@@ -15,6 +18,9 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
+
+Educator's multimedia studio
+============================
 **Educational Technology 0858-620, Spring 2023**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
@@ -46,8 +52,8 @@ This course will follow a weekly schedule of online, asynchronous assignments. Y
 ## Spring 2021 Studio: School Segregation in the 21<sup>st</sup> Century
 
 <figure>
-<img class="img-fluid d-block" src="integrate-now.png" alt="instagram photo, teenstakecharge, black high school girl with a sign says integrate now">
-<figcaption class="bg-dark text-white p-1">Youth activist group [Teens Take Charge](https://www.teenstakecharge.com/) want to abolish screening in NYC schools.</figcaption>
+<img class="img-fluid d-block" src="img/integrate-now.png" alt="instagram photo, teenstakecharge, black high school girl with a sign says integrate now">
+<figcaption class="bg-dark text-white p-1">Youth activist group <a href="https://www.teenstakecharge.com/">Teens Take Charge</a> want to abolish screening in NYC schools.</figcaption>
 </figure>
 
 Each semester the multimedia studio features a different challenge, dealing with an
@@ -95,40 +101,40 @@ Delgado, R., & Stefancic, J. (2001). _Critical race theory: An introduction_. Ne
 
 ## Class meetings
 
-week  date    topic                                   workshop         format
-----  ------  ---------------------------------       --------         -------------
-   1  Jan 27  Multimedia Studio                       -                zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   2  Feb 03  21st Century School Segregation         screencast       asynchronous
-   3  Feb 10  Past & Present of Discrimination        audio            zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   4  Feb 17  NYC Schools Today                       video            asynchronous
-   5  Feb 24  Topic Briefings                         data viz         zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   6  Mar 03  Pitches                                 photo editing    zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   -  Mar 10  _no class (mini break)_                                  -
-   7  Mar 17  Cognitive Load Theory                   vector graphics  zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-   8  Mar 24  Multimedia Principle & Contiguity       web dev          asynchronous
-   9  Mar 31  Modality & Redundancy                   open topics      zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-  10  Apr 07  Coherence, Personalization, Segmenting  -                asynchronous
-  11  Apr 14  Prototype Critique                      -                zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-  12  Apr 21  Studio Session                          -                asynchronous
-  13  Apr 28  User Testing                            -                zoom [[meeting](https://adelphiuniversity.zoom.us/j/97908769008)]
-  14  May 05  Studio Session                          -                asynchronous
-   -  May 12  _no class (makeup day)_                 -                -
-  15  May 19  zoom (final presentations)              -                zoom
+|week  |date    |topic                                   |workshop        |
+|----  |------  |---------------------------------       |--------        |
+|   1  |Jan 27  |Multimedia Studio                       |-               |
+|   2  |Feb 03  |21st Century School Segregation         |screencast      |
+|   3  |Feb 10  |Past & Present of Discrimination        |audio           |
+|   4  |Feb 17  |NYC Schools Today                       |video           |
+|   5  |Feb 24  |Topic Briefings                         |data viz        |
+|   6  |Mar 03  |Pitches                                 |photo editing   |
+|   -  |Mar 10  |_no class (mini break)_                 |                |
+|   7  |Mar 17  |Cognitive Load Theory                   |vector graphics |
+|   8  |Mar 24  |Multimedia Principle & Contiguity       |web dev         |
+|   9  |Mar 31  |Modality & Redundancy                   |open topics     |
+|  10  |Apr 07  |Coherence, Personalization, Segmenting  |-               |
+|  11  |Apr 14  |Prototype Critique                      |-               |
+|  12  |Apr 21  |Studio Session                          |-               |
+|  13  |Apr 28  |User Testing                            |-               |
+|  14  |May 05  |Studio Session                          |-               |
+|   -  |May 12  |_no class (makeup day)_                 |-               |
+|  15  |May 19  |zoom (final presentations)              |-               |
 
 
 Assignments
 --------------------------------------------------------------------------------
 ### Grading
 
-Assignment                % of final grade
-------------------------  ----------------
-participation             10%
-topic briefing            10%
-workshop                  10%
-multimedia learning       10%
-pitch                     10%
-critique                  20%
-final project             30%
+|Assignment           |% of final grade |
+|---------------------|---------------- |
+|participation        |10%              |
+|topic briefing       |10%              |
+|workshop             |10%              |
+|multimedia learning  |10%              |
+|pitch                |10%              |
+|critique             |20%              |
+|final project        |30%              |
 
 ### Participation
 

@@ -1,11 +1,18 @@
-% Programming web-based educational media
-% Matthew X. Curinga
-  Antonios Saravanos
-  Robby Lucia
+---
+layout: syllabus
+title: "Programming web-based educational media"
+author:
+  - "Matthew X. Curinga"
+  - "Antonios Saravanos"
+  - "Robby Lucia"
+---
 
-**EDT 603 _Programming web-based educational media_, Summer 2023**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~{.html .numberLines}
+Programming web-based educational media
+=======================================
+**Educational Technology 0858-603, Summer 2023**
+
+{% highlight html linenos %}
 <!DOCTYPE html>
 <html>
   <body>
@@ -20,7 +27,7 @@
     </blockquote>
   </body>
 </html>
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+{% endhighlight %}
 
 **Description:** In this course students learn techniques of web programming to
 develop interactive, educational media. Using the Javascript (React)

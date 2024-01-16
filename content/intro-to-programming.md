@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Introduction to Programming"
+author: ""
+---
+
 % Introduction to Programming
 % Matthew X. Curinga
 

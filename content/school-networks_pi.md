@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Educational information systems and networks"
+author: ""
+---
+
 % Educational information systems and networks
 % Matthew X. Curinga
   Tom Jennings

@@ -1,8 +1,14 @@
-% Teaching with social media
-% Matthew X. Curinga
-  Laura Martin
+---
+layout: syllabus
+title: "Teaching with social media"
+author:
+    - "Matthew X. Curinga"
+    - "Kai Williams"
+---
 
-**EDT 613 Teaching with social media**
+Teaching with social media
+==========================
+**0858-618, Spring 2013**
 
 **Keywords:** social media, social software, educational technology,
 social networks, online learning, informal learning

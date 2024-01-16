@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "School Desegragation Studio Final Projects"
+author: ""
+---
+
 % School Desegragation Studio Final Projects
 % Matthew X. Curinga
 

@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Foundations of Open Education"
+author: ""
+---
+
 % Foundations of Open Education
 % Matthew X. Curinga
 

@@ -1,6 +1,11 @@
-% Educator's multimedia studio
-% Matthew X. Curinga
-% Aaron Chia Yuan Hung
+---
+layout: syllabus
+title: "Educator's multimedia studio"
+author: 
+  - "Matthew X. Curinga"
+  - "Aaron Chia Yuan Hung"
+---
+
 
 <!--
 This syllabus was created for
@@ -16,6 +21,9 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
+
+Learning Analytics
+==================
 **Learning Analytics 0850-723, Fall 2020**
 
 **Keywords:** learning analytics, data science, educational data mining, edm,

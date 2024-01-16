@@ -1,5 +1,10 @@
-% Educator's multimedia studio
-% Matthew X. Curinga
+---
+layout: syllabus
+title: "Educator's multimedia studio"
+author: "Matthew X. Curinga
+"
+---
+
 
 <!--
 This syllabus was created for
@@ -15,6 +20,9 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
+
+Educator's multimedia studio
+=============================
 **Educational Technology 0850-620, Spring 2017**
 
 **Keywords:** studio pedagogy, interaction design, multimedia
@@ -48,6 +56,8 @@ original educational resources.
 Each semester the multimedia studio features a different challenge, dealing with an
 important, global topic. Students will be asked to work on a semester
 long multimedia project that teaches some aspect of this challenge.
+
+<img class="img-fluid d-block" src="img/breach.png" alt="card from the game 'breach' by Ryan Sobeck">
 
 The Spring 2017 Studio theme is information security, hackers, and digital
 privacy. We believe that cyber-security is an increasingly important
@@ -119,25 +129,25 @@ Smith, Sean, and John Marchesini. 2007. _The Craft of System Security_. Upper Sa
 
 ## Class meetings
 
-Session     Date  Due
-----------  ----  --------------------------
-1           1/24
-2           1/31  briefing 1
-3           2/07
-4           2/14
-5           2/21  book talk
-6           2/28  pitch
-7           3/07  briefing 2
-_no class_  3/14  Spring Break
-8           3/21
-9           3/28  midpoint critique
-10          4/04
-11          4/11
-12          4/18
-_no class_  4/25  Research Day
-13          5/02
-14          5/09
-15          5/16  final project
+|Session     |Date |  Due
+|----------  |---- |  --------------------------
+|1           |1/24 |
+|2           |1/31 |  briefing 1
+|3           |2/07 |
+|4           |2/14 |
+|5           |2/21 |  book talk
+|6           |2/28 |  pitch
+|7           |3/07 |  briefing 2
+|_no class_  |3/14 |  Spring Break
+|8           |3/21 |
+|9           |3/28 |  midpoint critique
+|10          |4/04 |
+|11          |4/11 |
+|12          |4/18 |
+|_no class_  |4/25 |  Research Day
+|13          |5/02 |
+|14          |5/09 |
+|15          |5/16 |  final project
 
 
 ## Assignments
@@ -162,13 +172,13 @@ _teach_ something worth learning and _effectively use multimedia_ to do so. Past
 
 ### Grading & due dates
 
-Assignment due      % of final grade
------------------   ----------------
-briefings               10%
-book talk               10%
-pitch                   10%
-mid-term critique       20%
-final project           50%
+|Assignment due     | % of final grade
+|-----------------  | ----------------
+|briefings          |     10%
+|book talk          |     10%
+|pitch              |     10%
+|mid-term critique  |     20%
+|final project      |     50%
 
 ### Briefings
 The two "briefing" sessions will help us develop our domain knowledge of cyber security. You will choose a specific topic of your choice related to information security and then write a short (300 word)

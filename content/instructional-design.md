@@ -1,5 +1,9 @@
-% Technology & Instructional Design
-% Aaron Hung
+---
+layout: syllabus
+title: "Technology & Instructional Design"
+author: "Aaron Hung"
+---
+
 
 <!--
 This syllabus was created for
@@ -16,7 +20,9 @@ version: 3.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Technology & Instructional Design 0858-503 (online), Fall 2018**
+Technology & Instructional Design
+=================================
+**0858-503 (online), Fall 2018**
 
 **Keywords:**  learning design, learning sciences, curriculum studies, instructional technology, instructional design
 

@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Apps4Ed Programming Workshop"
+author: ""
+---
+
 % Apps4Ed Programming Workshop
 % Matthew X. Curinga
 

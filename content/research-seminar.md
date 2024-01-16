@@ -1,5 +1,9 @@
-% Research and evaluation of educational technology
-% Matthew X. Curinga
+---
+layout: syllabus
+title: "Research and evaluation of educational technology"
+author:
+    - "Matthew X. Curinga"
+---
 
 <!--
 This syllabus was created for
@@ -16,7 +20,9 @@ version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Educational Technology 0858-618, Spring 2012**
+Research and evaluation of educational technology
+=================================================
+**0858-618, Spring 2012**
 
 **Keywords:** research methods, good questions, design research,
 ethnography, statistics, quantitative research, epistemology,

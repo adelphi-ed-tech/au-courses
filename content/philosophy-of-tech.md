@@ -1,7 +1,12 @@
-% Philosophy of technology
-% Matthew X. Curinga
-  Aaron Hung
-  Elizabeth de Freitas
+---
+layout: base
+title: "Philosophy of technology"
+author:
+    - "Matthew X. Curinga"
+    - "Aaron Hung"
+    - "Elizabeth de Freitas"
+---
+
 
 <!-- **********************
     * This syllabus was created for

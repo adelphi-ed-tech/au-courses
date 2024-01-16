@@ -1,6 +1,11 @@
-% Educational Technology Integrated Thesis Project
-% Matthew X. Curinga
-  Aaron Hung
+---
+layout: syllabus
+title: "Educational Technology Integrated Thesis Project"
+author:
+  - "Matthew X. Curinga"
+  - "Aaron Hung"
+---
+
 
 <!-- **********************
     * This syllabus was created for
@@ -16,6 +21,10 @@
     * version: 2.1
     * Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
     */-->
+
+
+Educational Technology Integrated Thesis Project
+================================================
 
 **Educational Technology 0858-793**
 

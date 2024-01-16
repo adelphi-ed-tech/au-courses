@@ -1,5 +1,8 @@
-% Educator's multimedia studio
-% Matthew X. Curinga
+---
+layout: syllabus
+title: "Educator's multimedia studio"
+author: "Matthew X. Curinga"
+---
 
 <!--
 This syllabus was created for
@@ -15,6 +18,9 @@ We ask, but do not require, that attribution includes a link to our websites (ab
 version: 2.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
+
+Educator's multimedia studio
+============================
 **Educational Technology 0858-620, Spring 2023**
 
 <img class="img-fluid d-block" src="img/welcome-to-ai-studio.png" width="100%" alt="Multimedia Studio 2023: Generative AI Studio">
@@ -70,33 +76,38 @@ At the end of the studio, every student will have a high quality, published mult
 
 <div class="d-flex p-2">
 <img class="d-block" src="img/multimedia-learning-cover.png" alt="Multimedia Learning Book Cover">
-<p class="p-2">Mayer, R. E. (2020). _Multimedia Learning (3rd edition)._ Cambridge University Press.<br>
-Buy: [[Indiebound](https://www.indiebound.org/book/9781316638088)] [[Barnes & Noble](https://www.barnesandnoble.com/w/multimedia-learning-richard-e-mayer/1116943046?ean=9781316638088)] [[Amazon](https://www.amazon.com/Multimedia-Learning-Richard-Mayer-ebook/dp/B088SZNG7B/)]</p>
+<p class="p-2">
+{% capture md %}
+Mayer, R. E. (2020). _Multimedia Learning (3rd edition)._ Cambridge University Press.<br>
+Buy: [[Indiebound](https://www.indiebound.org/book/9781316638088)] [[Barnes & Noble](https://www.barnesandnoble.com/w/multimedia-learning-richard-e-mayer/1116943046?ean=9781316638088)] [[Amazon](https://www.amazon.com/Multimedia-Learning-Richard-Mayer-ebook/dp/B088SZNG7B/)]
+{% endcapture %}
+{{ md | markdownify }}
+</p>
 </div>
 
 _Other readings provided through course website._
 
 ## Class meetings
 
-week  date    topic                                 
-----  ------  ---------------------------------     
- 1    Jan 26   Generative AI & Science of Learning
- 2    Feb 02   Multimedia Principle
- 3    Feb 09   Multimedia Group 1
- 4    Feb 16   Multimedia Group 2
- 5    Feb 23   Multimedia Group 3
- 6    Mar 02   Multimedia Group 4
- 7    Mar 09   Topic Briefing (1 & 2)
- -    Mar 16   Spring Break
- 8    Mar 23   Topic Briefing (3 & 4)
- 9    Mar 30   Pitches
-10    Apr 06   Studio: photos & illustrations
-11    Apr 13   Studio: video & audio editing
-12    Apr 20   Studio: data viz
-13    Apr 27   Studio: web publishing
-14    May 04   Critique
-15    May 11   Studio Session
-16    May 18   Final Show (live zoom)
+|week  |date    |topic                                | 
+|----  |------  |-------------------------------------|
+| 1    |Jan 26  |Generative AI & Science of Learning  |
+| 2    |Feb 02  |Multimedia Principle                 |
+| 3    |Feb 09  |Multimedia Group 1                   |
+| 4    |Feb 16  |Multimedia Group 2                   |
+| 5    |Feb 23  |Multimedia Group 3                   |
+| 6    |Mar 02  |Multimedia Group 4                   |
+| 7    |Mar 09  |Topic Briefing (1 & 2)               |
+| -    |Mar 16  |Spring Break                         |
+| 8    |Mar 23  |Topic Briefing (3 & 4)               |
+| 9    |Mar 30  |Pitches                              |
+|10    |Apr 06  |Studio: photos & illustrations       |
+|11    |Apr 13  |Studio: video & audio editing        |
+|12    |Apr 20  |Studio: data viz                     |
+|13    |Apr 27  |Studio: web publishing               |
+|14    |May 04  |Critique                             |
+|15    |May 11  |Studio Session                       |
+|16    |May 18  |Final Show (live zoom)               |
 
 <figure>
 <img class="img-fluid d-block" src="img/ai-studio.png" width="100%" alt="a robot stands in front of a blackboard teaching a class">
@@ -107,14 +118,14 @@ Assignments
 --------------------------------------------------------------------------------
 ### Grading
 
-Assignment        % of final grade
-----------------  ----------------
-self-evaluation   10%
-multimedia group  15%
-topic briefing    15%
-pitch             10%
-critique          20%
-final project     30%
+|Assignment       |% of final grade|
+|-----------------|----------------|
+|self-evaluation  |10%             |
+|multimedia group |15%             |
+|topic briefing   |15%             |
+|pitch            |10%             |
+|critique         |20%             |
+|final project    |30%             |
 
 ### Self-evaluation
 Everyone will complete 2 self-evaluations during the semester. This online studio

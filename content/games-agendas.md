@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: ""
+author: ""
+---
+
 
 _Please complete the readings prior to the class session. All readings are in the "Learning with Games Readings" on Google Drive. Please see the sequence._
 

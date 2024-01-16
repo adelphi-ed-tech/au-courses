@@ -1,3 +1,9 @@
+---
+layout: syllabus
+title: "Intalling Picroft"
+author: ""
+---
+
 % Intalling Picroft
 
 <style>
