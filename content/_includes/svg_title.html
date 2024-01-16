@@ -1,0 +1,9 @@
+{% capture svg %}
+<svg width="200" height="800" xmlns="http://www.w3.org/2000/svg">
+    <text x="190" y="750" transform="rotate(-90 190,750)" font-family="Graphik" 
+    font-size="120" text-anchor="end">{{include.text }}</text>
+</svg>
+{% endcapture %}
+
+{% assign encoded_svg = svg | strip_newlines | uri_escape %}
+url('data:image/svg+xml;charset=UTF-8,{{ encoded_svg }}')

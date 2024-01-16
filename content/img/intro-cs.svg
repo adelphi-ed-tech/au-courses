@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26.043135mm"
+   height="308.19687mm"
+   viewBox="0 0 26.043134 308.19687"
+   version="1.1"
+   id="svg827"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="intro-cs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.7977316"
+     inkscape:cx="-248.20378"
+     inkscape:cy="518.97154"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs824">
+    <rect
+       x="99.287895"
+       y="458.18835"
+       width="590.69623"
+       height="176.7767"
+       id="rect4872" />
+    <filter
+       inkscape:label="Old Postcard"
+       inkscape:menu="Image Paint and Draw"
+       inkscape:menu-tooltip="Slightly posterize and draw edges like on old printed postcards"
+       style="color-interpolation-filters:sRGB"
+       id="filter24534"
+       x="-0.01050975"
+       y="-0.16104849"
+       width="1.0210195"
+       height="1.322097">
+      <feFlood
+         flood-color="rgb(255,204,0)"
+         flood-opacity="0.1"
+         result="result1"
+         id="feFlood24508" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="darken"
+         result="result6"
+         id="feBlend24510" />
+      <feComposite
+         in2="result6"
+         result="result8"
+         operator="arithmetic"
+         k2="1"
+         id="feComposite24512"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         result="result5"
+         values="0"
+         type="hueRotate"
+         in="result8"
+         id="feColorMatrix24514" />
+      <feConvolveMatrix
+         result="result1"
+         order="3 3"
+         kernelMatrix="0 -1 0 -1 5.05 -1 0 -1 0 "
+         divisor="1"
+         in="result5"
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix24516" />
+      <feGaussianBlur
+         result="result2"
+         stdDeviation="2"
+         in="result1"
+         id="feGaussianBlur24518" />
+      <feComponentTransfer
+         result="result4"
+         in="result2"
+         id="feComponentTransfer24526">
+        <feFuncR
+           type="table"
+           tableValues="0 0 0.2 0.2 0.4 0.4 0.6 0.6 0.8 0.8 1 1 1"
+           id="feFuncR24520" />
+        <feFuncG
+           type="table"
+           tableValues="0 0 0.2 0.2 0.4 0.4 0.6 0.6 0.8 0.8 1 1 1"
+           id="feFuncG24522" />
+        <feFuncB
+           type="table"
+           tableValues="0 0 0.2 0.2 0.4 0.4 0.6 0.6 0.8 0.8 1 1 1"
+           id="feFuncB24524" />
+      </feComponentTransfer>
+      <feBlend
+         in2="result1"
+         result="result3"
+         mode="darken"
+         in="result4"
+         id="feBlend24528" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         result="result7"
+         id="feColorMatrix24530" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite24532" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.681032,82.340266)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.66091465,0.66091465,0,-273.64473,288.30453)"
+       id="text4870"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Capture it';-inkscape-font-specification:'Capture it, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4872);fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter24534)"><tspan
+         x="99.287109"
+         y="503.1875"
+         id="tspan10165">INTRO TO PROGRAMMING</tspan></text>
+  </g>
+</svg>

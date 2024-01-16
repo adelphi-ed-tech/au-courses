@@ -1,0 +1,217 @@
+- course: EDT 501 Digital Literacies and 21<sup>st</sup> Century Skills
+  url: digital-literacies.html
+  img:
+    src: fake-news.jpg
+    alt: Reporters with various forms of 'fake news' from an 1894 illustration by Frederick Burr Opper
+
+  required: true
+  desc: >
+    How do multimedia, texting, chat, status updates, and hypertext change the way we read and interpret texts? 
+    Students study various theories of literacy and how it changes with the introduction of digital technologies. 
+    Readings will include selections on new media, new literacy, multiliteracies, multimedia cognition, and visual semantics.
+
+- course: EDT 503 Technology and Instructional Design
+  url: instructional-design.html
+  img:
+    src: wireframe.png
+    alt: a wireframe
+
+  required: true
+  desc: >
+    Students will learn the foundations of instructional design 
+    and understand how to integrate technology in meaningful ways in K-12, 
+    higher education or other educational settings. Students will also 
+    learn how to develop and assess learning plans that are aligned to technology 
+    standards and/or other learning outcomes.
+
+- course: EDT 604 Technology and Society
+  img:
+    src: women-cs-history.png
+    alt: 4 female programmers in front of an early computer
+  required: true
+  desc: >
+    Students are introduced to major critical views on technology, culture, society, and education.
+    Students are also exposed to perspectives and ideologies such as Marxist, feminist, and posthumanism. 
+    These positions will help students analyze and contextualize the role of technology along sociotechnical, 
+    historical, political, pedagogical, and ethical lines.
+
+
+- course: CSC 602 Introduction to Computer Programming
+  url: intro-to-programming_python.html
+  img:
+    src: python-logo.png
+    alt: Python intertwined snakes and text on white field
+
+  required: true
+  desc: >
+    This course introduces students to programming and
+    some core concepts of computer science, using a modern, object oriented
+    programming language. Students learn concepts of
+    variables, functions, selection, repetition/loops, 
+    basic data structures (arrays, lists, hashtables), and basic object oriented programming.
+
+
+- course: EDT 606 Educational Information Systems and Networks
+  url: school-networks.html
+  img:
+    src: rpi.png
+    alt: illustrated raspberry pi
+
+  required: true
+  desc: >
+    From a foundation of computer networks and systems, this course
+    expands to cover instructional technology infrastructure: file systems, users,
+    wired and wireless networks, email, web servers, computer labs, and common educational
+    software services. This course focuses on Free Software; where the source code
+    is free to use, study, or modify. To explore these topics in this hands on class
+    all students will be configuring their own Raspberry Pi computers and using them
+    to complete a software/hardware project.
+
+
+- course: EDT 603 Programming Web-Based Educational Media
+  url: web-programming.html
+  img:
+    src: web-programming.png
+    alt: html and markdown code for the csc 602 syllabus
+
+  required: false
+  desc: >
+    Students learn to design interactive websites and program multi-tiered web applications.
+
+
+
+- course: EDT 618 Research and Evaluation of Educational Technology
+  url: research-seminar.html
+  img:
+    src: research.png
+    alt: data modeling in SPSS software
+
+  required: true
+  desc: >
+    In this course, students investigate methods for determining 
+    if a given technology contributes to a stronger educational experience. 
+    Reviewing the body of research on educational technology, students will
+    probe the merits of different methodologies. Students learn how to 
+    develop good research questions and choose methodologies to conduct 
+    their own investigations.
+
+
+- course: EDT 620 Educator’s Multimedia Studio
+  url: multimedia-studio.html
+  img:
+    src: welcome-to-ai-studio.png
+    alt: welcome to AI studio
+
+  required: true
+  desc: >
+    How can digital media best support learning?
+    Working on semester-long projects, students learn about interaction
+    and instructional design. In this hands-on studio, develop and
+    extend skills in multimedia authoring: digital images/audio/video,
+    and interactive web development. Apply these skills to create a
+    original educational resources. Each studio has its own theme.
+    Previous studios have focused on creating multimedia to explore:
+    information security, school segregation, smart cities, generative AI,
+    and more.
+
+
+
+- course: EDT 612 Mobile Learning
+  url: mlearning.html
+  img: 
+   src: tracy-watch.jpg
+   alt: comic of Dick Tracy and his smart watch
+
+  required: false
+  desc: >
+    Most of the world connects to the Internet from mobile phones, most of the time.
+    Chromebooks, Android tablets and iPads have made one-to-one computing a reality
+    in many U.S. school systems. Augmented reality and location based software offer
+    new opportunities for context aware learning. Students carry significant
+    computing power in their pockets. This course considers how mobile computing
+    forces us to reconsider the time and place of learning.
+
+
+
+
+- course: EDT 611 Learning with Video Games
+  url: video-games.html
+  img:
+    src: kerbal.png
+    alt: screen from kerbal space program simulator
+  required: false
+  desc: > 
+    Video games have become an increasingly important source 
+    of culture and entertainment in our society. They are 
+    more popular than Hollywood movies, yet receive a fraction 
+    of the attention, especially in academia. In recent years, 
+    this has been changing, as scholars have begun to interrogate 
+    games from many levels: design, critique, and as a means of 
+    learning. In this course, we really have 3 separate, 
+    but overlapping goals: 1) to understand video games 
+    as a social and cultural phenomenon, especially 
+    important to youth culture; 2) to think of ways 
+    to teach _about_ video games, as part of a (digital) 
+    literacy perspective; and 3) to investigate ways 
+    to teach with games, both off the shelf and ones 
+    that we design ourselves.
+
+- course: EDT 610 Online Learning
+  url: online-ed.html
+  img:
+    src: remote.jpg
+    alt: person at computer
+
+  required: false
+  desc: >
+    Online, hybrid, remote, and blended learning have become the norm in both K-12 and higher education.
+    This course explores the unique challenges and opportunities of online learning, looking at the field
+    from a historical, pedagogical, and design perspective.
+
+
+- course: EDT 613 Teaching with Social Media
+  url: social-media.html
+  img:
+    src: social.png
+    alt: social media icons as polaroids
+
+  required: false
+  desc: >
+    Social media pervades our social life; with implications
+    for education, business and beyond. Examine the sociological and
+    psychological impacts, benefits and risks of social media. We examine
+    popular and lesser known social media, focusing on
+    their use in classrooms to build community, develop literacy, and foster
+    critical thinking.
+
+
+
+- course: EDT 791 S/T Learning analytics
+  url: learning-analytics.html
+  img:
+    src: lak.png
+    alt: digital charts
+  required: false
+  desc: >
+    Learning analytics is the use of data and algorithms to improve learning.
+    This course explores the history, theory, and practice of learning analytics.
+    Students will learn how to use data to improve learning, and how to critique
+    the use of data in education. No prior experience with computer programming
+    or statistics is required, but students will be learning to use both in this course.
+
+- course: EDT 791 S/T The art of digital storytelling with video
+  img:
+    src: film.png
+    alt: illustration of film strips
+  required: false
+
+- course: EDT 793 Integrated Thesis
+  url: thesis.html
+  img:
+    src: lego-maker.jpg
+    alt: lego figure shooting a movie
+  required: true
+  desc: >
+    The integrated thesis project of the Master's of Arts in Educational Technology
+    is the culminating experience of a student's time in the program, and displays
+    the range of new knowledge and abilities they have acquired during their studies.
