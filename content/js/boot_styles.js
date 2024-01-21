@@ -6,9 +6,6 @@ function addBootstrapStyles() {
         let small = document.createElement("small");
         let link = document.createElement("a");
         link.classList.add("toc-link");
-        let icon = document.createElement("img");
-        icon.src = "img/link-45deg.svg";
-        icon.alt = "chain link";
         link.href = "#" + header.id ;
         link.innerHTML = " 🔗 ";
         small.classList.add("text-muted");

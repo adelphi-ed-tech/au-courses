@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.13748183"
-     inkscape:cx="2560.3383"
+     inkscape:cx="2022.0854"
      inkscape:cy="3818.6864"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
@@ -48,7 +48,7 @@
          id="stop24981" />
       <stop
          style="stop-color:#f9ab44;stop-opacity:0.47928655"
-         offset="0.17238313"
+         offset="0.12560731"
          id="stop26297" />
       <stop
          style="stop-color:#de8787;stop-opacity:0.77829736"
@@ -60,8 +60,8 @@
        xlink:href="#linearGradient24985"
        id="linearGradient25245"
        gradientUnits="userSpaceOnUse"
-       x1="-49.278923"
-       y1="65.019203"
+       x1="-27.798443"
+       y1="112.15486"
        x2="385.46118"
        y2="112.15486"
        gradientTransform="matrix(3.7795276,0,0,7.2790903,273.9618,-304.18748)" />
@@ -80,7 +80,7 @@
        y="0.91318285"
        ry="3.287395" />
     <rect
-       style="fill:url(#linearGradient25245);fill-opacity:1;stroke-width:1.38777;opacity:0.8"
+       style="opacity:0.8;fill:url(#linearGradient25245);fill-opacity:1;stroke:none;stroke-width:1.38777"
        id="rect24949"
        width="1920"
        height="2080"
