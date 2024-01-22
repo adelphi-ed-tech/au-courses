@@ -49,8 +49,7 @@ Week 4: Case Study II: Political Representation
     - share on Discord
 
 
-Readings out:
--------------
+### Readings out
 (_due before next class_)
 
 - _seminar_

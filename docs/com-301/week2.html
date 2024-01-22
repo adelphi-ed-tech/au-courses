@@ -36,10 +36,16 @@
 
 <body class="d-flex flex-column h-100">
 
-<link href="/au-courses/css/bold.css" rel="stylesheet">
+
+  <link href="/au-courses/css/bold.css" rel="stylesheet">
+
+
+
+
+
 <main class="">
   <div class="container-fluid row h-100">
-    <div class="col-md-2 gold" style="max-width: 300px;">
+    <div class="SideNav col-md-2" style="max-width: 300px;">
       <img src="/au-courses/img/au-brown.svg" alt="adelphi university" class="d-block img-fluid py-2">
       <nav class="navbar-expand-md">
         <button class="btn btn-secondary d-block d-md-none ms-auto" type="button" data-bs-toggle="collapse"
@@ -49,8 +55,8 @@
       
         <div id="classInfo" class="collapse d-md-block">
           
-          
-          <a href="/au-courses/com-301/" 
+            
+            <a href="/au-courses/com-301/" 
    class="d-block text-center my-2 fw-bold  link-underline link-underline-opacity-0">COM 301 - Spring '24</a>
 
 <div class="fw-bold">Professor</div>
@@ -140,7 +146,7 @@
 
 <p>Post your link to our Discord so we can see each other’s work.</p>
 
-<h2 id="readings-out">Readings out:</h2>
+<h3 id="readings-out">Readings out:</h3>
 <p>(<em>due before next class</em>)</p>
 
 <ul>
@@ -194,22 +200,34 @@
 </script>
 
 <script>
+function pageName(link) {
+  let a = link.lastIndexOf("/") +1;
+  let b = link.lastIndexOf(".html") + 5;
+  if (b == 4) { // html not found
+    return "index.html"
+  }
+  return link.substring(a,b);
+}
+
 function findACtiveURL() {
   console.log("findActiveURL");
   let links = document.getElementsByClassName("nav-link");
   let currentUrl = window.location.href;
-  let baseUrl = "/au-courses"; // This is your Jekyll base URL from _config.yml
 
   // Remove the base URL and the domain from the current URL to get the path
-  let pagePath = currentUrl.replace(window.location.origin + baseUrl, '');
-  console.log(pagePath);
+  let pagePath = pageName(currentUrl);
+  console.log("page path:" + pagePath);
+  if (pagePath === "") {
+    pagePath = "index.html";
+  }
 
   for (let link of links) {
-    let linkPath = new URL(link.href).pathname; // Extracts the path from the full URL
+    let linkPath = pageName(link.href);
+    console.log("link:" + link.href);
+    console.log("link path:" + linkPath);
     if (linkPath === pagePath) {
       link.classList.add('active'); 
       link.classList.add('fw-bold'); 
-      // add --> before the link text
       link.innerHTML = '<i class="bi bi-caret-right-fill"></i>' + link.innerHTML;
     }
   }

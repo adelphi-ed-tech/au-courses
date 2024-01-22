@@ -3,15 +3,18 @@ function addBootstrapStyles() {
     const headers = document.getElementsByTagName("h2");
     const addLink = (header)=> {
 
-        let small = document.createElement("small");
         let link = document.createElement("a");
-        link.classList.add("toc-link");
         link.href = "#" + header.id ;
-        link.innerHTML = " 🔗 ";
-        small.classList.add("text-muted");
-        small.classList.add("text-decoration-none");
-        small.appendChild(link);
-        header.insertAdjacentElement("beforeend", small);
+
+        let icon = document.createElement("i");
+        icon.classList.add("bi");
+        icon.classList.add("bi-link-45deg");
+        icon.classList.add("text-primary");
+        icon.classList.add("text-decoration-none");
+        // link.classList.add("fs-4");
+        
+        link.appendChild(icon);
+        header.insertAdjacentElement("beforeend", link);
 
     }
     for (let header of headers) {

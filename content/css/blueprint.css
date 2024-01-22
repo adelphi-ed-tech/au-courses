@@ -1,0 +1,32 @@
+body {
+    background-image: url("../img/blue-gradient.svg");
+    background-repeat: repeat;
+    background-size: cover;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+h3 {
+    font-size: 1.25rem;
+}
+
+.SideNav {
+    background-color: #213A6A;
+}
+
+.table-striped th {
+    background-color: #213A6A;
+    color: white
+}
+
+.table-striped>tbody>tr:nth-of-type(2n+1)>* {
+    background-color: #e5d5ff;
+}
+.table-striped>tbody>tr>* {
+    background-color: #afc6e9;
+
+}

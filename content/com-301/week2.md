@@ -47,8 +47,7 @@ For this in-class assignment, you will crete a basic website for your school. On
 
 Post your link to our Discord so we can see each other's work.
 
-Readings out:
--------------
+### Readings out:
 (_due before next class_)
 
 - _seminar_

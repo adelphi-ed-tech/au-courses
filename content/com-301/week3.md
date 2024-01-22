@@ -49,8 +49,7 @@ Week 3: School Segregation Continued
     - share on Discord
 
 
-Readings out:
--------------
+### Readings out
 (_due before next class_)
 
 - _seminar_

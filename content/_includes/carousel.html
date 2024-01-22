@@ -1,0 +1,42 @@
+<div id="Carousel" class="carousel slide">
+    <div class="carousel-indicators">
+        {% assign index = 0 %}
+        {% for slide in page.slides %}
+            <button type="button" data-bs-target="#Carousel" data-bs-slide-to="{{index}}" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            {% assign index = index | plus: 1 %}
+        {% endfor %}
+    </div>
+    
+    
+    <div class="carousel-inner rounded">
+        {% assign index = 0 %}
+        {% assign active = "" %}
+        {% for slide in page.slides %}
+            {% if index == 0 %}
+                {% assign active = "active" %}
+            {% else %}
+                {% assign active = "" %}
+            {% endif %}
+            <div class="carousel-item {{active}}">
+                <img src="{{slide.src}}" class="d-block w-100" alt="{{slide.alt}}">
+                <div class="carousel-caption d-none d-md-block bg-dark bg-gradient text-light opacity-75 border rounded">
+                    <h5>{{slide.title}}</h5>
+                    <p class="text-start px-2">{{slide.desc}}</p>
+                </div>
+            </div>
+            {% assign index = index | plus: 1 %}
+        {% endfor %}
+
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#Carousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#Carousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+
+</div>

@@ -11,12 +11,11 @@ sidenav: "com301-nav.html"
 Week 1: Introduction to the New Media
 =====================================
 
-Seminar: Wednesday, Jan 24
----------------------------
+<h2><i class="bi bi-book text-primary"></i> Seminar: Wednesday, Jan 24</h2>
+
 **Goals:** In this first class meeting we will get to know each other and talk about our goals for the class. We will talk about the big ideas in new media design, and how designing new media for spatial information is unique and growing in importance.
 
-Agenda:
--------
+### Agenda:
 1. Instructor introductions
 2. Student introductions
 3. About the course
@@ -26,8 +25,10 @@ Agenda:
    - IRB Consent
 5. Computing Experience Survey
 
-Readings out:
--------------
+### Resources:
+- Keefe J., Wolfe, D. & Hernandez, S. (2021) [Race and ethnicity across the nation](https://www.cnn.com/interactive/2021/us/census-race-ethnicity-map/). _CNN_. [interactive]
+
+### Readings out:
 (_due before next class_)
 
 - seminar

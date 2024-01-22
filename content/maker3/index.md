@@ -1,30 +1,23 @@
 ---
-layout: bold
-title: "Adelphi Ed Tech Courses"
-author: "Matthew X. Curinga"
+layout: com301
+title: "Maker Lab 3: School Lab"
+author:
+    - "Matthew X. Curinga"
+    - "Tracy Hogan"
+sidenav: "maker3-nav.html"
+css: "css/blueprint.css"
+au_img: "au-white.svg"
 ---
+Maker Lab 3: School Lab
+=======================
 
-<div class="IndexHeader">
-    {% include top-nav.html %}
-    <div class="TitleText d-block text-center mx-auto text-light" style="max-width: 800px;">
-        Adelphi University Master's of Arts in Educational Technology
-    </div>
-    <div class="d-block text-center mx-auto text-light pb-2" style="max-width: 800px; font-size: 32px">
-        <strong>100% online</strong><br>
-        <strong>7 core courses ~ 3 electives ~ 1 thesis</strong>
-    </div>
-</div>
+<p class="lead">
+<b>COM 301 New Media</b> has been redesigned for Spring 2024 in order to combine
+creative digital design practices, with a greater focus on learning technical aspects
+of computer science. We will study these practices through the lens of spatial
+justice and critical cartography. During the semester, we will look at three cases
+of social, cultural and political impact, and study both the issues around them
+and how innovative digital design and digital maps can deepen our understanding.
+</p>
 
-<div class="row mx-4">
-{% for course in site.data.courses %}
-    <div class="col-md-2 rounded p-0 m-4 shadow">
-        <img class="rounded-top d-block img-fluid" src="img/{{course.img.src}}" alt="{{course.img.alt}}">
-        {% if course.url %}
-            <strong class="d-block text-center py-1"><a class="link-underline link-underline-opacity-0" href="{{course.url}}">{{course.course}}</a></strong>
-        {% else %}
-            <strong class="d-block text-center py-1">{{course.course}}</strong>
-        {% endif %}
-    </div>
-{% endfor %}
-</div>
 
