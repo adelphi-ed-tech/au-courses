@@ -32,7 +32,7 @@ Week 2: School Segregation
 
 ### Readings due:
 
-- Crash Course & PBS Studios. Oct 4, 2017. [The World Wide Web: Crash Course Computer Science #30](https://youtu.be/guvsH5OFizE) [video][11:36]
+- Crash Course & PBS Studios. (Oct 4, 2017). [The World Wide Web: Crash Course Computer Science #30](https://youtu.be/guvsH5OFizE) [video][11:36]
 
 
 ### Agenda:
@@ -51,4 +51,7 @@ Readings out:
 -------------
 (_due before next class_)
 
-- Carrozzo, A. (2019, November 17). [Undercover investigation reveals evidence of unequal treatment by real estate agents](https://projects.newsday.com/long-island/real-estate-agents-investigation/). _Newsday_.
+- _seminar_
+    - Carrozzo, A. (2019, November 17). [Undercover investigation reveals evidence of unequal treatment by real estate agents](https://projects.newsday.com/long-island/real-estate-agents-investigation/). _Newsday_.
+- _lab_
+    - TBD
