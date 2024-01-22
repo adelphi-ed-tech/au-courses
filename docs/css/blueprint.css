@@ -1,7 +1,8 @@
 body {
-    background-image: url("../img/blue-gradient.svg");
+    /* background-image: url("../img/blue-gradient.svg");
     background-repeat: repeat;
-    background-size: cover;
+    background-size: cover; */
+    background-color: #afc6e9;
 }
 a {
     text-decoration: none;
@@ -9,6 +10,7 @@ a {
 h1 {
     text-align: center;
     margin-bottom: 1em;
+    margin-top: 2em
 }
 h3 {
     font-size: 1.25rem;
@@ -29,4 +31,10 @@ h3 {
 .table-striped>tbody>tr>* {
     background-color: #afc6e9;
 
+}
+
+.maker-img {
+    max-width: 100%;
+    width: 350px;
+    margin: 1em;
 }

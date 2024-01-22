@@ -15,8 +15,12 @@ Maker Lab 3: School Lab
 
 **Key words:** STEAM, Maker Lab, Constructionism, 3D printing, laser cutting, LEGO robotics, microbit, arduino
 
+
+
 Description
 -----------
+<img src="img/lab-floorplan.png" class="maker-img float-start d-none d-md-block" alt="floorplan of a maker lab">
+
 In the “school lab” students are challenged to conceive of and design their own STEAM 
 workshop, which they co-teach for the public as a workshop at the MIXI lab during our 
 Spring STEAM mini conference. To create their workshop, they will practice backwards 
@@ -145,6 +149,10 @@ and craft materials (glue, paint, paint markers, etc). Your animal must have bot
 laser cuts and laser engraving.
 
 ### STEAM Workshop
+
+<img src="img/workbench.png" class="maker-img float-end d-none d-md-block" alt="a maker's workstation">
+
+
 The course culminates in a public mini-conference where you will lead
 a 45 minute workshop with one teammate. The audience for the conference will
 be STEM teachers (your peers and others like you), faculty, friends from
