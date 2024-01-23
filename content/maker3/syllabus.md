@@ -107,6 +107,9 @@ Grading & Assignments
 |Workshop Pitch                |10%    
 |Mini Conference Workshop      |45%    
 
+
+<img src="img/soldering.png" class="maker-img float-end d-none d-md-block" alt="soldering workstation">
+
 ### Participation & attendance
 One of the tenets of this class is that learning is more vibrant when we work on it together.
 Collectively, we will work to develop new understandings of the potential and challenges

@@ -13,8 +13,13 @@ au_img: "au-white.svg"
 =======================================================
 **Online, Jan 23 - Jan 29**
 
-
-<img src="img/time-minds.jpg" class="float-end d-none d-md-block" alt="cover Time magazine, centuries greatest minds">
+<figure class="figure float-end bg-light" style="max-width: 350px">
+  <img src="img/time-minds.jpg" class="figure-img img-fluid " alt="cover Time magazine, centuries greatest minds">
+  <figcaption class="figure-caption fw-bold px-1">
+    Jean Piaget featured in <i>Time</i> as a "greatest mind of the 20<sup>th</sup> century,"
+    with an article by Seymour Papert.
+  </figcaption>
+</figure>
 
 **Goals:** In this online week we will read some of the foundational work in STEAM and Maker education.
 We will focus, specifically, on the theory of "Constructionism" developed largely by Seymour Papert
