@@ -14,13 +14,18 @@ layout: base
   {% assign au_img = "au-brown.svg" %}
 {% endif %}
 
+<style>
+  .SideNav {
+    
+  }
+</style>
 
 <main class="">
-  <div class="container-fluid row h-100">
-    <div class="SideNav col-md-2">
-      <img src="{{site.baseurl}}/img/{{au_img}}" alt="adelphi university" class="d-block img-fluid py-2">
+  <div class="container-fluid row h-100 p-0 m-0">
+    <div class="SideNav col-md-2 p-0 m-0">
+      <img src="{{site.baseurl}}/img/{{au_img}}" alt="adelphi university" class="d-block img-fluid p-2 mx-auto">
       <nav class="navbar-expand-md">
-        <button class="btn btn-secondary d-block d-md-none ms-auto" type="button" data-bs-toggle="collapse"
+        <button class="btn btn-secondary d-block d-md-none ms-auto mb-2 me-2" type="button" data-bs-toggle="collapse"
           data-bs-target="#classInfo" aria-controls="classInfo" aria-expanded="false" aria-label="Toggle navigation">
           <i class="bi bi-list"></i>
         </button>

@@ -11,7 +11,7 @@ au_img: "au-white.svg"
 
 <i class="bi bi-building"></i> Week 2: LEGO Robotics
 ====================================================
-**In-person, Jan 23 - Jan 29, 5pm-7pm**
+**In-person, Jan 30, 5pm-7pm**
 
 
 <img src="img/brick.png" class="maker-img float-start d-none d-md-block" alt="imaginative sketch of early lego robot">
@@ -37,13 +37,13 @@ To make the ideas of programming more concrete, Papert's team developed a physic
 that could be controlled through LOGO code. In the 1980s, this turtle evolved into the
 "programmable brick" -- a computer built into a LEGO brick.
 
-
+<div class="clearfix"></div>
 
 Agenda
 ------
 1. Welcome
 2. Discuss readings
-3. LEGO Robotics lab
+3. [LEGO Robotics Catapult Lab](catapult-lab.html)
 
 Resources
 ---------
@@ -51,5 +51,8 @@ Resources
 
 Readings Out
 ------------
+- Papert, S. (2002). [Hard Fun](hard-fun.html).
+- Runco, M. A., & Jaeger, G. J. (2012). [The Standard Definition of Creativity](http://emotrab.ufba.br/wp-content/uploads/2019/06/RUNCO-Mark-The-Standard-Definition-of-Creativity.pdf). _Creativity Research Journal_, _24_(1), 92–96.
+- Culpepper, M. K., & Gauntlett, D. (2020). [Making and learning together: Where the makerspace mindset meets platforms for creativity](https://journals.sagepub.com/doi/full/10.1177/2043610620941868). _Global Studies of Childhood_, _10_(3), 264–274.
 - Zhong, B., & Xia, L. (2020). [A Systematic Review on Exploring the Potential of Educational Robotics in Mathematics Education](https://www.researchgate.net/profile/Baichang-Zhong/publication/328999525_A_Systematic_Review_on_Exploring_the_Potential_of_Educational_Robotics_in_Mathematics_Education/links/5ee1747a458515814a544210/A-Systematic-Review-on-Exploring-the-Potential-of-Educational-Robotics-in-Mathematics-Education.pdf). _International Journal of Science & Mathematics Education_, _18_(1), 79–101.
 
