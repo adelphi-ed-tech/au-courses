@@ -47,3 +47,11 @@ h1, h2, h3 {
 .toc-link {
     text-decoration: none;
 }
+
+.apa p {
+    line-height: 1.25em;
+    padding: .25em 0;
+    margin: 0;
+    margin-left: 2em;
+    text-indent: -2em;
+}

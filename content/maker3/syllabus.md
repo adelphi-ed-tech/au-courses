@@ -66,24 +66,24 @@ _There is no required textbook for this course. Course readings will be made ava
 Class Schedule
 --------------
 
-|Date    |Format       |Topic	                 | Due
+|Date    |Format       |Topic	                   | Due
 |--------|-------------|-------------------------|---------------
-|Jan 23  |online       |Roots of Maker Ed	     | 
-|Jan 30  |in person    |LEGO Robotics 1	         | 
-|Feb 06  |online       |Play and Creativity	     | 
-|Feb 13  |in person    |LEGO Rube Goldberg	     | LEGO Portfolio Report
-|Feb 20  |online       |Equity in the lab	     | 
-|Feb 27  |in person    |Laser Cutter 1	         | 
-|Mar 05  |online       |Assessing maker projects | 
-|Mar 12  |in person    |Laser Cut Animals	     | Animal Portfolio Report
-|Mar 19  |spring break |   	-	                 | 
-|Mar 26  |in person    |Workshop Pitches	     | Workshop Pitch, self eval
-|Apr 02  |online       |Workshop Pairs	         | 
+|Jan 23  |online       |Roots of Maker Ed	       | 
+|Jan 30  |in person    |LEGO Robotics 1          | 
+|Feb 06  |online       |Play and Creativity       | 
+|Feb 13  |in person    |LEGO Rube Goldberg       | LEGO Portfolio Report
+|Feb 20  |online       |Robotics & CT            | 
+|Feb 27  |in person    |Laser Cutter 1           | 
+|Mar 05  |online       |Equity in the lab        | 
+|Mar 12  |in person    |Laser Cut Animals        | Animal Portfolio Report
+|Mar 19  |spring break |     -                   | 
+|Mar 26  |in person    |Workshop Pitches         | Workshop Pitch, self eval
+|Apr 02  |online       |Maker Ed Challenges      | 
 |Apr 09  |in person    |Workshop Abstract        | 
 |Apr 16  |online       |Workshop Lesson Plans    | Material List
 |Apr 23  |online       |Studio                   | 
-|Apr 30  |in person    |Studio	                 | 
-|May 07  |in person    |Studio	                 | 
+|Apr 30  |in person    |Studio                   | 
+|May 07  |in person    |Studio                   | 
 |May 14  |in person    |Mini Conference	         | Mini Conference Portfolio, self eval
 
 This is a hybrid course with some in-person meetings and some online meetings. Mostly, we will
