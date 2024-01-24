@@ -92,7 +92,24 @@ Procedure
    They are encouraged to test often, and to divide work.
 5. **Competition (15 min).** Teams will have three launches. The instructor
    will measure the distance (according to the rules devised by the students)
-   and record the scores.
+   and record the scores. After the results are in, group discusses the
+   lab in terms of the stated goals above.
+
+<img src="img/lego-knights.png" class="img-fluid d-block" alt="lego knights with lego catapult">
+
+
+Continuation
+------------
+After the lab, each student will add a page to their digital portfolio where
+they reflect more deeply on the project. They wll include relevant
+media from the lab (photos, videos, screen shots, etc.). They should explicitly
+reflect on:
+
+- the overall experience in the lab
+- how the lab could be improved
+- how the lab related to course readings and prior readings regarding 
+  Constructionism and maker education
+- extensions of the lab into their own teaching
 
 Resources
 ---------

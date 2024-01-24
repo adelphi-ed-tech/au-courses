@@ -14,7 +14,7 @@ au_img: "au-white.svg"
 **In-person, Jan 30, 5pm-7pm**
 
 
-<img src="img/brick.png" class="maker-img float-start d-none d-md-block" alt="imaginative sketch of early lego robot">
+<img src="img/brick.png" class="maker-img float-end d-none d-md-block" alt="imaginative sketch of early lego robot">
 
 **Goals:** We will learn how to program the latest generation of LEGO robotics. We will
 pick up key engineering and programming techniques, practice our design skills, and consider
@@ -36,8 +36,6 @@ Papert's Constructionism research studied children learning the LOGO programming
 To make the ideas of programming more concrete, Papert's team developed a physical turtle robot
 that could be controlled through LOGO code. In the 1980s, this turtle evolved into the
 "programmable brick" -- a computer built into a LEGO brick.
-
-<div class="clearfix"></div>
 
 Agenda
 ------

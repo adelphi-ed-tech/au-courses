@@ -33,7 +33,6 @@ To do:
 
 Readings due:
 -------------
-- Papert, S. (1999, March 29). [Child Psychologist Jean Piaget](https://content.time.com/time/subscriber/article/0,33009,990617,00.html
-). _Time_.
+- Papert, S. (1999, March 29). [Child Psychologist Jean Piaget](https://content.time.com/time/subscriber/article/0,33009,990617,00.html). _Time_.
 - Papert, S. (1980). [The Gears of My Childhood (forward)](gears.html). _Mindstorms: Children, computers, and powerful ideas_. Basic Books, Inc.
 - Papert, S. (1991). [Situating constructionism](https://web.media.mit.edu/~calla/web_comunidad/Reading-En/situating_constructionism.pdf). In I. Harel & S. Papert (Eds.), _Constructionism_ (pp. 1–10). Praeger.

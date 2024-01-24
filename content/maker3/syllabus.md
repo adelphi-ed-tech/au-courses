@@ -19,7 +19,7 @@ Maker Lab 3: School Lab
 
 Description
 -----------
-<img src="img/lab-floorplan.png" class="maker-img float-start d-none d-md-block" alt="floorplan of a maker lab">
+<img src="img/lab-floorplan.png" class="maker-img float-md-start d-sm-block" alt="floorplan of a maker lab">
 
 In the “school lab” students are challenged to conceive of and design their own STEAM 
 workshop, which they co-teach for the public as a workshop at the MIXI lab during our 
@@ -108,9 +108,11 @@ Grading & Assignments
 |Mini Conference Workshop      |45%    
 
 
-<img src="img/soldering.png" class="maker-img float-end d-none d-md-block" alt="soldering workstation">
 
 ### Participation & attendance
+
+<img src="img/soldering.png" class="maker-img float-md-start" alt="soldering workstation">
+
 One of the tenets of this class is that learning is more vibrant when we work on it together.
 Collectively, we will work to develop new understandings of the potential and challenges
 of maker education. In our labs, we will work to design and test new curricular projects.
@@ -154,7 +156,6 @@ laser cuts and laser engraving.
 ### STEAM Workshop
 
 <img src="img/workbench.png" class="maker-img float-end d-none d-md-block" alt="a maker's workstation">
-
 
 The course culminates in a public mini-conference where you will lead
 a 45 minute workshop with one teammate. The audience for the conference will
