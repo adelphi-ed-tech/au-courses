@@ -133,6 +133,9 @@ am looking for:
   means you are willing to take risks and make mistakes. It also means that you go beyond
   the minimum requirements and shared materials to help us push boundaries together.
 
+**Attendance is required for all in person classes**. There are no excused absences.
+If you miss a class for any reason, you will lose 2 points from your final grade.
+
 ### Portfolio Reports
 Everyone should have an online portfolio/website that they began in Maker Lab 1. You will
 continue to use this portfolio to document your work in Maker Lab 3. Your portfolio reports
