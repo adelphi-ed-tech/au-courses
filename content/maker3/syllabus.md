@@ -70,7 +70,7 @@ Class Schedule
 |--------|-------------|-------------------------|---------------
 |Jan 23  |online       |Roots of Maker Ed	       | 
 |Jan 30  |in person    |LEGO Robotics 1          | 
-|Feb 06  |online       |Play and Creativity       | 
+|Feb 06  |online       |Play and Creativity      | 
 |Feb 13  |in person    |LEGO Rube Goldberg       | LEGO Portfolio Report
 |Feb 20  |online       |Robotics & CT            | 
 |Feb 27  |in person    |Laser Cutter 1           | 
@@ -135,6 +135,11 @@ am looking for:
 
 **Attendance is required for all in person classes**. There are no excused absences.
 If you miss a class for any reason, you will lose 2 points from your final grade.
+If you miss more than 4 of the total 9 in person classes, you may be asked to withdraw
+or repeat this course.
+
+The final class "mini conference" on Tuesday May 14 is absolutely mandatory.
+Please make any arrangements necessary to be present for this class.
 
 ### Portfolio Reports
 Everyone should have an online portfolio/website that they began in Maker Lab 1. You will
