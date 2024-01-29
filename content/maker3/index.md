@@ -19,7 +19,7 @@ Maker Lab 3: School Lab
 
 Description
 -----------
-<img src="img/lab-floorplan.png" class="maker-img float-start d-none d-md-block" alt="floorplan of a maker lab">
+<img src="img/lab-floorplan.png" class="maker-img float-md-start d-sm-block" alt="floorplan of a maker lab">
 
 In the “school lab” students are challenged to conceive of and design their own STEAM 
 workshop, which they co-teach for the public as a workshop at the MIXI lab during our 
@@ -66,24 +66,24 @@ _There is no required textbook for this course. Course readings will be made ava
 Class Schedule
 --------------
 
-|Date    |Format       |Topic	                 | Due
+|Date    |Format       |Topic	                   | Due
 |--------|-------------|-------------------------|---------------
-|Jan 23  |online       |Roots of Maker Ed	     | 
-|Jan 30  |in person    |LEGO Robotics 1	         | 
-|Feb 06  |online       |Play and Creativity	     | 
-|Feb 13  |in person    |LEGO Rube Goldberg	     | LEGO Portfolio Report
-|Feb 20  |online       |Equity in the lab	     | 
-|Feb 27  |in person    |Laser Cutter 1	         | 
-|Mar 05  |online       |Assessing maker projects | 
-|Mar 12  |in person    |Laser Cut Animals	     | Animal Portfolio Report
-|Mar 19  |spring break |   	-	                 | 
-|Mar 26  |in person    |Workshop Pitches	     | Workshop Pitch, self eval
-|Apr 02  |online       |Workshop Pairs	         | 
+|Jan 23  |online       |Roots of Maker Ed	       | 
+|Jan 30  |in person    |LEGO Robotics 1          | 
+|Feb 06  |online       |Play and Creativity      | 
+|Feb 13  |in person    |LEGO Rube Goldberg       | LEGO Portfolio Report
+|Feb 20  |online       |Robotics & CT            | 
+|Feb 27  |in person    |Laser Cutter 1           | 
+|Mar 05  |online       |Equity in the lab        | 
+|Mar 12  |in person    |Laser Cut Animals        | Animal Portfolio Report
+|Mar 19  |spring break |     -                   | 
+|Mar 26  |in person    |Workshop Pitches         | Workshop Pitch, self eval
+|Apr 02  |online       |Maker Ed Challenges      | 
 |Apr 09  |in person    |Workshop Abstract        | 
 |Apr 16  |online       |Workshop Lesson Plans    | Material List
 |Apr 23  |online       |Studio                   | 
-|Apr 30  |in person    |Studio	                 | 
-|May 07  |in person    |Studio	                 | 
+|Apr 30  |in person    |Studio                   | 
+|May 07  |in person    |Studio                   | 
 |May 14  |in person    |Mini Conference	         | Mini Conference Portfolio, self eval
 
 This is a hybrid course with some in-person meetings and some online meetings. Mostly, we will
@@ -107,7 +107,12 @@ Grading & Assignments
 |Workshop Pitch                |10%    
 |Mini Conference Workshop      |45%    
 
+
+
 ### Participation & attendance
+
+<img src="img/soldering.png" class="maker-img float-md-start" alt="soldering workstation">
+
 One of the tenets of this class is that learning is more vibrant when we work on it together.
 Collectively, we will work to develop new understandings of the potential and challenges
 of maker education. In our labs, we will work to design and test new curricular projects.
@@ -127,6 +132,14 @@ am looking for:
 - **Risk taking:** In some ways, deep learning is always uncomfortable. Full participation
   means you are willing to take risks and make mistakes. It also means that you go beyond
   the minimum requirements and shared materials to help us push boundaries together.
+
+**Attendance is required for all in person classes**. There are no excused absences.
+If you miss a class for any reason, you will lose 2 points from your final grade.
+If you miss more than 4 of the total 9 in person classes, you may be asked to withdraw
+or repeat this course.
+
+The final class "mini conference" on Tuesday May 14 is absolutely mandatory.
+Please make any arrangements necessary to be present for this class.
 
 ### Portfolio Reports
 Everyone should have an online portfolio/website that they began in Maker Lab 1. You will
@@ -151,7 +164,6 @@ laser cuts and laser engraving.
 ### STEAM Workshop
 
 <img src="img/workbench.png" class="maker-img float-end d-none d-md-block" alt="a maker's workstation">
-
 
 The course culminates in a public mini-conference where you will lead
 a 45 minute workshop with one teammate. The audience for the conference will
