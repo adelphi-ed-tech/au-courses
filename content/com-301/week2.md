@@ -21,8 +21,30 @@ Week 2: School Segregation
 - [EdBuild: Dismissed](https://edbuild.org/content/dismissed) _[interactive]_
 
 ### Agenda:
-1. Discuss readings
-2. Explore sources for data on schools / school demographics
+1. Re-introductions (10 min)
+2. Small Groups: (20 min)
+   - _In your group, generate 3 key points from th NPR article/podcast or an outline of the article._
+   - _Looking at the map, what story of the world does the map present? How does it do this in terms of data and design?_
+   - share your findings
+3. Full group: (20 min)
+   - how do we have a good discussion?
+   - what can/should be done about segregation in Long Island and broadly in U.S. schools?
+   - which is a better piece of new media: the podcast or the map?
+4. Explore sources for data on schools / school demographics (20 min)
+   - choose a school you attended or in your area
+   - take notes on the demographics of the school
+   - look up the school and surrounding areas on Google Streetview or Google Earth
+   - find the school website? what data do they display? how do they talk about race/demographics?
+
+5. Wrap-up (5 min)
+
+### Resources
+- [Long Island Maps](http://www.longislandindexmaps.org/) [map long island schools]
+- [New York State School Data](https://data.nysed.gov/lists.php?type=school)
+- [Federal Office of Civil Rights](https://civilrightsdata.ed.gov/)
+- [Great Schools](https://www.greatschools.org/)
+- [Inside Schools](https://insideschools.org/)
+
 
 - - - -
 
