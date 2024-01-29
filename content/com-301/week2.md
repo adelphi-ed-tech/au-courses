@@ -44,6 +44,11 @@ Week 2: School Segregation
 - [Federal Office of Civil Rights](https://civilrightsdata.ed.gov/)
 - [Great Schools](https://www.greatschools.org/)
 - [Inside Schools](https://insideschools.org/)
+- [NYSED non-public school data](https://www.p12.nysed.gov/irs/statistics/nonpublic/)
+- [NYC Public School Snapshots](https://tools.nycenet.edu/snapshot/2022/)
+- National Center for Education Statistics (NCES) 
+  [[public](https://nces.ed.gov/ccd/schoolsearch/)]
+  [[private](https://nces.ed.gov/surveys/pss/privateschoolsearch/)]
 
 
 - - - -
