@@ -1,0 +1,37 @@
+---
+layout: base
+---
+<style>
+    .IndexHeader {
+        background-image: url('img/purple-pink.svg'); */
+        background-size: cover;
+        /* padding: 100px 0px; */
+        /* background: blue; */
+    }
+
+    .TitleText {
+        font-size: 60px;
+        font-weight: 900;
+    }
+
+    .nav-link {
+        font-weight: bold;
+        color: white;
+    }
+</style>
+
+<div class="IndexHeader container-fluid">
+    {% include top-nav.html %}
+    <div class="TitleText d-block text-center mx-auto text-light p-2" style="max-width: 800px;">
+        Adelphi University Master's of Arts in Educational Technology
+    </div>
+    <div class="d-block text-center mx-auto text-light p-2" style="max-width: 800px; font-size: 32px">
+        <strong>100% online</strong><br>
+        <strong>7 core courses ~ 3 electives ~ 1 thesis</strong>
+    </div>
+</div>
+
+
+
+{{content}}
+{% include footer.html %}
