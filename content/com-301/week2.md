@@ -64,20 +64,41 @@ Week 2: School Segregation
 
 ### Agenda:
 1. How the web works
-2. Create [Codesandbox.io](https://codesandbox.io) account
-3. Demo: basic HTML
-4. Practice: create a web page for your school
-
+2. Demo: basic HTML
+3. Practice: create a web page for your school
 
 ### In class: School web page
 For this in-class assignment, you will crete a basic website for your school. On this page, you should play around with how to style text (headings, bold, italics, paragraphs, line breaks), uses lists, and add hyperlinks.
 
-Post your link to our Discord so we can see each other's work.
+1. Open the demo page in Codesandbox.io, create an account (you can use your AU gmail), and start editing the page.\
+   [https://codesandbox.io/p/sandbox/first-html-yrydg4]([https://codesandbox.io/p/sandbox/first-html-yrydg4)
+2. When you're ready, post your link to our Discord so we can see each other's work.
+
+#### Requirements
+You must use each of the following HTML tags:
+
+- change the title of the page by changing the text between the `<title>` tags
+- `<h1>` and `<h2>` for headings
+- `<p>` for paragraphs and `<br>` for new lines
+- `<ul>` and `<li>` for bullet lists or `<ol>` and `<li>` for ordered lists
+- `<b>` and `<i>` for bold and italics
+- `<a>` for hyperlinks (link to a page)
+- `<img>` for an image (link to an image on the web or upload an image to your Codesandbox)
+
+#### Make it great
+- create more than one web page and link between them
+- add some other tags that are not covered here
+- create custom images, audio, or video content for your page
+- embed a youtube video
+- check out the [resources](resources.html) for more ideas
+- use chat-gpt to get some help (either ideas or code)
+- surprise us
+
+
 
 ### Readings out:
 (_due before next class_)
 
 - _seminar_
     - Carrozzo, A. (2019, November 17). [Undercover investigation reveals evidence of unequal treatment by real estate agents](https://projects.newsday.com/long-island/real-estate-agents-investigation/). _Newsday_.
-- _lab_
-    - TBD
+
