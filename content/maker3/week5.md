@@ -1,6 +1,6 @@
 ---
 layout: com301
-title: "Maker Lab 3: Week 3"
+title: "Maker Lab 3: Week 5"
 author:
     - "Matthew X. Curinga"
     - "Tracy Hogan"
@@ -9,15 +9,14 @@ css: "css/blueprint.css"
 au_img: "au-white.svg"
 ---
 
-<i class="bi bi-router"></i> Week 3: Play and Creativity
-========================================================
+<i class="bi bi-router"></i> Week 5: Robotics and Computational Thinking
+========================================================================
 **Online**
 
 
-<img src="img/wood-blocks.png" class="maker-img float-end d-none d-md-block" alt="sketch of wooden froebel blocks">
+<img src="img/arduino.png" class="maker-img float-end d-none d-md-block" alt="board computer">
 
-**Goals:** This week we will read about play and creativity. Consider how we can design and organize
-learning environments to support our own definitions of play and creativity.
+**Goals:** Understand the ways that computing and thinking about computing cut across STEM and non-STEM fields. Consider ways to teach computing in the context of other disciplines.
 
 Readings this week:
 -------------------
@@ -28,8 +27,5 @@ Readings this week:
 Do this week:
 -------------
 - Do the readings (see above)
-- Meet with your team and work on the Rube Goldberg lab
-- Bring designs/sketches to next week's class
-- Update your portfolio with content from the [LEGO catapult lab](catapult-lab.html)
-
-
+- Finish (and record) Rube Goldberg lab
+- Submit your Rube Goldberg portfolio for grading

@@ -76,7 +76,7 @@ Procedure
    measures the distance and records each teams score on a whiteboard or
    shared digital display. Teams are encouraged to divide their labor
    so that everyone is engaged. Possible divisions include:
-   - team leader / project manager
+   - team leader / project manager / documentarian
    - researcher / designer
    - programmer
    - engineer / builder (2 people can share this role)
@@ -114,4 +114,4 @@ reflect on:
 Resources
 ---------
 - [LEGO Spike Prime](https://spike.legoeducation.com/prime/lobby/). Web based IDE.
-- [LEGO Spike Prime User Guide]()
+- [Prime Lessons](https://primelessons.org/en/Lessons.html)

@@ -66,25 +66,25 @@ _There is no required textbook for this course. Course readings will be made ava
 Class Schedule
 --------------
 
-|Date    |Format       |Topic	                   | Due
-|--------|-------------|-------------------------|---------------
-|Jan 23  |online       |Roots of Maker Ed	       | 
-|Jan 30  |in person    |LEGO Robotics 1          | 
-|Feb 06  |online       |Play and Creativity      | 
-|Feb 13  |in person    |LEGO Rube Goldberg       | LEGO Portfolio Report
-|Feb 20  |online       |Robotics & CT            | 
-|Feb 27  |in person    |Laser Cutter 1           | 
-|Mar 05  |online       |Equity in the lab        | 
-|Mar 12  |in person    |Laser Cut Animals        | Animal Portfolio Report
-|Mar 19  |spring break |     -                   | 
-|Mar 26  |in person    |Workshop Pitches         | Workshop Pitch, self eval
-|Apr 02  |online       |Maker Ed Challenges      | 
-|Apr 09  |in person    |Workshop Abstract        | 
-|Apr 16  |online       |Workshop Lesson Plans    | Material List
-|Apr 23  |online       |Studio                   | 
-|Apr 30  |in person    |Studio                   | 
-|May 07  |in person    |Studio                   | 
-|May 14  |in person    |Mini Conference	         | Mini Conference Portfolio, self eval
+|   |Date    |Format       |Topic	                   | Due
+|---|--------|-------------|-------------------------|---------------
+| 01|Jan 23  |online       |Roots of Maker Ed	       | 
+| 02|Jan 30  |in person    |Intro LEGO Robotics      | 
+| 03|Feb 06  |online       |Play and Creativity      | 
+| 04|Feb 13  |in person    |LEGO Rube Goldberg       | 
+| 05|Feb 20  |online       |Robotics & CT            | LEGO Portfolio Report
+| 06|Feb 27  |in person    |Laser Cutter 1           | 
+| 07|Mar 05  |online       |Equity in the lab        | 
+| 08|Mar 12  |in person    |Laser Cut Animals        | 
+|  -|Mar 19  |spring break |     -                   | Animal Portfolio Report
+| 09|Mar 26  |in person    |Workshop Pitches         | Workshop Pitch, self eval
+| 10|Apr 02  |online       |Maker Ed Challenges      | 
+| 11|Apr 09  |in person    |Workshop Abstract        | 
+| 12|Apr 16  |online       |Workshop Lesson Plans    | Material List
+| 13|Apr 23  |online       |Studio                   | 
+| 14|Apr 30  |in person    |Demo Presentations 1     | 
+| 15|May 07  |in person    |Demo Presentations 2     | 
+| 16|May 14  |in person    |Mini Conference	         | Mini Conference Portfolio, self eval
 
 This is a hybrid course with some in-person meetings and some online meetings. Mostly, we will
 meet in-person every other week, but see the schedule above for details. Online weeks will be

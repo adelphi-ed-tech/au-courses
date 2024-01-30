@@ -9,15 +9,24 @@ css: "css/blueprint.css"
 au_img: "au-white.svg"
 ---
 
-<i class="bi bi-building"></i> Week 2: Rube Goldberg Machines
+<i class="bi bi-building"></i> Week 4: Rube Goldberg Machines
 =============================================================
 **In-person, Feb 06, 5pm-7pm**
 
+**Goals:** We will talk about play and creativity in the STEM classroom and the maker lab.
+This week you will start the build of your Rube Goldberg LEGO machine.**
 
+Agenda
+------
+1. Dicusss readings
+2. Rube Goldberg LEGO Machine Lab
 
-
-- Zhong, B., & Xia, L. (2020). [A Systematic Review on Exploring the Potential of Educational Robotics in Mathematics Education](https://www.researchgate.net/profile/Baichang-Zhong/publication/328999525_A_Systematic_Review_on_Exploring_the_Potential_of_Educational_Robotics_in_Mathematics_Education/links/5ee1747a458515814a544210/A-Systematic-Review-on-Exploring-the-Potential-of-Educational-Robotics-in-Mathematics-Education.pdf). _International Journal of Science & Mathematics Education_, _18_(1), 79–101.
-
+Readings out:
+-------------
+- Wing, J. M. (2006). [Computational thinking](http://www-cgi.cs.cmu.edu/afs/cs/usr/wing/www/CT_at_CMU.pdf). _Communications of the ACM_, _49_(3), 33–35. 
+- Kafai, Y. B., & Proctor, C. (2022). [A Revaluation of Computational Thinking in K–12 Education: Moving Toward Computational Literacies](https://doi.org/10.3102/0013189X211057904). _Educational Researcher_, _51_(2), 146–151. 
+- Zhong, B., & Xia, L. (2020). [A Systematic Review on Exploring the Potential of Educational Robotics in Mathematics Education](https://www.researchgate.net/profile/Baichang-Zhong/publication/328999525_A_Systematic_Review_on_Exploring_the_Potential_of_Educational_Robotics_in_Mathematics_Education/links/5ee1747a458515814a544210/A-Systematic-Review-on-Exploring-the-Potential-of-Educational-Robotics-in-Mathematics-Education.pdf).
+_International Journal of Science & Mathematics Education_, _18_(1), 79–101.
 
 
 
