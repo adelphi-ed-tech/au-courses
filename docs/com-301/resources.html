@@ -52,6 +52,8 @@
   <div class="container-fluid row h-100 p-0 m-0">
     
     <div class="SideNav col-md-3 col-xxl-2 p-0 m-0">
+      <button type="button" onclick="goFull()" class="position-sticky top-0 start-0 btn btn-light"><i class="bi bi-arrows-fullscreen"></i></button>
+
       <img src="/au-courses/img/au-brown.svg" alt="adelphi university" class="d-block img-fluid mt-2 p-4 mx-auto">
       <nav class="navbar-expand-md">
         <button class="btn btn-secondary d-block d-md-none ms-auto mb-2 me-2" type="button" data-bs-toggle="collapse"
@@ -112,8 +114,8 @@
 
     </div>
     
-    <div class="MainContent col-9">
-        <h1 id="web-dev-resources">Web Dev Resources</h1>
+    <div class="MainContent col-xl-5 col-lg-7 col-md-9">
+      <h1 id="web-dev-resources">Web Dev Resources</h1>
 
 <p><img src="img/wireframe.png" class="float-end d-none d-md-block" alt="website wire frame" /></p>
 
@@ -236,6 +238,25 @@
 </script>
 
 <script>
+function openFullscreen(elem) {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.mozRequestFullScreen) {
+    elem.mozRequestFullScreen();
+  } else if (elem.webkitRequestFullscreen) {
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) {
+    elem.msRequestFullscreen();
+  }
+}
+
+  
+function goFull() {
+  let main = document.getElementsByClassName("MainContent")[0];
+  openFullscreen(main);
+  return false
+}
+
 function pageName(link) {
   let a = link.lastIndexOf("/") +1;
   let b = link.lastIndexOf(".html") + 5;

@@ -1,4 +1,8 @@
-body {
+:fullscreen {
+    overflow: auto;
+}
+
+:fullscreen, body {
     /* background-image: url("../img/blue-gradient.svg");
     background-repeat: repeat;
     background-size: cover; */

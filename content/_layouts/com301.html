@@ -24,6 +24,8 @@ layout: base
   <div class="container-fluid row h-100 p-0 m-0">
     
     <div class="SideNav col-md-3 col-xxl-2 p-0 m-0">
+      <button type="button" onclick="goFull()" class="position-sticky top-0 start-0 btn btn-light"><i class="bi bi-arrows-fullscreen"></i></button>
+
       <img src="{{site.baseurl}}/img/{{au_img}}" alt="adelphi university" class="d-block img-fluid mt-2 p-4 mx-auto">
       <nav class="navbar-expand-md">
         <button class="btn btn-secondary d-block d-md-none ms-auto mb-2 me-2" type="button" data-bs-toggle="collapse"
@@ -42,8 +44,8 @@ layout: base
 
     </div>
     
-    <div class="MainContent col-9">
-        {{ content }}
+    <div class="MainContent col-xl-5 col-lg-7 col-md-9">
+      {{ content }}
     </div>
   </div>
 
@@ -53,6 +55,25 @@ layout: base
 {% include footer.html %}
 
 <script>
+function openFullscreen(elem) {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.mozRequestFullScreen) {
+    elem.mozRequestFullScreen();
+  } else if (elem.webkitRequestFullscreen) {
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) {
+    elem.msRequestFullscreen();
+  }
+}
+
+  
+function goFull() {
+  let main = document.getElementsByClassName("MainContent")[0];
+  openFullscreen(main);
+  return false
+}
+
 function pageName(link) {
   let a = link.lastIndexOf("/") +1;
   let b = link.lastIndexOf(".html") + 5;
