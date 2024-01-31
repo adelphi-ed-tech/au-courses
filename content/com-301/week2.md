@@ -71,7 +71,7 @@ Week 2: School Segregation
 For this in-class assignment, you will crete a basic website for your school. On this page, you should play around with how to style text (headings, bold, italics, paragraphs, line breaks), uses lists, and add hyperlinks.
 
 1. Open the demo page in Codesandbox.io, create an account (you can use your AU gmail), and start editing the page.\
-   [https://codesandbox.io/p/sandbox/first-html-yrydg4]([https://codesandbox.io/p/sandbox/first-html-yrydg4)
+   [https://codesandbox.io/p/sandbox/first-html-yrydg4](https://codesandbox.io/p/sandbox/first-html-yrydg4)
 2. When you're ready, post your link to our Discord so we can see each other's work.
 
 #### Requirements
