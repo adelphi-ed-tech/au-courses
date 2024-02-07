@@ -76,7 +76,7 @@ Week 3: School Segregation Continued
 ### Map Resources
 Think about the maps we have seen in class so far as examples. 
 
-- [NY Times Interactive](https://www.nytimes.com/topic/subject/maps) (note you can access NYT for free as an Adelphi student: https://www.adelphi.edu/library-services/the-new-york-times/) 
+- [NY Times Interactive](https://www.nytimes.com/topic/subject/maps) (note you can access [NYT for free as an Adelphi student](https://www.adelphi.edu/library-services/the-new-york-times/)) 
 - [Maps by NYC](https://www.nyc.gov/nyc-resources/nyc-maps.page) 
 - [Maps by the CDC](https://www.cdc.gov/dhdsp/maps/gisx/mapgallery/index.html) 
 - [Maps by the Census](https://www.census.gov/programs-surveys/geography/data/interactive-maps.html) 
