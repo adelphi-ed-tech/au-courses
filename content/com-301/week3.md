@@ -45,23 +45,47 @@ Week 3: School Segregation Continued
 
 
 ### Agenda:
-1. Demos:
+1. Upcoming assignment: more info and Q&A
+2. Demos:
     - adding an image (or font, audio, video, other media)
     - including CSS
     - CSS selectors
     - box model: width, height, padding, margin, border
       - horizontal centering (`margin: 0 auto`)
-    - "containers": <div>, <span>, <main>, <section>, <nav>, <header>, <footer>
+    - "containers": `<div>, <span>, <main>, <section>, <nav>, <header>, <footer>`
     - adding background colors and images
     - adding a map point
     - AI chat for help
-2. Practice:
-   - open and "fork" the [Mapping Points Codesandbox] (TBD)
+3. Practice:
+   - open and "fork" the [Mapping Points Codesandbox](https://codesandbox.io/p/sandbox/mapping-points-jg7lyp)
    - add 2 new web pages to your school project
    - incorporate the new elements we learned about today
    - look up some other CSS properties and try them out
    - plot your HTML on the map
    - share on Discord
+4. Homework:
+   - Read the seminar articles
+   - Turn in [assignment 1]()
+   - Prepare for the next lab
+
+
+### Lab Links:
+- [Matt's notes for today](week3-notes.html)
+- [Map Point Codesandbox](https://codesandbox.io/p/sandbox/mapping-points-jg7lyp)
+
+### Map Resources
+Think about the maps we have seen in class so far as examples. 
+
+- [NY Times Interactive](https://www.nytimes.com/topic/subject/maps) (note you can access NYT for free as an Adelphi student: https://www.adelphi.edu/library-services/the-new-york-times/) 
+- [Maps by NYC](https://www.nyc.gov/nyc-resources/nyc-maps.page) 
+- [Maps by the CDC](https://www.cdc.gov/dhdsp/maps/gisx/mapgallery/index.html) 
+- [Maps by the Census](https://www.census.gov/programs-surveys/geography/data/interactive-maps.html) 
+- [Data Wrapper](https://blog.datawrapper.de/category/weekly-charts/)
+- [Map Room Blog](https://www.maproomblog.com/) Some interesting maps are discussed on this blog. 
+- [Bloomberg MapLab](https://www.bloomberg.com/citylab/maplab) 
+
+
+You can pick a topic of interest to you and search “___ + maps.” Look for reputable journalistic outlets, like newspapers (wall street journal, Washington post) or well-known web magazines (slate, vox). For example, if you are interested in cicadas, you can google and find: <https://www.vox.com/science/24047261/cicada-brood-xix-xiii-19-13-map>
 
 
 ### Readings out
@@ -71,5 +95,3 @@ Week 3: School Segregation Continued
     - Wines, M. (2019, June 27). [What Is Gerrymandering? And How Does It Work?](https://www.nytimes.com/2019/06/27/us/gerrymander-explainer.html) _The New York Times._
     - Meyers, D. (2019, November 7). [Experts identify the worst examples of gerrymandering.](https://thefulcrum.us/worst-gerrymandering-districts-example) _The Fulcrum._ [blog]
 
-- _lab_
-    - TBD
