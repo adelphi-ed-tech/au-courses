@@ -22,31 +22,34 @@ Week 4: Case Study II: Political Representation
 - Meyers, D. (2019, November 7). [Experts identify the worst examples of gerrymandering.](https://thefulcrum.us/worst-gerrymandering-districts-example) _The Fulcrum._ [blog]
 
 ### Agenda:
-1. Discuss readings
-2. TBD
+1. Review Project 1 Tech
+2. Reading Discussion
+3. Getting ready for next calss
 
 - - - -
 
 <h2><i class="bi bi-filetype-html text-primary"></i> Lab: Wednesday, Feb 21</h2>
 
-**Goals:** We are going to learn some simple Javascript programming in order to control the content on our pages and to incorporate data into our HTML.
+**Goals:** We are going to continue to work with CSS to add more consistent
+and complex styles. We are also going to learn how to change the
+markers on our maps to better convey our stories.
 
 ### Readings due:
+_You must watch these videos / complete these readings before class_
 
-- TBD
+- Jen Kramer. (2024). [CSS Selectors](https://www.linkedin.com/learning-login/share?account=56671577&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-selectors-2%2Fcss-terminology%3Ftrk%3Dshare_video_url%26shareId%3DO29af8CDQu6H8V5Lhk36BQ%253D%253D).
+  Chapter 1, CSS Terminology, Type Selectors, Selector Lists, Compound Selectors. _exercises are optional -- you don't have to turn anything in_ [~10 minutes]
+- Morten Rand-Hendrickson (2024). [The CSS Box Model](https://www.linkedin.com/learning-login/share?account=56671577&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmaking-sense-of-the-css-box-model-2%2Fwhat-is-the-css-box-model%3Ftrk%3Dshare_video_url%26shareId%3D7ka2tbXASgmTolzlsfOKmA%253D%253D) [4:50]
+- Matthew X. Curinga. (2024). [CSS for Leaflet Maps] (TBD) [~10 minutes]
+- Matthew X. Curinga. (2024). [Adding a Map Point] (TBD) [~10 minutes]
+
 
 
 ### Agenda:
-1. Demos:
-    - basic Javascript
-        - variables
-        - console.log()
-        - mathematical operations
-    - making a slideshow with Javascript
+1. Design Principles (Dr. Drew)
 2. Practice:
-    - use the Javascript we learned today to create a slideshow for your school project
-    - advanced challenge: create a bar chart using data related to your school
-    - share on Discord
+    - use CSS selectors to customize your maps
+    - create and upload your own map markers
 
 
 ### Readings out
