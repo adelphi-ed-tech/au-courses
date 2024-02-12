@@ -24,7 +24,21 @@ Week 4: Case Study II: Political Representation
 ### Agenda:
 1. Review Project 1 Tech
 2. Reading Discussion
-3. Getting ready for next calss
+3. Getting ready for next class
+
+### Discussion Questions:
+
+- **Getting started**
+  - What is gerrymandering?
+  - What is packing? What is cracking? 
+  - In a democracy, what does it mean to have fair, good, just representation?
+  - What are some of the spatial/geographic problems caused by gerrymandering, mentioned in the readings?
+- **Further discussion**
+  - Suppose you live in a community that has been affected by gerrymandering. How might you be affected? 
+  - When you look at a map of gerrymandered district, what do you notice? What do you wonder? 
+  - To what degree can you tell if a district is gerrymandered just by looking at? Why and why not? 
+  - How does gerrymandering relate to last week’s topics (school segregation and housing segregation)? 
+  - What are other ways that where you are can shape and be shaped by social injustice?
 
 - - - -
 
