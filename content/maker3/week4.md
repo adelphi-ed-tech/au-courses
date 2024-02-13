@@ -16,6 +16,12 @@ au_img: "au-white.svg"
 **Goals:** We will talk about play and creativity in the STEM classroom and the maker lab.
 This week you will start the build of your Rube Goldberg LEGO machine.**
 
+Readings due:
+-------------
+- Papert, S. (2002). [Hard Fun](hard-fun.html).
+- Runco, M. A., & Jaeger, G. J. (2012). [The Standard Definition of Creativity](http://emotrab.ufba.br/wp-content/uploads/2019/06/RUNCO-Mark-The-Standard-Definition-of-Creativity.pdf). _Creativity Research Journal_, _24_(1), 92–96.
+- Culpepper, M. K., & Gauntlett, D. (2020). [Making and learning together: Where the makerspace mindset meets platforms for creativity](https://journals.sagepub.com/doi/full/10.1177/2043610620941868). _Global Studies of Childhood_, _10_(3), 264–274.
+
 Agenda
 ------
 1. Dicusss readings
