@@ -54,8 +54,7 @@ _You must watch these videos / complete these readings before class_
 - Jen Kramer. (2024). [CSS Selectors](https://www.linkedin.com/learning-login/share?account=56671577&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-selectors-2%2Fcss-terminology%3Ftrk%3Dshare_video_url%26shareId%3DO29af8CDQu6H8V5Lhk36BQ%253D%253D).
   Chapter 1, CSS Terminology, Type Selectors, Selector Lists, Compound Selectors. _exercises are optional -- you don't have to turn anything in_ [~10 minutes]
 - Morten Rand-Hendrickson (2024). [The CSS Box Model](https://www.linkedin.com/learning-login/share?account=56671577&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmaking-sense-of-the-css-box-model-2%2Fwhat-is-the-css-box-model%3Ftrk%3Dshare_video_url%26shareId%3D7ka2tbXASgmTolzlsfOKmA%253D%253D) [4:50]
-- Matthew X. Curinga. (2024). [CSS for Leaflet Maps] (TBD) [~10 minutes]
-- Matthew X. Curinga. (2024). [Adding a Map Point] (TBD) [~10 minutes]
+- Matthew X. Curinga. (2024). [Map Markers](map-markers.html) [23:41]
 
 
 

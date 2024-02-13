@@ -40,3 +40,8 @@ h3 {
 .table-striped>tbody>tr>* {
     background-color: #F0BEB2;
 }
+
+div.highlight {
+    background-color: linen;
+    padding: 1em;
+}

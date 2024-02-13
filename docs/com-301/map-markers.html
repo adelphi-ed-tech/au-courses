@@ -116,87 +116,98 @@
     </div>
     
     <div class="MainContent col-xl-5 col-lg-7 col-md-9">
-      <h1 id="week-4-case-study-ii-political-representation">Week 4: Case Study II: Political Representation</h1>
+      <h1 id="video-map-markers-in-leaflet">Video: Map Markers in Leaflet</h1>
 
-<h2><i class="bi bi-book text-primary"></i> Seminar: Monday, Feb 19</h2>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/IwdHPU1trk0?si=TnS6tlWyix3J7ms4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
-<p><strong>Goals:</strong></p>
+<h2 id="pointsjs"><code class="language-plaintext highlighter-rouge">points.js</code></h2>
 
-<h3 id="readings-due">Readings due:</h3>
+<p>In this Javascript configuration file you will be able to:</p>
+
 <ul>
-  <li>Wines, M. (2019, June 27). <a href="https://www.nytimes.com/2019/06/27/us/gerrymander-explainer.html">What Is Gerrymandering? And How Does It Work?</a> <em>The New York Times.</em></li>
-  <li>Meyers, D. (2019, November 7). <a href="https://thefulcrum.us/worst-gerrymandering-districts-example">Experts identify the worst examples of gerrymandering.</a> <em>The Fulcrum.</em> [blog]</li>
+  <li>add point locations to your map</li>
+  <li>set the marker style
+    <ul>
+      <li>default</li>
+      <li>circle</li>
+      <li>custom</li>
+    </ul>
+  </li>
+  <li>add a tooltip to your marker</li>
 </ul>
 
-<h3 id="agenda">Agenda:</h3>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c1">// this example has 3 points</span>
+
+<span class="kd">let</span> <span class="nx">points</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">sfc</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">coords</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span><span class="mf">40.6903</span><span class="p">,</span> <span class="o">-</span><span class="mf">73.9863</span><span class="p">],</span>
+        <span class="dl">"</span><span class="s2">title</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">Adelphi Brooklyn Center @ St Francis College</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">icon</span><span class="dl">"</span><span class="p">:</span> <span class="nx">AUIcon</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">jacks</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">coords</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span><span class="mf">40.6895</span><span class="p">,</span> <span class="o">-</span><span class="mf">73.9851</span><span class="p">],</span>
+        <span class="dl">"</span><span class="s2">title</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">Jack's Stir Brew Coffee</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">circle</span><span class="dl">"</span><span class="p">:</span> <span class="p">{</span>
+            <span class="dl">"</span><span class="s2">radius</span><span class="dl">"</span><span class="p">:</span> <span class="mi">12</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">color</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">blue</span><span class="dl">"</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">devocion</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">coords</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span><span class="mf">40.6886</span><span class="p">,</span> <span class="o">-</span><span class="mf">73.9834</span><span class="p">],</span>
+        <span class="dl">"</span><span class="s2">title</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">Devoción Coffee</span><span class="dl">"</span>
+    <span class="p">}</span>
+<span class="p">]</span>
+</code></pre></div></div>
+<p><img src="img/points.png" alt="diagram of a point configuration" class="img-fluid" /></p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">name</code> (required) is a unique identifier for the point and must match the pop-up html (if you want a pop-up)</li>
+  <li><code class="language-plaintext highlighter-rouge">coords</code> (required) the latitude and longitude of the point</li>
+  <li><code class="language-plaintext highlighter-rouge">title</code> (optional) the text that will appear in the tooltip</li>
+  <li>marker style
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">icon</code> (optional) the custom icon to use for the marker</li>
+      <li><code class="language-plaintext highlighter-rouge">circle</code> (optional) the style of the circle marker</li>
+      <li>if no style is set, the default marker will be used</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="custom-marker-icons">Custom Marker Icons</h2>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">AUIcon</span> <span class="o">=</span> <span class="nx">L</span><span class="p">.</span><span class="nf">icon</span><span class="p">({</span>
+    <span class="na">iconUrl</span><span class="p">:</span> <span class="dl">"</span><span class="s2">/img/au.png</span><span class="dl">"</span><span class="p">,</span>
+    <span class="na">iconSize</span><span class="p">:</span>     <span class="p">[</span><span class="mi">64</span><span class="p">,</span> <span class="mi">54</span><span class="p">],</span> <span class="c1">// size of the icon</span>
+    <span class="na">iconAnchor</span><span class="p">:</span>   <span class="p">[</span><span class="mi">32</span><span class="p">,</span> <span class="mi">27</span><span class="p">],</span> <span class="c1">// point of the icon which will correspond to marker's location</span>
+    <span class="na">popupAnchor</span><span class="p">:</span>  <span class="p">[</span><span class="o">-</span><span class="mi">3</span><span class="p">,</span> <span class="o">-</span><span class="mi">76</span><span class="p">]</span> <span class="c1">// point from which the popup should open relative to the iconAnchor</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<p>To create a custom icon:</p>
+
 <ol>
-  <li>Review Project 1 Tech</li>
-  <li>Reading Discussion</li>
-  <li>Getting ready for next class</li>
-</ol>
-
-<h3 id="discussion-questions">Discussion Questions:</h3>
-
-<ul>
-  <li><strong>Getting started</strong>
+  <li>Create (or find) the icon image (png, jpg, gif, or svg)</li>
+  <li>On your computer, scale it to the desired size (more or less)</li>
+  <li>Upload it to the <code class="language-plaintext highlighter-rouge">/img</code> directory in your project root</li>
+  <li>Create a new icon using the <code class="language-plaintext highlighter-rouge">L.icon</code> method (example above)
     <ul>
-      <li>What is gerrymandering?</li>
-      <li>What is packing? What is cracking?</li>
-      <li>In a democracy, what does it mean to have fair, good, just representation?</li>
-      <li>What are some of the spatial/geographic problems caused by gerrymandering, mentioned in the readings?</li>
-    </ul>
-  </li>
-  <li><strong>Further discussion</strong>
-    <ul>
-      <li>Suppose you live in a community that has been affected by gerrymandering. How might you be affected?</li>
-      <li>When you look at a map of gerrymandered district, what do you notice? What do you wonder?</li>
-      <li>To what degree can you tell if a district is gerrymandered just by looking at? Why and why not?</li>
-      <li>How does gerrymandering relate to last week’s topics (school segregation and housing segregation)?</li>
-      <li>What are other ways that where you are can shape and be shaped by social injustice?</li>
-    </ul>
-  </li>
-</ul>
-
-<hr />
-
-<h2><i class="bi bi-filetype-html text-primary"></i> Lab: Wednesday, Feb 21</h2>
-
-<p><strong>Goals:</strong> We are going to continue to work with CSS to add more consistent
-and complex styles. We are also going to learn how to change the
-markers on our maps to better convey our stories.</p>
-
-<h3 id="readings-due-1">Readings due:</h3>
-<p><em>You must watch these videos / complete these readings before class</em></p>
-
-<ul>
-  <li>Jen Kramer. (2024). <a href="https://www.linkedin.com/learning-login/share?account=56671577&amp;forceAccount=false&amp;redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-selectors-2%2Fcss-terminology%3Ftrk%3Dshare_video_url%26shareId%3DO29af8CDQu6H8V5Lhk36BQ%253D%253D">CSS Selectors</a>.
-Chapter 1, CSS Terminology, Type Selectors, Selector Lists, Compound Selectors. <em>exercises are optional – you don’t have to turn anything in</em> [~10 minutes]</li>
-  <li>Morten Rand-Hendrickson (2024). <a href="https://www.linkedin.com/learning-login/share?account=56671577&amp;forceAccount=false&amp;redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmaking-sense-of-the-css-box-model-2%2Fwhat-is-the-css-box-model%3Ftrk%3Dshare_video_url%26shareId%3D7ka2tbXASgmTolzlsfOKmA%253D%253D">The CSS Box Model</a> [4:50]</li>
-  <li>Matthew X. Curinga. (2024). <a href="map-markers.html">Map Markers</a> [23:41]</li>
-</ul>
-
-<h3 id="agenda-1">Agenda:</h3>
-<ol>
-  <li>Design Principles (Dr. Drew)</li>
-  <li>Practice:
-    <ul>
-      <li>use CSS selectors to customize your maps</li>
-      <li>create and upload your own map markers</li>
+      <li>the variable name (<code class="language-plaintext highlighter-rouge">AUIcon</code>) should a good, short, valid name that describes the icon
+        <ul>
+          <li>use it every time you want to use the icon</li>
+        </ul>
+      </li>
+      <li><code class="language-plaintext highlighter-rouge">iconUrl</code> is the path to the image, must match exactly including the path and the case</li>
+      <li><code class="language-plaintext highlighter-rouge">iconSize</code> is the size of the image in pixels, [<code class="language-plaintext highlighter-rouge">width</code>, <code class="language-plaintext highlighter-rouge">height</code>]</li>
+      <li><code class="language-plaintext highlighter-rouge">iconAnchor</code> is the point on the image that will be placed relative to the marker’s location (x, y relative to the anchor)</li>
+      <li><code class="language-plaintext highlighter-rouge">popupAnchor</code> defines the offset from the pop-up and the anchor point</li>
     </ul>
   </li>
 </ol>
-
-<h3 id="readings-out">Readings out</h3>
-<p>(<em>due before next class</em>)</p>
-
-<ul>
-  <li><em>seminar</em>
-  _ Gerrymandering Project. <a href="https://gerrymander.princeton.edu/redistricting-report-card/">Redistricting Report Card</a> [interactive]
-    <ul>
-      <li>PBSLearing. (2018) <a href="https://ny.pbslearningmedia.org/resource/the-battle-for-votes-gerrymandering-video/retro-report/">The Battle for Votes: Gerrymandering</a> [video][11:06]</li>
-    </ul>
-  </li>
-</ul>
 
     </div>
   </div>
