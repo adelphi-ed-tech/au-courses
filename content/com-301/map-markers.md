@@ -15,6 +15,7 @@ Video: Map Markers in Leaflet
 <iframe src="https://www.youtube.com/embed/IwdHPU1trk0?si=TnS6tlWyix3J7ms4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+**[Click here to open the code in Codesandbox](https://codesandbox.io/p/sandbox/smoosh-glade-z6qnp5)**
 
 `points.js`
 -----------
