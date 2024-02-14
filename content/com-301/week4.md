@@ -59,10 +59,12 @@ _You must watch these videos / complete these readings before class_
 
 
 ### Agenda:
-1. Design Principles (Dr. Drew)
-2. Practice:
-    - use CSS selectors to customize your maps
-    - create and upload your own map markers
+1. Choose a table:
+    - **Table A:** I just want to work through the new example and polish up my project 1 map.
+    - **Tables B & C:** I'm ready to make my own custom icons and legends.
+    - **Table D:** I watched all of the videos and they made sense; give me a challenge.
+2. At your table, [work on the map maker exercies](markers-lab.html).
+3. Share something cool you did on Discord (link or screenshot).
 
 
 ### Readings out
