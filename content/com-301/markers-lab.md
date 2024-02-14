@@ -67,4 +67,4 @@ _Try one of these for more of a challenge._
     the code to understand how it works. Use your browser's developer tools to "inspect" 
     (try right-clicking) a map pop-up and figure out how to change the css of the pop-up. For 
     example, using the Leaflet CSS class names, you might add styles to your css to override 
-    the padding, border-radius, background color, or opacity.
+    the width, padding, border-radius, background color, or opacity.
