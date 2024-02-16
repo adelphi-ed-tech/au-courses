@@ -28,7 +28,7 @@ Week 5: Case Study II: Political Representation
 
 ### Agenda:
 1. Designing spatial stories (30 minutes)
-2. Reading Discussion (30 minutes)
+2. Gerrymandering and Spatial Justice (30 minutes)
 3. Getting ready for next class (15 minutes)
 
 ### Homework: (due for Wednesday)
@@ -61,24 +61,22 @@ session at the CASE: [https://adelphi.edu/case](https://adelphi.edu/case)
 _This is going to be a studio session where you work on your
 map project 2._
 
-### Readings due:
-_Review these videos before class_
-
-- Jen Kramer. (2024). [CSS
-Selectors](https://www.linkedin.com/learning-login/share?account=56671577&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-selectors-2%2Fcss-terminology%3Ftrk%3Dshare_video_url%26shareId%3DO29af8CDQu6H8V5Lhk36BQ%253D%253D).
-Chapter 1, CSS Terminology, Type Selectors, Selector Lists, Compound Selectors. _exercises are optional -- you don't
-have to turn anything in_ [~10 minutes]
-- Morten Rand-Hendrickson (2024). [The CSS Box
-Model](https://www.linkedin.com/learning-login/share?account=56671577&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmaking-sense-of-the-css-box-model-2%2Fwhat-is-the-css-box-model%3Ftrk%3Dshare_video_url%26shareId%3D7ka2tbXASgmTolzlsfOKmA%253D%253D)
-[4:50]
-- Matthew X. Curinga. (2024). [Map Markers](map-markers.html) [23:41]
-
-### Bring to class:
-1. A working version of your code on Codesandbox or Replit. If you come to class 
-   and your code is not working and you have not contacted us, **you are unprepared**.
-2. A list of things (written down!) that you want to accomplish during the studio.
-   This can include some simple sketches, a few bullet points, or a short description 
-   of what you want. The instructors will review your list during the studio.
+### Due today:
+- _Review these videos before class_
+   - Jen Kramer. (2024). [CSS
+   Selectors](https://www.linkedin.com/learning-login/share?account=56671577&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-selectors-2%2Fcss-terminology%3Ftrk%3Dshare_video_url%26shareId%3DO29af8CDQu6H8V5Lhk36BQ%253D%253D).
+   Chapter 1, CSS Terminology, Type Selectors, Selector Lists, Compound Selectors. _exercises are optional -- you don't
+   have to turn anything in_ [~10 minutes]
+   - Morten Rand-Hendrickson (2024). [The CSS Box
+   Model](https://www.linkedin.com/learning-login/share?account=56671577&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmaking-sense-of-the-css-box-model-2%2Fwhat-is-the-css-box-model%3Ftrk%3Dshare_video_url%26shareId%3D7ka2tbXASgmTolzlsfOKmA%253D%253D)
+   [4:50]
+   - Matthew X. Curinga. (2024). [Map Markers](map-markers.html) [23:41]
+- Bring to class:
+  1. A working version of your code on Codesandbox or Replit (see above for details in "Homework"). 
+     **If you come to class and your code is not working and you have not contacted us, you are unprepared**.
+  2. A list of things (written down!) that you want to accomplish during the studio.
+     This can include some simple sketches, a few bullet points, or a short description 
+     of what you want. The instructors will review your list during the studio.
 
 
 ### Agenda:
