@@ -25,7 +25,7 @@ at least 4 points with an HTML pop-up. One of the points must be the
 location of your school, the other points might be other schools, 
 locations of importance to you and your educational background, areas 
 of community interest, historic sites, etc. There is no 
-strict rule as to what you choose to include in your map.
+strict rule as to what you choose to include in your map!
 
 #### Your HTML pop-ups must include the following:
 
