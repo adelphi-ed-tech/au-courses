@@ -66,25 +66,25 @@ _There is no required textbook for this course. Course readings will be made ava
 Class Schedule
 --------------
 
-|   |Date    |Format       |Topic	                   | Due
-|---|--------|-------------|-------------------------|---------------
-| 01|Jan 23  |online       |Roots of Maker Ed	       | 
-| 02|Jan 30  |in person    |Intro LEGO Robotics      | 
-| 03|Feb 06  |online       |Play and Creativity      | 
-| 04|Feb 13  |in person    |LEGO Rube Goldberg       | 
-| 05|Feb 20  |online       |Robotics & CT            | LEGO Portfolio Report
-| 06|Feb 27  |in person    |Laser Cutter 1           | 
-| 07|Mar 05  |online       |Equity in the lab        | 
-| 08|Mar 12  |in person    |Laser Cut Animals        | 
-|  -|Mar 19  |spring break |     -                   | Animal Portfolio Report
-| 09|Mar 26  |in person    |Workshop Pitches         | Workshop Pitch, self eval
-| 10|Apr 02  |online       |Maker Ed Challenges      | 
-| 11|Apr 09  |in person    |Workshop Abstract        | 
-| 12|Apr 16  |online       |Workshop Lesson Plans    | Material List
-| 13|Apr 23  |online       |Studio                   | 
-| 14|Apr 30  |in person    |Demo Presentations 1     | 
-| 15|May 07  |in person    |Demo Presentations 2     | 
-| 16|May 14  |in person    |Mini Conference	         | Mini Conference Portfolio, self eval
+|   |Date    |Format       |Topic	                      | Due
+|---|--------|-------------|-------------------------   |---------------
+| 01|Jan 23  |online       |Roots of Maker Ed	          | 
+| 02|Jan 30  |in person    |Intro LEGO Robotics         | 
+| 03|Feb 06  |online       |Play and Creativity         | 
+| 04|Feb 13  |in person    |LEGO Rube Goldberg          | 
+| 05|Feb 20  |online       |Robotics & CT               | LEGO Portfolio Report
+| 06|Feb 27  |in person    |Rube Goldberg Presentations | 
+| 07|Mar 05  |online       |Equity in the lab           | 
+| 08|Mar 12  |in person    |Workshop ideas              | 
+|  -|Mar 19  |spring break |     -                      | Animal Portfolio Report
+| 09|Mar 26  |in person    |Workshop Pitches            | Workshop Pitch, self eval
+| 10|Apr 02  |online       |Maker Ed Challenges         | 
+| 11|Apr 09  |in person    |Workshop Abstract           | 
+| 12|Apr 16  |online       |Workshop Lesson Plans       | Material List
+| 13|Apr 23  |online       |Studio                      | 
+| 14|Apr 30  |in person    |Demo Presentations 1        | 
+| 15|May 07  |in person    |Demo Presentations 2        | 
+| 16|May 14  |in person    |Mini Conference	            | Mini Conference Portfolio, self eval
 
 This is a hybrid course with some in-person meetings and some online meetings. Mostly, we will
 meet in-person every other week, but see the schedule above for details. Online weeks will be
@@ -101,13 +101,10 @@ Grading & Assignments
 |Assignment	                   |PCT
 |------------------------------|----
 |Participation & attendance 1  |15%    
-|Participation & attendance 2  |10%    
-|LEGO Portfolio Report         |10%    
-|Animal Portfolio Report       |10%    
+|Participation & attendance 2  |15%    
+|LEGO Portfolio Report         |15%    
 |Workshop Pitch                |10%    
 |Mini Conference Workshop      |45%    
-
-
 
 ### Participation & attendance
 
@@ -155,11 +152,12 @@ The core of your design will be [LEGO Spike Prime](https://spike.legoeducation.c
 but you can (and should) incorporate non-LEGO materials as well.
 
 ### Laser Cut Animal
-You will work with a team to design, test and build a laser cut animal. You will
+
+<s>You will work with a team to design, test and build a laser cut animal. You will
 start with a cardboard/paper prototype working towards a final project that
 is cut with the laser cutter. You will complete the project using traditional art
 and craft materials (glue, paint, paint markers, etc). Your animal must have both
-laser cuts and laser engraving.
+laser cuts and laser engraving.</s>
 
 ### STEAM Workshop
 

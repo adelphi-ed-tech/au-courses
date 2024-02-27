@@ -16,6 +16,8 @@ Week 6: Case Study III: Climate Change
 
 **Goals:**
 
+- Discuss the role of maps, visualizations, 
+
 ### Readings due:
 - Popovich, N., Rojanasakul, M., & Plumer, B. (2022, December 13).
   [The Climate Impact of Your Neighborhood, Mapped](https://www.nytimes.com/interactive/2022/12/13/climate/climate-footprint-map-neighborhood.html). _The New York Times_. 
