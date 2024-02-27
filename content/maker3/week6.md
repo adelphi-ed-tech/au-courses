@@ -13,7 +13,7 @@ au_img: "au-white.svg"
 ==================================================================
 **In-person, Feb 27, 5pm-7pm**
 
-<img src="img/candle.png" class="img-fluid d-block" alt="rube goldberg machine">
+<img src="img/candle.png" class="float-end" alt="rube goldberg machine">
 
 **Goals:** Develop ideas regarding computing and STEM fields, and
 computing as a general literacy required for broad participation in
