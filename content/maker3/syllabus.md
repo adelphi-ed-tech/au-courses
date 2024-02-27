@@ -76,7 +76,7 @@ Class Schedule
 | 06|Feb 27  |in person    |Rube Goldberg Presentations | LEGO Portfolio Report
 | 07|Mar 05  |online       |Equity in the lab           | 
 | 08|Mar 12  |in person    |Workshop ideas              | 
-|  -|Mar 19  |spring break |     -                      | Animal Portfolio Report
+|  -|Mar 19  |spring break |     -                      | 
 | 09|Mar 26  |in person    |Workshop Pitches            | Workshop Pitch, self eval
 | 10|Apr 02  |online       |Maker Ed Challenges         | 
 | 11|Apr 09  |in person    |Workshop Abstract           | 

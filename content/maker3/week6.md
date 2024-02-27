@@ -44,3 +44,13 @@ Submitting your report:
      this group project, in terms of the readings we have completed
      so far in class
    - photos, sketches, video and other media to support your presentation
+
+
+Readings out:
+-------------
+- Godhe, A.-L., Lilja, P., & Selwyn, N. (2019). [Making sense of making: Critical issues in the integration of maker education into schools](https://usercontent.one/wp/kvasarmakerspace.se/wp-content/uploads/2019/05/Making-sense-of-making.pdf). _Technology, Pedagogy and Education_, _28_(3), 317–328.
+- Cipolla, C. (2019). [Build It Better: Tinkering in Feminist Maker Pedagogy](https://onesearch.adelphi.edu/permalink/01ADELPHI_INST/188n7nj/cdi_proquest_journals_2260090157). _Women’s Studies_, _48_(3), 261–282.
+- Bullock, E. (2017). Only STEM Can Save Us? Examining Race, Place, and STEM Education as Property. _Educational Studies_, _53_(6), 628–641.
+
+
+
