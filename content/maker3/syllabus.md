@@ -72,8 +72,8 @@ Class Schedule
 | 02|Jan 30  |in person    |Intro LEGO Robotics         | 
 | 03|Feb 06  |online       |Play and Creativity         | 
 | 04|Feb 13  |in person    |LEGO Rube Goldberg          | 
-| 05|Feb 20  |online       |Robotics & CT               | LEGO Portfolio Report
-| 06|Feb 27  |in person    |Rube Goldberg Presentations | 
+| 05|Feb 20  |online       |Robotics & CT               | 
+| 06|Feb 27  |in person    |Rube Goldberg Presentations | LEGO Portfolio Report
 | 07|Mar 05  |online       |Equity in the lab           | 
 | 08|Mar 12  |in person    |Workshop ideas              | 
 |  -|Mar 19  |spring break |     -                      | Animal Portfolio Report
