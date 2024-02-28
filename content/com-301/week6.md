@@ -30,4 +30,25 @@ Week 6: Case Study III: Climate Change
 
 **Goals:**
 
-In this class we will go over a demo of how to plot "shapes" on a map.
+- learn how to use custom web fonts
+- use the "inspect" tool in the browser to debug and modify code
+- use ChatGPT to learn HTML, CSS, etc
+- create a Pinterest board for your final project
+
+**Agenda**
+
+1. Editing `index.html` (adding fonts, using chat-gpt for animations)
+2. Using the inspector
+3. Programming lab (work on your project)
+4. [Pinterest](https://pinterest.com) and project ideation
+   1. Create an account on pinterest
+   2. Create a board with one of your ideas for the final project
+   3. Add 3 pins to the board that are related to your idea
+      - they are _about_ the topic
+      - they _inspire_ your design
+
+**Resources**
+
+0. [Example Code: Brooklyn Map Revised](https://codesandbox.io/p/sandbox/adelphi-brooklyn-revised-msswsn?file=%2Findex.html%3A40%2C8)
+1. [MDN Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
+2. [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
