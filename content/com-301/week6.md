@@ -52,3 +52,34 @@ Week 6: Case Study III: Climate Change
 0. [Example Code: Brooklyn Map Revised](https://codesandbox.io/p/sandbox/adelphi-brooklyn-revised-msswsn?file=%2Findex.html%3A40%2C8)
 1. [MDN Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
 2. [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+
+
+### Quick Guide: using a custom font
+[See this in action on codesandbox](https://codesandbox.io/p/sandbox/adelphi-brooklyn-revised-msswsn)
+
+1. Download a free font from dafont, google fonts, font squirrel, etc
+2. Unzip the .zip folder on your computer (e.g. your Downloads folder)
+3. Create a `fonts` folder on your web proejct
+4. Upload the font file (.otf, .ttf, etc -- there are many font types) to your fonts folder by dragging it from your computer into the `fonts` folder. Just the font file, not the .zip file.
+5. Create a new file in the fonts folder called `fonts.css`
+6. In `fonts.css` add the following code. The property `font-family` is the name you will use in your CSS to call the font. The `src` is the path to the font file. In my example, I'm using _superchage_ as the font name.
+```css
+   @font-face {
+     font-family: 'supercharge';
+     src: url('supercharge.ttf');
+   }
+``` 
+7. In your `index.html` file, link to the `fonts.css` file in the head of the document. 
+```html
+   <link rel="stylesheet" href="/fonts/fonts.css">
+```
+8. Use the new font in your `styles.css` file. For example, this code changes the
+   title in the legend.
+```css
+.Legend h3 {
+  font-family: "supercharge";
+  text-align: center;
+  font-weight: bold;
+}
+```
+
