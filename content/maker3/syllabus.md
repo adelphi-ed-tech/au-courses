@@ -73,9 +73,9 @@ Class Schedule
 | 03|Feb 06  |online       |Play and Creativity         | 
 | 04|Feb 13  |in person    |LEGO Rube Goldberg          | 
 | 05|Feb 20  |online       |Robotics & CT               | 
-| 06|Feb 27  |in person    |Rube Goldberg Presentations | LEGO Portfolio Report
-| 07|Mar 05  |online       |Equity in the lab           | 
-| 08|Mar 12  |in person    |Workshop ideas              | 
+| 06|Feb 27  |in person    |Rube Goldberg Presentations | 
+| 07|Mar 05  |online       |Equity in the lab           | LEGO Portfolio Report
+| 08|Mar 12  |in person    |Reading Seminar             | 
 |  -|Mar 19  |spring break |     -                      | 
 | 09|Mar 26  |in person    |Workshop Pitches            | Workshop Pitch, self eval
 | 10|Apr 02  |online       |Maker Ed Challenges         | 

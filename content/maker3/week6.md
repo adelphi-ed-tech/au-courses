@@ -36,7 +36,7 @@ Submitting your report:
 1. Update your portfolio website with a page (or more) related to this lab
 2. Add a link to your portfolio to our 
    [shared google sheet](https://docs.google.com/spreadsheets/d/10tLBnEYAzvPImugyc0_UYddghNobG8WdTEOK1JSd_eU/edit?usp=sharing)
-3. Submit your link by end of day Wednesday (Feb 28)
+3. Submit your link by end of day Tuesday (Mar 05)
 4. Include the following:
    - a description of your role in the project
    - a reflection on what your goals were and whether you achieved them
@@ -50,7 +50,7 @@ Readings out:
 -------------
 - Godhe, A.-L., Lilja, P., & Selwyn, N. (2019). [Making sense of making: Critical issues in the integration of maker education into schools](https://usercontent.one/wp/kvasarmakerspace.se/wp-content/uploads/2019/05/Making-sense-of-making.pdf). _Technology, Pedagogy and Education_, _28_(3), 317–328.
 - Cipolla, C. (2019). [Build It Better: Tinkering in Feminist Maker Pedagogy](https://onesearch.adelphi.edu/permalink/01ADELPHI_INST/188n7nj/cdi_proquest_journals_2260090157). _Women’s Studies_, _48_(3), 261–282.
-- Bullock, E. (2017). Only STEM Can Save Us? Examining Race, Place, and STEM Education as Property. _Educational Studies_, _53_(6), 628–641.
+- Bullock, E. (2017). [Only STEM Can Save Us? Examining Race, Place, and STEM Education as Property](https://drive.google.com/file/d/1Fm4YfYfUtgP8502KRLSF3LIRXVc9fYYo/view?usp=drive_link). _Educational Studies_, _53_(6), 628–641.
 
 
 
