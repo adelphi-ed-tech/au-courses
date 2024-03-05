@@ -27,13 +27,24 @@ Docs & Examples
 
 Design
 ------
+- [Adelphi Style Guide](https://www.adelphi.edu/brand/)
+  - [Graphik Font](https://commercialtype.com/catalog/graphik)
+- **Color**
+  - <https://colorhunt.co/>
+  - <https://coolors.co/>
+  - <https://colorable.jxnblk.com/>
+  - <https://www.khroma.co/>
+  - <https://mycolor.space/>
+  - <https://color.adobe.com>
+  - [Named Web Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
+- **Design Inspiration**
+  - [Dribbble](http://dribbble.com/)
+  - [Behance](http://www.behance.net/)
+  - [Awwwards](http://www.awwwards.com/)
+  - [Webby Awards](https://www.webbyawards.com/)
+  - [Deviant Art](http://www.deviantart.com/)
 - [A List Apart](http://alistapart.com/topic/html)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
-- [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
-- [hex/html color chart](http://www.december.com/html/spec/color.html)
-- [Deviant Art](http://www.deviantart.com/)
-- [Dribbble](http://dribbble.com/)
-- [Behance](http://www.behance.net/)
 
 
 Accessibility / Usability / UX
@@ -64,20 +75,31 @@ Media Resources
 ----------------
 Open License Media and royalty free resources.
 
+### Fonts
+- [dafont](http://www.dafont.com/)
 - [Google Fonts](https://fonts.google.com/)
-- [Creative Commons Search](http://search.creativecommons.org/), for images, music, etc
+- [Font Awesome](http://fontawesome.io/)
+- [Adobe Fonts](https://fonts.adobe.com/)
+- [Font Squirrel](https://www.fontsquirrel.com/)
+
+### Images, Video, Audio, Icons
+- [The Noun Project](http://thenounproject.com/), icons
 - [Pixabay](https://pixabay.com/), royalty free images and videos
-- [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page), images and other media (including stuff from Wikipedia), curated
 - [Open Clip Art](https://openclipart.org/), free vector graphics
+- [Unsplash](https://unsplash.com/), free high resolution images
+- [Pexels](https://www.pexels.com/), free stock photos and videos
+- [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page), images and other media (including stuff from Wikipedia), curated
+- [Creative Commons Search](http://search.creativecommons.org/), for images, music, etc
 - [Creative Commons Music](http://creativecommons.org/music-communities)
 - [Fossil Bank](http://fossilbank.wikidot.com/)
 
-Tools
-------
+Software/Tools
+---------------
+- [Replit](https://replit.com) _online code editor_
 - [Codesandbox.io](https://codesandbox.io) _online code editor_
 - [Figma](https://www.figma.com/) _wireframes / mockups_
 - [Chat GPT](https://chat.openai.com/) _AI chatbot_
-- [Bard](https://bard.google.com) _AI chatbot_
+- [Gemini](https://gemini.google.com) _AI chatbot_
 - [GIMP](https://www.gimp.org/) _image editing_
 - [Inkscape](https://inkscape.org/) _vector graphics_
 - [Audacity](https://www.audacityteam.org/) _audio editing_
