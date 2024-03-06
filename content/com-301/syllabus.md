@@ -151,18 +151,19 @@ For your map investigation, you will choose a map that **addresses a social prob
 
 Further details regarding this assignment will be handed out in class.
 
-### Mapping Climate Change: Map Investigation and Skills Project #3 (20%) 
-_Static map that animates over time; animating map layers; time lapse. Due 3/11_
+### Final Project Proposal (20%) 
+_Everyone turns in their final proposal. Due 3/11_
 
+> Final projects can be a group or individual project,
+> but everyone must submit a proposal for a final project.
+> The proposal will outline your idea for the final project,
+> describing why it matters and what is as stake, who the
+> audience is, and what you hope to achieve. In addition,
+> you will describe key design and interaction elements,
+> and present a basic plan for how you will gather data
+> and conduct research to support your project.
 
-For your map investigation, you will choose a map that is designed well (in your opinion). Your Map Investigation (~200 words) must include: 
-- The map you chose (including a link) 
-- A summary of the map 
-- A discussion of the choice the map-makers made in terms of design (for example, color, size, clickability, - and so on) 
-- Which of these choices you think are effective and why, using ideas from class 
-
-Further details regarding this assignment will be handed out in class.
-
+**[Click here for proposal details](proposal.html)**
 
 ### Final Project: (30%)
 

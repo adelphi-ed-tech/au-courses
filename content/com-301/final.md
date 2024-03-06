@@ -103,5 +103,5 @@ Your final project will be evaluated on the following criteria:
     - Use media elements to support and enhance the narrative
 4. **Risk & Originality**
     - Go beyond the minimum requirements and shared examples
-    - Innovate in your design, your content, or your combination of materials
+    - Innovate in your design, your content, and/or your combination of materials
     - Take a chance on expressing a unique perspective that challenges readers/users
