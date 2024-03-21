@@ -103,5 +103,34 @@ Your final project will be evaluated on the following criteria:
     - Use media elements to support and enhance the narrative
 4. **Risk & Originality**
     - Go beyond the minimum requirements and shared examples
-    - Innovate in your design, your content, or your combination of materials
+    - Innovate in your design, your content, and/or your combination of materials
     - Take a chance on expressing a unique perspective that challenges readers/users
+
+Design Statement & Self Reflection
+----------------------------------
+
+All individuals in the group must complete a designer’s statement independently. 
+In the designer’s statement, please answer the following questions. You can 
+provide your answers as a list, with one good paragraph (at least 75 words) for each. 
+
+1. Describe some of the design choices you made about look and feel? Why did 
+   you make those choices? 
+2. Describe the design choices you made about what content to share and howl? 
+   Why did you make those choices? 
+3. Describe the choices you made about the process of creating the artifact? 
+   Why did you make those choices? 
+4. Revisit your goals from your project proposal, in terms of what you hoped 
+   audiences would see, experience, and think about when viewing your map? How 
+   effectively did you meet those goals? 
+5. Which are the most successful aspects of your map/what do you like most 
+   about it/what are you most proud of about it?
+6. Did you encounter any difficulties when creating your map? How did you work 
+   through them?
+7. What did you learn about spatial justice by working through this project? 
+   What might you do differently now that you know what you know? 
+8. _Questions about group process_ - if you worked alone, you do not need to
+   answer these questions: 
+   1. Evaluate your group’s effectiveness. How well did your group work together? 
+   2. Describe your individual role and contributions to the group. 
+   3. If any, what were difficulties your group encountered in working together? How did you resolve them? 
+   4. Is there anything you want us to know about how your group worked together?

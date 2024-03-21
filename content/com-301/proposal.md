@@ -16,8 +16,8 @@ The proposal will outline your idea for the final project,
 describing why it matters and what is at stake, who the
 audience is, and what you hope to achieve. In addition,
 you will describe key design and interaction elements,
-and present a basic plan for where you will gather data
-and research to support your project.
+and present a basic plan for how you will gather data
+and conduct research to support your project.
 
 Please follow this outline for your proposal:
 
