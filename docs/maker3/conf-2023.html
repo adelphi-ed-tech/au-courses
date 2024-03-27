@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html class="h-100" lang="en">
+
+<head>
+  <!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |
+                     |_|
+ ______    _   _______        _
+|  ____|  | | |__   __|      | |
+| |__   __| |    | | ___  ___| |__
+|  __| / _` |    | |/ _ \/ __| '_ \
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+-->
+
+  <title>Maker Lab 3: School Lab</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+  <link rel="shortcut icon" type="image/ico" href="/au-courses/img/favicon.ico">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link href="/au-courses/css/main.css" rel="stylesheet">
+  
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+
+  <link href="/au-courses/css/blueprint.css" rel="stylesheet">
+
+
+
+
+<style>
+  .SideNav {
+    
+  }
+</style>
+
+<main class="">
+  <div class="container-fluid row h-100 p-0 m-0">
+    
+    <div class="SideNav col-md-3 col-xxl-2 p-0 m-0">
+      <button type="button" onclick="goFull()" class="position-sticky top-0 start-0 btn btn-light"><i class="bi bi-arrows-fullscreen"></i></button>
+
+      <img src="/au-courses/img/au-white.svg" alt="adelphi university" class="d-block img-fluid mt-2 p-4 mx-auto">
+      <nav class="navbar-expand-md">
+        <button class="btn btn-secondary d-block d-md-none ms-auto mb-2 me-2" type="button" data-bs-toggle="collapse"
+          data-bs-target="#classInfo" aria-controls="classInfo" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="bi bi-list"></i>
+        </button>
+      
+        <div id="classInfo" class="collapse d-md-block">
+          
+            
+            <a href="/au-courses/maker3/" 
+   class="d-block text-center my-2 fw-bold text-white link-underline link-underline-opacity-0">ESM 503 - Spring '24</a>
+
+
+
+<strong class="ps-1 text-white">Class Meetings</strong>
+  <div class="ps-3 py-2">
+    <a class="nav-link text-white d-block" href="week1.html"><b><i class="bi bi-router"></i> Jan 23</b> Roots of Maker Ed</a>
+    <a class="nav-link text-white d-block" href="week2.html"><b><i class="bi bi-building"></i> Jan 30</b> LEGO Robotics</a>
+    <a class="nav-link text-white d-block" href="week3.html"><b><i class="bi bi-router"></i> Feb 06</b> Play and Creativity</a>
+    <a class="nav-link text-white d-block" href="week4.html"><b><i class="bi bi-building"></i> Feb 13</b> LEGO Rube Goldberg</a>
+    <a class="nav-link text-white d-block" href="week5.html"><b><i class="bi bi-router"></i> Feb 20</b> Equity in the lab</a>
+    <a class="nav-link text-white d-block" href="week6.html"><b><i class="bi bi-building"></i> Feb 27</b> Goldberg Demo Day</a>
+    <a class="nav-link text-white d-block" href="week7.html"><b><i class="bi bi-router"></i> Mar 05</b> Equity in the lab</a>
+    <a class="nav-link text-white d-block disabled" href="week8.html"><b><i class="bi bi-building"></i> Mar 12</b> Maker Learning Seminar</a>
+    <a class="nav-link text-white d-block disabled" href="spring-break.html"><b><i class="bi bi-emoji-sunglasses"></i> Mar 19</b> Spring break, no class</a>
+    <a class="nav-link text-white d-block disabled" href="week10.html"><b><i class="bi bi-building"></i> Mar 26</b> Workshop Pitches</a>
+    <a class="nav-link text-white d-block disabled" href="week11.html"><b><i class="bi bi-router"></i> Apr 02</b> Workshop Pairs</a>
+    <a class="nav-link text-white d-block disabled" href="week12.html"><b><i class="bi bi-building"></i> Apr 09</b> Workshop Abstract</a>
+    <a class="nav-link text-white d-block disabled" href="week13.html"><b><i class="bi bi-router"></i> Apr 16</b> Workshop Lesson Plans</a>
+    <a class="nav-link text-white d-block disabled" href="week14.html"><b><i class="bi bi-router"></i> Apr 23</b> Studio</a>
+    <a class="nav-link text-white d-block disabled" href="week15.html"><b><i class="bi bi-building"></i> Apr 30</b> Studio</a>
+    <a class="nav-link text-white d-block disabled" href="week16.html"><b><i class="bi bi-building"></i> May 07</b> Studio</a>
+    <a class="nav-link text-white d-block disabled" href="week17.html"><b><i class="bi bi-building"></i> May 14</b> Mini Conference</a>
+  </div>
+<strong class="ps-1 text-white">Course Links</strong>
+  <div class="ps-3 py-2">
+    <a class="nav-link d-block text-white w-100" href="syllabus.html"><i class="bi bi-bookmark-heart-fill"></i> Syllabus</a>
+    <a class="nav-link d-block text-white w-100" href="labs.html"><i class="bi bi-gear"></i> Labs</a>
+    <a class="nav-link d-block text-white w-100" href="readings.html"><i class="bi bi-book"></i> Readings</a>
+    <a class="nav-link d-block text-white w-100" href="readings.html"><i class="bi bi-card-checklist"></i> Assignments</a>
+    <a class="nav-link d-block text-white w-100" href="conference.html"><i class="bi bi-award"></i> STEAM Conference</a>
+    <a class="nav-link d-block text-white w-100" href="roster.html"><i class="bi bi-file-lock2"></i> Class
+    Roster</a>
+    <a class="nav-link d-block text-white w-100" href="index.html"><i class="bi bi-info-square"></i> About</a>
+  </div>
+
+<div class="mx-auto border-top border-white p-2">
+    <div class="text-white ps-2 fw-bold">Instructor</div>
+    <div class="text-white ps-4">Dr. Matthew X. Curinga</div>    
+    <div class="text-white ps-2 fw-bold">Class Meetings</div>
+    <div class="text-white ps-4">Online &amp; Tues 5pm-7pm</div>
+    <div class="text-white ps-4">Adelphi Brooklyn (SFC) Room 7223</div>    
+    <div class="text-white ps-2 fw-bold">Email:</div>
+    <div class="text-white ps-4"><a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a></div>    
+    <div class="text-white ps-2 fw-bold">Office hours:</div>
+    <div class="text-white ps-4">Tues: 3pm-5pm</div>
+</div>
+          
+        </div>
+      
+      </nav>
+
+    </div>
+    
+    <div class="MainContent col-xl-5 col-lg-7 col-md-9">
+      <h1 id="workshop-proposals-for-the-spring-2023-steam-mini-conference">Workshop proposals for the Spring 2023 STEAM mini-conference</h1>
+
+<h2 id="light-up-paper-helicopters">Light Up Paper Helicopters</h2>
+<p>Students will learn how to create a parallel circuit using conductive material, such as fabric tape, and 
+Chibitronics LED circuit sticker lights. A paper circuit is a low-voltage electronic circuit that is created on 
+paper using conductive tape, LEDs and a power source such as a coin-cell battery.  Creating paper circuits is a 
+good way to teach the basics of electricity and how circuits function. This will add another dimension to the 
+lesson in which students create paper helicopters and record flight time. Adding a paper circuit to the 
+helicopter will make it come to life. In addition, students can discover how changing variables such as paper 
+weight and rotor size can affect flight patterns.</p>
+
+<h2 id="wave-art-turning-sound-into-art-with-microbit">Wave Art: Turning Sound into Art with Microbit</h2>
+<p>This workshop will discuss how we can program a microbit to create interactive, visual models of waves. We will 
+work with programmed microbits to make digital sound art waves and discuss how this project, or a variation of 
+it, can be used in the classroom. This program can be used to teach anything from the physics of waves to the 
+production of music. We will also discuss possible variations and extensions of this assignment including: 
+drawing light waves and testing sound waves in various medium.</p>
+
+<h2 id="ink--think-exploring-natural-patterns-through-gelatin-printmaking">Ink &amp; Think: Exploring Natural Patterns through Gelatin Printmaking</h2>
+<p>Looking for a low-tech, easily accessible, and artistically focused maker activity for your classroom? In this 
+workshop we will explore the pedagogical possibilities of gelatin printmaking</p>
+
+<h2 id="youll-shine-with-wearable-tech-jewelry">You’ll shine with wearable tech jewelry</h2>
+<p>Join Milo Roth, circuitry extraordinaire as he shares his knowledge in making light up earrings and bracelets.<br />
+You will be able to make these fascinating technological wearables yourself! You will learn how to utilize 
+circuitry to be an exciting project in your STEAM classroom. This workshop is all about getting crafty, working 
+with your hands and diving into the light up world of smart wearable technology!</p>
+
+<h2 id="get-to-know-the-arduino-world">“Get to know the Arduino world”</h2>
+<p>My workshop is about Arduinos. The main two objectives of my workshop are:</p>
+
+<ol>
+  <li>The participants will learn the basics of Arduino.</li>
+  <li>The participants will end the workshop wishing to learn more about Arduino, 
+and thinking that it is easy enough for them to try.</li>
+</ol>
+
+<p>They will try to put to work any of the sensor that I will provide with the code</p>
+
+<h2 id="t-shirt-design-engaging-girls-in-steam-using-cricut-maker">T-Shirt Design: Engaging Girls in STEAM Using Cricut Maker</h2>
+<p>During my workshop, participants will be cutting logos for T-shirts that they have chosen or designed. We will 
+be using a Cricut Maker and Cricut Design Space software to perform the workshop. I will be discussing the use 
+of vinyl and other petroleum based products in fashion. We will discuss the chemical properties that determine a 
+material’s functionality. We will be discussing the potential for the Cricut to be used further in content and 
+engagement possibilities.</p>
+
+<h2 id="h5p-simulations--interactive-activities">H5P Simulations &amp; Interactive Activities</h2>
+<p>Participants will have the opportunity to learn about the capabilities of H5P for designing interactive learning 
+activities. We will explore branching simulation examples, image hotspots, and interactive video examples. Then 
+participants will have the ability to design their own interactive learning content in H5P.</p>
+
+<h2 id="lets-build-a-cell-model-using-makey-makey">Let`s Build a Cell Model using Makey Makey!</h2>
+<p>This workshop will introduce students to the Makey Makey Invention Kit and the Scratch 3.0 Program.  They will 
+understand the multiple science concepts that is used with these technologies as well as learn how to integrate 
+them together in order to be able to create endless possible keyboards. Students will then get the opportunity 
+to work together as a class to create an Interactive Cell Model by using the Makey Makey Invention Kit, Scratch 
+3.0 program, and their creativity to accomplish this.</p>
+
+<h2 id="power-up-velocity-vectors-in-makecodearcade">Power-Up! Velocity Vectors in MakeCodeArcade</h2>
+<p>The purpose of this workshop is to introduce educators to MakeCodeArcade, a block-coding software that lets 
+users create their own arcade-style games. The workshop will focus on adding a power-up to a “Mario-style” 
+platformer game to change the speed of the character, with the goal of reinforcing physics concepts of position 
+and velocity vectors.</p>
+
+<h2 id="gelatin-bioplastics">Gelatin Bioplastics</h2>
+<p>Bioplastics are plastic materials produced from renewable biomass sources, rather than fossil fuels. In this 
+workshop you will learn a hands-on technique to teach your students about a bioplastic alternative that is 
+environmentally safer for our planet. We will discuss Gelatin Bioplastic; the science behind it and how you can 
+incorporate it into your science curriculum!</p>
+
+<h2 id="the-pantograph">The Pantograph</h2>
+<p>I will describe what is a pantograph and what you can do with a pantograph and what subjects you can teach with 
+it. I will also tell a brief history of the pantograph which involved a lot of drama and a life long feud.</p>
+
+<h2 id="innovate-with-scratch">Innovate with Scratch</h2>
+<p>The technology I will use is Scratch, which I will combine with reading classes. I will use Scratch to create an 
+animation that transforms dull and abstract text into interesting animation, which can help students understand. 
+During this process, participants can learn how to use Scratch to create their own animations and apply them to 
+their own disciplines.</p>
+
+<h2 id="graffiti-circuits">Graffiti Circuits</h2>
+<p>This workshop will be utilizing an alternative material, circuit scribe, which is a conductive ink. Workshop 
+attendees will be creating speakers using this ink, paper, and an amplifier, which I will be providing. I will 
+be using this technology to speak on Circuits, currents, the magnetic field the current generates and the 
+resulting vibrations, all of the main components of how any speaker works. The goal of the workshop is to create 
+a circuit that expresses how they feel about a desired song, while also bringing efficiency to design.</p>
+
+<h2 id="how-to-incorporate-making--using-makey-makeys-in-the-classroom">How to Incorporate Making:  Using Makey Makeys in the Classroom</h2>
+<p>In my workshop I will be introducing to the participants how to incorporate making into their classroom using 
+makey makeys, they will build on an interactive poster about an ecosystem. Based on the already present poster 
+they will choose an organism and do research on the organism and then use scratch to make a code about the 
+organism that will pair with the makey makey to bring our poster to like.</p>
+
+<h2 id="e-textiles-workshop-for-healthcare-designing-wearable-technology-for-the-future">E-textiles Workshop for Healthcare: Designing Wearable Technology for the Future</h2>
+<p>In this hands-on workshop, participants will learn the basics of Lilypad and e-textiles and how they can be used 
+to create wearable technology for healthcare purposes. Through a guided design process, participants will 
+brainstorm wearable technology ideas, sketch designs, and create functional circuits using conductive thread and 
+LED lights. The workshop will encourage participants to explore the exciting possibilities of e-textiles in the 
+healthcare industry.</p>
+
+<h2 id="tinkercad--polymerization">Tinkercad &amp; Polymerization</h2>
+<p>My workshop will utilize 3D printing and highlight the chemical structure and properties of the filament being 
+used. Other examples of filaments will be shown and display the multiple utilities of 3D printing, including 
+prosthetics, building structures, and textiles. My workshop will outline Tinkercad and have workshop 
+participants create their own structure that can support its own weight.</p>
+
+<h2 id="how-to-build-an-ecogotchi-an-interactive-ecosystem">How to build an Ecogotchi (an Interactive Ecosystem)</h2>
+<p>During this workshop you will be getting a chance to create or edit block codes in Scratch. This workshop will 
+teach you how to make interactive ecosystems that reflect real life in terms of energy transference, 
+predator-prey relationships, and consumer-producer interactions. This workshop will also go over how to 
+implement this in your class and some potential scaffolds to add to the assignment.</p>
+
+<h2 id="bioplastics-alternative-solution-to-plastics-problem">Bioplastics, alternative solution to plastics problem</h2>
+<p>Are you concerned about reducing plastic waste and fighting climate change? Join us as we demonstrate renewable 
+solution to plastic waste by creating usable plastics from organic materials. We will be making Bioplastics 
+products from ingredients like Agar and glycerol. You can show your creativity by designing and making a product 
+you can take home. Interested? Then join us to learn more about material science behind bioplastics and make 
+your own bioplastic.</p>
+
+<h2 id="narrate-your-own-interactive-posters">Narrate Your Own Interactive Posters</h2>
+<p>Models, diagrams, and drawings can come to life with the use of a touch board and electric paint. Touch boards are microcontroller boards that, when connected to speakers, can play sounds off a reloadable microSD card. Electric paint is a non-toxic paint that conducts electricity and can be used to draw circuitry to a touch board. The combination of these technologies allow users to add captions/ sound effects to any drawing or diagram. In this workshop participants will be able to draw a body model and add captions to narrate how different organs function to help maintain homeostasis during strenuous exercise.</p>
+
+<h2 id="ecology-raspberry-pi-twitter-bot">Ecology Raspberry-Pi Twitter-Bot</h2>
+<p>Understanding of ecology has become more important as we experience climate change and its impact. Ecology can lead us to ideas and solutions on how we may maintain and improve our environment, manage existing resources and develop new resources, and continue to successfully adapt to new changes because it provides insight into the interaction between biotic and abiotic factors in our environment and how humans and other living organisms influence one another. In this workshop, we will utilize the Raspberry Pi to monitor living and non-living factors in our environment and share that information via Twitter.</p>
+
+<h2 id="parameterizing-3d-printing-for-constellations">Parameterizing 3D Printing for Constellations</h2>
+<p>We will be using python to load up our data and create an STL file that will be imported into tinker cad. From tinkercad, we will 3D print the pedestals (what will be used for data visualization). Using the exemplar of constellations, we will see how these pedestals can represent how far each star in the Orion constellation is from Earth using a scaling relation that was embedded in the code. The further the star is (in light years), the taller the pedestal.</p>
+
+<h2 id="fun-with-squishy-circuits">Fun with Squishy Circuits</h2>
+<p>Learn how to create a simple circuit through the use of a wonderful combination of play and learning. Squishy Circuits teaches the fundamentals of electrical circuits using conductive and insulating play dough. The Squishy Circuits encourage independent thought and creativity while teaching engineering principles and problem solving.</p>
+
+<h2 id="mobile-solar-marvel">Mobile Solar Marvel</h2>
+<p>This workshop is about a creating a mobile device that will store sustainable and clean energy.  We will discuss how to build a model that will be powered by solar energy and connecting it to a  battery compartment where the energy will be stored for later use. Special emphasis will be placed on connecting solar cells to achieve maximum potential energy.</p>
+
+<h2 id="biomimicry-with-lego-spike">Biomimicry with LEGO SPIKE</h2>
+<p>We’ll be discussing the use of biomimicry, the design and production of materials and systems modeled off of biological structures and processes, using LEGO SPIKE models. Our task will be to build analogous structures to things we see in nature to test how they function in several tests, including lifting and strength!</p>
+
+<h2 id="arduino-for-visualizing-phenomena-in-the-stem-classroom">Arduino For Visualizing Phenomena in the STEM Classroom</h2>
+<p>Arduino offers an opportunity for students to engage in hands-on making and programming. In this workshop, we will explore the Arduino, a programmable circuit board with open source software, and how it can be used to help students visualize STEM phenomena. The workshop will explore an example Arduino project using LED lights, then participants will have a chance to guide their own learning with the option to physically build a circuit with an Arduino circuit board and to work with Arduino code. This workshop is designed for participants of all levels.</p>
+
+<h2 id="makey-makey-coordinates">Makey Makey Coordinates</h2>
+<p>I will be focusing on scratch, Makeymakey and Text to Speech and Google Earth. At the workshop, students would look up coordinates of their favorite country/location using Google Earth. Then using a graphite pencil, they would draw the coordinate using a Horizontal and Vertical line. Then they would attach conductive materials like paper clips/metal clips. Then students would work with scratch to develop a code using provided videos as reference. They can then use makeymakey to command the codes and then finally have some interactive coordinate drawing that can say it’s own name out loud with a simple finger tap.</p>
+
+
+    </div>
+  </div>
+
+
+</main>
+
+<footer class="footer mt-auto py-3 bg-dark">
+    <div class="container">
+        <div class="row d-flex align-items-end">
+            <div class="col mb-2">
+                <div class="d-flex align-items-end">
+                    <img src="/au-courses/img/au-white.png" alt="adelphi university" class="d-block" style="font-size: 32px">
+                    <a class="HomeLink d-block px-2 text-light link-offset-2 link-offset-3-hover link-underline-light
+                                        link-underline-opacity-0 link-underline-opacity-100-hover" href="/au-courses/index.html">
+                        Ed Tech Courses
+                    </a>
+                </div>
+
+            </div>
+            <div class="col mb-2">
+                <a href="https://mixi.nyc"><img alt="mixi institute for stem and the imagination" src="/au-courses/img/mixi.svg"
+                        style="height: 32px;" /></a>
+            </div>
+            <div class="col mb-2">
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/au-courses/img/cc-by-sa-hz.png"
+                        alt="creative commons share alike attribution license"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+<script src="/au-courses/js/boot_styles.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', addBootstrapStyles);
+</script>
+
+<script>
+function openFullscreen(elem) {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.mozRequestFullScreen) {
+    elem.mozRequestFullScreen();
+  } else if (elem.webkitRequestFullscreen) {
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) {
+    elem.msRequestFullscreen();
+  }
+}
+
+  
+function goFull() {
+  let main = document.getElementsByClassName("MainContent")[0];
+  openFullscreen(main);
+  return false
+}
+
+function pageName(link) {
+  let a = link.lastIndexOf("/") +1;
+  let b = link.lastIndexOf(".html") + 5;
+  if (b == 4) { // html not found
+    return "index.html"
+  }
+  return link.substring(a,b);
+}
+
+function findACtiveURL() {
+  console.log("findActiveURL");
+  let links = document.getElementsByClassName("nav-link");
+  let currentUrl = window.location.href;
+
+  // Remove the base URL and the domain from the current URL to get the path
+  let pagePath = pageName(currentUrl);
+  console.log("page path:" + pagePath);
+  if (pagePath === "") {
+    pagePath = "index.html";
+  }
+
+  for (let link of links) {
+    let linkPath = pageName(link.href);
+    console.log("link:" + link.href);
+    console.log("link path:" + linkPath);
+    if (linkPath === pagePath) {
+      link.classList.add('active'); 
+      link.classList.add('fw-bold'); 
+      link.innerHTML = '<i class="bi bi-caret-right-fill"></i>' + link.innerHTML;
+    }
+  }
+
+
+}
+document.addEventListener('DOMContentLoaded', findACtiveURL);
+</script>
+
+</body>
+</html>

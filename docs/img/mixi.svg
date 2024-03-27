@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="71.495964mm"
-   height="8.5398149mm"
-   viewBox="0 0 71.495964 8.5398148"
+   width="317.50095mm"
+   height="65.859901mm"
+   viewBox="0 0 317.50095 65.8599"
    version="1.1"
    id="svg42627"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -27,9 +27,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="4.3994184"
-     inkscape:cx="177.29616"
-     inkscape:cy="53.416152"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="540.07139"
+     inkscape:cy="24.548699"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -59,9 +59,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-19.705428,-88.660938)">
+     transform="translate(-19.705429,-88.660937)">
     <g
-       id="g1274">
+       id="g1274"
+       transform="matrix(4.4408207,0,0,4.4408207,-67.802841,-305.06639)">
       <g
          id="g1209">
         <ellipse
@@ -217,5 +218,16 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.7402px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.593506"
+       x="19.444286"
+       y="149.91524"
+       id="text17808"><tspan
+         sodipodi:role="line"
+         id="tspan17806"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.7402px;font-family:Graphik;-inkscape-font-specification:'Graphik, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.593506"
+         x="19.444286"
+         y="149.91524">for STEM &amp; the Imagination</tspan></text>
   </g>
 </svg>
