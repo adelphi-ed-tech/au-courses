@@ -10,6 +10,9 @@ sidenav: "com301-nav.html"
 
 Week 13: Layers
 ========================
+
+<img src="img/layers.png" class="img-fluid" alt="choropleth map of income in nyc">
+
 This week shows us how to use **Python** and **Javascript**
 to create multiple layers on a single map. Conceptually,
 it works like this:
@@ -38,3 +41,4 @@ Resources
 1. [Leaflet layer documentation](https://leafletjs.com/examples/layers-control/)
 2. [Python Layers](https://colab.research.google.com/drive/1my9wtApuAxYjSBC6q9A0SbOtnsDQ_Ej-?usp=sharing)
 3. [Javascript Layers](https://replit.com/@mcuringa/Census-Layers#maps.js)
+4. [Javascirpt Layer Animation](https://replit.com/@mcuringa/Census-Layer-Animation#maps.js)
