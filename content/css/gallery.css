@@ -18,6 +18,16 @@ h3 {
     font-size: 1.25rem;
 }
 
+.MainContent {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+}
+
+.MainContent strong {
+    color: #ed7fb2;
+}
+
 .LeftTitle {
     width: 100%;
     height: 980px;

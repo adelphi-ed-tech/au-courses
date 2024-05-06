@@ -1,7 +1,11 @@
 ---
 layout: base
 ---
+{% if page.css %}
+<link href="{{site.baseurl}}/{{page.css}}" rel="stylesheet">
+{% else %}
 <link href="{{site.baseurl}}/css/bold.css" rel="stylesheet">
+{% endif %}
 <style>
   .LeftTitle {
     background-image: url('{{site.baseurl}}/img/{{ page.title_img }}');
