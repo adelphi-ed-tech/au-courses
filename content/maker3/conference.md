@@ -18,20 +18,27 @@ au_img: "au-white.svg"
 4:30pm-9:00pm
 </p>
 
+{% capture details %}
+### Details
+* free and open to all
+* **[registration required](https://forms.gle/Mee3oPQcxHgCuJht5)**
+* **Location:**\
+  [MIXI](https://mixi.nyc): Manhattan Institute for STEM & the Imagination\
+  [Adelphi NYC @ St. Francis College, 7<sup>th</sup> floor](https://maps.app.goo.gl/WX3M68SeGC5THWLT7)
+
+{% endcapture %}
+
 {% capture schedule %}
 ### Tentative schedule
 
 - **4:30 - 5:00:** Registration / Set-up
 - **5:00 - 5:15** Dr. Hogan's Welcome
 - **5:15 - 6:00:** Workshop Session 1
-- **6:05 - 7:05:** STEAM Workshops & Papers
+- **6:05 - 7:05:** Science Board Game Play Sessions
 - **7:15 - 8:00:** Workshop Session 2
 - **8:00 - 9:00:** Reception
 {% endcapture %}
 
-
-<div class="row">
-<div class="col-md-6 col-xl-8">
 <p class="lead">
 The <i>Second Annual MIXI STEAM Mini Conference</i> is a graduate student conference
 that brings together our current students,
@@ -42,14 +49,22 @@ highlighting original STEAM projects and activities they created. Students from
 <b>Multimodal Literacies</b> will lead play-sessions to test out their STEM
 board games for learning which they designed and prototyped.
 </p>
+
+<div class="d-flex justify-content-center mb-3">
+<div class="border-2 rounded text-light bg-dark bg-gradient p-3 me-2">
+{{ details | markdownify }}
 </div>
-<div class="col-md-6 col-xl-4 border rounded bg-light p-2">
+<div class="border-2 rounded text-light bg-dark bg-gradient p-3">
 {{ schedule | markdownify }}
 </div>
 </div>
 
+
+
 Game Play Sessions
 ------------------
+### 6:05 - 7:05pm
+
 _coming soon_
 
 
@@ -74,7 +89,7 @@ Workshop Sessions
 **Room:** TBD
 
 ### Chaos Theory on a Canvas
-**Michele & Katherine**
+**Michele & Rena**
 
 **Chaos Theory** describes what is called a “sensitive dependence” on the initial conditions of a system. Meaning, the slightest change in variables within a chaotic system produces wildly unpredictable results with no discernible pattern compared to similar variables. It is paradoxically an unreplicable yet replicable system, since the same exact conditions within a system will always produce the same results. Through the use of **double pendulums** and watercolor paints, we will create unique works of art utilizing the concepts of Chaos Theory described above. Participants will choose the initial positions of double pendulums to paint on a canvas, then let them go, witnessing Chaos Theory in action, while guided through an in depth group lecture explaining the theory in concept, giving participants much needed context to their art pieces. 
 
@@ -88,7 +103,7 @@ Workshop Sessions
 #### Gesture Magic
 **Nicole & Brian**
 
-Participants will use craft materials, LEDs, and [micro:bits](https://microbit.org/) to create programmable "magic wands." Fundamentals of programming such as loops, variables and conditionals will be taught so students can code customizable LED light patterns. Reading sensor information from the micro:bit **accelerometer**, they can [program](https://makecode.microbit.org/) their wands to react to different gestures and motions.
+Participants will use breadboards, LEDs, and [micro:bits](https://microbit.org/) to learn how to make programs react to user "gestures" with a handheld device. Reading sensor information from the micro:bit **accelerometer**, participants can [code](https://makecode.microbit.org/) programs to react to different gestures and motions.
 
 **Keywords:** CS, Accelerometers, micro:bit, gesture interfaces, MakeCode\
 **Room:** TBD
@@ -112,9 +127,9 @@ Chibitronics offer experience with interactive components such as LED stickers, 
 ### “Make” a heart rate monitor! 
 **Jessica & Shannen**
 
-Students will be using a [Arduino LilyPad](https://docs.arduino.cc/retired/boards/lilypad-arduino-main-board/), **pulse rate sensor**, and other materials (felt, thread, etc) to create a wearable heart rate monitor. They will use LED lights to view the output. While doing this, they will be introduced to the programmable circuit board arduino and will learn how to use it to collect data. They will learn various biology and physics concepts to understand how the heart rate monitor will work. This project will be a practical way to introduce maker technology into the biology or physics classroom. Educators will see that they will be able to use this project in their own classrooms.
+Jessican and Shannen will demonstrate their low-cost heart rate monitor built with micro:bit, 3D printed, parts, light sensors, and LEDs. Participants will learn to program the "monitor" to create biofeedback systems, and to study how their own pulse rate changes in response to different stimuli.
 
-**Keywords:** Biology, Physics, Arduino, LilyPad, Pulse Rate Sensor, Wearable Tech\
+**Keywords:** Biology, Physics, micro:bit, Pulse Rate Sensor, Wearable Tech\
 **Room:** TBD
 
 
