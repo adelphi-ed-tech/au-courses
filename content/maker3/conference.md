@@ -65,14 +65,27 @@ Game Play Sessions
 ------------------
 ### 6:05 - 7:05pm
 
-_coming soon_
+
+{% assign i = 0 %}
+
+
+{% for game in site.data.games %}
+
+<div class="mb-2">
+<h3><a href="template">{{game.title}}</a></h3>
+<strong>{{game.names}}</strong>
+<p>{{game.description}}</p>
+</div>
+
+{% endfor %}
+
 
 
 Workshop Sessions
 -----------------
 
 {% capture session_1 %}
-#### Transforming with Scratch
+### Transforming with Scratch
 **Bianca & Merin**
 
 [Scratch](https://scratch.mit.edu) is a free, online educational tool that can be used to introduce students to computer programming. Scratch allows users to code digital stories, games, and animations. In this workshop, we will explore various **geometric transformations** and design **algorithms** while simultaneously highlighting how this digital resource can seamlessly be implemented in a classroom setting. Participants of this workshop will be given a video game project framework that incorporates various geometric transformations. They will play the game, interact with its code, and then have the opportunity to construct their own levels where they will integrate geometric transformations into their own games. This workshop is designed for participants of all levels.
@@ -80,7 +93,7 @@ Workshop Sessions
 **Keywords:** Math, CS, Geometry, Scratch, Geometric Transformations, Algorithms, Game Design\
 **Room:** TBD
 
-#### Visualizing Homeostasis with Chibitronics
+### Visualizing Homeostasis with Chibitronics
 **Katherine & Romulo**
 
 **Homeostasis** is a key concept in biology (and one that can be difficult to visualize). This workshop will provide a hands on way of visualizing this concept while also allowing students’ creativity to shine. Workshop participants will use [Chibitronics](https://chibitronics.com/) to model positive and negative feedback in cells. Workshop participants will gain a basic understanding of Chibitronics and how they could be used to model reaction mechanisms in biological systems. They will use Chibitronics and paper circuits to design their own homeostasis model.
@@ -100,7 +113,7 @@ Workshop Sessions
 
 {% capture session_2 %}
 
-#### Gesture Magic
+### Gesture Magic
 **Nicole & Brian**
 
 Participants will use breadboards, LEDs, and [micro:bits](https://microbit.org/) to learn how to make programs react to user "gestures" with a handheld device. Reading sensor information from the micro:bit **accelerometer**, participants can [code](https://makecode.microbit.org/) programs to react to different gestures and motions.
@@ -108,7 +121,7 @@ Participants will use breadboards, LEDs, and [micro:bits](https://microbit.org/)
 **Keywords:** CS, Accelerometers, micro:bit, gesture interfaces, MakeCode\
 **Room:** TBD
 
-#### Musical Circuits
+### Musical Circuits
 **Jacob & Saul**
 
 We are teaching circuits! Participants will create cardboard instruments and connect them to [micro:bits](https://microbit.org/) in order to create music. In this workshop, participants will be given the task of creating an appropriate connection for the circuit to work. Students will be using alligator clips and aluminum foil as well as glue guns. Students will have the choice of creating a keyboard, guitar, or drum kit. We will give a brief introduction to music theory so students can customize their own melodies.
@@ -116,7 +129,7 @@ We are teaching circuits! Participants will create cardboard instruments and con
 **Keywords:** CS, Music, Circuits, micro:bit, MakeCode\
 **Room:** TBD
 
-#### Chibitronic Graduation Cards: Where Circuits Shine and Knowledge Spreads
+### Chibitronic Graduation Cards: Where Circuits Shine and Knowledge Spreads
 **MaryRose**
 
 Chibitronics offer experience with interactive components such as LED stickers, sensors, and circuits which are designed to easily be integrated into various projects allowing users to create interactive and illuminated designs by simply connecting them with conductive materials such as copper tape. Chibitronics provides a hands-on creative approach to learning circuits for students, blending craftiness with technology to provide an accessible and engaging entry point. Through designing and assembling illuminated graduation cards, participants will develop a deeper understanding of circuity concepts in a fun and non-intimidating way.

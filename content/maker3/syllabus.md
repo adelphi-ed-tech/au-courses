@@ -11,11 +11,11 @@ au_img: "au-white.svg"
 
 Maker Lab 3: School Lab
 =======================
+Course site: <https://adelphi-ed-tech.github.io/au-courses/maker3/>
+
 **STEAM Teaching & Learning ESM 503, Spring 2024**
 
 **Key words:** STEAM, Maker Lab, Constructionism, 3D printing, laser cutting, LEGO robotics, microbit, arduino
-
-
 
 Description
 -----------

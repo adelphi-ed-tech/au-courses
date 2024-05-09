@@ -7,23 +7,20 @@ layout: base
 {% else %}
   <link href="{{site.baseurl}}/css/bold.css" rel="stylesheet">
 {% endif %}
+<div class="d-print-none">
 
 {% if page.au_img %}
-  {% assign au_img = page.au_img %}
+{% assign au_img = page.au_img %}
 {% else %}
-  {% assign au_img = "au-brown.svg" %}
+{% assign au_img = "au-brown.svg" %}
 {% endif %}
 
-<style>
-  .SideNav {
-    
-  }
-</style>
+</div>
 
 <main class="">
   <div class="container-fluid row h-100 p-0 m-0">
     
-    <div class="SideNav col-md-3 col-xxl-2 p-0 m-0">
+    <div class="SideNav col-md-3 col-xxl-2 p-0 m-0 d-print-none">
       <button type="button" onclick="goFull()" class="position-sticky top-0 start-0 btn btn-light"><i class="bi bi-arrows-fullscreen"></i></button>
 
       <img src="{{site.baseurl}}/img/{{au_img}}" alt="adelphi university" class="d-block img-fluid mt-2 p-4 mx-auto">
