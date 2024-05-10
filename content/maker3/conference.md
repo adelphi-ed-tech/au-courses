@@ -66,18 +66,25 @@ Game Play Sessions
 ### 6:05 - 7:05pm
 
 
-{% assign i = 0 %}
-
-
+<div class="container">
 {% for game in site.data.games %}
 
-<div class="mb-2">
-<h3><a href="template">{{game.title}}</a></h3>
-<strong>{{game.names}}</strong>
-<p>{{game.description}}</p>
+<div class="row mb-2 ms-2">
+    <div class="col-md-4 border bg-light rounded p-2">
+        <div class="d-flex flex-column align-items-center justify-content-center" style="height: 100%">
+            <div class="">
+                <h3 class="text-center">{{game.title}}</h3><a class="d-none" href="{{game.template}}">[game template]</a>
+            </div>
+            <h5>{{game.names}}</h5>
+        </div>
+    </div>
+    <div class="col">
+        <p>{{game.description}}</p>
+    </div>
 </div>
 
 {% endfor %}
+</div>
 
 
 
