@@ -140,11 +140,12 @@ Assignment          | Due Date | Points
 Participation       | Ongoing  | 10
 Artist's Journal    | Ongoing  | 10
 Museum Visits       | Ongoing  | 10
+Public Art Observ   | Ongoing  | 10
 Maker Lesson        | Ongoing  | 10
-Maker Vest          | June 8   | 20
+Maker Vest          | June 8   | 15
 Reading responses   | Ongoing  | 10
-Scratch Story Game  | June 15  | 20
-Online Portfolio    | June 17  | 20
+Scratch Story Game  | June 15  | 15
+Online Portfolio    | June 17  | 10
 
 ### Participation (10 pts)
 A _class_ is a place where we study together. Your
