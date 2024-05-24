@@ -115,12 +115,72 @@ outside of class in the maker lab, and arrange time to complete your museum visi
 **Readings listed below are due for that class session, including our first meeting.**
 Please come to class prepared to discuss the readings.
 
-
+<table>
+<tr>
+   <th>#</th>
+   <th>date</th>
+   <th>topic</th>
+   <th>readings</th>
+</tr>
 {% for session in page.sessions %}
-<div class="row">
-   <div class="col-md-1">{{ session.number }}</div>
-   <div class="col-md-3">{{ session.date }}</div>
-   <div class="col-md-4">{{ session.title }}</div>
-   <div class="col-md-4">{{ session.readings }}</div>
-</div>
+<tr>
+   <td>{{ session.number }}</td>
+   <td>{{ session.date }}</td>
+   <td>{{ session.title }}</td>
+   <td>{{ session.readings }}</td>
+</tr>
 {% endfor %}
+</table>
+
+Assignments
+------------
+
+Assignment          | Due Date | Points
+--------------------|----------|--------
+Participation       | Ongoing  | 10
+Artist's Journal    | Ongoing  | 10
+Museum Visits       | Ongoing  | 10
+Maker Lesson        | Ongoing  | 10
+Maker Vest          | June 8   | 20
+Reading responses   | Ongoing  | 10
+Scratch Story Game  | June 15  | 20
+Online Portfolio    | June 17  | 20
+
+### Participation (10 pts)
+A _class_ is a place where we study together. Your
+participation will help make this a great class.
+
+To get full participation points:
+
+1. **Attend every class session.** This is a short course and there
+   are no excused absences outside of medical exemptions with a doctor's
+   note, modification from the Student Access Office, or
+   a religious holiday.
+2. **Don't be late. Don'te leave early.**
+3. **Do the readings.** Come to class prepared to discuss the readings.
+   If it's obvious that you didn't do the readings, or made little effort
+   to engage with or try to understand them, you will lose participation points.
+4. **Maintain the lab.** We are all responsible for maintaining the maker lab, closet,
+   and our materials. Help us set up, help keep things clean and organized, help
+   us put things away.
+5. **Be bold.** This is a class about creativity and making. We want you to take risks,
+   to try new things. _This is not an easy thing!_ 
+6. **Be kind and respectful.** We love a spirited debate, strong opinions, and
+   learning new things from each other. But those practices only work if we
+   offer our respect to the other participants and assume they are operating
+   in good faith, too.
+7. **Communicate.** Read your emails. Post on Discord. Talk to your partners.
+   Let the instructors know if there's a problem or question. Tell us how to
+   make things better.
+
+### Artist's Journal (10 pts)
+Everyone will keep an artist's journal during this course
+(and after, we hope). The Journal is a place for you to record
+thoughts, plan designs, sketch ideas, and reflect. There will
+be some "assigned" journal entries (see below), but mostly
+it is meant for your own benefit. Journaling might not be for you...
+but for the purpose of this course, try it out with an open mind.
+
+
+
+
