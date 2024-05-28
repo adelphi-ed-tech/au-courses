@@ -21,7 +21,7 @@ sessions:
    - number: 4
      title: "Curriculum Design"
      date: "Mon, Jun 10"
-     readings: "TBD"
+     readings: "Noddings"
    - number: 5
      title: "Constructionism & Hard Fun"
      date: "Wed, Jun 12"
@@ -33,9 +33,9 @@ sessions:
    - number: 7
      title: "Aesthetics & Politics"
      date: "Mon, Jun 17"
-     readings: "Cipolla; O'Brien"
+     readings: "Greene; Forensic Architecture"
    - number: 8
-     title: "Fashion & Wearables Studio"
+     title: "Final Studio"
      date: "Wed, Jun 19"
      readings: "-"
 
@@ -62,19 +62,39 @@ Maker Lab 1: Design Lab
 
 **STEAM Teaching and Learning ESM 501**
 
-Instructors: 
-- [Matthew X. Curinga](http://matt.curinga.com "prof curinga's site")
-<mcuringa@adelphi.edu>
+<div class="row">
+<div class="col-md-6">
+
+{% capture md %}
+
+**Instructors:**
+
+- [Matthew X. Curinga](http://matt.curinga.com "prof curinga's site") <mcuringa@adelphi.edu>
 - Eric Miles
 
-Campus: [Adelphi Brooklyn Center](https://maps.app.goo.gl/hoyDaxxm8MHbjjCeA)
+**Campus:** [Adelphi Brooklyn Center](https://maps.app.goo.gl/hoyDaxxm8MHbjjCeA)
+{% endcapture %}
 
-Meeting time: 
+{{ md | markdownify }}
+</div>
+
+<div class="col-md-6">
+{% capture md %}
+**Meeting time:**
 
 - Monday & Wednesday , 4pm-7pm, 
 - Saturday (6/8 & 6/15) 10am-4pm
 
-Location: Room 7122 (7th floor maker lab)
+**Location:** Room 7122 (7th floor maker lab)
+{% endcapture %}
+
+{{ md | markdownify }}
+</div></div>
+
+<div class="row">
+<div class="col-md-4">
+
+{% capture md %}
 
 Description
 ----------------------------------------------------------------
@@ -84,6 +104,12 @@ engagement in and critique of the practice of “making” through
 foundational literature and hands on studio culture with a focus on
 learning and education. 
 
+{% endcapture %}
+
+{{ md | markdownify }}
+</div>
+<div class="col-md-8">
+{% capture md %}
 Goals
 --------------------------------------------------------------------------------
 1. Students will explore and analyze foundational and contemporary theories and
@@ -100,6 +126,11 @@ Goals
 4. Students will have fun and experience joy in learning, understanding and 
    demonstrating the role of play, risk-taking and experimentation in making and 
    creating in MakerEd and STEAM environments.
+
+{% endcapture %}
+
+{{ md | markdownify }}
+</div></div>
 
 Class schedule
 --------------------------------------------------------------------------------
@@ -137,11 +168,16 @@ Participation         | Ongoing  | 10
 Artist's Journal      | Ongoing  | 10
 Museum Visits         | Ongoing  | 10
 Public Art Encounters | Ongoing  | 10
-Maker Lesson          | Ongoing  | 10
 Reading responses     | Ongoing  | 10
-Maker Vest            | June 8   | 15
-Scratch Story Game    | June 15  | 15
-Online Portfolio      | June 17  | 10
+Maker Lesson          | June 15  | 10
+Maker Vest            | June 12  | 15
+Scratch Story Game    | June 19  | 15
+Online Portfolio      | June 19  | 10
+
+<div class="row">
+<div class="col-md-6">
+
+{% capture left_col %}
 
 ### Participation (10 pts)
 A _class_ is a place where we study together. Your
@@ -165,13 +201,13 @@ To get full participation points:
 6. **Be kind and respectful.** We love a spirited debate, strong opinions, and
    learning new things from each other. But those practices only work if we
    offer our respect to the other participants and assume they are operating
-   in good faith, too.
+   in good faith, too.Reading responsesReading reReading responsessponses
 7. **Communicate.** Read your emails. Post on Discord. Talk to your partners.
    Let the instructors know if there's a problem or question. Tell us how to
    make things better.
 
 ### Artist's Journal (10 pts)
-Everyone will keep an artist's journal during this course
+Everyone will keep an Reading responsesartist's journal during this course
 (and after, we hope). The Journal is a place for you to record
 thoughts, plan designs, sketch ideas, and reflect. There will
 be some "assigned" journal entries (see below), but mostly
@@ -210,6 +246,7 @@ on Discord as well as invitations to join us for informal, optional fieldtrips
 during the course. You can also check out the [NYC Arts Calendar](https://www.nyc-arts.org/)
 for further ideas and events.
 
+
 ### Public Art Encounters (10 pts)
 New York is full of public art: famous sculptures, big shows, 
 street art, hidden and half forgotten works, and more. 
@@ -220,12 +257,54 @@ work and at least one should be "unsanctioned" work.
 Document your encounter in your journal with at least
 one sketch of each work, and notes on the context,
 your experience, and thoughts on the work. Further
-document your encounter with photos and videos.
+document your encounter with photos and videos. Consider
+things like the medium of the work, the scale (aka size),
+the materials, when it was created, how it was funded ( or not).
 
 Upload your documentation to your online portfolio.
 
 ### Maker Lesson (10 pts)
-(TBD)
+You will read the New York State and professional standards
+for your content area (Math, Biology, Physics, Comp Sci, etc.)
+as well as the Art Standards. You will create your own lesson
+plan that addresses one of the standards from your content
+area and one of the art standards. Your lesson must incorporate
+key ideas of maker education and steam learning. The instructors
+will provide links to sample lesson plans as well as example templates
+for creating a lesson plan.
+
+Plan a lesson for a 45 minute class.
+
+At the very least, your lesson plan
+must include the following items:
+
+- a brief narrative describing what happens before and after this lesson
+- learning goals and standards covered in the lesson
+- materials list
+- a timeline of activities
+- how the lesson will be assessed
+- any instructor created materials (slides, handouts, examples)
+
+You will submit your lesson as a Google Doc shared with the instructors,
+with links to all external materials and resources.
+
+The lesson will be evaluated on the following criteria:
+
+- creativity of the lesson
+- alignment with standards
+- integration with maker and steam learning
+- viability of the lesson in a classroom setting
+
+_Optionally add your lesson plan to your portfolio._
+
+{% endcapture %}
+
+{{ left_col | markdownify }}
+
+</div>
+<div class="col-md-6">
+
+{% capture right_col %}
 
 ### Reading Responses (10 pts)
 For each reading, you will write a "reading response" in
@@ -253,6 +332,16 @@ a buckle, or something else.
 We will begin working on the vests during our first Saturday session,
 but you will need to spend time outside of class to complete the project.
 
+Your vest will be evaluated on:
+
+- the quality of your craft
+- the innovations found in your design (don't just copy something your found online)
+- the demonstration your ability with the tools of the maker lab:
+  - microcomputer
+  - circuits
+  - 3D design and printing
+
+
 ### Scratch Story Game (15 pts)
 (TBD)
 
@@ -270,8 +359,129 @@ are fully public. Everyone is encouraged to use Google Sites, but
 if you have a strong preference for another platform, you
 can use it once you have instructor approval.
 
-Your portfolio will be evaluated on how well you demonstrate your
+Your portfolio will be evaluated on how well you demonstrate your 
 ability to use the features of your online platform, you ability
-to achieve a consistent and professional design and user experience,
-the quality of your content (well edited writing, thoughtful images, clear audio, etc),
-and the overall creativity and originality of your site.
+to achieve a consistent and professional design and user experience, 
+the quality of your content (well edited writing, thoughtful images, 
+clear audio, etc), and the overall creativity and originality of your site.
+
+{% endcapture %}
+
+{{ right_col | markdownify }}
+
+</div>
+</div>
+
+Readings
+--------------------------------------------------------------------------------
+
+Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Women’s Studies_, _48_(3), 261–282. [[pdf](https://drive.google.com/file/d/1WN-fviW3BUMc5LHqz39bH2Z8YVf9o0AG/view?usp=drive_link)]
+
+Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
+
+Martinez, S. L., & Stager, G. (2013).Chapter 1: An Insanely Brief and Incomplete History of Making. In _Invent to learn: Making, tinkering, and engineering in the classroom_. Constructing Modern Knowledge Press. [[pdf](https://drive.google.com/file/d/1eruhyafUFMLE6FSbMVg_PiEbP6O6q5IM/view?usp=drive_link)] [[epub](https://drive.google.com/file/d/1a5LxUAptVrHX7f8zwU92nxBl6qb8SUej/view?usp=drive_link)]
+
+Noddings, N. (2013). Standardized Curriculum and Loss of Creativity. _Theory Into Practice_, _52_(3), 210–215. [[pdf](https://drive.google.com/file/d/1dUgpl9_18ybk9AvPX-ohRRq-df_jZtmh/view?usp=drive_link)]
+
+Greene, M. (1977). The Artistic-Aesthetic and Curriculum. Curriculum Inquiry, 6(4), 283–296. [[pdf](https://drive.google.com/file/d/1o7dbDPtNlDjv3Z29JsXR9DKMIbRJZyI4/view?usp=drive_link)]
+
+O’Brien, K. C. (2021). Fibre Artists and Outsider Algorithms: Rethinking Ethnomathematics Through Contemporary Craft. _For the Learning of Mathematics_, _41_(1), 8–13. [[pdf](https://drive.google.com/file/d/1SCbf62q4r79iYqMdNb9vw7RHSTn2LhU_/view?usp=drive_link)]
+
+Papert, S. (1991). Situating constructionism. In I. Harel & S. Papert (Eds.), _Constructionism_ (pp. 1–10). Praeger. [[mit.edu](https://web.media.mit.edu/~calla/web_comunidad/Reading-En/situating_constructionism.pdf)]
+
+Papert, S. (2002). [Hard Fun](maker3/hard-fun.html). _Bangor Daily News_. Bangor, ME. Bangor Daily News.
+
+Runco, M. A., & Jaeger, G. J. (2012). The Standard Definition of Creativity. _Creativity Research Journal_, _24_(1), 92–96. [[pdf](https://drive.google.com/file/d/1Lyi8RErUoKnhA6ISvoIT3LDRNNSfxEqD/view?usp=drive_link)]
+
+Class Meetings
+--------------------------------------------------------------------------------
+
+### Session 1: STEAM & Maker Ed
+**Mon, Jun 3, 4pm-7pm**
+
+<div class="row">
+<div class="col-md-6">
+
+{% capture md %}
+
+**Goals:**
+
+- Understand the goals of the course
+- Get to know each other and the instructors
+- Develop basic vector graphic design skills
+- Cut stencils with the Cricut
+- Begin an online portfolio
+
+**Agenda:**
+
+1. Welcome
+2. Reading discussion
+3. Cricut Stencils & Spray Paint
+4. Google Sites & Online Portfolis
+5. Journal Design / Site Design
+{% endcapture %}
+
+{{ md | markdownify }}
+</div>
+
+<div class="col-md-6">
+{% capture md %}
+**Due:**
+
+- Read Martinez & Stager; Runco & Jaeger
+- Join Discord (see email for invite)
+- Install:
+  - [Discord](https://discordapp.com/) on your phone and computer
+  - [Inkscape](https://inkscape.org/)
+
+**Resources:**
+
+- Fonts:
+   - [Google Fonts](https://fonts.google.com/)
+   - [DaFont](https://www.dafont.com/)
+   - [Font Squirrel](https://www.fontsquirrel.com/)
+- Images (vector and raster):
+   - [Pexels](https://www.pexels.com/)
+   - [Pixabay](https://pixabay.com/)
+   - [Unsplash](https://unsplash.com/)
+
+
+{% endcapture %}
+
+{{ md | markdownify }}
+</div></div>
+
+### Session 2: Public Art / Public Pedagogy
+**Wed, Jun 5**
+
+
+
+### Session 3: Fashion & Wearables Studio
+**Sat, Jun 8**
+
+
+
+### Session 4: Curriculum Design
+**Mon, Jun 10**
+
+
+
+### Session 5: Constructionism & Hard Fun
+**Wed, Jun 12**
+
+
+
+### Session 6: Scratch Story Games
+**Sat, Jun 15**
+
+
+
+### Session 7: Aesthetics & Politics
+**Mon, Jun 17**
+
+
+
+### Session 8: Final Studio
+**Wed, Jun 19**
+
+
