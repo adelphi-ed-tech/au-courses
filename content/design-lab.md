@@ -393,6 +393,7 @@ improve the game.
 
 Your game will be evaluated on:
 
+- **Risk & Creativity:** does your game try to do something new?
 - **Fun:** how well does it work as a game?
 - **Story:** does the story make sense? are the characters compelling? does the player make real choices?
 - **Art & Design:** does the game visually and aesthetically enhance the learning and story goals? are the developers able to create a polished look and feel?
