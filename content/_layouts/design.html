@@ -2,20 +2,47 @@
 layout: base
 ---
 <style>
-body {
-        /* background-image: url('img/purple-pink.svg');
-        background-size: cover; */
+
+
+
+.hex1 {
+  position: fixed;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/img/hex.png");
+  background-repeat: repeat;
 }
+
+.hex2 {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/img/hex.png");
+  background-repeat: repeat;
+  background-position-x: -10px;
+  background-position-y: 17px;
+}
+
+
 .nav-link {
     font-weight: bold;
 
 }
 .Design {
-    /* background-color: rgba(255, 255, 255, 0.9); */
-
+    background-color: rgba(255, 255, 255, 0.6);
+    position: relative;
+    z-index: 10;
     margin-top: 20px;
     margin-bottom: 20px;
-
+    max-width: 1600px;
+    padding: 20px;
+    border-radius: 16px;
 }
 
 .Design h1 {
@@ -36,7 +63,8 @@ body {
 
 </style>
 
-
+<div class="hex1"></div>
+<div class="hex2"></div>
 {% include top-nav.html %}
 <main class="Design container-fluid mx-auto mt-2">
     {{content}}
