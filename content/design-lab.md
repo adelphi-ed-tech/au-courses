@@ -1,5 +1,5 @@
 ---
-layout: syllabus
+layout: design
 title: "Design Lab"
 author:
     - "Cindy Maguire"
@@ -29,7 +29,7 @@ sessions:
    - number: 6
      title: "Scratch Story Games"
      date: "Sat, Jun 15"
-     readings: "Resnick; Kafai & Burke"
+     readings: "TBD"
    - number: 7
      title: "Aesthetics & Politics"
      date: "Mon, Jun 17"
@@ -41,26 +41,12 @@ sessions:
 
 ---
 
-<!-- **********************
-    * This syllabus was created for
-    * the STEAM Master's
-    * at Adelphi University:
-    * http://education.adelphi.edu
-    * copyright 2010-2024 Matthew X. Curinga
-    * https://matt.curinga.com
-    * https://www.hungchiayuan.com/
-    * This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
-    * To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send
-    * a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
-    * We ask, but do not require, that attribution includes a link to our websites (above).
-    * version: 2.1
-    */-->
-
-Maker Lab 1: Design Lab
-=========================
+<img src="img/desing-lab.png" alt="Maker Lab 1: Design Lab" class="img-fluid d-block mb-2">
 **Keywords:** art, aesthetics, politics, creativity, design, STEAM, maker education, sewing, scratch, hard fun
 
-**STEAM Teaching and Learning ESM 501**
+**STEAM Teaching and Learning ESM 501, 3 credits**
+
+<img src="img/mixi-spray.jpg" alt="stencil art MIXI" class="img-fluid d-block">
 
 <div class="row">
 <div class="col-md-6">
@@ -69,10 +55,13 @@ Maker Lab 1: Design Lab
 
 **Instructors:**
 
-- [Matthew X. Curinga](http://matt.curinga.com "prof curinga's site") <mcuringa@adelphi.edu>
-- Eric Miles
+- Matthew X. Curinga [<mcuringa@adelphi.edu>] 
+- Eric Miles [<emiles@adelphi.edu>]
 
-**Campus:** [Adelphi Brooklyn Center](https://maps.app.goo.gl/hoyDaxxm8MHbjjCeA)
+**Materials:**\
+There are no required textbooks for this course. All course materials
+will be provided at class meetings.
+
 {% endcapture %}
 
 {{ md | markdownify }}
@@ -82,33 +71,35 @@ Maker Lab 1: Design Lab
 {% capture md %}
 **Meeting time:**
 
-- Monday & Wednesday , 4pm-7pm, 
-- Saturday (6/8 & 6/15) 10am-4pm
+- Monday & Wednesday, 4pm-7pm
+- Saturday (6/8 & 6/15), 10am-4pm
 
-**Location:** Room 7122 (7th floor maker lab)
+**Location:**\
+[Adelphi Brooklyn Center](https://maps.app.goo.gl/hoyDaxxm8MHbjjCeA)
+Room 7122 (7th floor maker lab)
 {% endcapture %}
 
 {{ md | markdownify }}
 </div></div>
 
 <div class="row">
-<div class="col-md-4">
+<div class="col-md-5">
 
 {% capture md %}
 
 Description
 ----------------------------------------------------------------
-Students encounter the big ideas in Maker Education and STEAM as
+<p class="lead">Students encounter the big ideas in Maker Education and STEAM as
 well as the practices of the maker lab. Emphasis is placed on
 engagement in and critique of the practice of “making” through
 foundational literature and hands on studio culture with a focus on
-learning and education. 
+creativity and learning.</p>
 
 {% endcapture %}
 
 {{ md | markdownify }}
 </div>
-<div class="col-md-8">
+<div class="col-md-7">
 {% capture md %}
 Goals
 --------------------------------------------------------------------------------
@@ -158,6 +149,34 @@ Please come to class prepared to discuss the readings.
 </tr>
 {% endfor %}
 </table>
+
+#### Readings
+
+{% capture md %}
+
+Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Women’s Studies_, _48_(3), 261–282. [[pdf](https://drive.google.com/file/d/1WN-fviW3BUMc5LHqz39bH2Z8YVf9o0AG/view?usp=drive_link)]
+
+Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
+
+Martinez, S. L., & Stager, G. (2013).Chapter 1: An Insanely Brief and Incomplete History of Making. In _Invent to learn: Making, tinkering, and engineering in the classroom_. Constructing Modern Knowledge Press. [[pdf](https://drive.google.com/file/d/1eruhyafUFMLE6FSbMVg_PiEbP6O6q5IM/view?usp=drive_link)] [[epub](https://drive.google.com/file/d/1a5LxUAptVrHX7f8zwU92nxBl6qb8SUej/view?usp=drive_link)]
+
+Noddings, N. (2013). Standardized Curriculum and Loss of Creativity. _Theory Into Practice_, _52_(3), 210–215. [[pdf](https://drive.google.com/file/d/1dUgpl9_18ybk9AvPX-ohRRq-df_jZtmh/view?usp=drive_link)]
+
+Greene, M. (1977). The Artistic-Aesthetic and Curriculum. Curriculum Inquiry, 6(4), 283–296. [[pdf](https://drive.google.com/file/d/1o7dbDPtNlDjv3Z29JsXR9DKMIbRJZyI4/view?usp=drive_link)]
+
+O’Brien, K. C. (2021). Fibre Artists and Outsider Algorithms: Rethinking Ethnomathematics Through Contemporary Craft. _For the Learning of Mathematics_, _41_(1), 8–13. [[pdf](https://drive.google.com/file/d/1SCbf62q4r79iYqMdNb9vw7RHSTn2LhU_/view?usp=drive_link)]
+
+Papert, S. (1991). Situating constructionism. In I. Harel & S. Papert (Eds.), _Constructionism_ (pp. 1–10). Praeger. [[mit.edu](https://web.media.mit.edu/~calla/web_comunidad/Reading-En/situating_constructionism.pdf)]
+
+Papert, S. (2002). [Hard Fun](maker3/hard-fun.html). _Bangor Daily News_. Bangor, ME. Bangor Daily News.
+
+Runco, M. A., & Jaeger, G. J. (2012). The Standard Definition of Creativity. _Creativity Research Journal_, _24_(1), 92–96. [[pdf](https://drive.google.com/file/d/1Lyi8RErUoKnhA6ISvoIT3LDRNNSfxEqD/view?usp=drive_link)]
+
+{% endcapture %}
+
+<div class="apa mb-3">
+{{ md | markdownify }}
+</div>
 
 Assignments
 ------------
@@ -372,34 +391,13 @@ clear audio, etc), and the overall creativity and originality of your site.
 </div>
 </div>
 
-Readings
---------------------------------------------------------------------------------
-
-Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Women’s Studies_, _48_(3), 261–282. [[pdf](https://drive.google.com/file/d/1WN-fviW3BUMc5LHqz39bH2Z8YVf9o0AG/view?usp=drive_link)]
-
-Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
-
-Martinez, S. L., & Stager, G. (2013).Chapter 1: An Insanely Brief and Incomplete History of Making. In _Invent to learn: Making, tinkering, and engineering in the classroom_. Constructing Modern Knowledge Press. [[pdf](https://drive.google.com/file/d/1eruhyafUFMLE6FSbMVg_PiEbP6O6q5IM/view?usp=drive_link)] [[epub](https://drive.google.com/file/d/1a5LxUAptVrHX7f8zwU92nxBl6qb8SUej/view?usp=drive_link)]
-
-Noddings, N. (2013). Standardized Curriculum and Loss of Creativity. _Theory Into Practice_, _52_(3), 210–215. [[pdf](https://drive.google.com/file/d/1dUgpl9_18ybk9AvPX-ohRRq-df_jZtmh/view?usp=drive_link)]
-
-Greene, M. (1977). The Artistic-Aesthetic and Curriculum. Curriculum Inquiry, 6(4), 283–296. [[pdf](https://drive.google.com/file/d/1o7dbDPtNlDjv3Z29JsXR9DKMIbRJZyI4/view?usp=drive_link)]
-
-O’Brien, K. C. (2021). Fibre Artists and Outsider Algorithms: Rethinking Ethnomathematics Through Contemporary Craft. _For the Learning of Mathematics_, _41_(1), 8–13. [[pdf](https://drive.google.com/file/d/1SCbf62q4r79iYqMdNb9vw7RHSTn2LhU_/view?usp=drive_link)]
-
-Papert, S. (1991). Situating constructionism. In I. Harel & S. Papert (Eds.), _Constructionism_ (pp. 1–10). Praeger. [[mit.edu](https://web.media.mit.edu/~calla/web_comunidad/Reading-En/situating_constructionism.pdf)]
-
-Papert, S. (2002). [Hard Fun](maker3/hard-fun.html). _Bangor Daily News_. Bangor, ME. Bangor Daily News.
-
-Runco, M. A., & Jaeger, G. J. (2012). The Standard Definition of Creativity. _Creativity Research Journal_, _24_(1), 92–96. [[pdf](https://drive.google.com/file/d/1Lyi8RErUoKnhA6ISvoIT3LDRNNSfxEqD/view?usp=drive_link)]
-
 Class Meetings
 --------------------------------------------------------------------------------
 
 ### Session 1: STEAM & Maker Ed
 **Mon, Jun 3, 4pm-7pm**
 
-<div class="row">
+<div class="row border-bottom border-3 border-dark mb-2">
 <div class="col-md-6">
 
 {% capture md %}
@@ -436,6 +434,10 @@ Class Meetings
 
 **Resources:**
 
+- Tutorials/Docs:
+  - [Essential Inkscape](https://www.linkedin.com/learning/inkscape-essential-training-9975138) [<small>sign in with your adelphi account for free access</small>]
+  - [Google Sites](https://support.google.com/a/users/answer/9282722)
+
 - Fonts:
    - [Google Fonts](https://fonts.google.com/)
    - [DaFont](https://www.dafont.com/)
@@ -456,6 +458,63 @@ Class Meetings
 
 
 
+<div class="row mb-2">
+   <div class="col-md-6 d-flex align-items-center">
+      <div>
+         <p>
+            <b>Field Trip:</b> We are going to meet at 4pm
+            at <a href="https://bricartsmedia.org/">BRIC Arts Media House</a>
+            in Brooklyn on 647 Fulton St, Brooklyn, NY 11217.
+         </p>
+         <p>
+            At BRIC, we will get a gallery tour (including a mural designed by Prof. Eric Miles)
+            and a tour of their media facilities and studios. After the tour, we will walk
+            back to the Brooklyn Center, stopping at several public art sites along the way.
+         </p>
+         <p><b>Meet outside of BRIC at 3:55. Please don't be late.</b></p>
+      </div>
+   </div>
+   <div class="col-md-6">
+      <a href="https://maps.app.goo.gl/1RHro14fjiUM3arD9"><img src="img/bric-map.png" alt="map of BRIC at Fulton and Rockwell" class="img-fluid"></a>
+   </div>
+</div>
+
+<div class="row border-bottom border-3 border-dark mb-2">
+<div class="col-md-6">
+
+{% capture md %}
+
+**Goals:**
+
+- Investigate BRIC as an institution fostering public art and a site of informal learning
+- Become familiar with various types of public art
+- Develop skills in analyzing and describing works of art
+- Design basic circuits that power LEDs
+
+**Agenda:**
+
+1. 4-5pm: BRIC Tour
+2. 5-6pm: Public Art Walk
+3. 5-7pm: Class/lab
+   - reading discussion
+   - paper circuits for journals
+{% endcapture %}
+
+{{ md | markdownify }}
+</div>
+
+<div class="col-md-6">
+{% capture md %}
+**Due:**
+
+- Readings TBD
+
+{% endcapture %}
+
+{{ md | markdownify }}
+</div></div>
+
+
 ### Session 3: Fashion & Wearables Studio
 **Sat, Jun 8**
 
@@ -471,7 +530,7 @@ Class Meetings
 
 
 
-### Session 6: Scratch Story Games
+### Session 6: Scratch Story Hackathon
 **Sat, Jun 15**
 
 

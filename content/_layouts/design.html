@@ -1,0 +1,29 @@
+---
+layout: base
+---
+<style>
+body {
+        /* background-image: url('img/purple-pink.svg');
+        background-size: cover; */
+}
+.nav-link {
+    font-weight: bold;
+
+}
+.Design {
+    /* background-color: rgba(255, 255, 255, 0.9); */
+    max-width: 1024px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+</style>
+
+
+{% include top-nav.html %}
+<main class="Design mx-auto mt-2">
+    {{content}}
+    {% include syllabus-legal.html %}
+</main>
+{% include footer.html %}
