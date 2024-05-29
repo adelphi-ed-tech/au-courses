@@ -12,18 +12,35 @@ body {
 }
 .Design {
     /* background-color: rgba(255, 255, 255, 0.9); */
-    max-width: 1024px;
+
     margin-top: 20px;
     margin-bottom: 20px;
 
+}
+
+.Design h1 {
+    font-size: 84px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.wide-container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.text-container {
+    max-width: 720px;
+    margin: 0 auto;
 }
 
 </style>
 
 
 {% include top-nav.html %}
-<main class="Design mx-auto mt-2">
+<main class="Design container-fluid mx-auto mt-2">
     {{content}}
-    {% include syllabus-legal.html %}
+    <hr>
+    <div class="container mx-auto mt-4">{% include syllabus-legal.html %}</div>
 </main>
 {% include footer.html %}

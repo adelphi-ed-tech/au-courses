@@ -40,25 +40,28 @@ sessions:
      readings: "-"
 
 ---
+<h4 class="muted d-block text-center">Summer 2024</h4>
+<h1 class="border-bottom border-4 border-black">Maker Lab 1: Design Lab</h1>
+<div class="container mx-auto border-bottom border-2 border-black pt-2">
+   <p>
+      <strong>Keywords:</strong> art, aesthetics, politics, creativity, design, STEAM, maker education, sewing, scratch, hard fun
+   </p>
 
-<img src="img/desing-lab.png" alt="Maker Lab 1: Design Lab" class="img-fluid d-block mb-2">
-**Keywords:** art, aesthetics, politics, creativity, design, STEAM, maker education, sewing, scratch, hard fun
+   <p class="fw-bold">STEAM Teaching and Learning ESM 501, 3 credits</p>
+   <img src="img/mixi-spray.jpg" alt="stencil art MIXI" class="img-fluid d-block mb-2 pb-3">
+</div>
 
-**STEAM Teaching and Learning ESM 501, 3 credits**
-
-<img src="img/mixi-spray.jpg" alt="stencil art MIXI" class="img-fluid d-block">
-
-<div class="row">
-<div class="col-md-6">
+<div class="container mx-auto row border-bottom border-2 border-black mt-3 pt-2">
+<div class="col-md-6 col-xl-4">
 
 {% capture md %}
 
-**Instructors:**
+<p class="text-muted fw-bold">Instructors:</p>
 
 - Matthew X. Curinga [<mcuringa@adelphi.edu>] 
 - Eric Miles [<emiles@adelphi.edu>]
 
-**Materials:**\
+<p class="text-muted fw-bold">Materials:</p>
 There are no required textbooks for this course. All course materials
 will be provided at class meetings.
 
@@ -69,40 +72,35 @@ will be provided at class meetings.
 
 <div class="col-md-6">
 {% capture md %}
-**Meeting time:**
+<p class="text-muted fw-bold">Meetings:</p>
 
 - Monday & Wednesday, 4pm-7pm
 - Saturday (6/8 & 6/15), 10am-4pm
 
-**Location:**\
+<p class="text-muted fw-bold">Location:</p>
 [Adelphi Brooklyn Center](https://maps.app.goo.gl/hoyDaxxm8MHbjjCeA)
 Room 7122 (7th floor maker lab)
 {% endcapture %}
 
 {{ md | markdownify }}
-</div></div>
+</div>
+</div>
 
-<div class="row">
-<div class="col-md-5">
+<div class="container mx-auto row mt-3">
+<div class="col-md-4">
 
-{% capture md %}
 
-Description
-----------------------------------------------------------------
-<p class="lead">Students encounter the big ideas in Maker Education and STEAM as
+<p class="lead"><b style="font-weight: bold">In the Design Lab</b> 
+students encounter the big ideas in Maker Education and STEAM as
 well as the practices of the maker lab. Emphasis is placed on
 engagement in and critique of the practice of “making” through
 foundational literature and hands on studio culture with a focus on
 creativity and learning.</p>
-
-{% endcapture %}
-
-{{ md | markdownify }}
 </div>
-<div class="col-md-7">
+<div class="col-md-6">
 {% capture md %}
-Goals
---------------------------------------------------------------------------------
+<h4>Goals</h4>
+
 1. Students will explore and analyze foundational and contemporary theories and
    approaches of MakerEd and STEAM texts and respond through a series of written,
    audio and video prompts.
@@ -121,10 +119,12 @@ Goals
 {% endcapture %}
 
 {{ md | markdownify }}
-</div></div>
+</div>
+</div>
 
-Class schedule
---------------------------------------------------------------------------------
+<div class="container">
+{% capture md %}
+<h2>Class schedule</h2>
 This is an intensive, summer course where we squeeze a full semester's worth of
 work into two weeks! Weekday classes run from 4pm-7pm, and our two Saturday sessions
 will run from 10am-4pm. In addition to class meetings, you will need to spend time
@@ -132,6 +132,8 @@ outside of class in the maker lab, and arrange time to complete your museum visi
 
 **Readings listed below are due for that class session, including our first meeting.**
 Please come to class prepared to discuss the readings.
+{% endcapture %}
+{{ md | markdownify }}
 
 <table>
 <tr>
@@ -150,10 +152,10 @@ Please come to class prepared to discuss the readings.
 {% endfor %}
 </table>
 
-#### Readings
+
+<h2>Readings</h2>
 
 {% capture md %}
-
 Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Women’s Studies_, _48_(3), 261–282. [[pdf](https://drive.google.com/file/d/1WN-fviW3BUMc5LHqz39bH2Z8YVf9o0AG/view?usp=drive_link)]
 
 Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
@@ -174,10 +176,11 @@ Runco, M. A., & Jaeger, G. J. (2012). The Standard Definition of Creativity. _Cr
 
 {% endcapture %}
 
-<div class="apa mb-3">
+<div class="apa mx-0 mb-3 text-container">
 {{ md | markdownify }}
 </div>
 
+{% capture md %}
 Assignments
 ------------
 
@@ -192,13 +195,16 @@ Maker Lesson          | June 15  | 10
 Maker Vest            | June 12  | 15
 Scratch Story Game    | June 19  | 15
 Online Portfolio      | June 19  | 10
+{% endcapture %}
+{{ md | markdownify }}
+</div>
 
-<div class="row">
+<div class="wide-container row">
 <div class="col-md-6">
 
 {% capture left_col %}
 
-### Participation (10 pts)
+### Participation
 A _class_ is a place where we study together. Your
 participation will help make this a great class.
 
@@ -225,7 +231,7 @@ To get full participation points:
    Let the instructors know if there's a problem or question. Tell us how to
    make things better.
 
-### Artist's Journal (10 pts)
+### Artist's Journal
 Everyone will keep an Reading responsesartist's journal during this course
 (and after, we hope). The Journal is a place for you to record
 thoughts, plan designs, sketch ideas, and reflect. There will
@@ -237,7 +243,7 @@ To "grade" your journal, you will upload photos of key pages to
 your online portfolio and write a brief (~500 word) reflection 
 about how you used it, and what you thought of the journal.
 
-### Museum Visits (10 pts)
+### Museum Visits
 You will visit (at least) 3 museums outside of course hours. Each visit
 must be at least one hour long. You must keep journal entries for each
 visit that log the museum, the date and time of the visit, and key
@@ -265,24 +271,7 @@ on Discord as well as invitations to join us for informal, optional fieldtrips
 during the course. You can also check out the [NYC Arts Calendar](https://www.nyc-arts.org/)
 for further ideas and events.
 
-
-### Public Art Encounters (10 pts)
-New York is full of public art: famous sculptures, big shows, 
-street art, hidden and half forgotten works, and more. 
-You will document at least 3 public art works that you 
-encounter. At least one of these should be "sanctioned"
-work and at least one should be "unsanctioned" work.
-
-Document your encounter in your journal with at least
-one sketch of each work, and notes on the context,
-your experience, and thoughts on the work. Further
-document your encounter with photos and videos. Consider
-things like the medium of the work, the scale (aka size),
-the materials, when it was created, how it was funded ( or not).
-
-Upload your documentation to your online portfolio.
-
-### Maker Lesson (10 pts)
+### Maker Lesson
 You will read the New York State and professional standards
 for your content area (Math, Biology, Physics, Comp Sci, etc.)
 as well as the Art Standards. You will create your own lesson
@@ -324,8 +313,23 @@ _Optionally add your lesson plan to your portfolio._
 <div class="col-md-6">
 
 {% capture right_col %}
+### Public Art Encounters
+New York is full of public art: famous sculptures, big shows, 
+street art, hidden and half forgotten works, and more. 
+You will document at least 3 public art works that you 
+encounter. At least one of these should be "sanctioned"
+work and at least one should be "unsanctioned" work.
 
-### Reading Responses (10 pts)
+Document your encounter in your journal with at least
+one sketch of each work, and notes on the context,
+your experience, and thoughts on the work. Further
+document your encounter with photos and videos. Consider
+things like the medium of the work, the scale (aka size),
+the materials, when it was created, how it was funded ( or not).
+
+Upload your documentation to your online portfolio.
+
+### Reading Responses
 For each reading, you will write a "reading response" in
 your journal prior to the class session (except for the first
 meeting -- we will write them in class). Your response **must**
@@ -336,7 +340,7 @@ Reading responses will be checked by the instructors at the
 start of each class. For some sessions you will read your
 response aloud or share with a partner.
 
-### Maker Vest (15 pts)
+### Maker Vest
 We are all going to make a vest. Working from patterns provided,
 you will design your own vest, cut the fabric, and sew it together.
 You will design an embroidery or patch for your name, and also
@@ -361,10 +365,41 @@ Your vest will be evaluated on:
   - 3D design and printing
 
 
-### Scratch Story Game (15 pts)
-(TBD)
+### Scratch Story Game
+The [Scratch](https://scratch.mit.edu/) programming language is
+many students' first introduction to computer science and computer
+programming. Scratch is the direct descendent of the Logo programming;
+Seymour Papert's constructionist programming language.
 
-### Online Portfolio (10 pts)
+For this project you will work in a **team of two** to design,
+code, and test a "story game" in Scratch. You will create
+original art for your game as vector graphics, create a 
+compelling narrative to drive the game, and incorporate
+puzzles, challenges, and other interactive elements.
+
+Your will build your game on top of our Scratch game platform
+which will make provide basic mechanics such as keeping
+track of active scenes, inventory, score, etc. You will not just
+create a game, but a game-for-learning (aka _serious game_)
+that incorporates elements of your content area.
+
+To complete this assignment, you will submit your public game
+on Scratch. Each team member will also submit a reflection
+on their portfolio site that describes the content areas
+addressed, the theory behind the game (why is it fun? who is it for?
+how does it _teach_?). Also discuss the development and game
+testing process. Finish your reflection with ways that you could
+improve the game.
+
+Your game will be evaluated on:
+
+- **Fun:** how well does it work as a game?
+- **Story:** does the story make sense? are the characters compelling? does the player make real choices?
+- **Art & Design:** does the game visually and aesthetically enhance the learning and story goals? are the developers able to create a polished look and feel?
+- **Programming:** do the developers demonstrate understanding of key CS concepts such as loops, conditionals, variables, events, functions, and parallelism? do they understand key Scratch concepts such as sprites, costumes, and backdrops?
+- **Learning:** does the game teach something? is it _worth_ teaching? are the "play" and "learning" elements integrated?
+
+### Online Portfolio
 You will create an online portfolio that will be used throughout
 the Master's in STEAM Teaching and Learning. While the portfolio
 will house many of your assignments, you are also responsible for
@@ -391,16 +426,25 @@ clear audio, etc), and the overall creativity and originality of your site.
 </div>
 </div>
 
-Class Meetings
---------------------------------------------------------------------------------
 
-### Session 1: STEAM & Maker Ed
-**Mon, Jun 3, 4pm-7pm**
+<hr class="mt-4 pt-4">
+
+
+<div class="container wide-container">
+
+<h2>Session 1: STEAM & Maker Ed</h2>
+<strong>Mon, Jun 3, 4pm-7pm</strong>
 
 <div class="row border-bottom border-3 border-dark mb-2">
-<div class="col-md-6">
+<div class="col-md-6 col-xl-4">
 
 {% capture md %}
+In our **first meeting** we will get to know each other, a feeling
+for the main goals of the class, and start to play around with
+some of the tools and methods we will be using in this summer
+course. We will make sure that everyone has their online
+portfolio up and running, and that everyone has started their
+artist's journal.
 
 **Goals:**
 
@@ -453,13 +497,11 @@ Class Meetings
 {{ md | markdownify }}
 </div></div>
 
-### Session 2: Public Art / Public Pedagogy
-**Wed, Jun 5**
-
-
+<h2>Session 2: Public Art / Public Pedagogy</h2>
+<strong>Wed, Jun 5, 4pm-7pm</strong>
 
 <div class="row mb-2">
-   <div class="col-md-6 d-flex align-items-center">
+   <div class="col-md-6 col-xl-5 d-flex align-items-center">
       <div>
          <p>
             <b>Field Trip:</b> We are going to meet at 4pm
@@ -480,7 +522,7 @@ Class Meetings
 </div>
 
 <div class="row border-bottom border-3 border-dark mb-2">
-<div class="col-md-6">
+<div class="col-md-6 col-xl-4">
 
 {% capture md %}
 
@@ -515,32 +557,33 @@ Class Meetings
 </div></div>
 
 
-### Session 3: Fashion & Wearables Studio
-**Sat, Jun 8**
+<h2>Session 3: Fashion & Wearables Studio</h2>
+<strong>Sat, Jun 8, 10am-4pm</strong>
 
 
 
-### Session 4: Curriculum Design
-**Mon, Jun 10**
+<h2>Session 4: Curriculum Design</h2>
+<strong>Mon, Jun 10, 4pm-7pm</strong>
 
 
 
-### Session 5: Constructionism & Hard Fun
-**Wed, Jun 12**
+<h2>Session 5: Constructionism & Hard Fun</h2>
+<strong>Wed, Jun 12</strong>
 
 
 
-### Session 6: Scratch Story Hackathon
-**Sat, Jun 15**
+<h2>Session 6: Scratch Story Hackathon</h2>
+<strong>Sat, Jun 15, 10am-4pm</strong>
 
 
 
-### Session 7: Aesthetics & Politics
-**Mon, Jun 17**
+<h2>Session 7: Aesthetics & Politics</h2>
+<strong>Mon, Jun 17, 4pm-7pm</strong>
 
 
 
-### Session 8: Final Studio
-**Wed, Jun 19**
+<h2>Session 8: Final Studio</h2>
+<strong>Wed, Jun 19</strong>
 
 
+</div>
