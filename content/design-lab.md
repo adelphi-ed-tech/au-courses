@@ -561,9 +561,11 @@ artist's journal.
 <h2>Session 3: Fashion & Wearables Studio</h2>
 <strong>Sat, Jun 8, 10am-4pm</strong>
 <div class="row border-bottom border-3 border-dark mb-2">
-<div class="col-md-6 col-xl-4">
+<div class="col-md-5">
+<img src="img/patch.png" alt="mixi lab embroidered patch" class="img-fluid d-block mb-2">
 
 {% capture md %}
+
 In our **first meeting** we will get to know each other, a feeling
 for the main goals of the class, and start to play around with
 some of the tools and methods we will be using in this summer
@@ -571,39 +573,41 @@ course. We will make sure that everyone has their online
 portfolio up and running, and that everyone has started their
 artist's journal.
 
-
-
-**Agenda:**
-
-1. 10am-11am: Reading discussion
-2. 11am-12pm: Sewing patterns and design
-3. 
+If you have clothes at home that you want to patch, fix a zipper,
+add a pocket, replace a button, etc, bring them in. We will have
+time durning lunch and after class to work on these projects too!
 
 {% endcapture %}
 
 {{ md | markdownify }}
 </div>
 
-<div class="col-md-6">
+<div class="col-md-7 col-xl-4">
 {% capture md %}
 
 **Goals:**
 
 - Learn how to operate a sewing machine
 - Consider fashion as a form of public art
-- Develop basic vector graphic design skills
-- Cut stencils with the Cricut
-- Begin an online portfolio
+- Design for computer-controlled embroidery
+- Design clothes with wearable electronics
+- Use board computer (Qt Py) to control and power LEDs
+
+**Agenda:**
+
+1. 10am-11am: Reading discussion
+2. 11am-12pm: Sewing patterns and design
+3. 12-12:45pm: Lunch
+4. 12:45-4pm: Sewing, embroidery, and and wearable studio
 
 **Due:**
 
 - Read Cipolla; O'Brien
-
-
+- Post (_before class_) photos of vests, embroidered logos, employee name badges, wearable fashion, etc. to Discord thread
 
 {% endcapture %}
-
 {{ md | markdownify }}
+
 </div></div>
 
 <h2>Session 4: Curriculum Design</h2>
