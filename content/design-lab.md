@@ -560,8 +560,51 @@ artist's journal.
 
 <h2>Session 3: Fashion & Wearables Studio</h2>
 <strong>Sat, Jun 8, 10am-4pm</strong>
+<div class="row border-bottom border-3 border-dark mb-2">
+<div class="col-md-6 col-xl-4">
+
+{% capture md %}
+In our **first meeting** we will get to know each other, a feeling
+for the main goals of the class, and start to play around with
+some of the tools and methods we will be using in this summer
+course. We will make sure that everyone has their online
+portfolio up and running, and that everyone has started their
+artist's journal.
 
 
+
+**Agenda:**
+
+1. 10am-11am: Reading discussion
+2. 11am-12pm: Sewing patterns and design
+3. 
+
+{% endcapture %}
+
+{{ md | markdownify }}
+</div>
+
+<div class="col-md-6">
+{% capture md %}
+
+**Goals:**
+
+- Learn how to operate a sewing machine
+- Consider fashion as a form of public art
+- Develop basic vector graphic design skills
+- Cut stencils with the Cricut
+- Begin an online portfolio
+
+**Due:**
+
+- Read Cipolla; O'Brien
+
+
+
+{% endcapture %}
+
+{{ md | markdownify }}
+</div></div>
 
 <h2>Session 4: Curriculum Design</h2>
 <strong>Mon, Jun 10, 4pm-7pm</strong>
