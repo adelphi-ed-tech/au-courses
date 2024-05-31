@@ -160,6 +160,8 @@ Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Wome
 
 Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
 
+Ladson-Billings, G. (2011). “Yes, But How Do We Do It?”: Practicing Culturally Relevant Pedagogy. _In White Teachers / Diverse Classrooms (2nd ed.)_. Routledge. [[pdf](https://drive.google.com/file/d/1Lrl-N94ytbukzsrUpeJN3yuJTuOI9bSg/view?usp=drive_link)]
+
 Martinez, S. L., & Stager, G. (2013).Chapter 1: An Insanely Brief and Incomplete History of Making. In _Invent to learn: Making, tinkering, and engineering in the classroom_. Constructing Modern Knowledge Press. [[pdf](https://drive.google.com/file/d/1eruhyafUFMLE6FSbMVg_PiEbP6O6q5IM/view?usp=drive_link)] [[epub](https://drive.google.com/file/d/1a5LxUAptVrHX7f8zwU92nxBl6qb8SUej/view?usp=drive_link)]
 
 Noddings, N. (2013). Standardized Curriculum and Loss of Creativity. _Theory Into Practice_, _52_(3), 210–215. [[pdf](https://drive.google.com/file/d/1dUgpl9_18ybk9AvPX-ohRRq-df_jZtmh/view?usp=drive_link)]
@@ -437,6 +439,9 @@ clear audio, etc), and the overall creativity and originality of your site.
 <strong>Mon, Jun 3, 4pm-7pm</strong>
 
 <div class="row border-bottom border-3 border-dark mb-2">
+<div class="col-0 col-xl-4">
+<img src="img/qt-bread.png" alt="QT Py board connected to a breadboard with a red LED" class="img-fluid d-none d-xl-block mb-2">
+</div>
 <div class="col-md-6 col-xl-4">
 
 {% capture md %}
@@ -467,7 +472,7 @@ artist's journal.
 {{ md | markdownify }}
 </div>
 
-<div class="col-md-6">
+<div class="col-md-6 col-xl-4">
 {% capture md %}
 **Due:**
 
@@ -496,7 +501,9 @@ artist's journal.
 {% endcapture %}
 
 {{ md | markdownify }}
-</div></div>
+</div>
+
+</div>
 
 <h2>Session 2: Public Art / Public Pedagogy</h2>
 <strong>Wed, Jun 5, 4pm-7pm</strong>
@@ -562,16 +569,14 @@ artist's journal.
 <strong>Sat, Jun 8, 10am-4pm</strong>
 <div class="row border-bottom border-3 border-dark mb-2">
 <div class="col-md-5">
-<img src="img/patch.png" alt="mixi lab embroidered patch" class="img-fluid d-block mb-2">
+<img src="img/patch2.png" alt="mixi lab embroidered patch" class="img-fluid d-block mb-2">
 
 {% capture md %}
 
-In our **first meeting** we will get to know each other, a feeling
-for the main goals of the class, and start to play around with
-some of the tools and methods we will be using in this summer
-course. We will make sure that everyone has their online
-portfolio up and running, and that everyone has started their
-artist's journal.
+**We are going to sew our vests.** In this session we will learn 
+basic sewing skills, how to design for and operate the robot 
+controlled embroidery machine, and think about ways to integrate 
+"wearable" technology into our designs for function and aesthetics.
 
 If you have clothes at home that you want to patch, fix a zipper,
 add a pocket, replace a button, etc, bring them in. We will have
@@ -612,6 +617,59 @@ time durning lunch and after class to work on these projects too!
 
 <h2>Session 4: Curriculum Design</h2>
 <strong>Mon, Jun 10, 4pm-7pm</strong>
+<div class="row border-bottom border-3 border-dark mb-2">
+<div class="col-md-6 col-xl-4">
+{% capture md %}
+Today we will look at the **curriculum standards** in
+Math, Sciences, Computing, and Art. Working from
+these standards, we will begin to develop lessons
+that teach something challenging and important
+to the content area, but incorporate STEAM
+principles that integrate art, play, and creativity.
+
+
+**Goals:**
+
+- Become familiar with finding and reading content standards
+- Understand the basic elements for a "lesson plan"
+- Develop own criteria for evaluating lessons
+- Understand the basic principles of planning for diverse learners and learners with disabilities
+- Understand the basic principles of planning for students who are still developing academic English skills
+
+**Agenda:**
+
+1. Reading discussion
+2. Curriculum review & discussion
+3. Lesson plan search
+4. Lesson design and sharing
+
+{% endcapture %}
+{{ md | markdownify }}
+</div>
+<div class="col-md-6 col-xl-4">
+{% capture md %}
+**Due:**
+
+- Read Ladson-Billings; Noddings;
+
+**Resources:**
+
+- **Standards**
+- [NY State Learning Standards](https://www.nysed.gov/standards-instruction/nys-p-12-learning-standards-content-area)
+  - [Art](https://www.nysed.gov/standards-instruction/computer-science-and-digital-fluency)
+  - [Computer Science](https://www.nysed.gov/standards-instruction/arts)
+  - [Math](https://www.nysed.gov/standards-instruction/mathematics)
+  - [Science](https://www.nysed.gov/standards-instruction/science)
+- [ISTE Computational Thinking](https://www.nysed.gov/standards-instruction/computer-science-and-digital-fluency)
+- [NCTM Math Standards & Positions](https://www.nctm.org/standardspositions/)
+- [NSTA Science Standards](https://www.nsta.org/science-standards)
+- **Lesson Plans**
+- [NYSED Engage NY](https://www.nysed.gov/curriculum-instruction/engageny)
+- [more coming]
+
+{% endcapture %}
+{{ md | markdownify }}
+</div></div>
 
 
 
