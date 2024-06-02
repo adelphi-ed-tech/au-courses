@@ -476,7 +476,9 @@ artist's journal.
 {% capture md %}
 **Due:**
 
-- Read Martinez & Stager; Runco & Jaeger
+- **Read**
+  - Martinez, S. L., & Stager, G. (2013).Chapter 1: An Insanely Brief and Incomplete History of Making. In _Invent to learn: Making, tinkering, and engineering in the classroom_. Constructing Modern Knowledge Press. [[pdf](https://drive.google.com/file/d/1eruhyafUFMLE6FSbMVg_PiEbP6O6q5IM/view?usp=drive_link)] [[epub](https://drive.google.com/file/d/1a5LxUAptVrHX7f8zwU92nxBl6qb8SUej/view?usp=drive_link)]
+  - Runco, M. A., & Jaeger, G. J. (2012). The Standard Definition of Creativity. _Creativity Research Journal_, _24_(1), 92–96. [[pdf](https://drive.google.com/file/d/1Lyi8RErUoKnhA6ISvoIT3LDRNNSfxEqD/view?usp=drive_link)]
 - Join Discord (see email for invite)
 - Install:
   - [Discord](https://discordapp.com/) on your phone and computer
@@ -616,7 +618,9 @@ projects too!
 
 **Due:**
 
-- Read Cipolla; O'Brien
+- **Read**
+  - Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Women’s Studies_, _48_(3), 261–282. [[pdf](https://drive.google.com/file/d/1WN-fviW3BUMc5LHqz39bH2Z8YVf9o0AG/view?usp=drive_link)]
+   - O’Brien, K. C. (2021). Fibre Artists and Outsider Algorithms: Rethinking Ethnomathematics Through Contemporary Craft. _For the Learning of Mathematics_, _41_(1), 8–13. [[pdf](https://drive.google.com/file/d/1SCbf62q4r79iYqMdNb9vw7RHSTn2LhU_/view?usp=drive_link)]
 - Post (_before class_) photos of vests, embroidered logos, 
   employee name badges, wearable fashion, etc. to Discord thread
 
@@ -662,7 +666,9 @@ principles that integrate art, play, and creativity.
 {% capture md %}
 **Due:**
 
-- Read Ladson-Billings; Noddings;
+- **Read**
+  - Ladson-Billings, G. (2011). “Yes, But How Do We Do It?”: Practicing Culturally Relevant Pedagogy. _In White Teachers / Diverse Classrooms (2nd ed.)_. Routledge. [[pdf](https://drive.google.com/file/d/1Lrl-N94ytbukzsrUpeJN3yuJTuOI9bSg/view?usp=drive_link)]
+   - Noddings, N. (2013). Standardized Curriculum and Loss of Creativity. _Theory Into Practice_, _52_(3), 210–215. [[pdf](https://drive.google.com/file/d/1dUgpl9_18ybk9AvPX-ohRRq-df_jZtmh/view?usp=drive_link)]
 
 **Resources:**
 
@@ -724,7 +730,9 @@ design our own 3D models using Tinkercad.
 {% capture md %}
 **Due:**
 
-- Read: Papert: "Hard Fun" and "Situating Constructionism"
+- **Read**
+  - Papert, S. (1991). Situating constructionism. In I. Harel & S. Papert (Eds.), _Constructionism_ (pp. 1–10). Praeger. [[mit.edu](https://web.media.mit.edu/~calla/web_comunidad/Reading-En/situating_constructionism.pdf)]
+  - Papert, S. (2002). [Hard Fun](maker3/hard-fun.html). _Bangor Daily News_. Bangor, ME. Bangor Daily News.
 - Create an account on [Tinkercad](https://www.tinkercad.com/)
 - Create a 3D model of your name. Post a screenshot to Discord. 
 
@@ -836,10 +844,9 @@ the interaction of art, politics, and aesthetics.
 
 **Due:**
 
-- **Read:** Greene
+- **Read**
+  - Greene, M. (1977). The Artistic-Aesthetic and Curriculum. Curriculum Inquiry, 6(4), 283–296. [[pdf](https://drive.google.com/file/d/1o7dbDPtNlDjv3Z29JsXR9DKMIbRJZyI4/view?usp=drive_link)]
 - **Watch:** [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/)
-
-
 
 {% endcapture %}
 {{ md | markdownify }}
