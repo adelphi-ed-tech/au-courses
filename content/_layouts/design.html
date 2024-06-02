@@ -48,6 +48,16 @@ body {
     font-weight: bold;
 
 }
+.StoryGame {
+    background-image: url("img/doki.png");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+    padding: 1em;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
 .Design {
     background-color: rgba(255, 255, 255, 0.75);
     position: relative;
@@ -72,7 +82,6 @@ body {
 
 .text-container {
     max-width: 720px;
-    margin: 0 auto;
 }
 
 </style>
@@ -83,6 +92,6 @@ body {
 <main class="Design container-fluid mx-auto mt-2">
     {{content}}
     <hr>
-    <div class="container mx-auto mt-4">{% include syllabus-legal.html %}</div>
+    <div class="container mx-auto mt-4 pt-4">{% include syllabus-legal.html %}</div>
 </main>
 {% include footer.html %}

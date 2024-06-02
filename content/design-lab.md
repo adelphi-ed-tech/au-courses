@@ -578,9 +578,17 @@ basic sewing skills, how to design for and operate the robot
 controlled embroidery machine, and think about ways to integrate 
 "wearable" technology into our designs for function and aesthetics.
 
-If you have clothes at home that you want to patch, fix a zipper,
-add a pocket, replace a button, etc, bring them in. We will have
-time durning lunch and after class to work on these projects too!
+The bulk of our day will be spent actually constructing our vests.
+We will have stations where you can design, sew, embroider,
+and work on electronic/wearable components. During the week
+we (later) we will also specifically work on 3D printing elements
+for the vest. By the end of the day, you will have the basic
+vest completed, and will have another week to revise and polish it.
+
+**Side quest:** If you have clothes at home that you want to patch, 
+fix a zipper, add a pocket, replace a button, etc, bring them in. 
+We will have time durning lunch and after class to work on these 
+projects too!
 
 {% endcapture %}
 
@@ -600,15 +608,17 @@ time durning lunch and after class to work on these projects too!
 
 **Agenda:**
 
-1. 10am-11am: Reading discussion
-2. 11am-12pm: Sewing patterns and design
+1. 10am-10:30: Reading Discussion
+2. 10:30-11am: Fashion and Design Talk
+2. 11-12pm: Patterns, materials, sketches
 3. 12-12:45pm: Lunch
 4. 12:45-4pm: Sewing, embroidery, and and wearable studio
 
 **Due:**
 
 - Read Cipolla; O'Brien
-- Post (_before class_) photos of vests, embroidered logos, employee name badges, wearable fashion, etc. to Discord thread
+- Post (_before class_) photos of vests, embroidered logos, 
+  employee name badges, wearable fashion, etc. to Discord thread
 
 {% endcapture %}
 {{ md | markdownify }}
@@ -633,8 +643,10 @@ principles that integrate art, play, and creativity.
 - Become familiar with finding and reading content standards
 - Understand the basic elements for a "lesson plan"
 - Develop own criteria for evaluating lessons
-- Understand the basic principles of planning for diverse learners and learners with disabilities
-- Understand the basic principles of planning for students who are still developing academic English skills
+- Understand the basic principles of planning for diverse 
+  learners and learners with disabilities
+- Understand the basic principles of planning for 
+  students who are still developing academic English skills
 
 **Agenda:**
 
@@ -675,21 +687,173 @@ principles that integrate art, play, and creativity.
 
 <h2>Session 5: Constructionism & Hard Fun</h2>
 <strong>Wed, Jun 12</strong>
+<div class="row border-bottom border-3 border-dark mb-2">
+<div class="col-md-6 col-xl-4">
+{% capture md %}
+In this class we will talk read a couple of papers by Seymour Papert
+that will help us think about how people learn, and how we can
+design effective learning experiences. As we work together on our
+various maker projects, we will have the opportunity to test
+Papert's hypotheses with our own experiences.
+
+In addition to discussion Papert, we will spend time this session
+working with the 3D printers, learning how to operate them,
+where to find ready-made 3D models, and how to modify and
+design our own 3D models using Tinkercad.
+
+
+**Goals:**
+
+- Deepen our knowledge of the theoretical foundations of
+  Constructionism and maker education
+- Learn the basics of 3D printing from design to print
+- Find 3D models online
+- Create 3D models with Tinkercad
+
+**Agenda:**
+
+1. Reading discussion
+2. Curriculum review & discussion
+3. Lesson plan search
+4. Lesson design and sharing
+
+{% endcapture %}
+{{ md | markdownify }}
+</div>
+<div class="col-md-6 col-xl-4">
+{% capture md %}
+**Due:**
+
+- Read: Papert: "Hard Fun" and "Situating Constructionism"
+- Create an account on [Tinkercad](https://www.tinkercad.com/)
+- Create a 3D model of your name. Post a screenshot to Discord. 
+
+**Resources:**
+
+- [Tinkercad Learning](https://www.tinkercad.com/learn)
+- [Bambu X1 3D Printer Manual](https://wiki.bambulab.com/en/x1/manual)
+  <small>these are our printers</small>
+
+{% endcapture %}
+{{ md | markdownify }}
+</div></div>
 
 
 
 <h2>Session 6: Scratch Story Hackathon</h2>
 <strong>Sat, Jun 15, 10am-4pm</strong>
+<div class="row border-bottom border-3 border-dark mb-2">
+<div class="col-md-6 col-xl-4">
+{% capture md %}
+
+[Scratch](https://scratch.mit.edu/) is the direct descendent of the Logo programming;
+the programming language developed by Seymour Papert and his colleagues at MIT in
+order to teach computer programming and mathematics. Scratch is often the first
+introduction to computer science and programming in U.S. schools. Although it can
+be used effectively by young children, it is a complete and powerful programming
+language. Berkeley's [Beauty and Joy of Computing](https://bjc.berkeley.edu/) course
+famously uses Snap! (a variant of Scratch) to teach computer science to non-majors
+at the college level. Many high schools use Scratch or Snap to teach the
+[AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course) course.
+
+Working in teams of 2, we are going to write our own unique Scratch story games. In this
+session you will learn how our story game platform works, and will have go through the
+entire game development cycle, including creating the narrative, learning content, art,
+code, and play testing/prototyping. By the end of the day, each team _must_ have a fully
+working prototype. You will have until the end of the term for finish working on your game
+with your partner.
+
+**Goals:**
+
+- Learn computer programming fundamentals
+- Design an original, creative story game
+- Understand elements of games and play for learning
+- Integrate educational content into a game
+- Write a compelling story
+- Design original art for a game
+
+{% endcapture %}
+{{ md | markdownify }}
+</div>
+<div class="StoryGame col-md-6 col-xl-8">
+{% capture md %}
+**Due:**
+
+- **Read:** (TBD)
+- **Play:** spend at least one hour playing a "story games"\
+  Some will be text only or mostly text, some will be more visual (like comics/manga),\
+  others will play more like video games.\
+  Some of these games are free, some are cheap, some are more expensive.\
+  Some work on mobile, others require  Windows or Mac. \
+  Choose one that looks engaging to you and meets your budget, platform, and time requirements.\
+  Here are some places to look:
+  - [Zork](https://classicreload.com/zork-i.html) <small>_early text adventure game_</small>
+  - [Doki Doki Literature Club](https://teamsalvato.itch.io/ddlc) <small>_anime style game_</small>
+  - [Ace Attorney](https://www.ace-attorney.com/) <small>_popular visual novel series_</small>
+  - itch.io [[visual novel](https://itch.io/games/genre-visual-novel)]
+    [[interactive fiction](https://itch.io/games/tag-interactive-fiction)] <small>_browser, platform. free/paid_</small>
+  - [STEAM: visual novel](https://store.steampowered.com/tags/en/Visual%20Novel/)
+  - [The best visual novels on PC](https://www.pcgamer.com/the-best-visual-novels-on-pc/). (2022) _PC Gamer_
+  - [25 best interactive fiction games](https://www.pcmag.com/picks/the-20-best-interactive-story-games). (2020). _PC Mag_
+
+**Resources:**
+
+- **Image and Audio Resources**
+- [Free CC Sound Effects](https://freesound.org/)
+- [Free CC Music](https://freemusicarchive.org/)
+- [Free CC Images](https://unsplash.com/)
+- [Free CC Vector Art](https://www.vecteezy.com/)
+
+
+- **Learning Scratch**
+- [Scratch Tutorials](https://scratch.mit.edu/tips)
+- [Scratch Wiki](https://en.scratch-wiki.info/wiki/Scratch_Wiki_Home)
+
+
+{% endcapture %}
+{{ md | markdownify }}
+</div></div>
 
 
 
 <h2>Session 7: Aesthetics & Politics</h2>
 <strong>Mon, Jun 17, 4pm-7pm</strong>
+<div class="row border-bottom border-3 border-dark mb-2">
+<div class="col-md-6">
+<img src="img/triple-chaser.jpg" alt="computer vision highlights a triple chaser tear gas canister ©︎ forensic architecture"
+     class="img-fluid d-block">
 
+</div>
+<div class="col-md-6 col-xl-4">
+{% capture md %}
+Integrating art into teaching and learning can make complex
+subjects more approachable; can welcome excluded groups
+into STEM fields; and can make learning more engaging.
+
+**Art**, though, is more powerful than a more effective
+pedagogical approach. In this session we talk (more) about
+the interaction of art, politics, and aesthetics.
+
+**Due:**
+
+- **Read:** Greene
+- **Watch:** [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/)
+
+
+
+{% endcapture %}
+{{ md | markdownify }}
+</div></div>
 
 
 <h2>Session 8: Final Studio</h2>
 <strong>Wed, Jun 19</strong>
-
-
+<div class="text-container fw-bold bg-dark text-light border rounded p-2 mb-4">
+It's our last class. We will have an open studio
+working session where you can finish projects,
+test your prototypes with others, get feedback
+from friends, instructors, and guests, and
+celebrate your work this summer.
 </div>
+
+</div> <!-- end wide container -->
