@@ -37,8 +37,22 @@
 <body class="d-flex flex-column h-100">
 
 <style>
+:root {
+    --blue-white: linear-gradient(158deg, rgba(99, 62, 128, .5) 18.75%, 
+                  rgb(0, 111, 203) 56.25%, 
+                  rgba(245, 193, 241, 0.57) 79.6875%);
+    --blue-white2: linear-gradient(158deg, rgba(159, 209, 214, 0.56) 18.75%, 
+                  rgb(0, 111, 203) 56.25%, 
+                  rgba(245, 193, 241, 0.57) 79.6875%)
+                }
 
+body {
+    background-image: var(--blue-white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 
+}
 
 .hex1 {
   position: fixed;
@@ -70,7 +84,7 @@
 
 }
 .Design {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.75);
     position: relative;
     z-index: 10;
     margin-top: 20px;
