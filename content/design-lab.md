@@ -13,7 +13,7 @@ sessions:
    - number: 2
      title: "Public Art / Public Pedagogy"
      date: "Wed, Jun 5"
-     readings: "TBD"
+     readings: "Cartier & Zebracki; Low & Proietti"
    - number: 3
      title: "Fashion & Wearables Studio"
      date: "Sat, Jun 8"
@@ -156,11 +156,15 @@ Please come to class prepared to discuss the readings.
 <h2>Readings</h2>
 
 {% capture md %}
+Cartiere, C., & Zebracki, M. (Eds.). (2015). Introduction. In _The Everyday Practice of Public Art: Art, Space, and Social Inclusion_. Routledge. [[pdf](httpshttps://drive.google.com/file/d/1dpRKiztomJbAf3C3gOSMFsg47y1mGyPP/view?usp=drive_link)]
+
 Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Women’s Studies_, _48_(3), 261–282. [[pdf](https://drive.google.com/file/d/1WN-fviW3BUMc5LHqz39bH2Z8YVf9o0AG/view?usp=drive_link)]
 
 Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
 
 Ladson-Billings, G. (2011). “Yes, But How Do We Do It?”: Practicing Culturally Relevant Pedagogy. _In White Teachers / Diverse Classrooms (2nd ed.)_. Routledge. [[pdf](https://drive.google.com/file/d/1Lrl-N94ytbukzsrUpeJN3yuJTuOI9bSg/view?usp=drive_link)]
+
+Low, B., & Proietti, M. (2021). Dissensus, Street Art and School Change. _International Journal of Art & Design Education_, _40_(1), 7–19. [[AU Libraries Online](https://onlinelibrary-wiley-com.adelphi.idm.oclc.org/doi/full/10.1111/jade.12319)] [[pdf](https://drive.google.com/file/d/1_fl8Q3q0ZLvOxZh_qKdVo9VZFP_JP0U1/view?usp=drive_link)]
 
 Martinez, S. L., & Stager, G. (2013).Chapter 1: An Insanely Brief and Incomplete History of Making. In _Invent to learn: Making, tinkering, and engineering in the classroom_. Constructing Modern Knowledge Press. [[pdf](https://drive.google.com/file/d/1eruhyafUFMLE6FSbMVg_PiEbP6O6q5IM/view?usp=drive_link)] [[epub](https://drive.google.com/file/d/1a5LxUAptVrHX7f8zwU92nxBl6qb8SUej/view?usp=drive_link)]
 
@@ -481,8 +485,9 @@ artist's journal.
   - Runco, M. A., & Jaeger, G. J. (2012). The Standard Definition of Creativity. _Creativity Research Journal_, _24_(1), 92–96. [[pdf](https://drive.google.com/file/d/1Lyi8RErUoKnhA6ISvoIT3LDRNNSfxEqD/view?usp=drive_link)]
 - Join Discord (see email for invite)
 - Install:
-  - [Discord](https://discordapp.com/) on your phone and computer
-  - [Inkscape](https://inkscape.org/)
+  - [Discord](https://discordapp.com/) <small>_on your phone and computer_</small>
+  - [Inkscape](https://inkscape.org/) <small>_vector graphics_</small>
+  - [GIMP](https://www.gimp.org/) or [Krita](https://krita.org/en/) <small>_photos & raster graphics_</small>
 
 **Resources:**
 
@@ -559,8 +564,9 @@ artist's journal.
 {% capture md %}
 **Due:**
 
-- Readings TBD
-
+- **Readings**
+- Cartiere, C., & Zebracki, M. (Eds.). (2015). Introduction. In _The Everyday Practice of Public Art: Art, Space, and Social Inclusion_. Routledge. [[pdf](httpshttps://drive.google.com/file/d/1dpRKiztomJbAf3C3gOSMFsg47y1mGyPP/view?usp=drive_link)]
+- Low, B., & Proietti, M. (2021). Dissensus, Street Art and School Change. _International Journal of Art & Design Education_, _40_(1), 7–19. [[AU Libraries Online](https://onlinelibrary-wiley-com.adelphi.idm.oclc.org/doi/full/10.1111/jade.12319)] [[pdf](https://drive.google.com/file/d/1_fl8Q3q0ZLvOxZh_qKdVo9VZFP_JP0U1/view?usp=drive_link)]
 {% endcapture %}
 
 {{ md | markdownify }}
@@ -683,8 +689,10 @@ principles that integrate art, play, and creativity.
 - [NSTA Science Standards](https://www.nsta.org/science-standards)
 - **Lesson Plans**
 - [NYSED Engage NY](https://www.nysed.gov/curriculum-instruction/engageny)
-- [more coming]
-
+- [CDC nerd academy](https://www.cdc.gov/scienceambassador/nerdacademy/)
+- [NIH](https://www.nibib.nih.gov/research-programs/BEAMS-challenge)
+- [NASA](https://science.nasa.gov/learn/lessons-and-activities/#hds-sidebar-nav-31)
+- [NOAA](https://www.noaa.gov/education)
 {% endcapture %}
 {{ md | markdownify }}
 </div></div>
