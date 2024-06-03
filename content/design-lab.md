@@ -232,13 +232,17 @@ To get full participation points:
 6. **Be kind and respectful.** We love a spirited debate, strong opinions, and
    learning new things from each other. But those practices only work if we
    offer our respect to the other participants and assume they are operating
-   in good faith, too.Reading responsesReading reReading responsessponses
+   in good faith, too.
 7. **Communicate.** Read your emails. Post on Discord. Talk to your partners.
    Let the instructors know if there's a problem or question. Tell us how to
    make things better.
 
+On the last day of class, please share with the instructors (via Direct Message
+on Discord) a photo of a 1-page reflection of your participation from your
+journal.
+
 ### Artist's Journal
-Everyone will keep an Reading responsesartist's journal during this course
+Everyone will keep an artist's journal during this course
 (and after, we hope). The Journal is a place for you to record
 thoughts, plan designs, sketch ideas, and reflect. There will
 be some "assigned" journal entries (see below), but mostly
@@ -246,7 +250,7 @@ it is meant for your own benefit. Journaling might not be for you...
 but for the purpose of this course, try it out with an open mind.
 
 To "grade" your journal, you will upload photos of key pages to 
-your online portfolio and write a brief (~500 word) reflection 
+your online portfolio and post a brief (300-500 word) reflection 
 about how you used it, and what you thought of the journal.
 
 ### Museum Visits
@@ -277,13 +281,14 @@ on Discord as well as invitations to join us for informal, optional fieldtrips
 during the course. You can also check out the [NYC Arts Calendar](https://www.nyc-arts.org/)
 for further ideas and events.
 
+
 ### Maker Lesson
 You will read the New York State and professional standards
 for your content area (Math, Biology, Physics, Comp Sci, etc.)
 as well as the Art Standards. You will create your own lesson
 plan that addresses one of the standards from your content
 area and one of the art standards. Your lesson must incorporate
-key ideas of maker education and steam learning. The instructors
+key ideas of maker education and STEAM learning. The instructors
 will provide links to sample lesson plans as well as example templates
 for creating a lesson plan.
 
@@ -306,7 +311,7 @@ The lesson will be evaluated on the following criteria:
 
 - creativity of the lesson
 - alignment with standards
-- integration with maker and steam learning
+- integration with maker and STEAM learning
 - viability of the lesson in a classroom setting
 
 _Optionally add your lesson plan to your portfolio._
@@ -331,7 +336,7 @@ one sketch of each work, and notes on the context,
 your experience, and thoughts on the work. Further
 document your encounter with photos and videos. Consider
 things like the medium of the work, the scale (aka size),
-the materials, when it was created, how it was funded ( or not).
+the materials, when it was created, how it was funded (or not).
 
 Upload your documentation to your online portfolio.
 
@@ -361,6 +366,13 @@ a buckle, or something else.
 We will begin working on the vests during our first Saturday session,
 but you will need to spend time outside of class to complete the project.
 
+To submit your vest, create a page to showcase it on your portfolio.
+Add photos of the vest (in stages as you construct it), supplement
+it with videos, sketches, digital diagrams, 3D models, etc. Upload
+these to your portfolio, along with a reflection of your process,
+what you learned, what you think of your final piece, and how
+this project fits into your understanding of maker education.
+
 Your vest will be evaluated on:
 
 - the quality of your craft
@@ -389,7 +401,7 @@ track of active scenes, inventory, score, etc. You will not just
 create a game, but a game-for-learning (aka _serious game_)
 that incorporates elements of your content area.
 
-To complete this assignment, you will submit your public game
+To complete this assignment, you publish your game
 on Scratch. Each team member will also submit a reflection
 on their portfolio site that describes the content areas
 addressed, the theory behind the game (why is it fun? who is it for?
