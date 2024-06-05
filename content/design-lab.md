@@ -577,7 +577,7 @@ artist's journal.
 **Due:**
 
 - **Readings**
-- Cartiere, C., & Zebracki, M. (Eds.). (2015). Introduction. In _The Everyday Practice of Public Art: Art, Space, and Social Inclusion_. Routledge. [[pdf](httpshttps://drive.google.com/file/d/1dpRKiztomJbAf3C3gOSMFsg47y1mGyPP/view?usp=drive_link)]
+- Cartiere, C., & Zebracki, M. (Eds.). (2015). Introduction. In _The Everyday Practice of Public Art: Art, Space, and Social Inclusion_. Routledge. [[pdf](https://drive.google.com/file/d/1dpRKiztomJbAf3C3gOSMFsg47y1mGyPP/view?usp=drive_link)]
 - Low, B., & Proietti, M. (2021). Dissensus, Street Art and School Change. _International Journal of Art & Design Education_, _40_(1), 7–19. [[AU Libraries Online](https://onlinelibrary-wiley-com.adelphi.idm.oclc.org/doi/full/10.1111/jade.12319)] [[pdf](https://drive.google.com/file/d/1_fl8Q3q0ZLvOxZh_qKdVo9VZFP_JP0U1/view?usp=drive_link)]
 {% endcapture %}
 
