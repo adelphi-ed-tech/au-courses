@@ -29,7 +29,7 @@ sessions:
    - number: 6
      title: "Scratch Story Games"
      date: "Sat, Jun 15"
-     readings: "TBD"
+     readings: "Gee; Game Play"
    - number: 7
      title: "Aesthetics & Politics"
      date: "Mon, Jun 17"
@@ -162,6 +162,8 @@ Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Wome
 
 Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
 
+Gee, J. P. (2003). What video games have to teach us about learning and literacy. _Computers in Entertainment_, _1_(1), 20. [[adelphi libraries](https://dl-acm-org.adelphi.idm.oclc.org/doi/abs/10.1145/950566.950595)]
+]
 Ladson-Billings, G. (2011). “Yes, But How Do We Do It?”: Practicing Culturally Relevant Pedagogy. _In White Teachers / Diverse Classrooms (2nd ed.)_. Routledge. [[pdf](https://drive.google.com/file/d/1Lrl-N94ytbukzsrUpeJN3yuJTuOI9bSg/view?usp=drive_link)]
 
 Low, B., & Proietti, M. (2021). Dissensus, Street Art and School Change. _International Journal of Art & Design Education_, _40_(1), 7–19. [[AU Libraries Online](https://onlinelibrary-wiley-com.adelphi.idm.oclc.org/doi/full/10.1111/jade.12319)] [[pdf](https://drive.google.com/file/d/1_fl8Q3q0ZLvOxZh_qKdVo9VZFP_JP0U1/view?usp=drive_link)]
@@ -577,7 +579,7 @@ artist's journal.
 **Due:**
 
 - **Readings**
-- Cartiere, C., & Zebracki, M. (Eds.). (2015). Introduction. In _The Everyday Practice of Public Art: Art, Space, and Social Inclusion_. Routledge. [[pdf](httpshttps://drive.google.com/file/d/1dpRKiztomJbAf3C3gOSMFsg47y1mGyPP/view?usp=drive_link)]
+- Cartiere, C., & Zebracki, M. (Eds.). (2015). Introduction. In _The Everyday Practice of Public Art: Art, Space, and Social Inclusion_. Routledge. [[pdf](https://drive.google.com/file/d/1dpRKiztomJbAf3C3gOSMFsg47y1mGyPP/view?usp=drive_link)]
 - Low, B., & Proietti, M. (2021). Dissensus, Street Art and School Change. _International Journal of Art & Design Education_, _40_(1), 7–19. [[AU Libraries Online](https://onlinelibrary-wiley-com.adelphi.idm.oclc.org/doi/full/10.1111/jade.12319)] [[pdf](https://drive.google.com/file/d/1_fl8Q3q0ZLvOxZh_qKdVo9VZFP_JP0U1/view?usp=drive_link)]
 {% endcapture %}
 
@@ -807,16 +809,20 @@ with your partner.
 {% capture md %}
 **Due:**
 
-- **Read:** (TBD)
-- **Play:** spend at least one hour playing a "story games"\
+- **Read:** 
+- Gee, J. P. (2003). What video games have to teach us about learning and literacy. 
+  _Computers in Entertainment_, _1_(1), 20. 
+  [[adelphi libraries](https://dl-acm-org.adelphi.idm.oclc.org/doi/abs/10.1145/950566.950595)]
+- **Play:** Spend at least one hour playing a "story game."\
   Some will be text only or mostly text, some will be more visual (like comics/manga),\
   others will play more like video games.\
   Some of these games are free, some are cheap, some are more expensive.\
-  Some work on mobile, others require  Windows or Mac. \
+  Some work on mobile, others require Windows or Mac (or a game console). \
   Choose one that looks engaging to you and meets your budget, platform, and time requirements.\
+  Feel free to play more than one game!\
   Here are some places to look:
   - [Zork](https://classicreload.com/zork-i.html) <small>_early text adventure game_</small>
-  - [Doki Doki Literature Club](https://teamsalvato.itch.io/ddlc) <small>_anime style game_</small>
+  - [Doki Doki Literature Club](https://teamsalvato.itch.io/ddlc) <small>_famous anime style game_</small>
   - [Ace Attorney](https://www.ace-attorney.com/) <small>_popular visual novel series_</small>
   - itch.io [[visual novel](https://itch.io/games/genre-visual-novel)]
     [[interactive fiction](https://itch.io/games/tag-interactive-fiction)] <small>_browser, platform. free/paid_</small>
