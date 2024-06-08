@@ -163,7 +163,7 @@ Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Wome
 Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
 
 Gee, J. P. (2003). What video games have to teach us about learning and literacy. _Computers in Entertainment_, _1_(1), 20. [[adelphi libraries](https://dl-acm-org.adelphi.idm.oclc.org/doi/abs/10.1145/950566.950595)]
-]
+
 Ladson-Billings, G. (2011). “Yes, But How Do We Do It?”: Practicing Culturally Relevant Pedagogy. _In White Teachers / Diverse Classrooms (2nd ed.)_. Routledge. [[pdf](https://drive.google.com/file/d/1Lrl-N94ytbukzsrUpeJN3yuJTuOI9bSg/view?usp=drive_link)]
 
 Low, B., & Proietti, M. (2021). Dissensus, Street Art and School Change. _International Journal of Art & Design Education_, _40_(1), 7–19. [[AU Libraries Online](https://onlinelibrary-wiley-com.adelphi.idm.oclc.org/doi/full/10.1111/jade.12319)] [[pdf](https://drive.google.com/file/d/1_fl8Q3q0ZLvOxZh_qKdVo9VZFP_JP0U1/view?usp=drive_link)]
@@ -643,6 +643,12 @@ projects too!
    - O’Brien, K. C. (2021). Fibre Artists and Outsider Algorithms: Rethinking Ethnomathematics Through Contemporary Craft. _For the Learning of Mathematics_, _41_(1), 8–13. [[pdf](https://drive.google.com/file/d/1SCbf62q4r79iYqMdNb9vw7RHSTn2LhU_/view?usp=drive_link)]
 - Post (_before class_) photos of vests, embroidered logos, 
   employee name badges, wearable fashion, etc. to Discord thread
+
+- **Resources**
+  - [Cricut Design Space](https://design.cricut.com/) <small>_for stencils_</small>
+  - [Janome MB-4S](https://www.janome.com/machines/embroidery/mb-4s/) <small>_our embroidery machine_</small>
+  - [Embird](https://www.embird.net/) <small>_for embroidery_</small>
+
 
 {% endcapture %}
 {{ md | markdownify }}
