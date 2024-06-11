@@ -839,6 +839,7 @@ with your partner.
 **Resources:**
 
 - **Image and Audio Resources**
+- [Audacity](https://www.audacityteam.org/) <small>install audacity for sound editing</small>
 - [Free CC Sound Effects](https://freesound.org/)
 - [Free CC Music](https://freemusicarchive.org/)
 - [Free CC Images](https://unsplash.com/)
