@@ -767,8 +767,11 @@ design our own 3D models using Tinkercad.
 **Resources:**
 
 - [Tinkercad Learning](https://www.tinkercad.com/learn)
+- [Thingiverse](https://www.thingiverse.com/) <small>_open/remixable 3D models_</small>
+- [Bambu Studio](https://bambulab.com/en/download/studio)
+  <small>software to prepare prints</small>
 - [Bambu X1 3D Printer Manual](https://wiki.bambulab.com/en/x1/manual)
-  <small>these are our printers</small>
+  <small>printer manual</small>
 
 {% endcapture %}
 {{ md | markdownify }}
