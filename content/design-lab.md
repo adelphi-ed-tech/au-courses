@@ -811,6 +811,14 @@ with your partner.
 - Write a compelling story
 - Design original art for a game
 
+| Morning    |                         | Afternoon  |                           |
+|------------|-------------------------|------------|---------------------------|
+| 10-10:30   | Design Thinking         | 12:30-1:30 | Lunch                     |
+| 10:30-11   | Story Pitches and Teams | 1:30-3     | Studio                    |
+| 11-11:30   | Scratch Basics          | 3-4        | Play&nbsp;Testing         |
+| 11:30-12:30| Game Design             |            |    
+
+
 {% endcapture %}
 {{ md | markdownify }}
 </div>
