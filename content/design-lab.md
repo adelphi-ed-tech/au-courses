@@ -163,7 +163,7 @@ Cipolla, C. (2019). Build It Better: Tinkering in Feminist Maker Pedagogy. _Wome
 Forensic Architecture, & Poitras, L. (Directors). (2019). [Triple Chaser](https://forensic-architecture.org/investigation/triple-chaser/) [Documentary, Short]. Praxis Films.
 
 Gee, J. P. (2003). What video games have to teach us about learning and literacy. _Computers in Entertainment_, _1_(1), 20. [[adelphi libraries](https://dl-acm-org.adelphi.idm.oclc.org/doi/abs/10.1145/950566.950595)]
-]
+
 Ladson-Billings, G. (2011). “Yes, But How Do We Do It?”: Practicing Culturally Relevant Pedagogy. _In White Teachers / Diverse Classrooms (2nd ed.)_. Routledge. [[pdf](https://drive.google.com/file/d/1Lrl-N94ytbukzsrUpeJN3yuJTuOI9bSg/view?usp=drive_link)]
 
 Low, B., & Proietti, M. (2021). Dissensus, Street Art and School Change. _International Journal of Art & Design Education_, _40_(1), 7–19. [[AU Libraries Online](https://onlinelibrary-wiley-com.adelphi.idm.oclc.org/doi/full/10.1111/jade.12319)] [[pdf](https://drive.google.com/file/d/1_fl8Q3q0ZLvOxZh_qKdVo9VZFP_JP0U1/view?usp=drive_link)]
@@ -644,6 +644,12 @@ projects too!
 - Post (_before class_) photos of vests, embroidered logos, 
   employee name badges, wearable fashion, etc. to Discord thread
 
+- **Resources**
+  - [Cricut Design Space](https://design.cricut.com/) <small>_for stencils_</small>
+  - [Janome MB-4S](https://www.janome.com/machines/embroidery/mb-4s/) <small>_our embroidery machine_</small>
+  - [Embird](https://www.embird.net/) <small>_for embroidery_</small>
+
+
 {% endcapture %}
 {{ md | markdownify }}
 
@@ -761,8 +767,11 @@ design our own 3D models using Tinkercad.
 **Resources:**
 
 - [Tinkercad Learning](https://www.tinkercad.com/learn)
+- [Thingiverse](https://www.thingiverse.com/) <small>_open/remixable 3D models_</small>
+- [Bambu Studio](https://bambulab.com/en/download/studio)
+  <small>software to prepare prints</small>
 - [Bambu X1 3D Printer Manual](https://wiki.bambulab.com/en/x1/manual)
-  <small>these are our printers</small>
+  <small>printer manual</small>
 
 {% endcapture %}
 {{ md | markdownify }}
@@ -833,6 +842,7 @@ with your partner.
 **Resources:**
 
 - **Image and Audio Resources**
+- [Audacity](https://www.audacityteam.org/) <small>install audacity for sound editing</small>
 - [Free CC Sound Effects](https://freesound.org/)
 - [Free CC Music](https://freemusicarchive.org/)
 - [Free CC Images](https://unsplash.com/)
