@@ -401,7 +401,7 @@ Your will build your game on top of our Scratch game platform
 which will make provide basic mechanics such as keeping
 track of active scenes, inventory, score, etc. You will not just
 create a game, but a game-for-learning (aka _serious game_)
-that incorporates elements of your content area.
+that incorporates elements of our STEAM content areas.
 
 To complete this assignment, you publish your game
 on Scratch. Each team member will also submit a reflection
