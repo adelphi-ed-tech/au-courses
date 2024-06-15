@@ -91,7 +91,9 @@ body {
 {% include top-nav.html %}
 <main class="Design container-fluid mx-auto mt-2">
     {{content}}
+    {% if page.syllabus_footer %}
     <hr>
     <div class="container mx-auto mt-4 pt-4">{% include syllabus-legal.html %}</div>
+    {% endif %}
 </main>
 {% include footer.html %}

@@ -5,6 +5,7 @@ author:
     - "Cindy Maguire"
     - "Matthew X. Curinga"
     - "Eric Miles"
+syllabus_footer: true
 sessions:
    - number: 1
      title: "STEAM & Maker Ed"
@@ -36,7 +37,7 @@ sessions:
      readings: "Greene; Forensic Architecture"
    - number: 8
      title: "Final Studio"
-     date: "Wed, Jun 19"
+     date: "Thurs, Jun 20"
      readings: "-"
 
 ---
@@ -849,6 +850,8 @@ with your partner.
 
 **Resources:**
 
+- [Scratch Story Game Docs](story-game-docs.html)
+
 - **Image and Audio Resources**
 - [Audacity](https://www.audacityteam.org/) <small>install audacity for sound editing</small>
 - [Free CC Sound Effects](https://freesound.org/)
@@ -898,8 +901,9 @@ the interaction of art, politics, and aesthetics.
 
 
 <h2>Session 8: Final Studio</h2>
-<strong>Wed, Jun 19</strong>
+<strong>Thursday, Jun 20</strong>
 <div class="text-container fw-bold bg-dark text-light border rounded p-2 mb-4">
+<p class="text-danger">Date change</p>
 It's our last class. We will have an open studio
 working session where you can finish projects,
 test your prototypes with others, get feedback

@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html class="h-100" lang="en">
+
+<head>
+  <!--
+    /\      | |    | |     | |   (_)
+   /  \   __| | ___| |_ __ | |__  _
+  / /\ \ / _` |/ _ \ | '_ \| '_ \| |
+ / ____ \ (_| |  __/ | |_) | | | | |
+/_/    \_\__,_|\___|_| .__/|_| |_|_|
+                     | |
+                     |_|
+ ______    _   _______        _
+|  ____|  | | |__   __|      | |
+| |__   __| |    | | ___  ___| |__
+|  __| / _` |    | |/ _ \/ __| '_ \
+| |___| (_| |    | |  __/ (__| | | |
+|______\__,_|    |_|\___|\___|_| |_|
+
+-->
+
+  <title>MIXI Story Game System</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+  <link rel="shortcut icon" type="image/ico" href="/au-courses/img/favicon.ico">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link href="/au-courses/css/main.css" rel="stylesheet">
+  
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+<style>
+:root {
+    --blue-white: linear-gradient(158deg, rgba(99, 62, 128, .5) 18.75%, 
+                  rgb(0, 111, 203) 56.25%, 
+                  rgba(245, 193, 241, 0.57) 79.6875%);
+    --blue-white2: linear-gradient(158deg, rgba(159, 209, 214, 0.56) 18.75%, 
+                  rgb(0, 111, 203) 56.25%, 
+                  rgba(245, 193, 241, 0.57) 79.6875%)
+                }
+
+body {
+    background-image: var(--blue-white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.hex1 {
+  position: fixed;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("img/grid.png");
+  background-repeat: repeat;
+}
+
+.hex2 {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("img/grid.png");
+  background-repeat: repeat;
+  background-position-x: -10px;
+  background-position-y: 17px;
+}
+
+
+.nav-link {
+    font-weight: bold;
+
+}
+.StoryGame {
+    background-image: url("img/doki.png");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+    padding: 1em;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.Design {
+    background-color: rgba(255, 255, 255, 0.75);
+    position: relative;
+    z-index: 10;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 1600px;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.Design h1 {
+    font-size: 84px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.wide-container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.text-container {
+    max-width: 720px;
+}
+
+</style>
+
+<div class="hex1"></div>
+<div class="hex2"></div>
+<div class="d-flex flex-row-reverse" style="z-index: 10">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <button class="navbar-toggler bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" href="index.html">courses</a>
+                    <a class="nav-link" href="plan-of-study.html">plan of study</a>
+                    <a class="nav-link" href="thesis.html">thesis</a>
+                    <a class="nav-link" href="https://online.adelphi.edu/graduate-degrees/ma-education-technology/">more info</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+<main class="Design container-fluid mx-auto mt-2">
+    <style>
+.Design {
+    max-width: 1024px;
+}
+</style>
+
+<h1 id="mixi-story-game-system">MIXI Story Game System</h1>
+
+<p class="lead">
+The MIXI Story Game System is a Scratch platform/starter template to make
+it easier to create interactive fiction, visual novels, and other story games.
+</p>
+
+<p><img src="img/stories/controller.png" class="img-fluid" alt="scratch blocks from the story controller" /></p>
+
+<h2 id="key-concepts">Key Concepts</h2>
+<p>The game is organized into <strong>scenes</strong> represented by Scratch sprites.
+<strong>Pages</strong> written as SVG in Scratch costumes, and <strong>events</strong> which
+communicate changes between scenes.</p>
+
+<p>A central <strong>controller</strong> sprite manages the game state such as
+the history of visited scenes, and initial starting state.
+It can be modified to include features such as score, inventory,
+health/life, or other game state.</p>
+
+<p>A number of “standard” sprites are part of the platform, which
+make include a “next page” button, and four “choice” buttons [A, B, C, D].</p>
+
+<h2 id="variables">Variables</h2>
+<p>Global variables, shared across sprites, keep track of the game state and
+allow communication (working with events) between sprites. The following
+variables are part of the core system:</p>
+
+<div class="row mb-3">
+<div class="col-md-3">
+    <img src="img/stories/variables.png" alt="variables" class="img-fluid" />
+</div>
+<div class="col-md-9">
+
+
+
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">active_scene</code> - the name of the current scene</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_A_scene</code> - switch to this scene if the choice A button is clicked</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_B_scene</code> - switch to this scene if the choice B button is clicked</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_C_scene</code> - switch to this scene if the choice C button is clicked</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_D_scene</code> - switch to this scene if the choice D button is clicked</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_X</code> - the <code class="language-plaintext highlighter-rouge">x</code> coordinate to position the next button displayed</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_Y</code> - the <code class="language-plaintext highlighter-rouge">y</code> coordinate to position the next button displayed</li>
+  <li><code class="language-plaintext highlighter-rouge">help_topic</code> - the name of the help page to display <em>if</em> the help scene is shown</li>
+  <li><code class="language-plaintext highlighter-rouge">history</code> - a list of visited scenes, useful for back buttons, breadcrumbs, 
+ and to see if a scene has been visited</li>
+</ul>
+
+
+</div>
+</div>
+
+<h2 id="game-sprites">Game Sprites</h2>
+<p>Game sprites are spites that are not scenes, typically they are buttons or
+other interactive elements that can be re-used across scenes. These
+helper sprites hide themselves on scene changes and wait for “show”
+events to make themselves visible again.</p>
+
+<div class="row mb-3">
+<div class="col-md-3">
+    <img src="img/stories/game-sprites.png" alt="game sprites" class="img-fluid" />
+</div>
+<div class="col-md-9">
+
+
+
+
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">controller</code> - manages the game state and events</li>
+  <li><code class="language-plaintext highlighter-rouge">grid-overlay</code> - a sprite to help position elements on the stage (not used in-game)</li>
+  <li><code class="language-plaintext highlighter-rouge">next_page</code> - a button to move to the next page within a scene</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_A</code> - the button to select choice A</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_B</code> - the button to select choice B</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_C</code> - the button to select choice C</li>
+  <li><code class="language-plaintext highlighter-rouge">choice_D</code> - the button to select choice D</li>
+  <li><code class="language-plaintext highlighter-rouge">help</code> - a special scene that can contain help pages (help is not recorded in <code class="language-plaintext highlighter-rouge">history</code>)</li>
+  <li><code class="language-plaintext highlighter-rouge">close_help</code> - a button to close the help page and go to the previous scene</li>
+</ul>
+
+<p>** Note: <em>“Buttons” are named with underscores to distinguish them from scenes.</em></p>
+
+
+
+</div>
+</div>
+
+<h2 id="events">Events</h2>
+<p>Game sprites are spites that are not scenes, typically they are buttons or
+other interactive elements that can be re-used across scenes.</p>
+
+<div class="row mb-3">
+<div class="col-md-3">
+    <img src="img/stories/events.png" alt="game sprites" class="img-fluid" />
+</div>
+<div class="col-md-9">
+
+
+
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">go_next</code> - triggers/listens for the next page event;
+ broadcast by the click-event on the <code class="language-plaintext highlighter-rouge">next_page</code> sprite</li>
+  <li><code class="language-plaintext highlighter-rouge">show_next_page</code> - mark the <code class="language-plaintext highlighter-rouge">next_page</code> sprite as visible</li>
+  <li><code class="language-plaintext highlighter-rouge">hide_next_page</code> - mark the <code class="language-plaintext highlighter-rouge">next_page</code> sprite as hidden</li>
+  <li><code class="language-plaintext highlighter-rouge">show_choice_A</code> - mark the <code class="language-plaintext highlighter-rouge">choice_A</code> sprite as visible</li>
+  <li><code class="language-plaintext highlighter-rouge">show_choice_B</code> - mark the <code class="language-plaintext highlighter-rouge">choice_B</code> sprite as visible</li>
+  <li><code class="language-plaintext highlighter-rouge">show_choice_C</code> - mark the <code class="language-plaintext highlighter-rouge">choice_C</code> sprite as visible</li>
+  <li><code class="language-plaintext highlighter-rouge">show_choice_D</code> - mark the <code class="language-plaintext highlighter-rouge">choice_D</code> sprite as visible</li>
+</ul>
+
+<p>** Note: <em>“Buttons” are named with underscores to distinguish them from scenes.</em></p>
+
+
+
+</div>
+</div>
+
+<h2 id="functions">Function(s)</h2>
+<p>Currently, there is only one helper function in the system.</p>
+
+<p><code class="language-plaintext highlighter-rouge">show_next_arrow</code><br />
+This function is used to show a next scene button (<code class="language-plaintext highlighter-rouge">choice_A</code>, <code class="language-plaintext highlighter-rouge">choice_B</code>, <code class="language-plaintext highlighter-rouge">choice_C</code>, <code class="language-plaintext highlighter-rouge">choice_D</code>).
+When it is called, it sets global variables to position the button, and then
+uses a function parameter to determine <em>which</em> button should reveal itself.</p>
+
+<p>Parameters:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">x</code> - the <code class="language-plaintext highlighter-rouge">x</code> coordinate to position the next button displayed</li>
+  <li><code class="language-plaintext highlighter-rouge">y</code> - the <code class="language-plaintext highlighter-rouge">y</code> coordinate to position the next button displayed</li>
+  <li><code class="language-plaintext highlighter-rouge">evt</code> - the name of the button event to broadcast, choices are 
+ [<code class="language-plaintext highlighter-rouge">show_choice_A</code>, <code class="language-plaintext highlighter-rouge">show_choice_B</code>, <code class="language-plaintext highlighter-rouge">show_choice_C</code>, <code class="language-plaintext highlighter-rouge">show_choice_D</code>]</li>
+</ul>
+
+<p>Functions in Scratch can only belong to a single sprite, so this function
+must be duplicated with a sprite, or it can be copied from the
+controller using Scratch’s “backpack” feature. The code and usage for
+this function are shown below in the “changing scenes” recipe.</p>
+
+<h2 id="recipes">Recipes</h2>
+<h3 id="creating-a-new-scene">Creating a new scene</h3>
+
+<p>① 	② 	③ 	④ 	⑤ 	⑥ 	⑦ 	⑧ 	⑨ 	⑩</p>
+
+<p>Scenes can be created from scratch by creating a new sprite or (more easily)
+by duplicating an existing scene sprite. Things to keep in mind when creating
+a new scene</p>
+
+<p><strong>Name the sprite</strong> with a short, descriptive name for the scene. The example
+story users all lowercase names with hyphens to separate words. “scene-1”
+is not a good name – the name should describe the scene. “forest-clearing”
+is a better name, for example.</p>
+
+<p><strong>Set <code class="language-plaintext highlighter-rouge">x</code> and <code class="language-plaintext highlighter-rouge">y</code> to zero</strong>. When duplicating sprites, they may be offset from
+the center. Make sure that the sprite is at the center of the stage. This
+will make it easer to line up your text and other elements. Your probably want
+to hide it, too.</p>
+
+<figure>
+  <img src="img/stories/sleep-sprite.png" class="img-fluid" alt="sleep sprite settings" />
+  <figcaption class="text-italic">
+  <b>①</b> this scene is named `sleep`;<br />
+  <b>②</b> `x` and `y` are set to zero;<br />
+  <b>③</b> the sprite is hidden by default.
+  </figcaption>
+</figure>
+
+<p><strong>Hide the scene on start.</strong> Add an “on start” block that hides the scence.
+The controller will signal when the first scene should be shown.</p>
+
+<p><strong>Add a <code class="language-plaintext highlighter-rouge">scene_change</code> listener</strong> that listens for the <code class="language-plaintext highlighter-rouge">scene_change</code> message.
+<code class="language-plaintext highlighter-rouge">scence_change</code> is the core event that lets the system know when to switch
+scenes. When receiving this event, the sprite shows itself if its name
+matches the <code class="language-plaintext highlighter-rouge">active_scene</code> global variable, otherwise it hides itself
+because it’s inactive. This is the place to add transition effects,
+background music, sound effects, and other elements that signal a scene
+change.</p>
+
+<p><strong>Add a <code class="language-plaintext highlighter-rouge">go_next</code> listener</strong> that listens for the <code class="language-plaintext highlighter-rouge">go_next</code> message.
+Like the <code class="language-plaintext highlighter-rouge">scene_change</code> event, this block should check to see if 
+it’s the active scene, and then advance to the next page. This is only
+necessary for scenes that have multiple pages of text/story.</p>
+
+<h3 id="changing-scenes">Changing scenes</h3>
+
+<figure>
+  <img src="img/stories/creating-choices.png" class="img-fluid" alt="sleep sprite settings" />
+  <figcaption class="text-italic">
+  <b>①</b> set variables to tell which scenes are activated by the choices;<br />
+  <b>②</b> call the `show_next_arrow` to position and activate the buttons;<br />
+  <b>③</b> the function definition for `show_next_arrow` (you don't have to change this).
+  </figcaption>
+</figure>
+
+<p>The code snippet above shows how to add to choices to a scene (A and B). The
+four statements labeled ① and ② should happen in the <code class="language-plaintext highlighter-rouge">scence_change</code> event
+listener if there is only one page or the choices are active throughout
+the scene. If the choices only appear on a <em>specific</em> page of the scene,
+those statements must get executed in the <code class="language-plaintext highlighter-rouge">go_next</code> event listener.</p>
+
+<h3 id="iterating-through-pages">Iterating through pages</h3>
+<p>It is a common pattern for a scene to have several story pages which
+culminate in a page with choices. This is coded in the <code class="language-plaintext highlighter-rouge">go_next</code> event
+listener. This recipe declares a <strong>local variable</strong> (a variable
+only visible to the sprite) called <code class="language-plaintext highlighter-rouge">page_num</code> which keeps track
+of the current page. The <code class="language-plaintext highlighter-rouge">next_page</code> arrow is displayed on each
+page except for the last page (determined by an <code class="language-plaintext highlighter-rouge">if</code> block
+which checks <code class="language-plaintext highlighter-rouge">page_num</code>).</p>
+
+<figure>
+  <img src="img/stories/page-loop.png" class="img-fluid" alt="looping through pages" />
+  <figcaption class="text-italic">
+  <b>①</b> reset `page_num` to 1 when this scene loads;<br />
+  <b>②</b> show `next_page` button at the bottom of the first page;<br />
+  <b>③</b> when `go_next` is triggered, advance to to the next costume (i.e. page)
+  and increment (add one to) `page_num`;<br />
+  <b>④</b> if `page_num` is equal to the last page (4 in this case), then
+  show the choices to choose the next scene;<br />
+  <b>⑤</b> if `page_num` is not the last page, then show the `next_page` button.
+  </figcaption>
+</figure>
+
+    
+</main>
+<footer class="footer mt-auto py-3 bg-dark d-print-none d-fixed" style="z-index: 100">
+    <div class="container">
+        <div class="row d-flex align-items-end">
+            <div class="col mb-2">
+                <div class="d-flex align-items-end">
+                    <img src="/au-courses/img/au-white.png" alt="adelphi university" class="d-block" style="font-size: 32px">
+                    <a class="HomeLink d-block px-2 text-light link-offset-2 link-offset-3-hover link-underline-light
+                                        link-underline-opacity-0 link-underline-opacity-100-hover" href="/au-courses/index.html">
+                        Ed Tech Courses
+                    </a>
+                </div>
+
+            </div>
+            <div class="col mb-2">
+                <a href="https://mixi.nyc"><img alt="mixi institute for stem and the imagination" src="/au-courses/img/mixi.png"
+                        style="height: 32px;" /></a>
+            </div>
+            <div class="col mb-2">
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/au-courses/img/cc-by-sa-hz.png"
+                        alt="creative commons share alike attribution license"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+<script src="/au-courses/js/boot_styles.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', addBootstrapStyles);
+</script>
+
+
+</body>
+</html>
