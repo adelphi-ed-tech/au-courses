@@ -30,7 +30,10 @@ body, .font-sans-serif {
     font-family: 'Graphik', sans-serif; 
 }
 
-/* Repeat the pattern for other weights and styles */
+blockquote {
+    max-width: 576px;
+}
+
 .gold {
     background-color: #ffb337;
 }

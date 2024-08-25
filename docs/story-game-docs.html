@@ -38,21 +38,19 @@
 
 <style>
 :root {
-    --blue-white: linear-gradient(158deg, rgba(99, 62, 128, .5) 18.75%, 
+    --blue-purple: linear-gradient(158deg, rgba(99, 62, 128, .5) 18.75%, 
                   rgb(0, 111, 203) 56.25%, 
                   rgba(245, 193, 241, 0.57) 79.6875%);
-    --blue-white2: linear-gradient(158deg, rgba(159, 209, 214, 0.56) 18.75%, 
-                  rgb(0, 111, 203) 56.25%, 
-                  rgba(245, 193, 241, 0.57) 79.6875%)
-                }
+}
 
 body {
-    background-image: var(--blue-white);
+    background-image: var(--blue-purple);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 
 }
+
 
 .hex1 {
   position: fixed;
@@ -79,6 +77,7 @@ body {
 }
 
 
+
 .nav-link {
     font-weight: bold;
 
@@ -100,15 +99,24 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     max-width: 1600px;
-    padding: 20px;
+    padding: 0;
     border-radius: 16px;
 }
 
-.Design h1 {
-    font-size: 84px;
+.PageTitle {
+    font-size: 64px;
     font-weight: 900;
-    text-align: center;
+
 }
+
+img.header {
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+}
+
 
 .wide-container {
     max-width: 1600px;
@@ -142,7 +150,8 @@ body {
     </nav>
 </div>
 <main class="Design container-fluid mx-auto mt-2">
-    <style>
+    <img src="" alt="" class="header">
+    <div class="p-4"><style>
 .Design {
     max-width: 1024px;
 }
@@ -371,7 +380,7 @@ which checks <code class="language-plaintext highlighter-rouge">page_num</code>)
   <b>⑤</b> if `page_num` is not the last page, then show the `next_page` button.
   </figcaption>
 </figure>
-
+</div>
     
 </main>
 <footer class="footer mt-auto py-3 bg-dark d-print-none d-fixed" style="z-index: 100">

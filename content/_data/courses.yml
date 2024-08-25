@@ -37,7 +37,7 @@
 
 
 - course: CSC 602 Introduction to Computer Programming
-  url: intro-to-programming_python.html
+  url: intro-to-programming.html
   img:
     src: python-logo.png
     alt: Python intertwined snakes and text on white field

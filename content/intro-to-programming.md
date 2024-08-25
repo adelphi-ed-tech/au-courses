@@ -1,11 +1,12 @@
 ---
-layout: syllabus
-title: "Introduction to Programming"
-author: ""
+layout: design
+title: "Intro to Programming"
+author:
+    - "Matthew X. Curinga"
+syllabus_footer: true
+header-img: /img/programming-carto.png
+header-img-alt: "code and a map visual of a demographic map of new york city"
 ---
-
-% Introduction to Programming
-% Matthew X. Curinga
 
 <!--
 This syllabus was created for
@@ -22,122 +23,183 @@ version: 3.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-**Computer Science 0145-602, Fall 2019**
+<h1 class="PageTitle text-center">Introduction to Computer Programming:<br>Python Maps</h1>
 
-**Keywords:**  computer programming, CS1, javascript, computational thinking, critical computational literacy, problem solving
+<blockquote class="border-start border-4 border-start border-dark-subtle ps-2 fs-3 mb-4">
+We are looking at a society increasingly dependent on machines, yet
+decreasingly capable of making or even using them effectively.<br>
+― Douglas Rushkoff, <i>Program or Be Programmed: Ten Commands for a Digital Age</i>
+</blockquote>
+
+
+<div class="row">
+<div class="col-md-6">
+{% md %}
+**Computer Science 0145-602, Fall 2024**
+
+**Keywords:**  computer programming, CS1, python, computational thinking, critical computational literacy, maps, data visualization
 
 **Description:** This course introduces students to programming and
 some core concepts of computer science, using a modern, object oriented
 programming language. Students learn concepts of
 variables, functions, selection, repetition/loops, basic data structures
 (arrays, lists, hashtables), and basic object oriented programming.
+{% endmd %}
+</div>
+<div class="col-md-6">
+{% md %}
+**Class meetings:** Online, asynchronous (coordinated through the course website)
 
-> We are looking at a society increasingly dependent on machines, yet
-> decreasingly capable of making or even using them effectively.<br>
-> ― Douglas Rushkoff, _Program or Be Programmed: Ten Commands for a Digital Age_
+**Instructor**
 
-**Class meetings:**
+* [Matthew X. Curinga](http://matt.curinga.com), <mcuringa@adelphi.edu>
 
-- Section 001: Harvey 104, Thursday 4:30-6:20
-- Section 002: _fully online_
+**Dr. Curinga's Office Hours by appointment**
 
-**Instructor:** [Matthew X. Curinga](https://matt.curinga.com), <mcuringa@adelphi.edu>
+* Wednesday, 4:30-5:30PM
 
-**Office hours:**
+{% endmd %}
+</div>
+</div>
 
-- Monday 1-2pm, Alumnae Hall Room 226A (Garden City campus)
-- Wednesday 4:30-5:30pm, online
-- Thursday 2:30-4:30pm, Alumnae Hall Room 226A (Garden City campus)
-- _office hours by appointment_
+
+<div class="row">
+<div class="col-md-6">
+{% md %}
 
 Learning Goals
 ==============
 
-- understand the types of problems that can be solved using computational techniques
-- understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections)
-- learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion)
-- think algorithmically to design and test computer programs
-- master the basic syntax and idioms of the Javascript programming language
-- use technical documentation, APIs, and the internet to learn new technical concepts
-- develop step-by-step problem solving and debugging practices
-
-
-Required Books
-==============
-- [Think Javascript](https://mcuringa.github.io/think-js/) (free online)
+* understand the types of problems that can be solved using computational techniques
+* understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections)
+* learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion)
+* think algorithmically to design and test computer programs
+* master the basic syntax and idioms of the Python programming language
+* use technical documentation, APIs, and the internet to learn new technical concepts
+* develop step-by-step problem solving and debugging practices
 
 Required Software/Online Accounts
 =================================
+1. [Google Colab](https://colab.research.google.com/). This is a 
+   free, online programming environment which you will access through your Adelphi email.
+2. [Join our Slack](https://auedtech.slack.com/) with your mail.adelphi.edu email.
+   - install the desktop client so that you can easily share code and screenshots
+   - install the mobile client so that you can stay tuned for messages about the class
+   - join the `#code` channel for discussions related to this class
+   - DM the instructor at `@mxc` to get in touch
+3. [Chat GPT](https://chat.openai.com/). Since it's release, I have used ChatGPT as a 
+   resource for my own software development projects. I think it will be very beneficial 
+   for you, too. Create an account at <https://chat.openai.com/auth/login> to get started. 
+   You can use your AU email, but that's not required.
+4. **Screenshot software.** To get help, you might need to share a screenshot (more often you will 
+   copy-paste code or error messages). Don't take pictures of your laptop with you phone. 
+   Take a screenshot. If you need help setting this up or getting recommendations, ask on `#code`
+   on slack.
 
-- Software
-  - [Slack Client](http://slack.com) (recommend desktop and mobile clients)
-  - Firefox or Chrome web browser
-- Accounts
-  - [repl.it](https://repl.it)
-  - [AU Ed Tech Slack channel #code](https://auedtech.slack.com/signup)
+Required Books
+===============
+_None. All course readings, videos, etc will be provided online._
 
-Class Sessions
-==============
+{% endmd %}
+</div>
+<div class="col-md-6">
+{% md %}
+References
+==========
+**Programming references**
 
-Week   Date    Topic                                     Due
------  ------  ----------------------------------------  --------   
- 1     Aug 29  The way of the program                    -
- 2     Sep 05  Problem solving in computer programming   Lab 1
- 3     Sep 12  Variables and data                        Lab 2
- 4     Sep 19  Functions and testing                     Lab 3
- 5     Sep 26  Conditions                                Lab 4
- 6     Oct 03  Repetition with `while`                   Lab 5
- 7     Oct 10  Strings and repetition with `for`         _study!_
- 8     Oct 17  Midterm                                   -
- 9     Oct 24  Arrays                                    -
-10     Oct 31  Objects & Sets                            Lab 6
-11     Nov 07  JSON data                                 Lab 7
-12     Nov 14  Networks and files                        Lab 8
-13     Nov 21  Graphs & Charts                           Lab 9
-14     Nov 28  Final project design (Happy Thanksgiving) Lab 10
-15     Dec 05  Final project workshops                   -
-16     Dec 12  Finals                                    Final project
+1. [Python Documentation](https://docs.python.org/3/): official documentation for the Python programming language
+2. [Pandas Documentation](https://pandas.pydata.org/docs/): the Pandas data analysis library
+3. [Matplotlib Documentation](https://matplotlib.org/stable/contents.html): we'll use Matplotlib for plots and graphs
+4. [Seaborn Documentation](https://seaborn.pydata.org/): Seaborn gives us more control of the appearance of our charts
+5. [GeoPandas Documentation](https://geopandas.org/): we'll use GeoPandas to read geospatial data and make maps
+6. [Plotly Documentation](https://plotly.com/python/): we'll use Plotly to make interactive charts and graphs
+7. [Folium Documentation](https://python-visualization.github.io/folium/): Folium controls some of the map features in GeoPandas
+8. [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML): we'll need a little bit of HTML for our legends and pop-ups
+9. [Named HTML colors](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
+
+**Other documentation**
+
+1. [Slack Help Center](https://slack.com/help)
+2. [Google Colab Help](https://colab.research.google.com/notebooks/intro.ipynb)
+3. [ChatGPT Documentation](https://beta.openai.com/docs/)
+4. [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
+5. [Markdown in Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html): learn how to use Markdown in Jupyter Notebooks
+
+**Tutorials for basic or advanced topics**
+
+1. [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2)
+2. [Pandas Essential Training](https://www.linkedin.com/learning/pandas-essential-training-24082178/)
+3. [Khan Academy: descriptive statistics](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data)
+4. [Python Statistics Basic Training](https://www.linkedin.com/learning/python-statistics-essential-training-19258005)
+
+{% endmd %}
+</div>
+</div>
+
 
 Assignments and Grading
 =======================
 
-Assignment              Pct   Due date
--------------------     ----  --------
-Labs (10 total)         50%   ongoing
-Midterm exam            25%   Oct 17
-Final project           25%   Dec 12
+<div class="row">
+<div class="col-md-6">
+{% md %}
+
+| Assignment         | Points |Due date|
+|--------------------|--------|--------|
+| Labs (10 total)    | 30     |ongoing |
+| Midterm project    | 25     |Oct 17  |
+| Final project      | 25     |Dec 12  |
+| Participation      | 20     |ongoing |
+
+### Participation (15%)
+
+You will complete three self-evaluations of your participation in the course
+by completing a Google Form. Your self-eval will be averaged with the instructor's
+evaluation at the end of the semester.
+
+Because this is a self-evaluation, you will have to set your own criteria for
+how you evaluate your participation. Here are some things that I will be looking
+for:
+
+- do you set aside time to work on the course each week?
+- do you complete labs on time?
+- do you ask for help when you are stuck?
+- do you help others on slack or over email?
+- do you share your work, relevant ideas, and resources?
+- do you find time to study or work with other students?
+- **do not** abandon your teammates
+- do not turn in work written by AI or other students
+
+### Labs (50%)
 
 
-Labs (50%)
--------------------------
-
-Most weeks there will be a programming lab due. Labs will consist of a single exercise
-that focuses on using the computer programming concepts we're learning to solve
-a problem. Each lab will be worth 0-5 points. Roughly:
+There will be 10 programming "labs" during the course of the semester.
+Each lab will provide a few challenges based on the goals and examples
+of the week. You will
 
 - _0 points_: for not turning in any work
 - _1-2 points_: for a basic attempt, but code isn't working or has fundamental flaws
-- _3-4 points_ (mostly) solution demonstrates mastery of relevant concepts
-- _5 points_: solution works, demonstrates mastery of concepts, and is well formatted and clearly written
+- _3 points_: solution works and demonstrates mastery of relevant concepts
 
-Everyone's lowest grade will be thrown out (so your lab score will be the
-average of your 9 highest lab grades).
+Labs are due by midnight on Tuesday of the week they are assigned. To turn
+in your lab:
 
-Midterm (25%)
---------------------------------
+1. Save a copy of the weekly lab to your Colab.
+2. Rename it with your last name and the lab number, e.g. `curinga-lab1.ipynb`
+3. Share the document with the instructor <mcuringa@adelphi.edu>
+{% endmd %}
+</div>
 
-The midterm will consist of 5 "short answer" styled problems where you write
-a function for each prompt to solve a specific problem. The short answer prompts
-will be very similar to the textbook exercises from _Think JS_. This section
-is worth 10 points.
+<div class="col-md-6">
+{% md %}
 
-Part 2 of the exam will require writing a longer program that consists of several
-functions. Students will choose to answer 1 of 3 possible problems. The
-program should demonstrate the student's ability to break down a problem and
-write a working computer program that provides a solution.
+### Midterm
 
-Final project (25%)
------------------------------
+The midterm will be a pair project that you complete **with your assigned partner**
+(see [the roster](#roster)).
+
+### Final project (25%)
 
 For the final project you will work in a team of 2-3 people to create your own
 data analysis and visualization using a data set that is available for
@@ -150,7 +212,7 @@ Of course, you may incorporate other data sets as you see fit.
 
 **The final solution will be scored using the following guide:**
 
-<div class="pl-2">
+
 
 **Solution (7 points)**
 
@@ -193,21 +255,254 @@ your code.
 
 _All project members will receive the same grade._
 
+{% endmd %}
+</div>
 </div>
 
-Javascript Documentation and References
-----------------------------------------
+Class Sessions
+==============
+We're going to operate this async course on a Wednesday to Wednesday schedule.
+That means that each Wednesday, will start a new module, and the lab
+for that week will be due by end of day on the following Tuesday.
+Modules will generally start with an audio introduction to the materials
+and a link to a Google Colab notebook. The notebook will contain
+all links to all other readings and videos, as well as sample code
+and lab exercises.
 
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [W3 Schools](https://www.w3schools.com/js/default.asp)
-- [OverAPI](http://overapi.com/javascript)
-- [ES6 Lang Spec](https://www.ecma-international.org/ecma-262/6.0/index.html)
+| Week | Date         | Topic                      | Due (end of week)     |
+|------|--------------|----------------------------|-----------------------|
+| 1    | 08/28 - 09/03| Data(frames) & Variables   | Lab 1                 |
+| 2    | 09/04 - 09/10| Data and tables            | Lab 2                 |
+| 3    | 09/11 - 09/17| Mapping points             | Lab 3, choose partner |
+| 4    | 09/18 - 09/24| Formatting map points      | Lab 4, Eval 1         |
+| 5    | 09/25 - 10/01| Merging and grouping data  | Lab 5                 |
+| 6    | 10/02 - 10/08| Charts & Graphs            | Lab 6                 |
+| 7    | 10/09 - 10/15| Project 1 Sprint           | _project work_        |
+| 8    | 10/16 - 10/22| Midterm meetings           | Project 1             |
+| 9    | 10/23 - 10/29| Lists                      | Lab 7, Eval 2         |
+| 10   | 10/30 - 11/05| Files                      | Lab 8                 |
+| 11   | 11/06 - 11/12| Dictionaries               | Lab 9                 |
+| 12   | 11/13 - 11/19| Exceptions                 | Lab 10                |
+| 13   | 11/20 - 11/26| Recursion                  | _project work_        |
+| 14   | 11/27 - 12/03| Objects and Classes        | _project work_        |
+| 15   | 12/04 - 12/10| Portfolio work             | _project work_        |
+| 16   | 12/11 - 12/17| Final 1:1 presentations    | Final Project, Eval 3 |
 
-Books & Tutorials
------------------
-- [Javascript the Right Way](http://jstherightway.org/)
-- [You Don't know JS (book series online)](https://github.com/getify/You-Dont-Know-JS)
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-- [Understanding Programming through JavaScript](https://cs.stanford.edu/people/eroberts/CS106AJ-Reader.pdf)
-- [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do)
-- [JavaScript & jQuery: Interactive Front-End Web Development Hardcover](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118871650.html), also J. Duckett, same series
+<div class="row">
+<div class="col-md-6">
+{%md %}
+
+Module 1: Data(frames) & Variables
+----------------------------------
+
+
+This week we want to get up and running with the
+tools of the class and the basics of writing code in
+Python and Colab.
+
+[**Lab 1**](#colab link) (due Tuesday)
+
+**Goals:**
+
+- install Slack
+- run code in Colab
+- review syllabus and course expectations
+- view results/output
+- use variables to store data
+- use basic operators to make calculations
+- explore data in a `pandas` `DataFrame`
+
+**Topics:**
+
+- baic syntax
+- using Jupiter notebooks and Colab
+- introduction to DataFrames and pandas
+
+**Do:**
+
+- Watch to the Welcome Message
+- Join Slack (find the link in your Adelphi email)
+- Post on the `#code` channel in Slack:
+  - your name
+  - area of study
+  - why you are taking this course and programming background (if any)
+  - which of the "fears of programming" resonate with you
+- share lab 1 with the instructor
+
+
+Module 2: Data and tables
+----------------------------------
+
+This week we're going to look at how to manipulate data 
+in a `DataFrame` and how to format it in tables. We
+will continue working with census data regarding
+populations in urban areas.
+
+[**Lab 2**](#colab link)
+
+**Goals:**
+
+- use comparison operators to filter data
+- use math operators to calculate new columns
+- format data to make more readable tables
+- gain a deeper understanding of how variables and data work
+  in Jupyter Notebook / Colab
+
+**Topics:**
+
+- calculate new columns in a `DataFrame` with math operators
+- `.copy()` a `DataFrame`
+- display a sub-selection of columns in a table
+- filter/query a `DataFrame` to find specific rows
+- work with String data to improve table display
+- change column names
+- calculate basic statistics (sum, mean, etc) on columns
+
+**Do:**
+
+- Post on the `#code` channel in Slack:
+  - a screenshot of a table your created in Colab
+  - an interesting "finding" from your analysis of the data
+- share lab 2 with the instructor
+
+
+Module 3: Mapping points
+------------------------
+
+We're going to start working with geospatial data
+and maps this week. Specifically, we will look at
+how to create maps of our US City census data.
+
+[**Lab 3**](#colab link)
+
+**Goals:**
+
+- understand core concepts of geospatial data
+- create a map of points
+- create mouse-over titles and pop-ups for points
+- create a map of points with different colors
+- create a map of points with different sizes
+
+**Topics:**
+
+
+**Do:**
+
+- **choose a partner for the midterm project (aka project 1)**
+
+Module 4: Formatting map points
+-------------------------------
+
+We're going to continue mapping points, but this
+week we will learn more details about creating
+the themes of our "base layer" maps, mapping
+multiple sets of points onto a single map, and
+creating more complex pop-ups with formatting.
+
+[**Lab 4**](#colab link) (due Tuesday)
+
+**Goals:**
+
+- understand core concepts of geospatial data
+- create a map of points
+- write **functions** to use with `.apply()`
+  - create mouse-over titles and pop-ups for points
+  - create a map of points with different colors
+  - create a map of points with different sizes
+
+**Topics:**
+
+**Do:**
+
+Module 5: Merging and grouping data
+-----------------------------------
+
+We're going to start working with more complex
+data this week, including looking at ways to
+combine data from different sources and techniques
+for grouping data to create new insights.
+
+[**Lab 5**](#colab link) (due Tuesday)
+
+**Goals:**
+
+- load multiple data sets
+- understand how to merge data on shared keys
+  - understand the difference between inner, outer, left, and right joins
+- group data to create new insights
+  - use `.groupby()` and aggregate functions
+
+**Topics:**
+
+**Do:**
+
+Module 6: Charts & Graphs
+-------------------------
+
+We're going to make all the basic charts this week:
+
+- bar charts
+- line charts
+- scatter plots
+- grouped bar charts
+
+[**Lab 6**](#colab link) (due Tuesday)
+
+**Goals:**
+
+- understand how charts work to convey quantitative information
+- choose the right chart for the right data
+- use `matplotlib` to create charts
+- control the appearance of charts
+
+
+**Topics:**
+
+**Do:**
+
+Module 7: Midterm meetings
+--------------------------
+This week, you and your partner will schedule a 30 minute
+meeting with the instructor. In this meeting, you will 
+have 15 minutes to explain and demonstrate the key aspects
+of your code, followed by a 5 minute discussion.
+
+The instructor will ask you to write some new code for your project,
+which you will have 10 minutes to work on, individually, and then
+present.
+
+**Goals:**
+
+- demonstrate mastery of topics and concepts 
+  covered in the first half of the course
+- identify areas of weakness and strength
+- offer feedback to the instructor
+
+**Do:**
+
+- share your project code with the instructor
+- schedule a zoom meeting with the instructor [link TBD](#tbd)
+
+{% endmd %}
+</div>
+<div class="col-md-6 border-start border-3 border-dark">
+{% md %}
+Module 8: Exploring data
+------------------------
+This week you will be presented with several new data sets.
+You will choose one and will conduct your own novel analysis,
+using the techniques we have learned so far.
+
+**Goals:**
+
+- experience working with new data and discovering
+  features of that data
+- choose your own analysis and visualizations
+
+**Topics:**
+
+**Do:**
+
+{% endmd %}
+</div>
+</div>

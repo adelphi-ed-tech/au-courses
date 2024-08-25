@@ -19,7 +19,7 @@
 
 -->
 
-  <title>Introduction to Programming</title>
+  <title>Intro to Programming</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -36,6 +36,101 @@
 
 <body class="d-flex flex-column h-100">
 
+<style>
+:root {
+    --blue-purple: linear-gradient(158deg, rgba(99, 62, 128, .5) 18.75%, 
+                  rgb(0, 111, 203) 56.25%, 
+                  rgba(245, 193, 241, 0.57) 79.6875%);
+}
+
+body {
+    background-image: var(--blue-purple);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+.hex1 {
+  position: fixed;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("img/grid.png");
+  background-repeat: repeat;
+}
+
+.hex2 {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("img/grid.png");
+  background-repeat: repeat;
+  background-position-x: -10px;
+  background-position-y: 17px;
+}
+
+
+
+.nav-link {
+    font-weight: bold;
+
+}
+.StoryGame {
+    background-image: url("img/doki.png");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+    padding: 1em;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.Design {
+    background-color: rgba(255, 255, 255, 0.75);
+    position: relative;
+    z-index: 10;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 1600px;
+    padding: 0;
+    border-radius: 16px;
+}
+
+.PageTitle {
+    font-size: 64px;
+    font-weight: 900;
+
+}
+
+img.header {
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+
+.wide-container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.text-container {
+    max-width: 720px;
+}
+
+</style>
+
+<div class="hex1"></div>
+<div class="hex2"></div>
 <div class="d-flex flex-row-reverse" style="z-index: 10">
     <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
@@ -54,10 +149,9 @@
         </div>
     </nav>
 </div>
-<main class="container mx-auto mt-2"><p>% Introduction to Programming
-% Matthew X. Curinga</p>
-
-<!--
+<main class="Design container-fluid mx-auto mt-2">
+    <img src="/img/programming-carto.png" alt="code and a map visual of a demographic map of new york city" class="header">
+    <div class="p-4"><!--
 This syllabus was created for
 the Educational Technology Program
 at Adelphi University:
@@ -72,9 +166,19 @@ version: 3.1
 Based on work available here: https://github.com/mcuringa/adelphi-ed-tech-courses
 -->
 
-<p><strong>Computer Science 0145-602, Fall 2019</strong></p>
+<h1 class="PageTitle text-center">Introduction to Computer Programming:<br />Python Maps</h1>
 
-<p><strong>Keywords:</strong>  computer programming, CS1, javascript, computational thinking, critical computational literacy, problem solving</p>
+<blockquote class="border-start border-4 border-start border-dark-subtle ps-2 fs-3 mb-4">
+We are looking at a society increasingly dependent on machines, yet
+decreasingly capable of making or even using them effectively.<br />
+― Douglas Rushkoff, <i>Program or Be Programmed: Ten Commands for a Digital Age</i>
+</blockquote>
+
+<div class="row">
+<div class="col-md-6">
+<p><strong>Computer Science 0145-602, Fall 2024</strong></p>
+
+<p><strong>Keywords:</strong>  computer programming, CS1, python, computational thinking, critical computational literacy, maps, data visualization</p>
 
 <p><strong>Description:</strong> This course introduces students to programming and
 some core concepts of computer science, using a modern, object oriented
@@ -82,30 +186,27 @@ programming language. Students learn concepts of
 variables, functions, selection, repetition/loops, basic data structures
 (arrays, lists, hashtables), and basic object oriented programming.</p>
 
-<blockquote>
-  <p>We are looking at a society increasingly dependent on machines, yet
-decreasingly capable of making or even using them effectively.<br />
-― Douglas Rushkoff, <em>Program or Be Programmed: Ten Commands for a Digital Age</em></p>
-</blockquote>
+</div>
+<div class="col-md-6">
+<p><strong>Class meetings:</strong> Online, asynchronous (coordinated through the course website)</p>
 
-<p><strong>Class meetings:</strong></p>
+<p><strong>Instructor</strong></p>
 
 <ul>
-  <li>Section 001: Harvey 104, Thursday 4:30-6:20</li>
-  <li>Section 002: <em>fully online</em></li>
+  <li><a href="http://matt.curinga.com">Matthew X. Curinga</a>, <a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a></li>
 </ul>
 
-<p><strong>Instructor:</strong> <a href="https://matt.curinga.com">Matthew X. Curinga</a>, <a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a></p>
-
-<p><strong>Office hours:</strong></p>
+<p><strong>Dr. Curinga’s Office Hours by appointment</strong></p>
 
 <ul>
-  <li>Monday 1-2pm, Alumnae Hall Room 226A (Garden City campus)</li>
-  <li>Wednesday 4:30-5:30pm, online</li>
-  <li>Thursday 2:30-4:30pm, Alumnae Hall Room 226A (Garden City campus)</li>
-  <li><em>office hours by appointment</em></li>
+  <li>Wednesday, 4:30-5:30PM</li>
 </ul>
 
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-6">
 <h1 id="learning-goals">Learning Goals</h1>
 
 <ul>
@@ -113,91 +214,162 @@ decreasingly capable of making or even using them effectively.<br />
   <li>understand the basic concepts of computation (CPU, RAM, permanent storage, GUIs, file systems, network connections)</li>
   <li>learn core computer programming concepts (abstraction, variables, conditions, functions, repetition, recursion)</li>
   <li>think algorithmically to design and test computer programs</li>
-  <li>master the basic syntax and idioms of the Javascript programming language</li>
+  <li>master the basic syntax and idioms of the Python programming language</li>
   <li>use technical documentation, APIs, and the internet to learn new technical concepts</li>
   <li>develop step-by-step problem solving and debugging practices</li>
 </ul>
 
-<h1 id="required-books">Required Books</h1>
-<ul>
-  <li><a href="https://mcuringa.github.io/think-js/">Think Javascript</a> (free online)</li>
-</ul>
-
 <h1 id="required-softwareonline-accounts">Required Software/Online Accounts</h1>
-
-<ul>
-  <li>Software
+<ol>
+  <li><a href="https://colab.research.google.com/">Google Colab</a>. This is a 
+free, online programming environment which you will access through your Adelphi email.</li>
+  <li><a href="https://auedtech.slack.com/">Join our Slack</a> with your mail.adelphi.edu email.
     <ul>
-      <li><a href="http://slack.com">Slack Client</a> (recommend desktop and mobile clients)</li>
-      <li>Firefox or Chrome web browser</li>
+      <li>install the desktop client so that you can easily share code and screenshots</li>
+      <li>install the mobile client so that you can stay tuned for messages about the class</li>
+      <li>join the <code class="language-plaintext highlighter-rouge">#code</code> channel for discussions related to this class</li>
+      <li>DM the instructor at <code class="language-plaintext highlighter-rouge">@mxc</code> to get in touch</li>
     </ul>
   </li>
-  <li>Accounts
-    <ul>
-      <li><a href="https://repl.it">repl.it</a></li>
-      <li><a href="https://auedtech.slack.com/signup">AU Ed Tech Slack channel #code</a></li>
-    </ul>
-  </li>
-</ul>
+  <li><a href="https://chat.openai.com/">Chat GPT</a>. Since it’s release, I have used ChatGPT as a 
+resource for my own software development projects. I think it will be very beneficial 
+for you, too. Create an account at <a href="https://chat.openai.com/auth/login">https://chat.openai.com/auth/login</a> to get started. 
+You can use your AU email, but that’s not required.</li>
+  <li><strong>Screenshot software.</strong> To get help, you might need to share a screenshot (more often you will 
+copy-paste code or error messages). Don’t take pictures of your laptop with you phone. 
+Take a screenshot. If you need help setting this up or getting recommendations, ask on <code class="language-plaintext highlighter-rouge">#code</code>
+on slack.</li>
+</ol>
 
-<h1 id="class-sessions">Class Sessions</h1>
+<h1 id="required-books">Required Books</h1>
+<p><em>None. All course readings, videos, etc will be provided online.</em></p>
 
-<p>Week   Date    Topic                                     Due
-—–  ——  —————————————-  ——– <br />
- 1     Aug 29  The way of the program                    -
- 2     Sep 05  Problem solving in computer programming   Lab 1
- 3     Sep 12  Variables and data                        Lab 2
- 4     Sep 19  Functions and testing                     Lab 3
- 5     Sep 26  Conditions                                Lab 4
- 6     Oct 03  Repetition with <code class="language-plaintext highlighter-rouge">while</code>                   Lab 5
- 7     Oct 10  Strings and repetition with <code class="language-plaintext highlighter-rouge">for</code>         <em>study!</em>
- 8     Oct 17  Midterm                                   -
- 9     Oct 24  Arrays                                    -
-10     Oct 31  Objects &amp; Sets                            Lab 6
-11     Nov 07  JSON data                                 Lab 7
-12     Nov 14  Networks and files                        Lab 8
-13     Nov 21  Graphs &amp; Charts                           Lab 9
-14     Nov 28  Final project design (Happy Thanksgiving) Lab 10
-15     Dec 05  Final project workshops                   -
-16     Dec 12  Finals                                    Final project</p>
+</div>
+<div class="col-md-6">
+<h1 id="references">References</h1>
+<p><strong>Programming references</strong></p>
+
+<ol>
+  <li><a href="https://docs.python.org/3/">Python Documentation</a>: official documentation for the Python programming language</li>
+  <li><a href="https://pandas.pydata.org/docs/">Pandas Documentation</a>: the Pandas data analysis library</li>
+  <li><a href="https://matplotlib.org/stable/contents.html">Matplotlib Documentation</a>: we’ll use Matplotlib for plots and graphs</li>
+  <li><a href="https://seaborn.pydata.org/">Seaborn Documentation</a>: Seaborn gives us more control of the appearance of our charts</li>
+  <li><a href="https://geopandas.org/">GeoPandas Documentation</a>: we’ll use GeoPandas to read geospatial data and make maps</li>
+  <li><a href="https://plotly.com/python/">Plotly Documentation</a>: we’ll use Plotly to make interactive charts and graphs</li>
+  <li><a href="https://python-visualization.github.io/folium/">Folium Documentation</a>: Folium controls some of the map features in GeoPandas</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML reference</a>: we’ll need a little bit of HTML for our legends and pop-ups</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/named-color">Named HTML colors</a></li>
+</ol>
+
+<p><strong>Other documentation</strong></p>
+
+<ol>
+  <li><a href="https://slack.com/help">Slack Help Center</a></li>
+  <li><a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab Help</a></li>
+  <li><a href="https://beta.openai.com/docs/">ChatGPT Documentation</a></li>
+  <li><a href="https://jupyter-notebook.readthedocs.io/en/stable/">Jupyter Notebook Documentation</a></li>
+  <li><a href="https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html">Markdown in Jupyter Notebooks</a>: learn how to use Markdown in Jupyter Notebooks</li>
+</ol>
+
+<p><strong>Tutorials for basic or advanced topics</strong></p>
+
+<ol>
+  <li><a href="https://www.linkedin.com/learning/python-essential-training-2">Python Essential Training</a></li>
+  <li><a href="https://www.linkedin.com/learning/pandas-essential-training-24082178/">Pandas Essential Training</a></li>
+  <li><a href="https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data">Khan Academy: descriptive statistics</a></li>
+  <li><a href="https://www.linkedin.com/learning/python-statistics-essential-training-19258005">Python Statistics Basic Training</a></li>
+</ol>
+
+</div>
+</div>
 
 <h1 id="assignments-and-grading">Assignments and Grading</h1>
 
-<p>Assignment              Pct   Due date
-——————-     —-  ——–
-Labs (10 total)         50%   ongoing
-Midterm exam            25%   Oct 17
-Final project           25%   Dec 12</p>
+<div class="row">
+<div class="col-md-6">
+<table>
+  <thead>
+    <tr>
+      <th>Assignment</th>
+      <th>Points</th>
+      <th>Due date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Labs (10 total)</td>
+      <td>30</td>
+      <td>ongoing</td>
+    </tr>
+    <tr>
+      <td>Midterm project</td>
+      <td>25</td>
+      <td>Oct 17</td>
+    </tr>
+    <tr>
+      <td>Final project</td>
+      <td>25</td>
+      <td>Dec 12</td>
+    </tr>
+    <tr>
+      <td>Participation</td>
+      <td>20</td>
+      <td>ongoing</td>
+    </tr>
+  </tbody>
+</table>
 
-<h2 id="labs-50">Labs (50%)</h2>
+<h3 id="participation-15">Participation (15%)</h3>
 
-<p>Most weeks there will be a programming lab due. Labs will consist of a single exercise
-that focuses on using the computer programming concepts we’re learning to solve
-a problem. Each lab will be worth 0-5 points. Roughly:</p>
+<p>You will complete three self-evaluations of your participation in the course
+by completing a Google Form. Your self-eval will be averaged with the instructor’s
+evaluation at the end of the semester.</p>
+
+<p>Because this is a self-evaluation, you will have to set your own criteria for
+how you evaluate your participation. Here are some things that I will be looking
+for:</p>
+
+<ul>
+  <li>do you set aside time to work on the course each week?</li>
+  <li>do you complete labs on time?</li>
+  <li>do you ask for help when you are stuck?</li>
+  <li>do you help others on slack or over email?</li>
+  <li>do you share your work, relevant ideas, and resources?</li>
+  <li>do you find time to study or work with other students?</li>
+  <li><strong>do not</strong> abandon your teammates</li>
+  <li>do not turn in work written by AI or other students</li>
+</ul>
+
+<h3 id="labs-50">Labs (50%)</h3>
+
+<p>There will be 10 programming “labs” during the course of the semester.
+Each lab will provide a few challenges based on the goals and examples
+of the week. You will</p>
 
 <ul>
   <li><em>0 points</em>: for not turning in any work</li>
   <li><em>1-2 points</em>: for a basic attempt, but code isn’t working or has fundamental flaws</li>
-  <li><em>3-4 points</em> (mostly) solution demonstrates mastery of relevant concepts</li>
-  <li><em>5 points</em>: solution works, demonstrates mastery of concepts, and is well formatted and clearly written</li>
+  <li><em>3 points</em>: solution works and demonstrates mastery of relevant concepts</li>
 </ul>
 
-<p>Everyone’s lowest grade will be thrown out (so your lab score will be the
-average of your 9 highest lab grades).</p>
+<p>Labs are due by midnight on Tuesday of the week they are assigned. To turn
+in your lab:</p>
 
-<h2 id="midterm-25">Midterm (25%)</h2>
+<ol>
+  <li>Save a copy of the weekly lab to your Colab.</li>
+  <li>Rename it with your last name and the lab number, e.g. <code class="language-plaintext highlighter-rouge">curinga-lab1.ipynb</code></li>
+  <li>Share the document with the instructor <a href="mailto:mcuringa@adelphi.edu">mcuringa@adelphi.edu</a></li>
+</ol>
 
-<p>The midterm will consist of 5 “short answer” styled problems where you write
-a function for each prompt to solve a specific problem. The short answer prompts
-will be very similar to the textbook exercises from <em>Think JS</em>. This section
-is worth 10 points.</p>
+</div>
 
-<p>Part 2 of the exam will require writing a longer program that consists of several
-functions. Students will choose to answer 1 of 3 possible problems. The
-program should demonstrate the student’s ability to break down a problem and
-write a working computer program that provides a solution.</p>
+<div class="col-md-6">
+<h3 id="midterm">Midterm</h3>
 
-<h2 id="final-project-25">Final project (25%)</h2>
+<p>The midterm will be a pair project that you complete <strong>with your assigned partner</strong>
+(see <a href="#roster">the roster</a>).</p>
+
+<h3 id="final-project-25">Final project (25%)</h3>
 
 <p>For the final project you will work in a team of 2-3 people to create your own
 data analysis and visualization using a data set that is available for
@@ -207,69 +379,538 @@ download or as a live open data set such as the <a href="https://opendata.cityof
 
 <p><strong>The final solution will be scored using the following guide:</strong></p>
 
-<div class="pl-2">
+<p><strong>Solution (7 points)</strong></p>
 
-**Solution (7 points)**
-
-How well does the program written solve the problem? Does the project seriously
+<p>How well does the program written solve the problem? Does the project seriously
 engage with the data? Does it use compute analysis to provide interesting
-insights? Is the data presented in a meaningful and usable way?
+insights? Is the data presented in a meaningful and usable way?</p>
 
-Your team's ability to design a solution to the problem is evaluated by this measure.
+<p>Your team’s ability to design a solution to the problem is evaluated by this measure.</p>
 
+<p><strong>Elegance &amp; Robustness (8 points)</strong></p>
 
-**Elegance &amp; Robustness (8 points)**
-
-This area evaluates the quality of the computer code produced by the team. An
-_elegant_ program provides a parsimonious solution that is both efficient and
-clear. A _robust_ program is flexible and able to change. In the case of data
+<p>This area evaluates the quality of the computer code produced by the team. An
+<em>elegant</em> program provides a parsimonious solution that is both efficient and
+clear. A <em>robust</em> program is flexible and able to change. In the case of data
 analysis, it would be easy to modify if the input data changed or the output
-requirements are updated. It wouldn't "break" if it encountered unexpected data,
+requirements are updated. It wouldn’t “break” if it encountered unexpected data,
 and would continue to operate even if the amount of data were increased
 dramatically. Often, both elegance and robustness are achieved through
-_refactoring_: the process of reflecting on code and revising it after an initial
-working solution is achieved.
+<em>refactoring</em>: the process of reflecting on code and revising it after an initial
+working solution is achieved.</p>
 
-**Risk Taking (5 points)**
+<p><strong>Risk Taking (5 points)</strong></p>
 
-Learning should be an adventure. One of the most exciting things about writing
-software is the sense of new possibilities and discovery. The "risk taking"
-aspect of your team's grade will reflect the chances that you take with your
-project. Even if your solution isn't quite what you hoped for, or your code
-isn't as elegant as you'd like, it's important that you take chances and try new
+<p>Learning should be an adventure. One of the most exciting things about writing
+software is the sense of new possibilities and discovery. The “risk taking”
+aspect of your team’s grade will reflect the chances that you take with your
+project. Even if your solution isn’t quite what you hoped for, or your code
+isn’t as elegant as you’d like, it’s important that you take chances and try new
 things. To do well in this section, you might want to shoot for an ambitious, or
-complex analysis; or integrate some Javascript libraries or techniques that haven't been
-explicitly covered in the course.
+complex analysis; or integrate some Javascript libraries or techniques that haven’t been
+explicitly covered in the course.</p>
 
-**Code Style (5 points)**
+<p><strong>Code Style (5 points)</strong></p>
 
-Your code should be well formatted and easy to read. Your functions and
-variables (aka "identifiers") should have clear, meaningful names. Comments
+<p>Your code should be well formatted and easy to read. Your functions and
+variables (aka “identifiers”) should have clear, meaningful names. Comments
 should be used sparingly, but appropriately to guide the human reader through
-your code.
+your code.</p>
 
-_All project members will receive the same grade._
+<p><em>All project members will receive the same grade.</em></p>
 
 </div>
+</div>
 
-<h2 id="javascript-documentation-and-references">Javascript Documentation and References</h2>
+<h1 id="class-sessions">Class Sessions</h1>
+<p>We’re going to operate this async course on a Wednesday to Wednesday schedule.
+That means that each Wednesday, will start a new module, and the lab
+for that week will be due by end of day on the following Tuesday.
+Modules will generally start with an audio introduction to the materials
+and a link to a Google Colab notebook. The notebook will contain
+all links to all other readings and videos, as well as sample code
+and lab exercises.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Due (end of week)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>08/28 - 09/03</td>
+      <td>Data(frames) &amp; Variables</td>
+      <td>Lab 1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>09/04 - 09/10</td>
+      <td>Data and tables</td>
+      <td>Lab 2</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>09/11 - 09/17</td>
+      <td>Mapping points</td>
+      <td>Lab 3, choose partner</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>09/18 - 09/24</td>
+      <td>Formatting map points</td>
+      <td>Lab 4, Eval 1</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>09/25 - 10/01</td>
+      <td>Merging and grouping data</td>
+      <td>Lab 5</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10/02 - 10/08</td>
+      <td>Charts &amp; Graphs</td>
+      <td>Lab 6</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>10/09 - 10/15</td>
+      <td>Project 1 Sprint</td>
+      <td><em>project work</em></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>10/16 - 10/22</td>
+      <td>Midterm meetings</td>
+      <td>Project 1</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>10/23 - 10/29</td>
+      <td>Lists</td>
+      <td>Lab 7, Eval 2</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>10/30 - 11/05</td>
+      <td>Files</td>
+      <td>Lab 8</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>11/06 - 11/12</td>
+      <td>Dictionaries</td>
+      <td>Lab 9</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>11/13 - 11/19</td>
+      <td>Exceptions</td>
+      <td>Lab 10</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>11/20 - 11/26</td>
+      <td>Recursion</td>
+      <td><em>project work</em></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>11/27 - 12/03</td>
+      <td>Objects and Classes</td>
+      <td><em>project work</em></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>12/04 - 12/10</td>
+      <td>Portfolio work</td>
+      <td><em>project work</em></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>12/11 - 12/17</td>
+      <td>Final 1:1 presentations</td>
+      <td>Final Project, Eval 3</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="row">
+<div class="col-md-6">
+<h2 id="module-1-dataframes--variables">Module 1: Data(frames) &amp; Variables</h2>
+
+<p>This week we want to get up and running with the
+tools of the class and the basics of writing code in
+Python and Colab.</p>
+
+<p><a href="#colab link"><strong>Lab 1</strong></a> (due Tuesday)</p>
+
+<p><strong>Goals:</strong></p>
 
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/javascript">Mozilla Developer Network</a></li>
-  <li><a href="https://www.w3schools.com/js/default.asp">W3 Schools</a></li>
-  <li><a href="http://overapi.com/javascript">OverAPI</a></li>
-  <li><a href="https://www.ecma-international.org/ecma-262/6.0/index.html">ES6 Lang Spec</a></li>
+  <li>install Slack</li>
+  <li>run code in Colab</li>
+  <li>review syllabus and course expectations</li>
+  <li>view results/output</li>
+  <li>use variables to store data</li>
+  <li>use basic operators to make calculations</li>
+  <li>explore data in a <code class="language-plaintext highlighter-rouge">pandas</code> <code class="language-plaintext highlighter-rouge">DataFrame</code></li>
 </ul>
 
-<h2 id="books--tutorials">Books &amp; Tutorials</h2>
+<p><strong>Topics:</strong></p>
+
 <ul>
-  <li><a href="http://jstherightway.org/">Javascript the Right Way</a></li>
-  <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don’t know JS (book series online)</a></li>
-  <li><a href="https://eloquentjavascript.net/">Eloquent JavaScript</a></li>
-  <li><a href="https://cs.stanford.edu/people/eroberts/CS106AJ-Reader.pdf">Understanding Programming through JavaScript</a></li>
-  <li><a href="http://shop.oreilly.com/product/9780596528126.do">Mastering Regular Expressions</a></li>
-  <li><a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118871650.html">JavaScript &amp; jQuery: Interactive Front-End Web Development Hardcover</a>, also J. Duckett, same series</li>
+  <li>baic syntax</li>
+  <li>using Jupiter notebooks and Colab</li>
+  <li>introduction to DataFrames and pandas</li>
 </ul>
+
+<p><strong>Do:</strong></p>
+
+<ul>
+  <li>Watch to the Welcome Message</li>
+  <li>Join Slack (find the link in your Adelphi email)</li>
+  <li>Post on the <code class="language-plaintext highlighter-rouge">#code</code> channel in Slack:
+    <ul>
+      <li>your name</li>
+      <li>area of study</li>
+      <li>why you are taking this course and programming background (if any)</li>
+      <li>which of the “fears of programming” resonate with you</li>
+    </ul>
+  </li>
+  <li>share lab 1 with the instructor</li>
+</ul>
+
+<h2 id="module-2-data-and-tables">Module 2: Data and tables</h2>
+
+<p>This week we’re going to look at how to manipulate data 
+in a <code class="language-plaintext highlighter-rouge">DataFrame</code> and how to format it in tables. We
+will continue working with census data regarding
+populations in urban areas.</p>
+
+<p><a href="#colab link"><strong>Lab 2</strong></a></p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>use comparison operators to filter data</li>
+  <li>use math operators to calculate new columns</li>
+  <li>format data to make more readable tables</li>
+  <li>gain a deeper understanding of how variables and data work
+in Jupyter Notebook / Colab</li>
+</ul>
+
+<p><strong>Topics:</strong></p>
+
+<ul>
+  <li>calculate new columns in a <code class="language-plaintext highlighter-rouge">DataFrame</code> with math operators</li>
+  <li><code class="language-plaintext highlighter-rouge">.copy()</code> a <code class="language-plaintext highlighter-rouge">DataFrame</code></li>
+  <li>display a sub-selection of columns in a table</li>
+  <li>filter/query a <code class="language-plaintext highlighter-rouge">DataFrame</code> to find specific rows</li>
+  <li>work with String data to improve table display</li>
+  <li>change column names</li>
+  <li>calculate basic statistics (sum, mean, etc) on columns</li>
+</ul>
+
+<p><strong>Do:</strong></p>
+
+<ul>
+  <li>Post on the <code class="language-plaintext highlighter-rouge">#code</code> channel in Slack:
+    <ul>
+      <li>a screenshot of a table your created in Colab</li>
+      <li>an interesting “finding” from your analysis of the data</li>
+    </ul>
+  </li>
+  <li>share lab 2 with the instructor</li>
+</ul>
+
+<h2 id="module-3-mapping-points">Module 3: Mapping points</h2>
+
+<p>We’re going to start working with geospatial data
+and maps this week. Specifically, we will look at
+how to create maps of our US City census data.</p>
+
+<p><a href="#colab link"><strong>Lab 3</strong></a></p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>understand core concepts of geospatial data</li>
+  <li>create a map of points</li>
+  <li>create mouse-over titles and pop-ups for points</li>
+  <li>create a map of points with different colors</li>
+  <li>create a map of points with different sizes</li>
+</ul>
+
+<p><strong>Topics:</strong></p>
+
+<p><strong>Do:</strong></p>
+
+<ul>
+  <li><strong>choose a partner for the midterm project (aka project 1)</strong></li>
+</ul>
+
+<h2 id="module-4-formatting-map-points">Module 4: Formatting map points</h2>
+
+<p>We’re going to continue mapping points, but this
+week we will learn more details about creating
+the themes of our “base layer” maps, mapping
+multiple sets of points onto a single map, and
+creating more complex pop-ups with formatting.</p>
+
+<p><a href="#colab link"><strong>Lab 4</strong></a> (due Tuesday)</p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>understand core concepts of geospatial data</li>
+  <li>create a map of points</li>
+  <li>write <strong>functions</strong> to use with <code class="language-plaintext highlighter-rouge">.apply()</code>
+    <ul>
+      <li>create mouse-over titles and pop-ups for points</li>
+      <li>create a map of points with different colors</li>
+      <li>create a map of points with different sizes</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Topics:</strong></p>
+
+<p><strong>Do:</strong></p>
+
+<h2 id="module-5-merging-and-grouping-data">Module 5: Merging and grouping data</h2>
+
+<p>We’re going to start working with more complex
+data this week, including looking at ways to
+combine data from different sources and techniques
+for grouping data to create new insights.</p>
+
+<p><a href="#colab link"><strong>Lab 5</strong></a> (due Tuesday)</p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>load multiple data sets</li>
+  <li>understand how to merge data on shared keys
+    <ul>
+      <li>understand the difference between inner, outer, left, and right joins</li>
+    </ul>
+  </li>
+  <li>group data to create new insights
+    <ul>
+      <li>use <code class="language-plaintext highlighter-rouge">.groupby()</code> and aggregate functions</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Topics:</strong></p>
+
+<p><strong>Do:</strong></p>
+
+<h2 id="module-6-charts--graphs">Module 6: Charts &amp; Graphs</h2>
+
+<p>We’re going to make all the basic charts this week:</p>
+
+<ul>
+  <li>bar charts</li>
+  <li>line charts</li>
+  <li>scatter plots</li>
+  <li>grouped bar charts</li>
+</ul>
+
+<p><a href="#colab link"><strong>Lab 6</strong></a> (due Tuesday)</p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>understand how charts work to convey quantitative information</li>
+  <li>choose the right chart for the right data</li>
+  <li>use <code class="language-plaintext highlighter-rouge">matplotlib</code> to create charts</li>
+  <li>control the appearance of charts</li>
+</ul>
+
+<p><strong>Topics:</strong></p>
+
+<p><strong>Do:</strong></p>
+
+<h2 id="module-7-midterm-meetings">Module 7: Midterm meetings</h2>
+<p>This week, you and your partner will schedule a 30 minute
+meeting with the instructor. In this meeting, you will 
+have 15 minutes to explain and demonstrate the key aspects
+of your code, followed by a 5 minute discussion.</p>
+
+<p>The instructor will ask you to write some new code for your project,
+which you will have 10 minutes to work on, individually, and then
+present.</p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>demonstrate mastery of topics and concepts 
+covered in the first half of the course</li>
+  <li>identify areas of weakness and strength</li>
+  <li>offer feedback to the instructor</li>
+</ul>
+
+<p><strong>Do:</strong></p>
+
+<ul>
+  <li>share your project code with the instructor</li>
+  <li>schedule a zoom meeting with the instructor <a href="#tbd">link TBD</a></li>
+</ul>
+
+</div>
+<div class="col-md-6 border-start border-3 border-dark">
+<h2 id="module-8-exploring-data">Module 8: Exploring data</h2>
+<p>This week you will be presented with several new data sets.
+You will choose one and will conduct your own novel analysis,
+using the techniques we have learned so far.</p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>experience working with new data and discovering
+features of that data</li>
+  <li>choose your own analysis and visualizations</li>
+</ul>
+
+<p><strong>Topics:</strong></p>
+
+<p><strong>Do:</strong></p>
+
+</div>
+</div>
+</div>
+    
+    <hr>
+    <div class="container mx-auto mt-4 pt-4"><div class="mt-4 p-3 bg-light border border-2">
+<h3>Adelphi University Services, Policies, and Regulations</h3>
+<h5>Student Access Office and Disability Accommodation</h5>
+<p>
+If you have a disability that may significantly impact your ability to carry out assigned coursework, please contact the
+Student Access Office (SAO) at 516-877-3806 or send an email to sao@adelphi.edu. The staff will review your concerns and
+determine, with you, appropriate and necessary accommodations. Please allow for a reasonable time frame for requesting
+ASL Interpreters or Transcription Services. Because of the additional challenges of instruction during the pandemic, it
+is especially helpful for the instructor to be aware of students’ need for accommodations.
+</p>
+<p>
+Reasonable accommodations are available in online classes for students with a documented disability. Please note that
+due to the nature of online courses, some accommodations approved for on-campus classes may not apply. If you have a
+disability that may significantly impact your ability to carry out assigned coursework, please contact the Student
+Access Office (SAO) at 516-877-3806 or send an email to sao@adelphi.edu. We will review your request and determine with
+you appropriate and necessary accommodations. Please allow for a reasonable time frame for requesting ASL Interpreters
+or Transcription Services.
+</p>
+<h5>Student Counseling Center (SCC)</h5>
+<p>
+The Student Counseling Center (SCC) provides confidential and professional virtual mental health counseling services,
+resources, and referrals to support the academic and personal success, health, and well-being of Adelphi students
+without additional charge. Especially with the additional stress resulting from the Covid-19 pandemic, students are
+encouraged to seek support from the SCC when needed. Counselors are available to help students cope with a variety of
+stressors and personal issues that may interfere with their academic and personal experiences. The Center also supports
+students who may be feeling suicidal or in crisis. To schedule an appointment, please call (516) 877-3646, email
+scc@adelphi.edu . If you need immediate assistance, walk-in services are available during the fall and spring semesters
+Monday-Friday 9am-5:00pm. Additional information can also be found by visiting https://scc.adelphi.edu.
+</p>
+
+<p>Need support when the SCC is not available? For 24/7 emergency counseling, referral, or assistance, please contact:</p>
+<ul>
+    <li>Long Island Crisis Center (516) 679-1111</li>
+    <li>National Suicide Prevention Lifeline (800) 273-TALK (8255)</li>
+    <li>Crisis Text Line: Text PAWS to 741741</li>
+    <li>Adelphi Office of Public Safety:</li>
+    <li>Off campus: (516) 877-3511</li>
+    <li>On campus: Extension 5 on any campus phone</li>
+    <li>911 (for immediate health-related emergency)</li>
+</ul>
+
+<h5>The Center for Academic Support and Enrichment (CASE; formerly The Learning and Writing Centers)</h5>
+
+<a href="https://www.adelphi.edu/case/">https://www.adelphi.edu/case/</a><br>
+case@adelphi.edu (516) 877-3200 Nexus 132<br>
+<p>
+CASE programs and services--like individual tutoring in writing and subjects across the
+curriculum, small group study sessions, academic coaching, and targeted workshops--help
+students explore, deepen, and extend their classroom learning. Support programming focuses
+on establishing foundational skills and techniques of studentship, like time management and
+note-taking. Enrichment services develop higher-order critical thinking skills and problem solving
+skills inherent in both abstractions and applications of curricular study.
+</p>
+<p>
+Contact us as CASE@adelphi.edu at ext. 3200, or via our eCampus tab, to review our full slate of real-time (in person
+and remote) and asynchronous services. These are included in your tuition so you’ve already bought them! Don’t miss out
+on the opportunity to supercharge your college experience! Many services require reservations, especially late in the
+semester. Reserve a spot on our scheduling portal, and/or join the self-directed virtual CASE LAB. Get on the CASE, and
+take your Adelphi experience to the next level.
+</p>
+<h5>The Adelphi Honor Code</h5>
+<p>
+The University is an academic community devoted to the pursuit of knowledge. Fundamental to this pursuit is academic
+integrity. In joining the Adelphi community I accept the University’s Statement of Academic Integrity and pledge to
+uphold the principles of honesty and civility embodied in it. I will conduct myself in accordance with ideals of truth
+and honesty and I will forthrightly oppose actions which would violate these ideals.
+</p>
+<h5>Code of Academic Honesty</h5>
+The Code of Academic Honesty prohibits behavior that can broadly be described as lying, cheating, or stealing.
+Violations of the Code of Academic Honesty will include, but not be limited to, the following:
+<ol>
+    <li>Fabricating data or citations</li>
+    <li>Collaborating in areas not approved by the professor</li>
+    <li>Unauthorized multiple submission of one’s own work</li>
+    <li>Sabotage of others’ work, including library vandalism or manipulation</li>
+    <li>Plagiarism</li>
+    <li>The creation of unfair advantage</li>
+    <li>The facilitation of dishonesty</li>
+    <li>Tampering with or falsifying records</li>
+    <li>Cheating</li>
+    <li>Other forms of academic dishonesty</li>
+</ol>
+<p>
+Copying and pasting from any source into your assignments or exams without quotation marks, citations and references,
+constitutes plagiarism. Students are expected to produce and submit original work and to cite all sources appropriately.
+Unauthorized collaboration on any work, or the presentation of someone else’s work as your own, is plagiarism. Content
+generated by an Artificial Intelligence third-party service or site (AI-generated content, e.g. ChatGPT) without
+attribution or authorization is also a form of plagiarism. Unless explicitly stated, artificial intelligence-based
+technologies, such as ChatGPT or word mixing software, cannot be used to generate responses (partial or otherwise) for
+student assignments or exams.
+</p>
+<p>
+If you are unsure about what plagiarism or another form of academic dishonesty are, please reach out to me to discuss it
+as soon as possible. An allegation of an academic integrity violation of this section may be referred for further review
+and could result in disciplinary action. 
+<a href="https://www.adelphi.edu/conduct/academic-dishonesty/">https://www.adelphi.edu/conduct/academic-dishonesty/</a>
+</p>
+
+<h5>Student course evaluations</h5>
+<p>
+During the last two weeks of the class, you will receive notification, via email and eCampus, that the course evaluation
+is available for your input electronically. Your feedback is valuable and students are strongly encouraged to respond.
+Please be assured that your responses are anonymous and the results will not be available to the instructor until after
+course grades have been submitted after the semester ends.
+</p>
+<h5>Religious observance policy</h5>
+<p>
+Adelphi University welcomes diversity in its community, and respects various religious observances. Students who
+anticipate being absent, due to their religious observance, are required by Adelphi University to notify their
+professors at the start of the semester. This will allow the faculty to take these observances into consideration in
+light of their course exam and assignment schedules. Students absent from class, clinical experiences, practice, labs,
+etc. on those days, after prior notice to the professor, will not be penalized for any exam or assignment deadline
+missed because of those absences. Students must contact the instructor to work out suitable arrangements for make-ups or
+other satisfaction of academic requirements.
+</p>
+
+
+<h5>COVID-19 Policies</h5>
+<p>
+The policy for this class is mask optional.
+</p>
+</div></div>
+    
 </main>
 <footer class="footer mt-auto py-3 bg-dark d-print-none d-fixed" style="z-index: 100">
     <div class="container">
@@ -303,6 +944,7 @@ _All project members will receive the same grade._
 <script>
     document.addEventListener('DOMContentLoaded', addBootstrapStyles);
 </script>
+
 
 </body>
 </html>

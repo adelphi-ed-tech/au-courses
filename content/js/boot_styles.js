@@ -14,8 +14,9 @@ function safeName(name) {
     return safe;
 }
 
+
 function addBootstrapStyles() {
-    const headers = document.getElementsByTagName("h2");
+    const headers = document.querySelectorAll("h1:not(.PageTitle), h2");
     const addLink = (header)=> {
 
         let link = document.createElement("a");
@@ -37,15 +38,14 @@ function addBootstrapStyles() {
         header.insertAdjacentElement("beforeend", link);
 
     }
-    for (let header of headers) {
-      console.log("adding header link to " + header.id);
-      addLink(header);
-    }
+    headers.forEach(addLink);
     
-    let tables = document.getElementsByTagName("table");
-    for (let table of tables) {
-      table.classList.add("table");
-      table.classList.add("table-striped");
-      table.classList.add("table-hover");
+    const tables = document.querySelectorAll("table");
+    const fmtTable = (table) => {
+        table.classList.add("table");
+        table.classList.add("table-striped");
+        table.classList.add("table-hover");
     }
+
+    tables.forEach(fmtTable);
 }
