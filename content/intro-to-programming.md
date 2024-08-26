@@ -331,9 +331,9 @@ and lab exercises.
 | 8    | 10/16 - 10/22| Midterm meetings           | Project 1             |
 | 9    | 10/23 - 10/29| Exploring data             | Lab 7, Eval 2         |
 | 10   | 10/30 - 11/05| Mapping shapes             | Lab 8                 |
-| 11   | 11/06 - 11/12| -                          | Lab 9                 |
-| 12   | 11/13 - 11/19| -                          | Lab 10                |
-| 13   | 11/20 - 11/26| -                          | _project work_        |
+| 11   | 11/06 - 11/12| Open                       | Lab 9                 |
+| 12   | 11/13 - 11/19| Open                       | Lab 10                |
+| 13   | 11/20 - 11/26| Open                       | _project work_        |
 | 14   | 11/27 - 12/03| Final project studio       | _project work_        |
 | 15   | 12/04 - 12/10| Beta testing               | _project work_        |
 | 16   | 12/11 - 12/17| Final meetings             | Final Project, Eval 3 |
