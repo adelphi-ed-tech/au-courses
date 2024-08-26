@@ -60,7 +60,12 @@ variables, functions, selection, repetition/loops, basic data structures
 
 **Dr. Curinga's Office Hours by appointment**
 
-* Wednesday, 4:30-5:30PM
+* TBD
+
+**Class Roster**
+
+* [Click here for the class roster.](https://docs.google.com/spreadsheets/d/1vlRZEpIeROtgi_jB3PX2tyfch1QHsqLYVY_48jEz3H4/edit?usp=sharing)
+<small>You can use it to email the class, look up an email, or share a doc with just this class.</small>
 
 {% endmd %}
 </div>
@@ -235,7 +240,7 @@ in your lab:
 ### Midterm: census data analysis (25%)
 
 The midterm will be a pair project that you complete **with your assigned partner**
-(see [the roster](#roster)).
+(see [the roster](https://docs.google.com/spreadsheets/d/1vlRZEpIeROtgi_jB3PX2tyfch1QHsqLYVY_48jEz3H4/edit?usp=sharing)).
 
 For this project you will create your own analysis of the US Census
 data that we have been working with. You will investigate a question
