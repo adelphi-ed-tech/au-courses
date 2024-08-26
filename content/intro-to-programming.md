@@ -4,7 +4,7 @@ title: "Intro to Programming"
 author:
     - "Matthew X. Curinga"
 syllabus_footer: true
-header-img: /img/programming-carto.png
+header-img: img/programming-carto.png
 header-img-alt: "code and a map visual of a demographic map of new york city"
 ---
 
@@ -36,6 +36,9 @@ decreasingly capable of making or even using them effectively.<br>
 <div class="col-md-6">
 {% md %}
 **Computer Science 0145-602, Fall 2024**
+
+site: {{site.url}}
+base: {{base.url}}
 
 **Keywords:**  computer programming, CS1, python, computational thinking, 
 critical computational literacy, maps, data visualization
