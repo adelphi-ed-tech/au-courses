@@ -37,9 +37,6 @@ decreasingly capable of making or even using them effectively.<br>
 {% md %}
 **Computer Science 0145-602, Fall 2024**
 
-site: {{site.url}}
-base: {{base.url}}
-
 **Keywords:**  computer programming, CS1, python, computational thinking, 
 critical computational literacy, maps, data visualization
 
