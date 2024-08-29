@@ -200,11 +200,11 @@ for:
 - do you help others on slack or over email?
 - do you share your work, relevant ideas, and resources?
 - do you find time to study or work with other students?
+- do you complete assignments on time?
 - **do not** abandon your teammates
 - do not turn in work written by AI or other students
 
 ### Labs (50%)
-
 
 There will be 10 programming "labs" during the course of the semester.
 Each lab will provide a few challenges based on the goals and examples
@@ -235,7 +235,7 @@ in your lab:
 ### Midterm: census data analysis (25%)
 
 The midterm will be a pair project that you complete **with your assigned partner**
-(see [the roster](#roster)).
+(see [the roster](https://docs.google.com/spreadsheets/d/1vlRZEpIeROtgi_jB3PX2tyfch1QHsqLYVY_48jEz3H4/edit?usp=sharing)).
 
 For this project you will create your own analysis of the US Census
 data that we have been working with. You will investigate a question
@@ -251,59 +251,43 @@ Specifically, your Colab Notebook must have:
 - at least one interactive map with points and pop-ups
 - at least one table of data
 - at least one graph or chart
+- markdown text blocks that provide a narrative analysis of the data
+  and relevant descriptions of the methods
+
+<h4 class="linkable">Project evaluation criteria</h4>
+
+1. **Content/question:** is the question interesting and important?
+   Does the data help us understand it in a new way? Is it analyzed
+   in a compelling way?
+2. **Programming:** is the code well written and efficient?
+   Does it demonstrate mastery of the concepts covered in the course to this point?
+   Specifically, you should use variable to make your program more flexible and
+   easier to read. Variables should be well named. You shouldn't have any unused 
+   code, commented out code, or redundant statements.
+3. **Risk:** does the project take a risk? Does it try to do something new or
+   different? Low-risk projects very closely resemble the examples and labs;
+   high-risk projects try to do something new or different, even if it doesn't
+   work exactly right.
+4. **Visualization & presentation:** is the map easy to read and easy to use? Can
+   the user use the map to explore the data? Is the text edited (no typos, clear prose)?
+   Is text formatted in HTML and markdown as needed? Are data tables well formatted
+   and have appropriate column headers? Are the charts and graphs selected a good match
+   for the data presented? Does the project make good use of color and size to convey
+   quantitative information?
+
+_Both team members will receive the same grade for the project. This means
+that both members should be prepared to explain any aspect of the project
+during the instructor meeting and to demonstrate their ability to write
+new code._
 
 ### Final project (25%)
+The final project will follow the same format as the midterm project,
+except everyone will work alone and turn in their own work. The final
+can use either census data (from the first half of the term) or school
+data from the second half of the term. You must also integrate at least
+one data source that is not provided by the instructor.
 
-For the final project you will work in a team of 2-3 people to create your own
-data analysis and visualization using a data set that is available for
-download or as a live open data set such as the [NYC Open Data](https://opendata.cityofnewyork.us/).
-
-Of course, you may incorporate other data sets as you see fit.
-
-**The final solution will be scored using the following guide:**
-
-
-
-**Solution (7 points)**
-
-How well does the program written solve the problem? Does the project seriously
-engage with the data? Does it use compute analysis to provide interesting
-insights? Is the data presented in a meaningful and usable way?
-
-Your team's ability to design a solution to the problem is evaluated by this measure.
-
-
-**Elegance & Robustness (8 points)**
-
-This area evaluates the quality of the computer code produced by the team. An
-_elegant_ program provides a parsimonious solution that is both efficient and
-clear. A _robust_ program is flexible and able to change. In the case of data
-analysis, it would be easy to modify if the input data changed or the output
-requirements are updated. It wouldn't "break" if it encountered unexpected data,
-and would continue to operate even if the amount of data were increased
-dramatically. Often, both elegance and robustness are achieved through
-_refactoring_: the process of reflecting on code and revising it after an initial
-working solution is achieved.
-
-**Risk Taking (5 points)**
-
-Learning should be an adventure. One of the most exciting things about writing
-software is the sense of new possibilities and discovery. The "risk taking"
-aspect of your team's grade will reflect the chances that you take with your
-project. Even if your solution isn't quite what you hoped for, or your code
-isn't as elegant as you'd like, it's important that you take chances and try new
-things. To do well in this section, you might want to shoot for an ambitious, or
-complex analysis; or integrate some Javascript libraries or techniques that haven't been
-explicitly covered in the course.
-
-**Code Style (5 points)**
-
-Your code should be well formatted and easy to read. Your functions and
-variables (aka "identifiers") should have clear, meaningful names. Comments
-should be used sparingly, but appropriately to guide the human reader through
-your code.
-
-_All project members will receive the same grade._
+_The final project will be evaluated on the [same criteria as the midterm](#project_evaluation_criteria)._
 
 {% endmd %}
 </div>
@@ -323,7 +307,7 @@ and lab exercises.
 |------|--------------|----------------------------|-----------------------|
 | 1    | 08/28 - 09/03| Data(frames) & Variables   | Lab 1                 |
 | 2    | 09/04 - 09/10| Data and tables            | Lab 2                 |
-| 3    | 09/11 - 09/17| Mapping points             | Lab 3, choose partner |
+| 3    | 09/11 - 09/17| Mapping points             | Lab 3 |
 | 4    | 09/18 - 09/24| Formatting map points      | Lab 4, Eval 1         |
 | 5    | 09/25 - 10/01| Merging and grouping data  | Lab 5                 |
 | 6    | 10/02 - 10/08| Charts & Graphs            | Lab 6                 |
@@ -372,13 +356,12 @@ Python and Colab.
 
 **Do:**
 
-- Watch to the Welcome Message
-- Join Slack (find the link in your Adelphi email)
+- Listen to the Welcome Message
+- [Join our Slack](https://auedtech.slack.com/)
 - Post on the `#code` channel in Slack:
   - your name
   - area of study
   - why you are taking this course and programming background (if any)
-  - which of the "fears of programming" resonate with you
 - share lab 1 with the instructor
 
 
