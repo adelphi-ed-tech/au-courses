@@ -341,8 +341,6 @@ Python and Colab.
     <source src="audio/csc-602/week1.mp3">
 </audio>
 
-
-
 [**Lab 1**](https://colab.research.google.com/drive/1Sq15myWHj3Q8etcuK7tMx-TK_ewVObH3) (due Tuesday)
 
 **Goals:**
@@ -369,7 +367,8 @@ Python and Colab.
   - your name
   - area of study
   - why you are taking this course and programming background (if any)
-- share lab 1 with the instructor
+- Watch the lab 1 video and review the4 code
+- Share your lab 1 with the instructor to submit it
 
 
 Module 2: Data and tables
