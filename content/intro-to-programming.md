@@ -343,7 +343,7 @@ Python and Colab.
 
 
 
-[**Lab 1**](https://drive.google.com/file/d/1Sq15myWHj3Q8etcuK7tMx-TK_ewVObH3/view?usp=sharing) (due Tuesday)
+[**Lab 1**](https://colab.research.google.com/drive/1Sq15myWHj3Q8etcuK7tMx-TK_ewVObH3) (due Tuesday)
 
 **Goals:**
 
