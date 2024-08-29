@@ -336,7 +336,14 @@ This week we want to get up and running with the
 tools of the class and the basics of writing code in
 Python and Colab.
 
-[**Lab 1**](#colab link) (due Tuesday)
+**Listen to the Welcome Message:**
+<audio controls>
+    <source src="audio/csc-602/week1.mp3">
+</audio>
+
+
+
+[**Lab 1**](https://drive.google.com/file/d/1Sq15myWHj3Q8etcuK7tMx-TK_ewVObH3/view?usp=sharing) (due Tuesday)
 
 **Goals:**
 
@@ -355,8 +362,8 @@ Python and Colab.
 - introduction to DataFrames and pandas
 
 **Do:**
-
-- Listen to the Welcome Message
+                                  
+- Listen to the Welcome Message (above) 
 - [Join our Slack](https://auedtech.slack.com/)
 - Post on the `#code` channel in Slack:
   - your name
@@ -372,6 +379,7 @@ This week we're going to look at how to manipulate data
 in a `DataFrame` and how to format it in tables. We
 will continue working with census data regarding
 populations in urban areas.
+
 
 [**Lab 2**](#colab link)
 
