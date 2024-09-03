@@ -35,7 +35,7 @@ decreasingly capable of making or even using them effectively.<br>
 <div class="row">
 <div class="col-md-6">
 {% md %}
-**Computer Science 0145-602, Fall 2024**
+**Computer Science 0145-602-001, Fall 2024**
 
 **Keywords:**  computer programming, CS1, python, computational thinking, 
 critical computational literacy, maps, data visualization
@@ -57,7 +57,8 @@ variables, functions, selection, repetition/loops, basic data structures
 
 **Dr. Curinga's Office Hours by appointment**
 
-* Wednesday, 4:30-5:30PM
+* Monday, 4:30-5:30PM
+* Thursday, 4:30-5:30PM
 
 {% endmd %}
 </div>
