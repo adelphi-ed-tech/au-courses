@@ -378,7 +378,7 @@ will continue working with census data regarding
 populations in urban areas.
 
 
-[**Lab 2**](#colab link)
+[**Lab 2**](https://colab.research.google.com/drive/190tde89_gsfTUfPtvyrT8YGge_K1n8wp?usp=sharing)
 
 **Goals:**
 
