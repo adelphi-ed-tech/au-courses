@@ -266,3 +266,39 @@ Your game design will be scored:
 </div>
 
 
+<div class="apa">
+{% md %}
+Course Bibliography
+-------------------
+Aarseth, E. (2023). Game or Supernovel? Playing and Reading Massive Game Novels. _European Review_, _31_(S1), S66–S76. <https://doi.org/10.1017/S1062798723000443>
+
+Aarseth, E. (2019). Game Studies: How to play — Ten play-tips for the aspiring game-studies scholar. _Game Studies_, _19_(2). <https://gamestudies.org/1902/articles/howtoplay>
+
+Brown, S. (2008). [Video][26:42] [Play is more than just fun](https://www.ted.com/talks/stuart_brown_play_is_more_than_just_fun). _TED Talk_.
+
+Caillois, R. (1961). The Definition of Play. _In Man, Play, and Games_ (pp. 3–10). University of Illinois Press.
+
+_Vox.com_ (2018, June 14). [Dungeons and Dragons, explained](https://www.youtube.com/watch?v=2PEt5RdNHNw) [Video recording][10:12]. 
+
+Fullerton, T. (2019). Chapter 5: Working with System Dynamics. In _Game design workshop: A playcentric approach to creating innovative games_. AK Peters/CRC Press.
+
+Gee, J. P. (2003). What video games have to teach us about learning and literacy. _Computers in Entertainment_, 1(1), 20. <https://doi.org/10.1145/950566.950595>
+
+Huizinga, J. (1955). Nature and significance of play as a cultural phenomenon. In _Homo ludens; a study of the play-element in culture_. (pp. 1–27). Beacon Press.
+
+Hunicke, R., LeBlanc, M., & Zubek, R. (2004). MDA: A formal approach to game design and game research. _Proceedings of the AAAI Workshop on Challenges in Game AI_, 04–04. <https://cdn.aaai.org/Workshops/2004/WS-04-04/WS04-04-001.pdf>
+
+Kelly, D., Nic Giolla Easpaig, B., & Castillo, P. (2023). ‘You Game Like a Girl’: Perceptions of Gender and Competence in Gaming. _Games and Culture_, _18_(1), 62–78. https://doi.org/10.1177/15554120221077730
+
+Salen, K., & Zimmerman, E. (2003). _Rules of Play: Game Design Fundamentals_. The MIT Press.
+
+Simons, J. (2007). Narrative, Games, and Theory. _Game Studies_, _7_(1). <https://gamestudies.org/0701/articles/simons>
+
+Vox.com (Director). (2018, June 14). [Dungeons and Dragons, explained](https://www.youtube.com/watch?v=2PEt5RdNHNw) [Video recording]. 
+
+Wells, G., Romhanyi, A., Reitman, J. G., Gardner, R., Squire, K., & Steinkuehler, C. (2024). Right-Wing Extremism in Mainstream Games: A Review of the Literature. _Games and Culture_, _19_(4), 469–492. https://doi.org/10.1177/15554120231167214
+
+Zubek, R. (2020). _Elements of game design_. The MIT Press.
+
+{% endmd %}
+</div>

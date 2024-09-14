@@ -413,7 +413,7 @@ We're going to start working with geospatial data
 and maps this week. Specifically, we will look at
 how to create maps of our US City census data.
 
-[**Lab 3**](#colab link)
+[**Lab 3**](https://colab.research.google.com/drive/1dnIjrVmjAyjrHB2ZYTfU3ojGY4K7tjV_)
 
 **Goals:**
 
