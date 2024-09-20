@@ -460,7 +460,8 @@ help us display it effectively.
 **Do:**
 
 - _watch this first_: nullQueries (Director). (2021, May 4). Using Design Techniques for Clear and Appealing Data Visualization [Video] [4:16]. <https://www.youtube.com/watch?v=0Smgm2UTUSo>
-- [**Lab 4**](https://youtu.be/RZ0ZtM2zktU) (due Tuesday)
+- [**Lab 4 Code**](https://colab.research.google.com/drive/1i5DIOc9NVH0ek1SkVCbcRaLoJItpxBJ5?usp=sharing)
+- [Lab 4 Video**](https://youtu.be/RZ0ZtM2zktU) [01:09:38]
   - [05:12] [Function review](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=312s)
   - [10:24] [base_map() function](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=624s)
   - [18:20] [Data dictionaries](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=1100s)
