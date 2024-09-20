@@ -132,31 +132,6 @@ Class sessions
 </div>
 <div class="col-md-6 apa">
 {% md %}
-### Readings
-#### Session 1
-Gee, J. P. (2003). What video games have to teach us about learning and literacy. _Computers in Entertainment_, 1(1), 20. <https://doi.org/10.1145/950566.950595>
-
-#### Session 2
-
-Brown, S. (2008). [Video][26:42] [Play is more than just fun](https://www.ted.com/talks/stuart_brown_play_is_more_than_just_fun). _TED Talk_.
-
-Caillois, R. (1961). The Definition of Play. _In Man, Play, and Games_ (pp. 3–10). University of Illinois Press.
-
-Salen, K., & Zimmerman, E. (2003). "Chapter 3: Meaningful Play" In _Rules of Play: Game Design Fundamentals_. The MIT Press.
-
-(_Optional_) Huizinga, J. (1955). Nature and significance of play as a cultural phenomenon. In _Homo ludens; a study of the play-element in culture_. (pp. 1–27). Beacon Press.
-
-{% endmd %}
-</div>
-</div>
-
-
-
-
-<div class="row mt-3">
-<div class="col-md-6">
-{% md %}
-
 Assignments & Grading
 ---------------------
 
@@ -169,6 +144,13 @@ Assignments & Grading
 |Game Pitch           |Nov 07 |10   |
 |Game Design          |Dec 12 |30   |
 
+{% endmd %}
+</div>
+</div>
+
+<div class="row mt-3">
+<div class="col-md-6">
+{% md %}
 
 ### Online participation (30 points)
 Your participation in the weekly online activities make the difference

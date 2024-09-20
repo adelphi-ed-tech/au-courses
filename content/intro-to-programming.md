@@ -434,25 +434,45 @@ Module 4: Formatting map points
 -------------------------------
 
 We're going to continue mapping points, but this
-week we will learn more details about creating
-the themes of our "base layer" maps, mapping
-multiple sets of points onto a single map, and
-creating more complex pop-ups with formatting.
-
-[**Lab 4**](#colab link) (due Tuesday)
+week we will focus on using color to visually
+communicate the meaning of our data.
 
 **Goals:**
 
-- understand core concepts of geospatial data
-- create a map of points
-- write **functions** to use with `.apply()`
-  - create mouse-over titles and pop-ups for points
-  - create a map of points with different colors
-  - create a map of points with different sizes
+This week we will look at a more complex data set
+and investigate ways to tell stories or convey
+meaning with quantitative data through maps.
+Our goal is to learn to manipulate data using
+python and to write custom code that will
+help us display it effectively.
 
 **Topics:**
 
+- use markdown to format text in Jupyter Notebooks
+- use the python `if` statement
+- use python dictionaries
+- use style functions with the `DataFrame` `apply` method
+- use color maps to create colors for map points based on data
+  - understand different types of colors maps
+  - effectively read and use the `matplotlib` color map documentation
+  - create normalized values for color mapping from data
+
 **Do:**
+
+- _watch this first_: nullQueries (Director). (2021, May 4). Using Design Techniques for Clear and Appealing Data Visualization [Video] [4:16]. <https://www.youtube.com/watch?v=0Smgm2UTUSo>
+- [**Lab 4**](https://youtu.be/RZ0ZtM2zktU) (due Tuesday)
+  - [05:12] [Function review](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=312s)
+  - [10:24] [base_map() function](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=624s)
+  - [18:20] [Data dictionaries](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=1100s)
+  - [21:33] [Colormaps overview](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=1293s)
+  - [24:55] [Sequential colormaps](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=1495s)
+  - [43:44] [Divergent colormaps](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=2624s)
+  - [55:10] [Categorical (qualitative) colormaps](https://www.youtube.com/watch?v=RZ0ZtM2zktU&t=3310s)
+
+- ask one question on #code _or_ give one tip on #code
+- lab four exercises (via Google Classroom)
+- (optional) live lab demo and tutoring on Monday, 6-7:30pm
+
 
 Module 5: Merging and grouping data
 -----------------------------------
