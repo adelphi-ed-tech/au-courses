@@ -475,15 +475,65 @@ help us display it effectively.
 - (optional) live lab demo and tutoring on Monday, 6-7:30pm
 
 
-Module 5: Merging and grouping data
------------------------------------
+Module 5: Analyzing data
+------------------------
+This week we will apply the things we have
+learned to look at a new data set. Our
+goal is to solidify our understanding
+of course concepts of the `pandas`
+and `geopandas` libraries.
 
+
+[**Lab 5**](#colab link) (due Tuesday)
+
+**Goals:**
+
+- apply skills to new data set
+- discover interesting patterns in data
+- decide how to analyze and display data
+
+**Topics:**
+
+- sorting data
+- selecting columns
+- filtering data
+- creating new columns with vector operations
+- creating new columns using the `apply()` method
+- creating interactive maps with `explore()`
+- plot points on a map
+- formatting and customizing tooltip and popup options
+- changing base tile maps
+- using colormaps to display data
+
+
+**Do:**
+
+- Watch the video explanation of the problems: [Lab 5 Video](https://www.youtube.com/watch?v=aGhgYTwQkS0)
+- Do the problems
+
+Module 6: Merging and grouping data
+-----------------------------------
 We're going to start working with more complex
 data this week, including looking at ways to
 combine data from different sources and techniques
 for grouping data to create new insights.
 
-[**Lab 5**](#colab link) (due Tuesday)
+When we **merge** data, we combine data from two
+or more sources into a single `DataFrame`. For
+example, we might combine income and demographic
+data with geospatial shape or point geometry data.
+Whenever we merge data, we need to find a common
+**key** that we can use to match rows from df to
+the other. This is usually a column or a set of
+columns.
+
+We will use this data to create basic charts:
+
+- bar charts
+- line charts
+- grouped bar charts
+
+[**Lab 6**](#colab link) (due Tuesday)
 
 **Goals:**
 
@@ -492,25 +542,6 @@ for grouping data to create new insights.
   - understand the difference between inner, outer, left, and right joins
 - group data to create new insights
   - use `.groupby()` and aggregate functions
-
-**Topics:**
-
-**Do:**
-
-Module 6: Charts & Graphs
--------------------------
-
-We're going to make all the basic charts this week:
-
-- bar charts
-- line charts
-- scatter plots
-- grouped bar charts
-
-[**Lab 6**](#colab link) (due Tuesday)
-
-**Goals:**
-
 - understand how charts work to convey quantitative information
 - choose the right chart for the right data
 - use `matplotlib` to create charts

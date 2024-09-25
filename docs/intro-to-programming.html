@@ -752,14 +752,69 @@ help us display it effectively.</p>
   <li>(optional) live lab demo and tutoring on Monday, 6-7:30pm</li>
 </ul>
 
-<h2 id="module-5-merging-and-grouping-data">Module 5: Merging and grouping data</h2>
+<h2 id="module-5-analyzing-data">Module 5: Analyzing data</h2>
+<p>This week we will apply the things we have
+learned to look at a new data set. Our
+goal is to solidify our understanding
+of course concepts of the <code class="language-plaintext highlighter-rouge">pandas</code>
+and <code class="language-plaintext highlighter-rouge">geopandas</code> libraries.</p>
 
+<p><a href="#colab link"><strong>Lab 5</strong></a> (due Tuesday)</p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>apply skills to new data set</li>
+  <li>discover interesting patterns in data</li>
+  <li>decide how to analyze and display data</li>
+</ul>
+
+<p><strong>Topics:</strong></p>
+
+<ul>
+  <li>sorting data</li>
+  <li>selecting columns</li>
+  <li>filtering data</li>
+  <li>creating new columns with vector operations</li>
+  <li>creating new columns using the <code class="language-plaintext highlighter-rouge">apply()</code> method</li>
+  <li>creating interactive maps with <code class="language-plaintext highlighter-rouge">explore()</code></li>
+  <li>plot points on a map</li>
+  <li>formatting and customizing tooltip and popup options</li>
+  <li>changing base tile maps</li>
+  <li>using colormaps to display data</li>
+</ul>
+
+<p><strong>Do:</strong></p>
+
+<ul>
+  <li>Watch the video explanation of the problems: <a href="https://www.youtube.com/watch?v=aGhgYTwQkS0">Lab 5 Video</a></li>
+  <li>Do the problems</li>
+</ul>
+
+<h2 id="module-6-merging-and-grouping-data">Module 6: Merging and grouping data</h2>
 <p>We’re going to start working with more complex
 data this week, including looking at ways to
 combine data from different sources and techniques
 for grouping data to create new insights.</p>
 
-<p><a href="#colab link"><strong>Lab 5</strong></a> (due Tuesday)</p>
+<p>When we <strong>merge</strong> data, we combine data from two
+or more sources into a single <code class="language-plaintext highlighter-rouge">DataFrame</code>. For
+example, we might combine income and demographic
+data with geospatial shape or point geometry data.
+Whenever we merge data, we need to find a common
+<strong>key</strong> that we can use to match rows from df to
+the other. This is usually a column or a set of
+columns.</p>
+
+<p>We will use this data to create basic charts:</p>
+
+<ul>
+  <li>bar charts</li>
+  <li>line charts</li>
+  <li>grouped bar charts</li>
+</ul>
+
+<p><a href="#colab link"><strong>Lab 6</strong></a> (due Tuesday)</p>
 
 <p><strong>Goals:</strong></p>
 
@@ -775,28 +830,6 @@ for grouping data to create new insights.</p>
       <li>use <code class="language-plaintext highlighter-rouge">.groupby()</code> and aggregate functions</li>
     </ul>
   </li>
-</ul>
-
-<p><strong>Topics:</strong></p>
-
-<p><strong>Do:</strong></p>
-
-<h2 id="module-6-charts--graphs">Module 6: Charts &amp; Graphs</h2>
-
-<p>We’re going to make all the basic charts this week:</p>
-
-<ul>
-  <li>bar charts</li>
-  <li>line charts</li>
-  <li>scatter plots</li>
-  <li>grouped bar charts</li>
-</ul>
-
-<p><a href="#colab link"><strong>Lab 6</strong></a> (due Tuesday)</p>
-
-<p><strong>Goals:</strong></p>
-
-<ul>
   <li>understand how charts work to convey quantitative information</li>
   <li>choose the right chart for the right data</li>
   <li>use <code class="language-plaintext highlighter-rouge">matplotlib</code> to create charts</li>

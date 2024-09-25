@@ -14,7 +14,7 @@ Zubek, R. (2020). Poker. In _Elements of game design_. The MIT Press.
 
 Session 4: Narrative
 ====================
-<img src="https://adelphi-ed-tech.github.io/au-courses/img/zork.png" alt="Zork" style="max-with: 100%; float:right">
+<img src="https://adelphi-ed-tech.github.io/au-courses/img/zork.png" alt="Zork" style="max-with: 100%; float:right; padding: 1em;">
 
 **Goals**
 
@@ -22,6 +22,12 @@ Session 4: Narrative
 - discover the ways that story drives games
 
 **Listen to the Week 4 Overview**
+
+<audio controls>
+  <source src="https://moodle.adelphi.edu/draftfile.php/328963/user/draft/309237472/games-week4.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 
 **Game of the week: Zork I**
