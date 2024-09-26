@@ -71,3 +71,77 @@ Simons, J. (2007). Narrative, Games, and Theory. _Game Studies_, _7_(1).
 [https://gamestudies.org/0701/articles/simons](https://gamestudies.org/0701/articles/simons)
 
 
+
+Session 5: Game Design
+======================
+<img src="https://adelphi-ed-tech.github.io/au-courses/img/story-games.png" alt="Phoenix Wright, Doki Doki, Sans Undertale" style="max-with: 100%; display:block;margin-bottom: 1em">
+
+**Goals**
+
+- investigate formal elements of game design and narrative
+- analyze story-driven games from a scholarly and design perspective
+
+**Listen to the Week 5 Overview**
+
+<audio controls>
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4822286" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+**Choose your game of the week:**
+
+1. [Ace Attorney](https://www.ace-attorney.com/) [Win & Console]
+2. [Undertale](https://undertale.com/) [Win, Mac, Linux, PS4, Switch] 
+3. [Doki Doki Literature Club](https://ddlc.moe/) [Win, Mac, Linux]
+
+These are more modern, story-driven games. Look at all three, and choose
+the one that you want to play and learn more about. This week, I would
+like you to play **the game for at least 2 hours**. One hour isn't
+enough time to experience the unique elements. Of course, you are welcome
+to play longer. _Doki Doki_ is free, the other two appear to be on sale
+for around $10. I bought them on [STEAM](https://store.steampowered.com/).
+
+**Do**
+
+1. Start the game
+2. Do the readings
+3. Play more of the game
+4. Post once, comment twice in the Design Forum. _Note: two prompts this week._
+
+<hr>
+
+**Readings**
+
+Costikyan, G. (2002). I Have No Words & I Must Design: Toward a Critical Vocabulary for Games. _Proceedings of Computer Games and Digital Cultures Conference_.
+
+Fullerton, T. (2019). Working with Dramatic Elements. In _Game design workshop: A playcentric approach to creating innovative games_. AK Peters/CRC Press.
+
+
+**Resources**
+
+Costikiyan: I have no words
+---------------------------
+
+In your own words, explain what Greg Costikyan means by each of the following, in terms of game design:
+
+- interaction
+- struggle
+- endogenous
+- (any two elements of LeBlanc, as described by Costikyan)
+
+Narrative Games
+---------------
+Refering to Zork I and the game that you chose this week, write a game analysis essay
+(~400-500 words) on one of the following themes:
+
+1. Agency and player choice
+2. Flow, challenge, and frustration
+3. Character, story, and drama
+
+- - - -
+Gee, J. P., & Price, A. (2021). Game-Design Teaching and Learning. Strategies, 34(3), 35–38. https://doi.org/10.1080/08924562.2021.1896928
+
+
+
+

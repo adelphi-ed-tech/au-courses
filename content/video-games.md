@@ -247,7 +247,6 @@ Your game design will be scored:
 </div>
 </div>
 
-
 <div class="apa">
 {% md %}
 Course Bibliography
@@ -260,11 +259,13 @@ Brown, S. (2008). [Video][26:42] [Play is more than just fun](https://www.ted.co
 
 Caillois, R. (1961). The Definition of Play. _In Man, Play, and Games_ (pp. 3–10). University of Illinois Press.
 
-_Vox.com_ (2018, June 14). [Dungeons and Dragons, explained](https://www.youtube.com/watch?v=2PEt5RdNHNw) [Video recording][10:12]. 
+Costikyan, G. (2002). I Have No Words & I Must Design: Toward a Critical Vocabulary for Games. _Proceedings of Computer Games and Digital Cultures Conference_.
 
 Fullerton, T. (2019). Chapter 5: Working with System Dynamics. In _Game design workshop: A playcentric approach to creating innovative games_. AK Peters/CRC Press.
 
 Gee, J. P. (2003). What video games have to teach us about learning and literacy. _Computers in Entertainment_, 1(1), 20. <https://doi.org/10.1145/950566.950595>
+
+Gee, J. P., & Price, A. (2021). Game-Design Teaching and Learning. Strategies, 34(3), 35–38. <https://doi.org/10.1080/08924562.2021.1896928>
 
 Huizinga, J. (1955). Nature and significance of play as a cultural phenomenon. In _Homo ludens; a study of the play-element in culture_. (pp. 1–27). Beacon Press.
 
@@ -276,7 +277,7 @@ Salen, K., & Zimmerman, E. (2003). _Rules of Play: Game Design Fundamentals_. Th
 
 Simons, J. (2007). Narrative, Games, and Theory. _Game Studies_, _7_(1). <https://gamestudies.org/0701/articles/simons>
 
-Vox.com (Director). (2018, June 14). [Dungeons and Dragons, explained](https://www.youtube.com/watch?v=2PEt5RdNHNw) [Video recording]. 
+_Vox.com_ (2018, June 14). [Dungeons and Dragons, explained](https://www.youtube.com/watch?v=2PEt5RdNHNw) [Video recording][10:12]. 
 
 Wells, G., Romhanyi, A., Reitman, J. G., Gardner, R., Squire, K., & Steinkuehler, C. (2024). Right-Wing Extremism in Mainstream Games: A Review of the Literature. _Games and Culture_, _19_(4), 469–492. https://doi.org/10.1177/15554120231167214
 
