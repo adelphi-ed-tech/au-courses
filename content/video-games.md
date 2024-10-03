@@ -261,7 +261,7 @@ Caillois, R. (1961). The Definition of Play. _In Man, Play, and Games_ (pp. 3–
 
 Costikyan, G. (2002). I Have No Words & I Must Design: Toward a Critical Vocabulary for Games. _Proceedings of Computer Games and Digital Cultures Conference_.
 
-Fullerton, T. (2019). Chapter 5: Working with System Dynamics. In _Game design workshop: A playcentric approach to creating innovative games_. AK Peters/CRC Press.
+Fullerton, T. (2019). _Game design workshop: A playcentric approach to creating innovative games_. AK Peters/CRC Press.
 
 Gee, J. P. (2003). What video games have to teach us about learning and literacy. _Computers in Entertainment_, 1(1), 20. <https://doi.org/10.1145/950566.950595>
 

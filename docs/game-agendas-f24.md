@@ -132,7 +132,7 @@ In your own words, explain what Greg Costikyan means by each of the following, i
 
 Narrative Games
 ---------------
-Refering to Zork I and the game that you chose this week, write a game analysis essay
+Referring to _Zork I_ and the game that you chose this week, write a game analysis essay
 (~400-500 words) on one of the following themes:
 
 1. Agency and player choice
