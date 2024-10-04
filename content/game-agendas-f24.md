@@ -161,7 +161,12 @@ Gee, J. P., & Price, A. (2021). Game-Design Teaching and Learning. Strategies, 3
 
 Week 6:Game Violence
 =====================
-<img src="https://lh5.googleusercontent.com/UU4eDFoeefflt_Mz7snaVmZY8j99zE1xIS2JeYEV4Uv8oWt3YySLB3zzIgX49ot1C9V2QhVEsl8C3QEH0_60qfJzi4VFSz-64wdHy27BlceCK0hid2JHI2A3lO_WoHzjeQVcsb3I" alt="Grand theft auto, vice city" style="max-with: 100%; display:block;margin-bottom: 1em">
+<img src="/img/gta.png" alt="Grand theft auto, vice city" style="max-with: 100%; display:block;margin-bottom: 1em">
+
+<audio controls>
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4826862" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 **Goals**
 
