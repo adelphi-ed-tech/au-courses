@@ -183,7 +183,7 @@ Week 6:Game Violence
    1. Gruson, L. (1993, September 16). Video Violence: It’s Hot! It’s Mortal! It’s Kombat!; Teen-Agers Eagerly Await Electronic Carnage While Adults Debate Message Being Sent. The New York Times. https://www.nytimes.com/1993/09/16/nyregion/video-violence-it-s-hot-it-s-mortal-it-s-kombat-teen-agers-eagerly-await.html
    2. Klepek, P. (2015, October 26). [That Time Call Of Duty Let You Shoot Up An Airport](https://www.kotaku.com.au/2015/10/that-time-call-of-duty-let-you-shoot-up-an-airport/). _Kotaku Australia_. 
    3. **Call of Duty: Modern Warfare 2** (2009) [No Russian](https://youtu.be/sIu1EwsWDbU?embed=0&feature=shared&t=84) [Video] (1 minute is enough)
-   4. Dowsett, A., & Jackson, M. (2019). The effect of violence and competition within video games on aggression. _Computers in Human Behavior_, _99_, 22–27. https://doi.org/10.1016/j.chb.2019.05.002
+   4. Coyne, S. M., & Stockdale, L. (2021). Growing Up with Grand Theft Auto: A 10-Year Study of Longitudinal Growth of Violent Video Game Play in Adolescents. _Cyberpsychology, Behavior, and Social Networking_, _24_(1), 11–16. https://doi.org/10.1089/cyber.2020.0049
    5. Maier-Zucchino, E. J. (2023). Developing Meaning: Critical Violence and Eudaimonic Entertainment in the Seventh Console Generation. _Games and Culture_, _18_(3), 380–401. [https://doi.org/10.1177/15554120221100817](https://doi.org/10.1177/15554120221100817)
 4. Contribute to your team's "game violence" position document. **Due end of day Tuesday.**
 5. Post once, comment twice in the Game Violence Debate forum, **between Wed & Thurs.**

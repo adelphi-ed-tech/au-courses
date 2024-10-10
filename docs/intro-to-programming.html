@@ -338,11 +338,11 @@ write (whether from a friend, AI, a “cheating” website, etc).</p>
     </tr>
     <tr>
       <td>Final project</td>
-      <td>25</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>Participation</td>
-      <td>20</td>
+      <td>15</td>
     </tr>
   </tbody>
 </table>
@@ -369,7 +369,7 @@ for:</p>
   <li>do not turn in work written by AI or other students</li>
 </ul>
 
-<h3 id="labs-50">Labs (50%)</h3>
+<h3 id="labs-30">Labs (30%)</h3>
 
 <p>There will be 10 programming “labs” during the course of the semester.
 Each lab will provide a few challenges based on the goals and examples
@@ -463,7 +463,7 @@ that both members should be prepared to explain any aspect of the project
 during the instructor meeting and to demonstrate their ability to write
 new code.</em></p>
 
-<h3 id="final-project-25">Final project (25%)</h3>
+<h3 id="final-project-30">Final project (30%)</h3>
 <p>The final project will follow the same format as the midterm project,
 except everyone will work alone and turn in their own work. The final
 can use either census data (from the first half of the term) or school
@@ -539,38 +539,38 @@ and lab exercises.</p>
     <tr>
       <td>8</td>
       <td>10/16 - 10/22</td>
-      <td>Midterm meetings</td>
-      <td>Project 1</td>
+      <td>Census Geographies</td>
+      <td><em>project work</em></td>
     </tr>
     <tr>
       <td>9</td>
       <td>10/23 - 10/29</td>
-      <td>Charts &amp; Graphs</td>
-      <td>Lab 7, Eval 2</td>
+      <td>Midterm meetings</td>
+      <td>Project 1 Due</td>
     </tr>
     <tr>
       <td>10</td>
       <td>10/30 - 11/05</td>
-      <td>Mapping shapes</td>
-      <td>Lab 8</td>
+      <td>Charts &amp; Graphs</td>
+      <td>Lab 7, Eval 2</td>
     </tr>
     <tr>
       <td>11</td>
       <td>11/06 - 11/12</td>
-      <td>Open</td>
-      <td>Lab 9</td>
+      <td>Mapping shapes &amp; layers</td>
+      <td>Lab 8</td>
     </tr>
     <tr>
       <td>12</td>
       <td>11/13 - 11/19</td>
       <td>Open</td>
-      <td>Lab 10</td>
+      <td>Lab 9</td>
     </tr>
     <tr>
       <td>13</td>
       <td>11/20 - 11/26</td>
       <td>Open</td>
-      <td><em>project work</em></td>
+      <td>Lab 10</td>
     </tr>
     <tr>
       <td>14</td>
@@ -840,13 +840,41 @@ and <code class="language-plaintext highlighter-rouge">geopandas</code> librarie
   </li>
 </ul>
 
-<h2 id="module-7-project-1-studio">Module 7: Project 1 studio</h2>
+<h2 id="module-7-census-data">Module 7: Census Data</h2>
+<p>This week we will work directly with the Census API,
+gathering “raw” data directly from the source. We look
+at how to <em>query</em> for census variables/fields, how to
+specify the year, and how to find data for specific
+geographic regions.</p>
+
+<p><strong>Goals:</strong></p>
+
+<ul>
+  <li>configure and use your own Census API key</li>
+  <li>use the python <code class="language-plaintext highlighter-rouge">census</code> library to send valid queries</li>
+  <li>understand the structure of the Census API</li>
+  <li>clean and format data for further analysis</li>
+  <li>use the census <code class="language-plaintext highlighter-rouge">for</code> and <code class="language-plaintext highlighter-rouge">in</code> parameters to specify
+the geographic region of interest</li>
+</ul>
+
+<p><strong>Do:</strong></p>
+
+<ul>
+  <li><a href="https://drive.google.com/file/d/1SxMqPCqJvNwL4U40bWYWDWF8u5rqAVfF/view?usp=sharing">review lab 7 code</a></li>
+  <li><a href="https://youtu.be/AwyhtIcpeLw">watch the video walkthrough</a> [35:11]</li>
+  <li>post your team and topic for the midterm project on <code class="language-plaintext highlighter-rouge">#code</code></li>
+</ul>
+
+</div>
+<div class="col-md-6 border-start border-3 border-dark">
+<h2 id="module-8-project-1-studio">Module 8: Project 1 studio</h2>
 <p>This week you will work with your partner to
 complete the midterm project. There will be
 no new labs this week, but we will hold
 our weekly online session to work on projects.</p>
 
-<h2 id="module-8-midterm-meetings">Module 8: Midterm meetings</h2>
+<h2 id="module-9-midterm-meetings">Module 9: Midterm meetings</h2>
 <p>This week, you and your partner will schedule a 30 minute
 meeting with the instructor. In this meeting, you will 
 have 15 minutes to explain and demonstrate the key aspects
@@ -872,35 +900,15 @@ covered in the first half of the course</li>
   <li>schedule a zoom meeting with the instructor <a href="#tbd">link TBD</a></li>
 </ul>
 
-</div>
-<div class="col-md-6 border-start border-3 border-dark">
-<h2 id="module-9-exploring-data">Module 9: Exploring data</h2>
-<p>This week you will be presented with several new data sets
-available through the <code class="language-plaintext highlighter-rouge">nycschools</code> library. This package
-provides data on all the schools in New York City, combined
-from public data sets. Your task will be to use the API
-to load data and to explore it in an open-ended manner.</p>
-
-<p><em>You will apply your project 1 skills in a new context.</em></p>
-
-<p><strong>Goals:</strong></p>
-
-<ul>
-  <li>experience working with new data and discovering
-features of that data</li>
-  <li>choose your own analysis and visualizations</li>
-</ul>
-
-<p><strong>Topics:</strong></p>
-
-<p><strong>Do:</strong></p>
-
-<h2 id="module-10-mapping-shapes">Module 10: Mapping shapes</h2>
-<p>So far, we have only placed <em>points</em> on our maps. This week
+<h2 id="module-10-mapping-shapes--layers">Module 10: Mapping shapes &amp; layers</h2>
+<p>So far, we have mostly placed <em>points</em> on our maps. This week
 we will plot polygons (shapes) from geospatial data files.
 We will learn how to draw boundaries from data, add labels,
 control the styles, and use color maps to create data-driven
 <strong>choropleth</strong> maps.</p>
+
+<p>We will combine points and shapes, and create multiple layers
+and legends on our maps.</p>
 
 <p><a href="#colab link"><strong>Lab 8</strong></a> (due Tuesday)</p>
 

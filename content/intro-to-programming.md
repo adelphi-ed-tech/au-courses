@@ -181,8 +181,8 @@ Assignments and Grading
 |--------------------|--------|
 | Labs (10 total)    | 30     |
 | Midterm project    | 25     |
-| Final project      | 25     |
-| Participation      | 20     |
+| Final project      | 30     |
+| Participation      | 15     |
 
 ### Participation (15%)
 
@@ -204,7 +204,7 @@ for:
 - **do not** abandon your teammates
 - do not turn in work written by AI or other students
 
-### Labs (50%)
+### Labs (30%)
 
 There will be 10 programming "labs" during the course of the semester.
 Each lab will provide a few challenges based on the goals and examples
@@ -287,7 +287,7 @@ that both members should be prepared to explain any aspect of the project
 during the instructor meeting and to demonstrate their ability to write
 new code._
 
-### Final project (25%)
+### Final project (30%)
 The final project will follow the same format as the midterm project,
 except everyone will work alone and turn in their own work. The final
 can use either census data (from the first half of the term) or school
@@ -319,12 +319,12 @@ and lab exercises.
 | 5    | 09/25 - 10/01| Color maps                 | Lab 5                 |
 | 6    | 10/02 - 10/08| Merging and grouping data  | Lab 6                 |
 | 7    | 10/09 - 10/15| Census Data                | _project work_        |
-| 8    | 10/16 - 10/22| Midterm meetings           | Project 1             |
-| 9    | 10/23 - 10/29| Charts & Graphs            | Lab 7, Eval 2         |
-| 10   | 10/30 - 11/05| Mapping shapes             | Lab 8                 |
-| 11   | 11/06 - 11/12| Open                       | Lab 9                 |
-| 12   | 11/13 - 11/19| Open                       | Lab 10                |
-| 13   | 11/20 - 11/26| Open                       | _project work_        |
+| 8    | 10/16 - 10/22| Census Geographies         | _project work_        |
+| 9    | 10/23 - 10/29| Midterm meetings           | Project 1 Due         |
+| 10   | 10/30 - 11/05| Charts & Graphs            | Lab 7, Eval 2         |
+| 11   | 11/06 - 11/12| Mapping shapes & layers    | Lab 8                 |
+| 12   | 11/13 - 11/19| Open                       | Lab 9                 |
+| 13   | 11/20 - 11/26| Open                       | Lab 10                |
 | 14   | 11/27 - 12/03| Final project studio       | _project work_        |
 | 15   | 12/04 - 12/10| Beta testing               | _project work_        |
 | 16   | 12/11 - 12/17| Final meetings             | Final Project, Eval 3 |
@@ -544,7 +544,34 @@ Module 6: Merging and grouping data
   - post on `#code` a census area you might be interested in for your midterm project
   - more to come next week
 
-Module 7: Project 1 studio
+Module 7: Census Data
+---------------------
+This week we will work directly with the Census API,
+gathering "raw" data directly from the source. We look
+at how to _query_ for census variables/fields, how to
+specify the year, and how to find data for specific
+geographic regions.
+
+**Goals:**
+
+- configure and use your own Census API key
+- use the python `census` library to send valid queries
+- understand the structure of the Census API
+- clean and format data for further analysis
+- use the census `for` and `in` parameters to specify
+  the geographic region of interest
+
+**Do:**
+
+- [review lab 7 code](https://drive.google.com/file/d/1SxMqPCqJvNwL4U40bWYWDWF8u5rqAVfF/view?usp=sharing)
+- [watch the video walkthrough](https://youtu.be/AwyhtIcpeLw) [35:11]
+- post your team and topic for the midterm project on `#code`
+{% endmd %}
+</div>
+<div class="col-md-6 border-start border-3 border-dark">
+{% md %}
+
+Module 8: Project 1 studio
 --------------------------
 This week you will work with your partner to
 complete the midterm project. There will be
@@ -552,7 +579,7 @@ no new labs this week, but we will hold
 our weekly online session to work on projects.
 
 
-Module 8: Midterm meetings
+Module 9: Midterm meetings
 --------------------------
 This week, you and your partner will schedule a 30 minute
 meeting with the instructor. In this meeting, you will 
@@ -575,37 +602,17 @@ present.
 - share your project code with the instructor
 - schedule a zoom meeting with the instructor [link TBD](#tbd)
 
-{% endmd %}
-</div>
-<div class="col-md-6 border-start border-3 border-dark">
-{% md %}
-Module 9: Exploring data
-------------------------
-This week you will be presented with several new data sets
-available through the `nycschools` library. This package
-provides data on all the schools in New York City, combined
-from public data sets. Your task will be to use the API
-to load data and to explore it in an open-ended manner.
 
-_You will apply your project 1 skills in a new context._
-
-**Goals:**
-
-- experience working with new data and discovering
-  features of that data
-- choose your own analysis and visualizations
-
-**Topics:**
-
-**Do:**
-
-Module 10: Mapping shapes
-------------------------
-So far, we have only placed _points_ on our maps. This week
+Module 10: Mapping shapes & layers
+----------------------------------
+So far, we have mostly placed _points_ on our maps. This week
 we will plot polygons (shapes) from geospatial data files.
 We will learn how to draw boundaries from data, add labels,
 control the styles, and use color maps to create data-driven
 **choropleth** maps.
+
+We will combine points and shapes, and create multiple layers
+and legends on our maps.
 
 [**Lab 8**](#colab link) (due Tuesday)
 
