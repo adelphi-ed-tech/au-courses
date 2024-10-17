@@ -117,8 +117,8 @@ Class sessions
 |      5|Sep 26  |Game Design                 |
 |      6|Oct 03  |Game Violence               |
 |      7|Oct 10  |Games & Representation      |
-|      8|Oct 17  |Serious Games               |
-|      9|Oct 24  |XR Games                    |
+|      8|Oct 17  |Games for Learning          |
+|      9|Oct 24  |Educational Games           |
 |     10|Oct 31  |Designing as Learning       |
 |     11|Nov 07  |Game Pitches                |
 |     12|Nov 14  |Design studio               |
@@ -139,7 +139,7 @@ Assignments & Grading
 |------------------   |-------|-----|
 |Online Participation |weekly |30   |
 |Game study post 1    |Sep 19 |10   |
-|Game study post 2    |Oct 17 |10   |
+|Game study post 2    |Oct 20 |10   |
 |Game study post 3    |Nov 14 |10   |
 |Game Pitch           |Nov 07 |10   |
 |Game Design          |Dec 12 |30   |
@@ -179,7 +179,7 @@ _Forum rules:_
 2. Any type of game can work. Consider mixing up the types/genres for your posts.
 3. Read every post. Comment liberally. Don't just say, "I really like what you wrote."
 
-**Grading:**
+**Grading:**7
 - excellent (8-10 points): post is unique and interesting, it's well written and edited, arguments show reflection and integration of the course discussions and readings, discussion is supported logically and by close examples from the game.
 - good (5-8 points): meets all of the criteria as above, but may have minor flaws in editing or supporting arguments.
 - satisfactory (3-5 points): either the writing and examples are not clear enough to fully support the argument, or the arguments don't reflect the course readings or exhibit other clear flaws
@@ -261,6 +261,8 @@ Caillois, R. (1961). The Definition of Play. _In Man, Play, and Games_ (pp. 3–
 
 Costikyan, G. (2002). I Have No Words & I Must Design: Toward a Critical Vocabulary for Games. _Proceedings of Computer Games and Digital Cultures Conference_.
 
+Fox, J., & Tang, W. Y. (2014). Sexism in online video games: The role of conformity to masculine norms and social dominance orientation. _Computers in Human Behavior_, 33, 314–320. <https://doi.org/10.1016/j.chb.2013.07.014>
+
 Fullerton, T. (2019). _Game design workshop: A playcentric approach to creating innovative games_. AK Peters/CRC Press.
 
 Gee, J. P. (2003). What video games have to teach us about learning and literacy. _Computers in Entertainment_, 1(1), 20. <https://doi.org/10.1145/950566.950595>
@@ -271,15 +273,19 @@ Huizinga, J. (1955). Nature and significance of play as a cultural phenomenon. I
 
 Hunicke, R., LeBlanc, M., & Zubek, R. (2004). MDA: A formal approach to game design and game research. _Proceedings of the AAAI Workshop on Challenges in Game AI_, 04–04. <https://cdn.aaai.org/Workshops/2004/WS-04-04/WS04-04-001.pdf>
 
-Kelly, D., Nic Giolla Easpaig, B., & Castillo, P. (2023). ‘You Game Like a Girl’: Perceptions of Gender and Competence in Gaming. _Games and Culture_, _18_(1), 62–78. https://doi.org/10.1177/15554120221077730
+Kelly, D., Nic Giolla Easpaig, B., & Castillo, P. (2023). ‘You Game Like a Girl’: Perceptions of Gender and Competence in Gaming. _Games and Culture_, _18_(1), 62–78. <https://doi.org/10.1177/15554120221077730>
 
 Salen, K., & Zimmerman, E. (2003). _Rules of Play: Game Design Fundamentals_. The MIT Press.
 
 Simons, J. (2007). Narrative, Games, and Theory. _Game Studies_, _7_(1). <https://gamestudies.org/0701/articles/simons>
 
+Squire, K., & Jenkins, H. (2011). Ideological Worlds: What makes a “good” educational game? In K. Squire & H. Jenkins, _Video games and learning: Teaching and participatory culture in the digital age_ (pp. 19–37). Teachers College Press.
+
 _Vox.com_ (2018, June 14). [Dungeons and Dragons, explained](https://www.youtube.com/watch?v=2PEt5RdNHNw) [Video recording][10:12]. 
 
-Wells, G., Romhanyi, A., Reitman, J. G., Gardner, R., Squire, K., & Steinkuehler, C. (2024). Right-Wing Extremism in Mainstream Games: A Review of the Literature. _Games and Culture_, _19_(4), 469–492. https://doi.org/10.1177/15554120231167214
+Wells, G., Romhanyi, A., Reitman, J. G., Gardner, R., Squire, K., & Steinkuehler, C. (2024). Right-Wing Extremism in Mainstream Games: A Review of the Literature. _Games and Culture_, _19_(4), 469–492. <https://doi.org/10.1177/15554120231167214>
+
+Wistow, H. (2024). The Stupid, the Ridiculous, the Camp: How Goat Simulator’s “Messy” Design Facilitates Queer Play. Games and Culture, 15554120241278851. <https://doi.org/10.1177/15554120241278851>
 
 Zubek, R. (2020). _Elements of game design_. The MIT Press.
 

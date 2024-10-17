@@ -204,3 +204,111 @@ Jamison, Divya, and Josh helped me think about **Zork** in new ways, as they des
 These readings and other posts made me think more about the role of agency in games. As we've been reading, the ability for players to make meaningful choices and take consequential actions are core to good game design. Christopher's post on **Ace Attorney** highlights how story and character contribute to making those choices _meaningful_. Phoneix's actions aren't just meaningful because they alter the flow of the story and create new branches: they mean something because you care about the characters and what happens to them. Taye does a great job describing the narrative arc of **Doki Doki Literature Club**, an its impact on the game. Nicolette and Anna pick up this thread to investigate agency in DDLC, talking about how the _false sense of agency_, or lack of agency gives the game its power. This clever technique lends greater power and meaning to the central conflict in the game, while also offering a critique of the bland agency of meaningless choices found in the genre.
 
 Honestly, it wasn't my intention to have a comparative discussion of narrative games. I offered the 3 games because I thought it would be more fun if youse all had a choice, to play a new game if you had played some of the others already, and to keep the expenses down with a free option. Reading your posts, though, I think that we were able to have a very rich discussion of the various aspects of narrative and character in games, and the ways that different games can capitalize on these elements.
+
+
+
+Week 7: Games & Representation
+===============================
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F05%2FThe-Sims-4-1.jpg&f=1&nofb=1&ipt=453a274756450311de59d8c018fb651d08f1ffc602f26eb77039ef3f640b756b&ipo=images" alt="The Sims 4" style="max-with: 100%; display:block;margin-bottom: 1em">
+
+<audio controls>
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4826862" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+**Goals**
+
+- consider the ways that game cultures can be inclusive and supportive, or toxic and destructive
+- explore the way that game design choices can represent and reinforce cultural norms
+
+
+**Game of the week: The Sims 4**
+
+[The Sims 4](https://www.ea.com/games/the-sims/the-sims-4) is a free to play simulation/sandbox where you create characters and guide them in a virtual world. It's been a widely popular game for more than 20 years (I imagine some of you have played it), and is designed to allow a degree of creativity and self-expression. Play for at least an hour.
+
+- **Get it here:** [https://www.ea.com/games/the-sims/the-sims-4](https://www.ea.com/games/the-sims/the-sims-4)
+- It's cross platform (I installed via Steam on Windows)
+- Play for at least an hour
+
+
+### Do
+1. Listen to the Week 7 Overview
+2. Read:
+  1. Fox, J., & Tang, W. Y. (2014). [Sexism in online video games: The role of conformity to masculine norms and social dominance orientation](https://doi.org/10.1016/j.chb.2013.07.014). _Computers in Human Behavior_, 33, 314–320.
+  2. Wells, G., Romhanyi, A., Reitman, J. G., Gardner, R., Squire, K., & Steinkuehler, C. (2024). [Right-Wing Extremism in Mainstream Games: A Review of the Literature](https://doi.org/10.1177/15554120231167214). _Games and Culture_, 19(4), 469–492.
+  3. Wistow, H. (2024). [The Stupid, the Ridiculous, the Camp: How Goat Simulator’s “Messy” Design Facilitates Queer Play](https://doi.org/10.1177/15554120241278851). Games and Culture, 15554120241278851. 
+3. Post a summary/review of a news article in the Game Culture News forum (details in forum).
+4. Post a screenshot of something from your world in The Sims on Discord; tell us about it.
+
+
+Game Culture News
+-----------------
+
+Look for a recent news or magazine article that addresses an issue
+of race, gender, sexuality, or other issue of identity in games,
+the game industry, or culture.
+
+Post:
+
+- A link to the article
+- Article citation (APA)
+- A summary of the article
+- Your reflection on the article
+- Comment on at least two other people's posts, respond to some comments on your post.
+- Initial post due end of day Tuesday
+
+
+
+Week 8: Games for learning
+==========================
+<img src="https://static.wikia.nocookie.net/civilization/images/9/97/Harun_al-Rashid_(Civ5).jpg/revision/latest/scale-to-width-down/600" alt="Civ 5 leader, Harun al-Rashid" style="max-with: 100%; display:block;margin-bottom: 1em">
+
+<audio controls>
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4834970" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Goals
+
+- think about how "entertainment" games can be used for educational purposes
+- consider a specific example of games used in education
+- reflect on the historical content of a game
+
+### Game of the week: Civilization VI
+
+[Civilization](https://civilization.2k.com/civ-vi/) is a highly regarded series of strategy games
+that allow you to build and manage a civilization from the dawn of time to the near future. It supports individual play
+and multiplayer (online). We are going to play it for 2 weeks, and it's the last game you will have to purchase this semester.
+
+We are going to play Civ V. It's currently available for $30 on [STEAM](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/)
+and [Humble](https://www.humblebundle.com/store/sid-meiers-civilization-v). 
+It's even available on the [Mac Store](https://apps.apple.com/us/app/civilization-v/id439924718?mt=12).
+
+Play for at least one hour this week. If you want to arrange a game with other students, post on Discord.
+
+
+### Do
+1. Listen to the Week 8 Overview
+2. Read:
+  1. Squire, K., & Jenkins, H. (2011). Ideological Worlds: What makes a “good” educational game? In K. Squire & H. Jenkins, _Video games and learning: Teaching and participatory culture in the digital age_ (pp. 19–37). Teachers College Press.
+  2. Olsson, T. (2023). [Teaching History with Video Games](https://academic-oup-com.adelphi.idm.oclc.org/ahr/article/128/4/1755/7458524). _The American Historical Review_, _128_(4), 1755–1775. [https://doi.org/10.1093/ahr/rhad488](https://doi.org/10.1093/ahr/rhad488)
+3. Post in the Gaming History forum (details in forum).
+
+Gaming History Forum
+--------------------
+
+**Please respond to both prompts. Post twice, comment twice.**
+
+Model Bias
+----------
+Squire and Jenkins identify 4 "model biases" in Civilization (pp. 25-26). After playing Civ 5 this week,
+do you agree that the biases they identify are still present? Add one more category of bias
+that you believe is present in the game. Use specifics from the article and your gameplay to
+justify your claim.
+
+Red Dead Redemption II
+----------------------
+Olsson chose Red Dead Redemption II as the foundation for his college-level history course.
+In what ways does Olsson's approach follow or diverge from the principles expressed
+by Squire and Jenkins? Is Red Dead a good "ideological world"? Does Olsson's approach
+take advantage of it?
