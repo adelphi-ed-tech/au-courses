@@ -312,3 +312,48 @@ Olsson chose Red Dead Redemption II as the foundation for his college-level hist
 In what ways does Olsson's approach follow or diverge from the principles expressed
 by Squire and Jenkins? Is Red Dead a good "ideological world"? Does Olsson's approach
 take advantage of it?
+
+
+Week 9: XR Games
+================
+<img src="https://static.wikia.nocookie.net/civilization/images/9/97/Harun_al-Rashid_(Civ5).jpg/revision/latest/scale-to-width-down/600" alt="Civ 5 leader, Harun al-Rashid" style="max-with: 100%; display:block;margin-bottom: 1em">
+
+<audio controls>
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4839097" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Goals
+
+- learn about XR technologies and the types of games they support
+- consider specific XR games for learning from a design and pedagogical perspective
+
+### Game of the week: Civilization VI (or 5)
+
+We are going to continue playing Civilization for another week. If you are an experienced Civ player,
+maybe see if you can set up a time for multiplayer or to stream (or watch) some of the newer players.
+While you're playing, think about how you might alter or mod the game to make it a better educational tool,
+and consider if your changes would diminish the game playing experience.
+
+
+### Do
+1. Listen to the Week 9Overview
+2. Read/Watch:
+  1. Tim Fisher. (2024, June 3). [AR vs. VR vs. MR vs. XR: What’s the Difference?](https://www.lifewire.com/ar-vs-vr-vs-mr-vs-xr-7089737) _Lifewire_.
+  2. Rhys Da King VR (Director). (2024, October 16). [TOP 10 BEST MIXED REALITY YOU NEED TO TRY On Meta Quest 3 & Quest 3S!!](https://www.youtube.com/watch?v=B_tshpaCORc) [Video][8:42].
+  3. Apple (Director). (2023, June 5). [Introducing Apple Vision Pro](https://www.youtube.com/watch?v=TX9qSaGXFyg) [Video][9:11].
+  4. Facer, K., Joiner, R., Stanton, D., Reid, J., Hull, R., & Kirk, D. (2004). Savannah: Mobile gaming and learning? _Journal of Computer Assisted Learning_, _20_(6), 399–409.
+  5. Huang, S.-Y., Tarng, W., & Ou, K.-L. (2023). Effectiveness of AR Board Game on Computational Thinking and Programming Skills for Elementary School Students. _Systems_, _11_(1), Article 1. <https://doi.org/10.3390/systems11010025>
+3. XR Games Forum (details in forum).
+
+### Resources
+
+XR Games Forum
+---------------
+
+**Post once, comment twice.**
+
+This week we read about two different "mixed reality" games, _Savannah_ and _Coding Ocean_.
+Analyze both games/interventions in terms of game design and learning design. What were the
+designers' goals? How did the games "work" in terms of our studies of play?
+

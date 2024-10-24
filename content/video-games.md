@@ -261,6 +261,8 @@ Caillois, R. (1961). The Definition of Play. _In Man, Play, and Games_ (pp. 3–
 
 Costikyan, G. (2002). I Have No Words & I Must Design: Toward a Critical Vocabulary for Games. _Proceedings of Computer Games and Digital Cultures Conference_.
 
+Facer, K., Joiner, R., Stanton, D., Reid, J., Hull, R., & Kirk, D. (2004). Savannah: Mobile gaming and learning? _Journal of Computer Assisted Learning_, _20_(6), 399–409.
+
 Fox, J., & Tang, W. Y. (2014). Sexism in online video games: The role of conformity to masculine norms and social dominance orientation. _Computers in Human Behavior_, 33, 314–320. <https://doi.org/10.1016/j.chb.2013.07.014>
 
 Fullerton, T. (2019). _Game design workshop: A playcentric approach to creating innovative games_. AK Peters/CRC Press.
@@ -269,11 +271,15 @@ Gee, J. P. (2003). What video games have to teach us about learning and literacy
 
 Gee, J. P., & Price, A. (2021). Game-Design Teaching and Learning. Strategies, 34(3), 35–38. <https://doi.org/10.1080/08924562.2021.1896928>
 
+Huang, S.-Y., Tarng, W., & Ou, K.-L. (2023). Effectiveness of AR Board Game on Computational Thinking and Programming Skills for Elementary School Students. _Systems_, _11_(1), Article 1. <https://doi.org/10.3390/systems11010025>
+
 Huizinga, J. (1955). Nature and significance of play as a cultural phenomenon. In _Homo ludens; a study of the play-element in culture_. (pp. 1–27). Beacon Press.
 
 Hunicke, R., LeBlanc, M., & Zubek, R. (2004). MDA: A formal approach to game design and game research. _Proceedings of the AAAI Workshop on Challenges in Game AI_, 04–04. <https://cdn.aaai.org/Workshops/2004/WS-04-04/WS04-04-001.pdf>
 
 Kelly, D., Nic Giolla Easpaig, B., & Castillo, P. (2023). ‘You Game Like a Girl’: Perceptions of Gender and Competence in Gaming. _Games and Culture_, _18_(1), 62–78. <https://doi.org/10.1177/15554120221077730>
+
+Olsson, T. (2023). Teaching History with Video Games. _The American Historical Review_, _128_(4), 1755–1775. <https://doi.org/10.1093/ahr/rhad488>
 
 Salen, K., & Zimmerman, E. (2003). _Rules of Play: Game Design Fundamentals_. The MIT Press.
 
