@@ -277,9 +277,13 @@ Huizinga, J. (1955). Nature and significance of play as a cultural phenomenon. I
 
 Hunicke, R., LeBlanc, M., & Zubek, R. (2004). MDA: A formal approach to game design and game research. _Proceedings of the AAAI Workshop on Challenges in Game AI_, 04–04. <https://cdn.aaai.org/Workshops/2004/WS-04-04/WS04-04-001.pdf>
 
+Kafai, Y. B., & Burke, Q. (2015). Constructionist Gaming: Understanding the Benefits of Making Games for Learning. _Educational Psychologist_, _50_(4), 313–334. <https://doi.org/10.1080/00461520.2015.1124022>
+
 Kelly, D., Nic Giolla Easpaig, B., & Castillo, P. (2023). ‘You Game Like a Girl’: Perceptions of Gender and Competence in Gaming. _Games and Culture_, _18_(1), 62–78. <https://doi.org/10.1177/15554120221077730>
 
 Olsson, T. (2023). Teaching History with Video Games. _The American Historical Review_, _128_(4), 1755–1775. <https://doi.org/10.1093/ahr/rhad488>
+
+Peppler, K., & Kafai, Y. B. (2009). Making Games, Art, and Animations with Scratch. In Y. Kafai, K. A. Peppler, & R. N. Chapman (Eds.), _The Computer Clubhouse: Constructionism and Creativity in Youth Communities_ (pp. 47–57). Teachers College Press. <https://escholarship.org/uc/item/3d33v38w>
 
 Salen, K., & Zimmerman, E. (2003). _Rules of Play: Game Design Fundamentals_. The MIT Press.
 

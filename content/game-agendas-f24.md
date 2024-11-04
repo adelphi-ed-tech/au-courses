@@ -357,3 +357,42 @@ This week we read about two different "mixed reality" games, _Savannah_ and _Cod
 Analyze both games/interventions in terms of game design and learning design. What were the
 designers' goals? How did the games "work" in terms of our studies of play?
 
+Week 10: Designing as Learning
+==============================
+
+<img src="https://adelphi-ed-tech.github.io/au-courses/img/scratch.png" alt="Featured Scratch apps" style="max-with: 600px; margin: 1em">
+
+<audio controls>
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4839097" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Goals
+
+- consider game design as an educational activitiy
+- learn about the Scratch programming environment
+
+### Game of the week: Scratch
+
+Scratch is a block-based programming and design environment that makes it easy for
+new programmers to write multimedia games and programs using a drag and drop interface.
+It as become the first contact with computer science for many learners (along with LEGO robotics).
+This week you will explore the types of games that kids (and adults) have made with Scratch.
+
+
+### Do
+1. Listen to the Week 10 overview
+2. Read/Watch:
+  - Kafai, Y. B., & Burke, Q. (2015). Constructionist Gaming: Understanding the Benefits of Making Games for Learning. Educational Psychologist, 50(4), 313–334. https://doi.org/10.1080/00461520.2015.1124022
+  - Laakso, N. L., Korhonen, T. S., & Hakkarainen, K. P. J. (2021). [Developing students’ digital competences through collaborative game design.](https://www-sciencedirect-com.adelphi.idm.oclc.org/science/article/pii/S0360131521001858) _Computers & Education_, 174, 104308. https://doi.org/10.1016/j.compedu.2021.104308
+3. Post in the Scratch Report forum (details in forum).
+
+### Resources
+
+Scratch Report
+--------------
+Go to the [Scratch website](https://scratch.mit.edu/) and create an account. Play at least 3 games
+that were created by the community. Write a mini game studies post of the game, here, including
+screenshots. Also comment on who the author was (from what you can gather), if it is a remix of
+another game, and what may have been _learned_ in the creation of the game. Find a game that
+connects with the two readings this week, and discuss the readings in terms of the game.
