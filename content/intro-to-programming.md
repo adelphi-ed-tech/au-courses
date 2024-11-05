@@ -314,18 +314,18 @@ and lab exercises.
 |------|--------------|----------------------------|-----------------------|
 | 1    | 08/28 - 09/03| Data(frames) & Variables   | Lab 1                 |
 | 2    | 09/04 - 09/10| Data and tables            | Lab 2                 |
-| 3    | 09/11 - 09/17| Mapping points             | Lab 3 |
+| 3    | 09/11 - 09/17| Mapping points             | Lab 3                 |
 | 4    | 09/18 - 09/24| Formatting map points      | Lab 4, Eval 1         |
 | 5    | 09/25 - 10/01| Color maps                 | Lab 5                 |
 | 6    | 10/02 - 10/08| Merging and grouping data  | Lab 6                 |
 | 7    | 10/09 - 10/15| Census Data                | _project work_        |
 | 8    | 10/16 - 10/22| Census Geographies         | _project work_        |
-| 9    | 10/23 - 10/29| Midterm meetings           | Project 1 Due         |
-| 10   | 10/30 - 11/05| Charts & Graphs            | Lab 7, Eval 2         |
-| 11   | 11/06 - 11/12| Mapping shapes & layers    | Lab 8                 |
-| 12   | 11/13 - 11/19| Open                       | Lab 9                 |
-| 13   | 11/20 - 11/26| Open                       | Lab 10                |
-| 14   | 11/27 - 12/03| Final project studio       | _project work_        |
+| 9    | 10/23 - 10/29| Midterm work               | Project 1 Due         |
+| 10   | 10/30 - 11/05| Midterm meetings           | _revisions_           |
+| 11   | 11/06 - 11/12| Tables & Charts            | Lab 9, Eval 2         |
+| 12   | 11/13 - 11/19| Points & Layers            | Lab 10                |
+| 13   | 11/20 - 11/26| Open                       | Lab 11                |
+| 14   | 11/27 - 12/03| Final project studio       | Lab 12                |
 | 15   | 12/04 - 12/10| Beta testing               | _project work_        |
 | 16   | 12/11 - 12/17| Final meetings             | Final Project, Eval 3 |
 
@@ -571,16 +571,21 @@ geographic regions.
 <div class="col-md-6 border-start border-3 border-dark">
 {% md %}
 
-Module 8: Project 1 studio
---------------------------
+Module 8: Census Geographies
+----------------------------
 This week you will work with your partner to
 complete the midterm project. There will be
 no new labs this week, but we will hold
 our weekly online session to work on projects.
 
+**Code/Videos:**
 
-Module 9: Midterm meetings
---------------------------
+- **Lab 8a: Census Variable Search** [[code](https://colab.research.google.com/drive/1WxZFrSOy_Jkmw5QAaV9kQ-pl_9oYl3fB?usp=sharing)]
+  [[video](https://youtu.be/hBlp2KaEgEw)] [8:22]
+- **Lab 8b: Joining Census Shapes** [[code](https://drive.google.com/file/d/1w7Ucg30J534wY4WNBAFuFWu433JEm3Bw/view?usp=sharing)]
+
+Modules 9 & 10: Midterm meetings
+--------------------------------
 This week, you and your partner will schedule a 30 minute
 meeting with the instructor. In this meeting, you will 
 have 15 minutes to explain and demonstrate the key aspects
@@ -600,21 +605,23 @@ present.
 **Do:**
 
 - share your project code with the instructor
-- schedule a zoom meeting with the instructor [link TBD](#tbd)
+- [schedule a zoom meeting with the instructor](https://calendar.app.google/y64r6RMWwyxfbZ3j9)
+- if you were asked to submit revisions to your project, turn them in by the end of the module (Tuesday)
 
-
-Module 10: Mapping shapes & layers
+Module 11: Tables & Charts
 ----------------------------------
-So far, we have mostly placed _points_ on our maps. This week
-we will plot polygons (shapes) from geospatial data files.
-We will learn how to draw boundaries from data, add labels,
-control the styles, and use color maps to create data-driven
-**choropleth** maps.
+In this module we add a new tool to our data
+visualizations: interactive charts. We will
+use the `plotly` library to create bar
+and line graphs that help visualize our data.
+We will also spend more time making formatted
+tables with the `pandas` `styler` object
+and format methods.
 
 We will combine points and shapes, and create multiple layers
 and legends on our maps.
 
-[**Lab 8**](#colab link) (due Tuesday)
+**Lab 9: Tables & Charts** [code] [video]
 
 **Goals:**
 
@@ -622,51 +629,65 @@ and legends on our maps.
   features of that data
 - choose your own analysis and visualizations
 
-**Topics:**
-
 **Do:**
 
+- Lab 9 exercises (due Tuesday)
 
-Module 11, 12, 13: Stats, data cleaning, spatial queries?
----------------------------------------------------------
-These three weeks are left intentionally blank. It's
-tough to have a student-directed learning experience
-if everything is planned before we have met. There
-are many topics to cover, so we will choose which ones
-to focus on based on interest and the types of projects
-students are pursuing.
+{% endmd %}
 
-We may want to take a deeper dive into statistical analysis.
-We might want to add multiple layers and controls to the
-maps. Maybe we want to collect data from more sources, including
-live data streams, "scraped" data that isn't ready immediately
-ready for analysis (and must be cleaned), or text data that
-requires some natural language processing. We might also
-want to focus on making highly polished visuals, making
-interactive graphs or integrating more advanced HTML/CSS
-into our work. Almost certainly we will do further spatial
-analysis, learning how to find where shapes overlap and border,
-which points are contained within which shapes, etc.
+Module 12: Points & Layers
+--------------------------
+This week we will make maps that combine
+shapes and points, and learn how to create
+multi-layer maps that users can control.
 
-In short, there are many possibilities and studying
-any of them will help us gain a deeper understanding
-of computer science, software engineering, and computer
-programming.
+**Lab 10: Points and Layers** [code] [video]
 
 **Goals:**
 
+- plot shapes and points on a single base map
+- add multiple layers to a map
+- create map legends
+- add custom Points with custom Markers to add interactive details
 
-**Topics:**
 
 **Do:**
 
+- Lab 10 Exercises (TBD) (due Tuesday)
+
+
+Modeule 13: Spatial queries (probably)
+--------------------------------------
+Spatial queries allow us to "search" spatial data
+to find areas that overlap, border, are inside of,
+contain, (etc) other areas. For example, we could
+find all of the zip codes that intersect the
+county shapes of New York City. Or, we might want
+to find the borders between all school districts
+that have a large income disparity.
+
+**Lab 11: Points and Layers** [code] [video]
+
+**Goals:**
+
+- understand the concept of spatial queries
+- use the `geopandas` library to perform spatial queries
+- create a map that shows the results of a spatial query
+
+
+**Do:**
+
+- Lab 11 Exercises (TBD) (due Tuesday)
 
 
 Module 14: Final studio 
 ------------------------
 This week will focus on getting your
 final project in shape for the beta test
-in week 15.
+in week 15. For the final lab (lab 12),
+you will present the clean data that you
+will use for the final project, along
+with any necessary spatial data.
 
 
 Module 15: Beta testing
@@ -678,7 +699,6 @@ to receive feedback, ask for help, and learn from each other.
 
 - get feedback on project
 - find bugs and areas of confusion
-
 
 **Do:**
 

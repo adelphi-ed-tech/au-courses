@@ -9,15 +9,18 @@ STEAM or Ed Tech?
 <div class="row">
 <div class="col-md-6">
 {% capture md %}
-MIXI offers two similar Master's degrees: the fully online, asynchronous Master's in Educational Technology 
-(MA in Ed Tech) and the hybrid, NYC classroom based Master's in STEAM Teaching and Learning (MA in STEAM). 
-Both focus on understanding the ways new technologies impact teaching and learning, with an emphasis
-on how we design learning environments and learning technologies to support learning.
+
+MIXI offers two similar Master's degrees: the fully online, asynchronous Master's in Educational 
+Technology (MA in Ed Tech) and the hybrid, NYC classroom based Master's in STEAM Teaching and 
+Learning (MA in STEAM). The same Adelphi faculty teach in both programs, and both degrees focus on 
+understanding the ways new technologies impact teaching and learning, with an emphasis on how we 
+design learning environments and learning technologies to support learning.
 
 There are key differences, however, because both programs work take advantage of their modality.
 The online MA has a greater emphasis on multimedia design and online learning, while the campus
 program focuses on hands-on learning in the Maker Lab and site visits and fieldwork with
 New York City schools and local organizations.
+
 _Because Ed Tech is 100% online, international students in Ed Tech cannot get a visa to study in the US._
 
 Both programs attract students with varied backgrounds and interests, including science and math teachers,
@@ -67,7 +70,7 @@ Ed Tech Courses
 ---------------
 <small>(can be used as electives in STEAM)</small>
 
-- [CSC 602 Introduction to Computer Programming](intro-to-programming_python.html)
+- [CSC 602 Introduction to Computer Programming](intro-to-programming.html)
 - [EDT 503 Technology and Instructional Design](instructional-design.html)
 - [EDT 606 Educational Information Systems and Networks](school-networks.html)
 - [EDT 618 Research and Evaluation of Educational Technology](research-seminar.html)
