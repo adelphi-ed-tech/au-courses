@@ -281,6 +281,8 @@ Kafai, Y. B., & Burke, Q. (2015). Constructionist Gaming: Understanding the Bene
 
 Kelly, D., Nic Giolla Easpaig, B., & Castillo, P. (2023). ‘You Game Like a Girl’: Perceptions of Gender and Competence in Gaming. _Games and Culture_, _18_(1), 62–78. <https://doi.org/10.1177/15554120221077730>
 
+Laakso, N. L., Korhonen, T. S., & Hakkarainen, K. P. J. (2021). Developing students’ digital competences through collaborative game design. _Computers & Education_, 174, 104308. <https://doi.org/10.1016/j.compedu.2021.104308>
+
 Olsson, T. (2023). Teaching History with Video Games. _The American Historical Review_, _128_(4), 1755–1775. <https://doi.org/10.1093/ahr/rhad488>
 
 Peppler, K., & Kafai, Y. B. (2009). Making Games, Art, and Animations with Scratch. In Y. Kafai, K. A. Peppler, & R. N. Chapman (Eds.), _The Computer Clubhouse: Constructionism and Creativity in Youth Communities_ (pp. 47–57). Teachers College Press. <https://escholarship.org/uc/item/3d33v38w>
@@ -301,3 +303,5 @@ Zubek, R. (2020). _Elements of game design_. The MIT Press.
 
 {% endmd %}
 </div>
+
+Career opportunities in this rapidly growing field are abundant. Our research doctorate prepares candidates for **faculty and academic research positions** as well as work such as:

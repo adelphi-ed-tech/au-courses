@@ -360,10 +360,10 @@ designers' goals? How did the games "work" in terms of our studies of play?
 Week 10: Designing as Learning
 ==============================
 
-<img src="https://adelphi-ed-tech.github.io/au-courses/img/scratch.png" alt="Featured Scratch apps" style="max-with: 600px; margin: 1em">
+<img src="https://adelphi-ed-tech.github.io/au-courses/img/scratch.png" alt="Featured Scratch apps" style="float: right; max-with: 600px; margin: 1em">
 
 <audio controls>
-  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4839097" type="audio/mpeg">
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4846558" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -396,3 +396,5 @@ that were created by the community. Write a mini game studies post of the game, 
 screenshots. Also comment on who the author was (from what you can gather), if it is a remix of
 another game, and what may have been _learned_ in the creation of the game. Find a game that
 connects with the two readings this week, and discuss the readings in terms of the game.
+
+
