@@ -16,7 +16,7 @@ function safeName(name) {
 
 
 function addBootstrapStyles() {
-    const headers = document.querySelectorAll("h1:not(.PageTitle), h2");
+    const headers = document.querySelectorAll("h1:not(.PageTitle), h2, .linkable");
     const addLink = (header)=> {
 
         let link = document.createElement("a");

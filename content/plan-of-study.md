@@ -34,7 +34,7 @@ The following show sample plans of study.
 <strong>Fall 1</strong>
 {% capture md %}
 1. ✔ [EDT 501 Digital Literacies and 21<sup>st</sup> Century Skills](digital-literacies.html)
-2. ✔ [CSC 602 Introduction to Computer Programming](intro-to-programming_python.html)
+2. ✔ [CSC 602 Introduction to Computer Programming](intro-to-programming.html)
 3. ✪ Elective 1
 {% endcapture %}
 
@@ -84,7 +84,7 @@ The following show sample plans of study.
 
 {% capture md %}
 1. ✔ [EDT 501 Digital Literacies and 21<sup>st</sup> Century Skills](digital-literacies.html)
-2. ✔ [CSC 602 Introduction to Computer Programming](intro-to-programming_python.html)
+2. ✔ [CSC 602 Introduction to Computer Programming](intro-to-programming.html)
 {% endcapture %}
 {{ md | markdownify }}
 
@@ -147,7 +147,7 @@ The following show sample plans of study.
 {{ md | markdownify }}
 <strong>Fall 1</strong>
 {% capture md %}
-5. ✔ [CSC 602 Introduction to Computer Programming](intro-to-programming_python.html)
+5. ✔ [CSC 602 Introduction to Computer Programming](intro-to-programming.html)
 6. ✔ [EDT 618 Research and Evaluation of Educational Technology](research-seminar.html)
 7. ✪ Elective 2
 {% endcapture %}
@@ -187,7 +187,7 @@ The following show sample plans of study.
 {{ md | markdownify }}
 <strong>Fall 2</strong>
 {% capture md %}
-5. ✔ [CSC 602 Introduction to Computer Programming](intro-to-programming_python.html)
+5. ✔ [CSC 602 Introduction to Computer Programming](intro-to-programming.html)
 6. ✪ Elective 2
 {% endcapture %}
 {{ md | markdownify }}

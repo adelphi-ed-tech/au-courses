@@ -69,7 +69,7 @@ body {
 }
 
 .PageTitle {
-    font-size: 64px;
+    font-size: 40px;
     font-weight: 900;
 
 }
@@ -98,11 +98,15 @@ img.header {
 <div class="hex2"></div>
 {% include top-nav.html %}
 <main class="Design container-fluid mx-auto mt-2">
-    <img src="{{site.url}}/{{page.header-img}}" alt="{{page.header-img-alt}}" class="header">
+    <img src="{{site.url}}/{{page.header-img}}" alt="{{page.header-img-alt}}" class="header d-print-none">
     <div class="p-4">{{content}}</div>
     {% if page.syllabus_footer %}
     <hr>
-    <div class="container mx-auto mt-4 pt-4">{% include syllabus-legal.html %}</div>
+    <div class="container mx-auto mt-4 pt-4">
+        {% md %}
+            {% include syllabus-legal.md %}
+        {% endmd %}
+    </div>
     {% endif %}
 </main>
 {% include footer.html %}
