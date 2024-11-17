@@ -381,6 +381,7 @@ This week you will explore the types of games that kids (and adults) have made w
 
 
 ### Do
+
 1. Listen to the Week 10 overview
 2. Read/Watch:
   - Kafai, Y. B., & Burke, Q. (2015). Constructionist Gaming: Understanding the Benefits of Making Games for Learning. Educational Psychologist, 50(4), 313–334. https://doi.org/10.1080/00461520.2015.1124022
@@ -398,3 +399,58 @@ another game, and what may have been _learned_ in the creation of the game. Find
 connects with the two readings this week, and discuss the readings in terms of the game.
 
 
+Week 11: Game Pitches
+=====================
+<img src="https://cdna.artstation.com/p/media_assets/images/images/001/024/356/large/pitchdeck-blogbanner.jpg?1670526698" alt="Game Pitch" style="max-with: 100%; display:block;margin-bottom: 1em">
+
+  
+<audio controls>
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4846558" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+This week you will work on a "pitch" for an educational game that you will design.
+See the syllabus for details.
+
+### Do:
+
+1. Listen to the Week 11 Overview
+2. Read:
+   - Ch. 6: Ideation. (2024). In T. Fullerton, _Game design workshop: A playcentric approach to creating innovative games_ (Fifth edition, pp. 177–217). CRC Press. https://doi.org/10.1201/9781003460268
+3. **Post by Wednesday** 6/13 in the Game Pitch forum:
+   - a link to your 5 minute pitch video
+   - (optional) other materials
+4. **Post by Friday** 6/15 in the Game Pitch forum:
+   - a comment on _every_ pitch
+
+### Resources
+
+
+Game Pitch Forum
+-----------------
+From the syllabus:
+
+> Everyone will "pitch" a game. You will create and upload a 5 minute 
+> video where you pitch a game that you would like to design. This game 
+> can be analog (e.g., board game, card game, physical game, etc.) 
+> or digital games.
+> 
+> The idea of the pitch is to make your game sound exciting,
+> valuable, "new", and fun. You should convince us why it's
+> a great game, and why it would be worth making.
+> 
+> Scoring the pitch:
+> 
+> - 4 points: learning value (clear goals, effective pedagogy, 
+>   hard-to-teach concepts or hard-to-reach audience)
+> - 4 points: game design (fun, original, creative, good mechanics, story, art, concept)
+> - 2 points: presentation (clear, engaging, well-prepared, good use of time)
+> - extra credit: up to 2 points for a _great_ comments on every other pitch
+
+In addition:
+
+- post your video on YouTube
+- make your forum post the title of your game
+- make sure it's either _unlisted_ or _private_ and shared with everyone in this course (emails below)
+- it must be **within 10 seconds of 5 minutes**
+- comment on _every other pitch_ by the end of the week

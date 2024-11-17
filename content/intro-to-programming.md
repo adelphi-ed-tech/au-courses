@@ -41,7 +41,7 @@ decreasingly capable of making or even using them effectively.<br>
 critical computational literacy, maps, data visualization
 
 **Description:** This course introduces students to programming and
-some core concepts of computer science, using a modern, object oriented
+core concepts of computer science, using a modern, object oriented
 programming language. Students learn concepts of
 variables, functions, selection, repetition/loops, basic data structures
 (arrays, lists, hashtables), and basic object oriented programming.
@@ -520,6 +520,11 @@ and `geopandas` libraries.
 - Watch the video explanation of the problems: [Lab 5 Video](https://www.youtube.com/watch?v=aGhgYTwQkS0)
 - Do the problems
 
+{% endmd %}
+</div>
+<div class="col-md-6 border-start border-3 border-dark">
+{% md %}
+
 Module 6: Merging and grouping data
 -----------------------------------
 **Goals:**
@@ -566,10 +571,6 @@ geographic regions.
 - [review lab 7 code](https://drive.google.com/file/d/1SxMqPCqJvNwL4U40bWYWDWF8u5rqAVfF/view?usp=sharing)
 - [watch the video walkthrough](https://youtu.be/AwyhtIcpeLw) [35:11]
 - post your team and topic for the midterm project on `#code`
-{% endmd %}
-</div>
-<div class="col-md-6 border-start border-3 border-dark">
-{% md %}
 
 Module 8: Census Geographies
 ----------------------------
@@ -621,7 +622,7 @@ and format methods.
 We will combine points and shapes, and create multiple layers
 and legends on our maps.
 
-**Lab 9: Tables & Charts** [code] [video]
+**Lab 9: Tables & Charts** [code](https://colab.research.google.com/drive/13PoAF8wpwF-c3pEg4NV8cJjUrD0r5E9_?usp=sharing) [video](https://youtu.be/0VaZ4ALI6wE)
 
 **Goals:**
 
@@ -633,27 +634,24 @@ and legends on our maps.
 
 - Lab 9 exercises (due Tuesday)
 
-{% endmd %}
-
 Module 12: Points & Layers
 --------------------------
 This week we will make maps that combine
 shapes and points, and learn how to create
 multi-layer maps that users can control.
 
-**Lab 10: Points and Layers** [code] [video]
+**Lab 10: Layers** [code](https://drive.google.com/file/d/10DndUCsATg61xdCioUyVnQn3LhR15ryU/view?usp=sharing) [video](https://youtu.be/Z7gu2WaU2o8)
 
 **Goals:**
 
-- plot shapes and points on a single base map
-- add multiple layers to a map
-- create map legends
-- add custom Points with custom Markers to add interactive details
-
+- use `for` loops to filter column names
+- use list and dictionary comprehensions
+- transform data from wide to long format
+- create maps with multiple layers and "layer control
 
 **Do:**
 
-- Lab 10 Exercises (TBD) (due Tuesday)
+- Lab 10 Exercises (TBD)
 
 
 Modeule 13: Spatial queries (probably)
@@ -666,7 +664,7 @@ county shapes of New York City. Or, we might want
 to find the borders between all school districts
 that have a large income disparity.
 
-**Lab 11: Points and Layers** [code] [video]
+**Lab 11: Spatial queries** [code] [video]
 
 **Goals:**
 
@@ -677,7 +675,10 @@ that have a large income disparity.
 
 **Do:**
 
-- Lab 11 Exercises (TBD) (due Tuesday)
+- Lab 11 Exercises: for lab 11, you will submit the
+  clean data that you will use for your final project,
+  along with some initial sorts, aggregates, and tables
+  that help you understand the data
 
 
 Module 14: Final studio 

@@ -207,7 +207,7 @@ Scoring the pitch:
   hard-to-teach concepts or hard-to-reach audience)
 - 4 points: game design (fun, original, creative, good mechanics, story, art, concept)
 - 2 points: presentation (clear, engaging, well-prepared, good use of time)
-
+- extra credit: up to 2 points for a _great_ comments on every other pitch
 
 ### Game design (30 points)
 
