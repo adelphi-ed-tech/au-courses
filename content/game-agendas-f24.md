@@ -454,3 +454,36 @@ In addition:
 - make sure it's either _unlisted_ or _private_ and shared with everyone in this course (emails below)
 - it must be **within 10 seconds of 5 minutes**
 - comment on _every other pitch_ by the end of the week
+
+
+
+Game loops
+----------
+**Goal:** flesh out your game and design the core game loop. You will focus
+on defining and enumerating the core learning goals, the key
+interactions and systems, the player's goals, and the _flow_
+of the main loop.
+
+  
+<audio controls>
+  <source src="https://moodle.adelphi.edu/mod/resource/view.php?id=4855778" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+**Read:**
+
+- Ch. 7: Prototyping. (2024). In T. Fullerton, _Game design workshop: A playcentric approach to creating innovative games_ (Fifth edition, pp. 177–217). CRC Press. https://doi.org/10.1201/9781003460268
+
+**Do:**
+- Post a link to your Game Loop document **on Discord**. Make sure
+  it's shared with the entire class. 
+  [See the full instructions in this Google Doc.](https://docs.google.com/document/d/1lXnFYbbLnqIpKkAGQX2nNfFDKswgA1a2fyDkUE5B6nQ/edit?usp=sharing)
+- **Game Study Post 3:**<br>
+  for your third and final game study post I strongly suggest (but won't require)
+  that you play a game that is closely related to the game you a designing. Think
+  about how your study game works, and what elements can be ported to your own game
+  design. If you have already been playing and taking notes on a different game,
+  though, you can stick with that one. If you want ideas of games to play, please
+  post on Discord. **Due by Wed. 11/27.**
+

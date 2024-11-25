@@ -289,10 +289,15 @@ new code._
 
 ### Final project (30%)
 The final project will follow the same format as the midterm project,
-except everyone will work alone and turn in their own work. The final
-can use either census data (from the first half of the term) or school
-data from the second half of the term. You must also integrate at least
-one data source that is not provided by the instructor.
+except everyone will work alone and turn in their own work.The final
+project offers you a chance to make more complex maps and visualizations
+and it is your opportunity to demonstrate everything you have learned
+this semester. There are no strict requirements for the elements
+of your work, but it should include a mix of written analysis in markdown,
+formatted tables, interactive charts, and interactive maps. To add
+complexity to the work you began in the midterm project, you will
+probably want to use Census variables from more than one table, look
+at multiple years, compare regions, etc.
 
 _The final project will be evaluated on the [same criteria as the midterm](#project_evaluation_criteria)._
 
@@ -651,34 +656,26 @@ multi-layer maps that users can control.
 
 **Do:**
 
-- Lab 10 Exercises (TBD)
+- Lab 10 Exercises
 
 
-Modeule 13: Spatial queries (probably)
+Module 13: Final Project Data
 --------------------------------------
-Spatial queries allow us to "search" spatial data
-to find areas that overlap, border, are inside of,
-contain, (etc) other areas. For example, we could
-find all of the zip codes that intersect the
-county shapes of New York City. Or, we might want
-to find the borders between all school districts
-that have a large income disparity.
-
-**Lab 11: Spatial queries** [code] [video]
+Create a Notebook that gathers the core
+data you will use for your final project.
+Do things like drop rows, rename columns,
+run summary statistics, calculate
+columns you might need.
 
 **Goals:**
 
-- understand the concept of spatial queries
-- use the `geopandas` library to perform spatial queries
-- create a map that shows the results of a spatial query
-
+- find rich data for final project
+- create your own Notebook for your work
 
 **Do:**
 
-- Lab 11 Exercises: for lab 11, you will submit the
-  clean data that you will use for your final project,
-  along with some initial sorts, aggregates, and tables
-  that help you understand the data
+- **Final Data:** Turn in your Notebook
+  as a lab assignment on classroom.
 
 
 Module 14: Final studio 
