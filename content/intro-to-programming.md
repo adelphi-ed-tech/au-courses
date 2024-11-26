@@ -682,10 +682,7 @@ Module 14: Final studio
 ------------------------
 This week will focus on getting your
 final project in shape for the beta test
-in week 15. For the final lab (lab 12),
-you will present the clean data that you
-will use for the final project, along
-with any necessary spatial data.
+in week 15.
 
 
 Module 15: Beta testing
