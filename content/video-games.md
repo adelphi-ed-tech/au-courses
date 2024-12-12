@@ -142,7 +142,7 @@ Assignments & Grading
 |Game study post 2    |Oct 20 |10   |
 |Game study post 3    |Nov 14 |10   |
 |Game Pitch           |Nov 07 |10   |
-|Game Design          |Dec 12 |30   |
+|Game Design          |Dec 19 |30   |
 
 {% endmd %}
 </div>
@@ -287,7 +287,7 @@ Olsson, T. (2023). Teaching History with Video Games. _The American Historical R
 
 Peppler, K., & Kafai, Y. B. (2009). Making Games, Art, and Animations with Scratch. In Y. Kafai, K. A. Peppler, & R. N. Chapman (Eds.), _The Computer Clubhouse: Constructionism and Creativity in Youth Communities_ (pp. 47–57). Teachers College Press. <https://escholarship.org/uc/item/3d33v38w>
 
-Salen, K., & Zimmerman, E. (2003). _Rules of Play: Game Design Fundamentals_. The MIT Press.
+Salen, K., & Zimmerman, E. (2003). _Rules of Play: Game Design Fundamentals_. MIT Press.
 
 Simons, J. (2007). Narrative, Games, and Theory. _Game Studies_, _7_(1). <https://gamestudies.org/0701/articles/simons>
 
@@ -299,7 +299,7 @@ Wells, G., Romhanyi, A., Reitman, J. G., Gardner, R., Squire, K., & Steinkuehler
 
 Wistow, H. (2024). The Stupid, the Ridiculous, the Camp: How Goat Simulator’s “Messy” Design Facilitates Queer Play. Games and Culture, 15554120241278851. <https://doi.org/10.1177/15554120241278851>
 
-Zubek, R. (2020). _Elements of game design_. The MIT Press.
+Zubek, R. (2020). _Elements of game design_. MIT Press.
 
 {% endmd %}
 </div>
