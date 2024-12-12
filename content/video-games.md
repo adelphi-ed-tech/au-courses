@@ -122,9 +122,9 @@ Class sessions
 |     10|Oct 31  |Designing as Learning       |
 |     11|Nov 07  |Game Pitches                |
 |     12|Nov 14  |Design studio               |
-|     13|Nov 21  |Paper testing               |
+|     13|Nov 21  |Game Loops                  |
 |      -|Nov 28  |_Thanksgiving Break_        |
-|     14|Dec 05  |Game testing                |
+|     14|Dec 05  |Playtesting                 |
 |     15|Dec 12  |Final Games                 |
 
 

@@ -487,3 +487,17 @@ of the main loop.
   though, you can stick with that one. If you want ideas of games to play, please
   post on Discord. **Due by Wed. 11/27.**
 
+Playtesting
+-------------
+**Goal:** test your game with paper prototypes. Vary the rules,
+make changes to the game across multiple iterations.
+
+### Read:
+- Ch. 9: Playtesting. (2024). In T. Fullerton, _Game design workshop: A playcentric approach to creating innovative games_ (Fifth edition, pp. 177–217). CRC Press. https://doi.org/10.1201/9781003460268
+
+### Do:
+- Meet on Dec 9 to test out your game with the class (optional)!
+- Conduct at least 3 playtests (following Fullerton's model).
+  Try to get have at least some strangers in one of the tests.
+- **Document** your tests with notes, photos, and videos. You will
+  include a playtesting report in your final project.
